@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Cricket Hub - International Teams</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f2f5f3;
+        }
+
+        header {
+            background-color: #075e2f;
+            color: white;
+            padding: 25px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0 0 15px 0;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        main {
+            padding: 30px;
+        }
+
+        h2 {
+            text-align: center;
+            color: #075e2f;
+        }
+
+        .search-box {
+            text-align: center;
+            margin: 25px 0;
+        }
+
+        #teamSearch {
+            width: 70%;
+            max-width: 600px;
+            padding: 16px;
+            font-size: 18px;
+            border: 2px solid #075e2f;
+            border-radius: 10px;
+            outline: none;
+        }
+
+        .teams-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .team {
+            background-color: white;
+            width: 280px;
+            padding: 22px;
+            border-radius: 12px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.12);
+            transition: 0.2s;
+        }
+
+        .team:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 15px rgba(0,0,0,0.18);
+        }
+
+        .team h3 {
+            color: #075e2f;
+            margin-top: 0;
+            font-size: 22px;
+        }
+
+        .team p {
+            margin: 8px 0;
+        }
+
+        .formats {
+            background-color: #f2f5f3;
+            padding: 10px;
+            border-radius: 7px;
+            margin-top: 12px;
+        }
+
+        .formats strong {
+            color: #075e2f;
+        }
+
+        footer {
+            margin-top: 40px;
+            background-color: #075e2f;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>🏏 Cricket Hub</h1>
+
+    <nav>
+        <a href="webstie2.html">Home</a>
+        <a href="news.html">News</a>
+        <a href="players.html">Players</a>
+        <a href="teams.html">Teams</a>
+    </nav>
+
+</header>
+
+
+<main>
+
+    <h2>🌍 International Cricket Teams</h2>
+
+    <div class="search-box">
+        <input
+            type="text"
+            id="teamSearch"
+            placeholder="🔍 Search for a team..."
+            onkeyup="searchTeams()"
+        >
+    </div>
+
+
+    <div class="teams-container">
+
+
+        <!-- 1 -->
+        <div class="team">
+            <h3>🇮🇳 India</h3>
+            <p><strong>Region:</strong> Asia</p>
+            <p><strong>Status:</strong> Full Member</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                Test • ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Multiple World Cup titles</p>
+        </div>
+
+
+        <!-- 2 -->
+        <div class="team">
+            <h3>🇦🇺 Australia</h3>
+            <p><strong>Region:</strong> Oceania</p>
+            <p><strong>Status:</strong> Full Member</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                Test • ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Multiple ODI World Cup titles</p>
+        </div>
+
+
+        <!-- 3 -->
+        <div class="team">
+            <h3>🏴 England</h3>
+            <p><strong>Region:</strong> Europe</p>
+            <p><strong>Status:</strong> Full Member</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                Test • ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> 2019 ODI World Cup</p>
+        </div>
+
+
+        <!-- 4 -->
+        <div class="team">
+            <h3>🇿🇦 South Africa</h3>
+            <p><strong>Region:</strong> Africa</p>
+            <p><strong>Status:</strong> Full Member</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                Test • ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Strong international record</p>
+        </div>
+
+
+        <!-- 5 -->
+        <div class="team">
+            <h3>🇳🇿 New Zealand</h3>
+            <p><strong>Region:</strong> Oceania</p>
+            <p><strong>Status:</strong> Full Member</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                Test • ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> 2019–20 World Test Championship</p>
+        </div>
+
+
+        <!-- 6 -->
+        <div class="team">
+            <h3>🇵🇰 Pakistan</h3>
+            <p><strong>Region:</strong> Asia</p>
+            <p><strong>Status:</strong> Full Member</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                Test • ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> 1992 ODI World Cup</p>
+        </div>
+
+
+        <!-- 7 -->
+        <div class="team">
+            <h3>🇱🇰 Sri Lanka</h3>
+            <p><strong>Region:</strong> Asia</p>
+            <p><strong>Status:</strong> Full Member</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                Test • ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> 1996 ODI World Cup</p>
+        </div>
+
+
+        <!-- 8 -->
+        <div class="team">
+            <h3>🇧🇩 Bangladesh</h3>
+            <p><strong>Region:</strong> Asia</p>
+            <p><strong>Status:</strong> Full Member</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                Test • ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Major rise in international cricket</p>
+        </div>
+
+
+        <!-- 9 -->
+        <div class="team">
+            <h3>🇦🇫 Afghanistan</h3>
+            <p><strong>Region:</strong> Asia</p>
+            <p><strong>Status:</strong> Full Member</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                Test • ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Rapid rise in world cricket</p>
+        </div>
+
+
+        <!-- 10 -->
+        <div class="team">
+            <h3>🏝️ West Indies</h3>
+            <p><strong>Region:</strong> Caribbean</p>
+            <p><strong>Status:</strong> Full Member</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                Test • ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Two-time ODI World Cup winners</p>
+        </div>
+
+
+        <!-- 11 -->
+        <div class="team">
+            <h3>🇮🇪 Ireland</h3>
+            <p><strong>Region:</strong> Europe</p>
+            <p><strong>Status:</strong> Full Member</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                Test • ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Famous World Cup victories</p>
+        </div>
+
+
+        <!-- 12 -->
+        <div class="team">
+            <h3>🇿🇼 Zimbabwe</h3>
+            <p><strong>Region:</strong> Africa</p>
+            <p><strong>Status:</strong> Full Member</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                Test • ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Long-standing international team</p>
+        </div>
+
+
+        <!-- 13 -->
+        <div class="team">
+            <h3>🇳🇱 Netherlands</h3>
+            <p><strong>Region:</strong> Europe</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> 2023 ODI World Cup qualification</p>
+        </div>
+
+
+        <!-- 14 -->
+        <div class="team">
+            <h3>🇳🇵 Nepal</h3>
+            <p><strong>Region:</strong> Asia</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Growing international cricket nation</p>
+        </div>
+
+
+        <!-- 15 -->
+        <div class="team">
+            <h3>🇺🇸 USA</h3>
+            <p><strong>Region:</strong> North America</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> 2024 T20 World Cup Super 8</p>
+        </div>
+
+
+        <!-- 16 -->
+        <div class="team">
+            <h3>🇨🇦 Canada</h3>
+            <p><strong>Region:</strong> North America</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> International World Cup appearances</p>
+        </div>
+
+
+        <!-- 17 -->
+        <div class="team">
+            <h3>🇦🇪 UAE</h3>
+            <p><strong>Region:</strong> Asia</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Regular international competitor</p>
+        </div>
+
+
+        <!-- 18 -->
+        <div class="team">
+            <h3>🇴🇲 Oman</h3>
+            <p><strong>Region:</strong> Asia</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> T20 World Cup appearances</p>
+        </div>
+
+
+        <!-- 19 -->
+        <div class="team">
+            <h3>🇸🇨 Scotland</h3>
+            <p><strong>Region:</strong> Europe</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Multiple World Cup appearances</p>
+        </div>
+
+
+        <!-- 20 -->
+        <div class="team">
+            <h3>🇳🇦 Namibia</h3>
+            <p><strong>Region:</strong> Africa</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> T20 World Cup appearances</p>
+        </div>
+
+
+        <!-- 21 -->
+        <div class="team">
+            <h3>🇺🇬 Uganda</h3>
+            <p><strong>Region:</strong> Africa</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> 2024 T20 World Cup appearance</p>
+        </div>
+
+
+        <!-- 22 -->
+        <div class="team">
+            <h3>🇵🇬 Papua New Guinea</h3>
+            <p><strong>Region:</strong> Oceania</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> T20 World Cup appearances</p>
+        </div>
+
+
+        <!-- 23 -->
+        <div class="team">
+            <h3>🇭🇰 Hong Kong</h3>
+            <p><strong>Region:</strong> Asia</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Asia Cup appearances</p>
+        </div>
+
+
+        <!-- 24 -->
+        <div class="team">
+            <h3>🇯🇪 Jersey</h3>
+            <p><strong>Region:</strong> Europe</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Growing associate nation</p>
+        </div>
+
+
+        <!-- 25 -->
+        <div class="team">
+            <h3>🇩🇰 Denmark</h3>
+            <p><strong>Region:</strong> Europe</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Historic international team</p>
+        </div>
+
+
+        <!-- 26 -->
+        <div class="team">
+            <h3>🇵🇳 Papua New Guinea</h3>
+            <p><strong>Region:</strong> Oceania</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> International T20 cricket</p>
+        </div>
+
+
+        <!-- 27 -->
+        <div class="team">
+            <h3>🇧🇲 Bermuda</h3>
+            <p><strong>Region:</strong> North America</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> 2007 ODI World Cup</p>
+        </div>
+
+
+        <!-- 28 -->
+        <div class="team">
+            <h3>🇰🇪 Kenya</h3>
+            <p><strong>Region:</strong> Africa</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                ODI • T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> 2003 World Cup semi-final</p>
+        </div>
+
+
+        <!-- 29 -->
+        <div class="team">
+            <h3>🇫🇯 Fiji</h3>
+            <p><strong>Region:</strong> Oceania</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Growing Pacific cricket nation</p>
+        </div>
+
+
+        <!-- 30 -->
+        <div class="team">
+            <h3>🇮🇹 Italy</h3>
+            <p><strong>Region:</strong> Europe</p>
+            <p><strong>Status:</strong> Associate</p>
+
+            <div class="formats">
+                <strong>Formats:</strong><br>
+                T20I
+            </div>
+
+            <p><strong>Major Achievement:</strong> Growing European cricket nation</p>
+        </div>
+
+
+    </div>
+
+</main>
+
+
+<footer>
+    <p>🏏 Cricket Hub — International Cricket</p>
+</footer>
+
+
+<script>
+
+function searchTeams() {
+
+    let input = document.getElementById("teamSearch").value.toLowerCase();
+
+    let teams = document.getElementsByClassName("team");
+
+    for (let i = 0; i < teams.length; i++) {
+
+        let teamName = teams[i].innerText.toLowerCase();
+
+        if (teamName.includes(input)) {
+            teams[i].style.display = "block";
+        } else {
+            teams[i].style.display = "none";
+        }
+
+    }
+
+}
+
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,2812 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Cricket Hub - Players</title>
+
+    <style>
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f2f5f3;
+        }
+
+        header {
+            background-color: #075e2f;
+            color: white;
+            padding: 25px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0 0 15px 0;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        main {
+            padding: 30px;
+        }
+
+        h2 {
+            text-align: center;
+            color: #075e2f;
+        }
+
+        /* SEARCH BAR */
+
+        .search-box {
+            text-align: center;
+            margin: 25px 0;
+        }
+
+        .search-box input {
+            width: 90%;
+            max-width: 700px;
+            padding: 18px;
+            font-size: 20px;
+            border: 3px solid #075e2f;
+            border-radius: 30px;
+            outline: none;
+            box-sizing: border-box;
+        }
+
+        /* SECTION BUTTONS */
+
+        .section-buttons {
+            text-align: center;
+            margin: 25px 0;
+        }
+
+        .section-buttons button {
+            padding: 12px 22px;
+            margin: 5px;
+            border: none;
+            border-radius: 20px;
+            background-color: #075e2f;
+            color: white;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .section-buttons button:hover {
+            background-color: #0a7a3d;
+        }
+
+        /* PLAYER CARDS */
+
+        .players-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .player {
+            background-color: white;
+            width: 280px;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.12);
+        }
+
+        .player:hover {
+            transform: translateY(-4px);
+            transition: 0.2s;
+        }
+
+        .player h3 {
+            color: #075e2f;
+            margin-top: 0;
+        }
+
+        .legend-title {
+            margin-top: 50px;
+        }
+
+        /* HIDDEN SECTIONS */
+
+        .hidden {
+            display: none;
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+<header>
+
+    <h1>🏏 Cricket Hub</h1>
+
+    <nav>
+        <a href="webstie2.html">Home</a>
+        <a href="news.html">News</a>
+        <a href="players.html">Players</a>
+        <a href="teams.html">Teams</a>
+    </nav>
+
+</header>
+
+
+<main>
+
+    <h2>🏏 Cricket Players</h2>
+
+
+    <!-- SEARCH -->
+
+    <div class="search-box">
+
+        <input
+            type="text"
+            id="playerSearch"
+            placeholder="🔍 Search for a player..."
+            onkeyup="searchPlayers()"
+        >
+
+    </div>
+
+
+    <!-- SECTION BUTTONS -->
+
+    <div class="section-buttons">
+
+        <button onclick="showCurrent()">
+            🇮🇳 Current Players
+        </button>
+
+        <button onclick="showLegends()">
+            ⭐ Retired Legends
+        </button>
+
+        <button onclick="showAll()">
+            🌍 Show All
+        </button>
+
+    </div>
+
+
+    <!-- CURRENT PLAYERS -->
+
+    <section id="currentPlayers">
+
+        <h2>🇮🇳 Current Indian International Players</h2>
+
+        <div class="players-container">
+<!-- CURRENT INTERNATIONAL PLAYERS -->
+
+<!-- 61 -->
+<div class="player">
+    <h3>Travis Head</h3>
+    <p><strong>Country:</strong> Australia 🇦🇺</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 62 -->
+<div class="player">
+    <h3>Steve Smith</h3>
+    <p><strong>Country:</strong> Australia 🇦🇺</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI</p>
+</div>
+
+<!-- 63 -->
+<div class="player">
+    <h3>Pat Cummins</h3>
+    <p><strong>Country:</strong> Australia 🇦🇺</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 64 -->
+<div class="player">
+    <h3>Mitchell Starc</h3>
+    <p><strong>Country:</strong> Australia 🇦🇺</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Left-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 65 -->
+<div class="player">
+    <h3>Josh Hazlewood</h3>
+    <p><strong>Country:</strong> Australia 🇦🇺</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 66 -->
+<div class="player">
+    <h3>Marnus Labuschagne</h3>
+    <p><strong>Country:</strong> Australia 🇦🇺</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI</p>
+</div>
+
+<!-- 67 -->
+<div class="player">
+    <h3>Alex Carey</h3>
+    <p><strong>Country:</strong> Australia 🇦🇺</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> Test, ODI</p>
+</div>
+
+<!-- 68 -->
+<div class="player">
+    <h3>Cameron Green</h3>
+    <p><strong>Country:</strong> Australia 🇦🇺</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 69 -->
+<div class="player">
+    <h3>Glenn Maxwell</h3>
+    <p><strong>Country:</strong> Australia 🇦🇺</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 70 -->
+<div class="player">
+    <h3>Adam Zampa</h3>
+    <p><strong>Country:</strong> Australia 🇦🇺</p>
+    <p><strong>Role:</strong> Spinner</p>
+    <p><strong>Bowling:</strong> Right-arm leg spin</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 71 -->
+<div class="player">
+    <h3>Harry Brook</h3>
+    <p><strong>Country:</strong> England 🏴</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 72 -->
+<div class="player">
+    <h3>Ben Duckett</h3>
+    <p><strong>Country:</strong> England 🏴</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 73 -->
+<div class="player">
+    <h3>Phil Salt</h3>
+    <p><strong>Country:</strong> England 🏴</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 74 -->
+<div class="player">
+    <h3>Jos Buttler</h3>
+    <p><strong>Country:</strong> England 🏴</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 75 -->
+<div class="player">
+    <h3>Jofra Archer</h3>
+    <p><strong>Country:</strong> England 🏴</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 76 -->
+<div class="player">
+    <h3>Mark Wood</h3>
+    <p><strong>Country:</strong> England 🏴</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 77 -->
+<div class="player">
+    <h3>Adil Rashid</h3>
+    <p><strong>Country:</strong> England 🏴</p>
+    <p><strong>Role:</strong> Spinner</p>
+    <p><strong>Bowling:</strong> Right-arm leg spin</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 78 -->
+<div class="player">
+    <h3>Jamie Smith</h3>
+    <p><strong>Country:</strong> England 🏴</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI</p>
+</div>
+
+<!-- 79 -->
+<div class="player">
+    <h3>Jacob Bethell</h3>
+    <p><strong>Country:</strong> England 🏴</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 80 -->
+<div class="player">
+    <h3>Gus Atkinson</h3>
+    <p><strong>Country:</strong> England 🏴</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 81 -->
+<div class="player">
+    <h3>Daryl Mitchell</h3>
+    <p><strong>Country:</strong> New Zealand 🇳🇿</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 82 -->
+<div class="player">
+    <h3>Rachin Ravindra</h3>
+    <p><strong>Country:</strong> New Zealand 🇳🇿</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 83 -->
+<div class="player">
+    <h3>Devon Conway</h3>
+    <p><strong>Country:</strong> New Zealand 🇳🇿</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 84 -->
+<div class="player">
+    <h3>Tom Latham</h3>
+    <p><strong>Country:</strong> New Zealand 🇳🇿</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 85 -->
+<div class="player">
+    <h3>Matt Henry</h3>
+    <p><strong>Country:</strong> New Zealand 🇳🇿</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 86 -->
+<div class="player">
+    <h3>Mitchell Santner</h3>
+    <p><strong>Country:</strong> New Zealand 🇳🇿</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Bowling:</strong> Left-arm spin</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 87 -->
+<div class="player">
+    <h3>Glenn Phillips</h3>
+    <p><strong>Country:</strong> New Zealand 🇳🇿</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 88 -->
+<div class="player">
+    <h3>Will Young</h3>
+    <p><strong>Country:</strong> New Zealand 🇳🇿</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI</p>
+</div>
+
+<!-- 89 -->
+<div class="player">
+    <h3>Tom Blundell</h3>
+    <p><strong>Country:</strong> New Zealand 🇳🇿</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test</p>
+</div>
+
+<!-- 90 -->
+<div class="player">
+    <h3>Nathan Smith</h3>
+    <p><strong>Country:</strong> New Zealand 🇳🇿</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast-medium</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 91 -->
+<div class="player">
+    <h3>Babar Azam</h3>
+    <p><strong>Country:</strong> Pakistan 🇵🇰</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 92 -->
+<div class="player">
+    <h3>Mohammad Rizwan</h3>
+    <p><strong>Country:</strong> Pakistan 🇵🇰</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 93 -->
+<div class="player">
+    <h3>Shaheen Afridi</h3>
+    <p><strong>Country:</strong> Pakistan 🇵🇰</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Left-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 94 -->
+<div class="player">
+    <h3>Naseem Shah</h3>
+    <p><strong>Country:</strong> Pakistan 🇵🇰</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 95 -->
+<div class="player">
+    <h3>Abrar Ahmed</h3>
+    <p><strong>Country:</strong> Pakistan 🇵🇰</p>
+    <p><strong>Role:</strong> Spinner</p>
+    <p><strong>Bowling:</strong> Right-arm leg spin</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 96 -->
+<div class="player">
+    <h3>Saim Ayub</h3>
+    <p><strong>Country:</strong> Pakistan 🇵🇰</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 97 -->
+<div class="player">
+    <h3>Salman Ali Agha</h3>
+    <p><strong>Country:</strong> Pakistan 🇵🇰</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 98 -->
+<div class="player">
+    <h3>Haris Rauf</h3>
+    <p><strong>Country:</strong> Pakistan 🇵🇰</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 99 -->
+<div class="player">
+    <h3>Usama Mir</h3>
+    <p><strong>Country:</strong> Pakistan 🇵🇰</p>
+    <p><strong>Role:</strong> Spinner</p>
+    <p><strong>Bowling:</strong> Right-arm leg spin</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 100 -->
+<div class="player">
+    <h3>Faheem Ashraf</h3>
+    <p><strong>Country:</strong> Pakistan 🇵🇰</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 101 -->
+<div class="player">
+    <h3>Pathum Nissanka</h3>
+    <p><strong>Country:</strong> Sri Lanka 🇱🇰</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 102 -->
+<div class="player">
+    <h3>Kamindu Mendis</h3>
+    <p><strong>Country:</strong> Sri Lanka 🇱🇰</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 103 -->
+<div class="player">
+    <h3>Charith Asalanka</h3>
+    <p><strong>Country:</strong> Sri Lanka 🇱🇰</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 104 -->
+<div class="player">
+    <h3>Kusal Mendis</h3>
+    <p><strong>Country:</strong> Sri Lanka 🇱🇰</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 105 -->
+<div class="player">
+    <h3>Dhananjaya de Silva</h3>
+    <p><strong>Country:</strong> Sri Lanka 🇱🇰</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 106 -->
+<div class="player">
+    <h3>Maheesh Theekshana</h3>
+    <p><strong>Country:</strong> Sri Lanka 🇱🇰</p>
+    <p><strong>Role:</strong> Spinner</p>
+    <p><strong>Bowling:</strong> Right-arm off-spin</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 107 -->
+<div class="player">
+    <h3>Matheesha Pathirana</h3>
+    <p><strong>Country:</strong> Sri Lanka 🇱🇰</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 108 -->
+<div class="player">
+    <h3>Dushmantha Chameera</h3>
+    <p><strong>Country:</strong> Sri Lanka 🇱🇰</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 109 -->
+<div class="player">
+    <h3>Prabath Jayasuriya</h3>
+    <p><strong>Country:</strong> Sri Lanka 🇱🇰</p>
+    <p><strong>Role:</strong> Spinner</p>
+    <p><strong>Bowling:</strong> Left-arm spin</p>
+    <p><strong>Formats:</strong> Test, ODI</p>
+</div>
+
+<!-- 110 -->
+<div class="player">
+    <h3>Dunith Wellalage</h3>
+    <p><strong>Country:</strong> Sri Lanka 🇱🇰</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Bowling:</strong> Left-arm spin</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 111 -->
+<div class="player">
+    <h3>Temba Bavuma</h3>
+    <p><strong>Country:</strong> South Africa 🇿🇦</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 112 -->
+<div class="player">
+    <h3>Aiden Markram</h3>
+    <p><strong>Country:</strong> South Africa 🇿🇦</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 113 -->
+<div class="player">
+    <h3>Marco Jansen</h3>
+    <p><strong>Country:</strong> South Africa 🇿🇦</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Bowling:</strong> Left-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 114 -->
+<div class="player">
+    <h3>Kagiso Rabada</h3>
+    <p><strong>Country:</strong> South Africa 🇿🇦</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 115 -->
+<div class="player">
+    <h3>Keshav Maharaj</h3>
+    <p><strong>Country:</strong> South Africa 🇿🇦</p>
+    <p><strong>Role:</strong> Spinner</p>
+    <p><strong>Bowling:</strong> Left-arm spin</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 116 -->
+<div class="player">
+    <h3>Gerald Coetzee</h3>
+    <p><strong>Country:</strong> South Africa 🇿🇦</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 117 -->
+<div class="player">
+    <h3>Ryan Rickelton</h3>
+    <p><strong>Country:</strong> South Africa 🇿🇦</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 118 -->
+<div class="player">
+    <h3>David Miller</h3>
+    <p><strong>Country:</strong> South Africa 🇿🇦</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 119 -->
+<div class="player">
+    <h3>Heinrich Klaasen</h3>
+    <p><strong>Country:</strong> South Africa 🇿🇦</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 120 -->
+<div class="player">
+    <h3>Tabraiz Shamsi</h3>
+    <p><strong>Country:</strong> South Africa 🇿🇦</p>
+    <p><strong>Role:</strong> Spinner</p>
+    <p><strong>Bowling:</strong> Left-arm wrist spin</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 121 -->
+<div class="player">
+    <h3>Ibrahim Zadran</h3>
+    <p><strong>Country:</strong> Afghanistan 🇦🇫</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 122 -->
+<div class="player">
+    <h3>Rahmanullah Gurbaz</h3>
+    <p><strong>Country:</strong> Afghanistan 🇦🇫</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 123 -->
+<div class="player">
+    <h3>Azmatullah Omarzai</h3>
+    <p><strong>Country:</strong> Afghanistan 🇦🇫</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 124 -->
+<div class="player">
+    <h3>Mohammad Nabi</h3>
+    <p><strong>Country:</strong> Afghanistan 🇦🇫</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Bowling:</strong> Right-arm off-spin</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 125 -->
+<div class="player">
+    <h3>Fazalhaq Farooqi</h3>
+    <p><strong>Country:</strong> Afghanistan 🇦🇫</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Left-arm fast</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 126 -->
+<div class="player">
+    <h3>Azmatullah Omarzai</h3>
+    <p><strong>Country:</strong> Afghanistan 🇦🇫</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 127 -->
+<div class="player">
+    <h3>Karim Janat</h3>
+    <p><strong>Country:</strong> Afghanistan 🇦🇫</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 128 -->
+<div class="player">
+    <h3>Allah Ghazanfar</h3>
+    <p><strong>Country:</strong> Afghanistan 🇦🇫</p>
+    <p><strong>Role:</strong> Spinner</p>
+    <p><strong>Bowling:</strong> Right-arm off-spin</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 129 -->
+<div class="player">
+    <h3>Hashmatullah Shahidi</h3>
+    <p><strong>Country:</strong> Afghanistan 🇦🇫</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> Test, ODI</p>
+</div>
+
+<!-- 130 -->
+<div class="player">
+    <h3>Noor Ahmad</h3>
+    <p><strong>Country:</strong> Afghanistan 🇦🇫</p>
+    <p><strong>Role:</strong> Spinner</p>
+    <p><strong>Bowling:</strong> Left-arm wrist spin</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 131 -->
+<div class="player">
+    <h3>Roston Chase</h3>
+    <p><strong>Country:</strong> West Indies 🏝️</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 132 -->
+<div class="player">
+    <h3>Shai Hope</h3>
+    <p><strong>Country:</strong> West Indies 🏝️</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 133 -->
+<div class="player">
+    <h3>Brandon King</h3>
+    <p><strong>Country:</strong> West Indies 🏝️</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 134 -->
+<div class="player">
+    <h3>Shamar Joseph</h3>
+    <p><strong>Country:</strong> West Indies 🏝️</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI</p>
+</div>
+
+<!-- 135 -->
+<div class="player">
+    <h3>Alzarri Joseph</h3>
+    <p><strong>Country:</strong> West Indies 🏝️</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 136 -->
+<div class="player">
+    <h3>Jason Holder</h3>
+    <p><strong>Country:</strong> West Indies 🏝️</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Bowling:</strong> Right-arm fast-medium</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 137 -->
+<div class="player">
+    <h3>Gudakesh Motie</h3>
+    <p><strong>Country:</strong> West Indies 🏝️</p>
+    <p><strong>Role:</strong> Spinner</p>
+    <p><strong>Bowling:</strong> Left-arm spin</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 138 -->
+<div class="player">
+    <h3>Keacy Carty</h3>
+    <p><strong>Country:</strong> West Indies 🏝️</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 139 -->
+<div class="player">
+    <h3>Evin Lewis</h3>
+    <p><strong>Country:</strong> West Indies 🏝️</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 140 -->
+<div class="player">
+    <h3>Jason Charles</h3>
+    <p><strong>Country:</strong> West Indies 🏝️</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> T20I</p>
+</div>
+
+<!-- 141 -->
+<div class="player">
+    <h3>Najmul Hossain Shanto</h3>
+    <p><strong>Country:</strong> Bangladesh 🇧🇩</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 142 -->
+<div class="player">
+    <h3>Mehidy Hasan Miraz</h3>
+    <p><strong>Country:</strong> Bangladesh 🇧🇩</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Bowling:</strong> Right-arm off-spin</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 143 -->
+<div class="player">
+    <h3>Litton Das</h3>
+    <p><strong>Country:</strong> Bangladesh 🇧🇩</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 144 -->
+<div class="player">
+    <h3>Tanzid Hasan</h3>
+    <p><strong>Country:</strong> Bangladesh 🇧🇩</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 145 -->
+<div class="player">
+    <h3>Towhid Hridoy</h3>
+    <p><strong>Country:</strong> Bangladesh 🇧🇩</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 146 -->
+<div class="player">
+    <h3>Taskin Ahmed</h3>
+    <p><strong>Country:</strong> Bangladesh 🇧🇩</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 147 -->
+<div class="player">
+    <h3>Mustafizur Rahman</h3>
+    <p><strong>Country:</strong> Bangladesh 🇧🇩</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Left-arm fast-medium</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 148 -->
+<div class="player">
+    <h3>Rishad Hossain</h3>
+    <p><strong>Country:</strong> Bangladesh 🇧🇩</p>
+    <p><strong>Role:</strong> Spinner</p>
+    <p><strong>Bowling:</strong> Right-arm leg spin</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 149 -->
+<div class="player">
+    <h3>Jaker Ali</h3>
+    <p><strong>Country:</strong> Bangladesh 🇧🇩</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> T20I</p>
+</div>
+
+<!-- 150 -->
+<div class="player">
+    <h3>Soumya Sarkar</h3>
+    <p><strong>Country:</strong> Bangladesh 🇧🇩</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 151 -->
+<div class="player">
+    <h3>Sikandar Raza</h3>
+    <p><strong>Country:</strong> Zimbabwe 🇿🇼</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 152 -->
+<div class="player">
+    <h3>Brian Bennett</h3>
+    <p><strong>Country:</strong> Zimbabwe 🇿🇼</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 153 -->
+<div class="player">
+    <h3>Sean Williams</h3>
+    <p><strong>Country:</strong> Zimbabwe 🇿🇼</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> Test, ODI</p>
+</div>
+
+<!-- 154 -->
+<div class="player">
+    <h3>Richard Ngarava</h3>
+    <p><strong>Country:</strong> Zimbabwe 🇿🇼</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Left-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 155 -->
+<div class="player">
+    <h3>Craig Ervine</h3>
+    <p><strong>Country:</strong> Zimbabwe 🇿🇼</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> Test, ODI</p>
+</div>
+
+<!-- 156 -->
+<div class="player">
+    <h3>Wessly Madhevere</h3>
+    <p><strong>Country:</strong> Zimbabwe 🇿🇼</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 157 -->
+<div class="player">
+    <h3>Clive Madande</h3>
+    <p><strong>Country:</strong> Zimbabwe 🇿🇼</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Right-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 158 -->
+<div class="player">
+    <h3>Blessing Muzarabani</h3>
+    <p><strong>Country:</strong> Zimbabwe 🇿🇼</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Bowling:</strong> Right-arm fast</p>
+    <p><strong>Formats:</strong> Test, ODI, T20I</p>
+</div>
+
+<!-- 159 -->
+<div class="player">
+    <h3>Johnathan Campbell</h3>
+    <p><strong>Country:</strong> Zimbabwe 🇿🇼</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+
+<!-- 160 -->
+<div class="player">
+    <h3>Tadiwanashe Marumani</h3>
+    <p><strong>Country:</strong> Zimbabwe 🇿🇼</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Batting:</strong> Left-handed</p>
+    <p><strong>Formats:</strong> ODI, T20I</p>
+</div>
+        <!-- 101 -->
+        <div class="player">
+            <h3>Pathum Nissanka</h3>
+            <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+            <p><strong>Role:</strong> Opening Batter</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 102 -->
+        <div class="player">
+            <h3>Kusal Mendis</h3>
+            <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+            <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 103 -->
+        <div class="player">
+            <h3>Kusal Perera</h3>
+            <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+            <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+            <p><strong>Batting:</strong> Left-handed</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 104 -->
+        <div class="player">
+            <h3>Charith Asalanka</h3>
+            <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+            <p><strong>Role:</strong> Batter</p>
+            <p><strong>Batting:</strong> Left-handed</p>
+            <p><strong>Bowling:</strong> Right-arm off-spin</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 105 -->
+        <div class="player">
+            <h3>Kamindu Mendis</h3>
+            <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Left-handed</p>
+            <p><strong>Bowling:</strong> Both-arm spin</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 106 -->
+        <div class="player">
+            <h3>Wanindu Hasaranga</h3>
+            <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm leg spin</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 107 -->
+        <div class="player">
+            <h3>Maheesh Theekshana</h3>
+            <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+            <p><strong>Role:</strong> Spinner</p>
+            <p><strong>Bowling:</strong> Right-arm mystery spin</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 108 -->
+        <div class="player">
+            <h3>Matheesha Pathirana</h3>
+            <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+            <p><strong>Role:</strong> Fast Bowler</p>
+            <p><strong>Bowling:</strong> Right-arm fast</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 109 -->
+        <div class="player">
+            <h3>Dushmantha Chameera</h3>
+            <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+            <p><strong>Role:</strong> Fast Bowler</p>
+            <p><strong>Bowling:</strong> Right-arm fast</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 110 -->
+        <div class="player">
+            <h3>Dunith Wellalage</h3>
+            <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Left-handed</p>
+            <p><strong>Bowling:</strong> Left-arm spin</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 111 -->
+        <div class="player">
+            <h3>Rashid Khan</h3>
+            <p><strong>Country:</strong> 🇦🇫 Afghanistan</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm leg spin</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 112 -->
+        <div class="player">
+            <h3>Rahmanullah Gurbaz</h3>
+            <p><strong>Country:</strong> 🇦🇫 Afghanistan</p>
+            <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 113 -->
+        <div class="player">
+            <h3>Mohammad Nabi</h3>
+            <p><strong>Country:</strong> 🇦🇫 Afghanistan</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm off-spin</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 114 -->
+        <div class="player">
+            <h3>Azmatullah Omarzai</h3>
+            <p><strong>Country:</strong> 🇦🇫 Afghanistan</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm fast-medium</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 115 -->
+        <div class="player">
+            <h3>Fazalhaq Farooqi</h3>
+            <p><strong>Country:</strong> 🇦🇫 Afghanistan</p>
+            <p><strong>Role:</strong> Fast Bowler</p>
+            <p><strong>Bowling:</strong> Left-arm fast-medium</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 116 -->
+        <div class="player">
+            <h3>Noor Ahmad</h3>
+            <p><strong>Country:</strong> 🇦🇫 Afghanistan</p>
+            <p><strong>Role:</strong> Spinner</p>
+            <p><strong>Bowling:</strong> Left-arm wrist spin</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 117 -->
+        <div class="player">
+            <h3>Ibrahim Zadran</h3>
+            <p><strong>Country:</strong> 🇦🇫 Afghanistan</p>
+            <p><strong>Role:</strong> Batter</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 118 -->
+        <div class="player">
+            <h3>Gulbadin Naib</h3>
+            <p><strong>Country:</strong> 🇦🇫 Afghanistan</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm medium</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 119 -->
+        <div class="player">
+            <h3>Darwish Rasooli</h3>
+            <p><strong>Country:</strong> 🇦🇫 Afghanistan</p>
+            <p><strong>Role:</strong> Batter</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Formats:</strong> T20I</p>
+        </div>
+
+        <!-- 120 -->
+        <div class="player">
+            <h3>Mujeeb Ur Rahman</h3>
+            <p><strong>Country:</strong> 🇦🇫 Afghanistan</p>
+            <p><strong>Role:</strong> Spinner</p>
+            <p><strong>Bowling:</strong> Right-arm off-spin</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 121 -->
+        <div class="player">
+            <h3>Shai Hope</h3>
+            <p><strong>Country:</strong> 🌴 West Indies</p>
+            <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 122 -->
+        <div class="player">
+            <h3>Shimron Hetmyer</h3>
+            <p><strong>Country:</strong> 🌴 West Indies</p>
+            <p><strong>Role:</strong> Batter</p>
+            <p><strong>Batting:</strong> Left-handed</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 123 -->
+        <div class="player">
+            <h3>Roston Chase</h3>
+            <p><strong>Country:</strong> 🌴 West Indies</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm off-spin</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 124 -->
+        <div class="player">
+            <h3>Jason Holder</h3>
+            <p><strong>Country:</strong> 🌴 West Indies</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm fast-medium</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 125 -->
+        <div class="player">
+            <h3>Brandon King</h3>
+            <p><strong>Country:</strong> 🌴 West Indies</p>
+            <p><strong>Role:</strong> Opening Batter</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 126 -->
+        <div class="player">
+            <h3>Rovman Powell</h3>
+            <p><strong>Country:</strong> 🌴 West Indies</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm medium</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 127 -->
+        <div class="player">
+            <h3>Gudakesh Motie</h3>
+            <p><strong>Country:</strong> 🌴 West Indies</p>
+            <p><strong>Role:</strong> Spinner</p>
+            <p><strong>Bowling:</strong> Left-arm orthodox spin</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 128 -->
+        <div class="player">
+            <h3>Jayden Seales</h3>
+            <p><strong>Country:</strong> 🌴 West Indies</p>
+            <p><strong>Role:</strong> Fast Bowler</p>
+            <p><strong>Bowling:</strong> Right-arm fast</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 129 -->
+        <div class="player">
+            <h3>Romario Shepherd</h3>
+            <p><strong>Country:</strong> 🌴 West Indies</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm fast-medium</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 130 -->
+        <div class="player">
+            <h3>Johnson Charles</h3>
+            <p><strong>Country:</strong> 🌴 West Indies</p>
+            <p><strong>Role:</strong> Opening Batter</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Formats:</strong> T20I</p>
+        </div>
+
+        <!-- 131 -->
+        <div class="player">
+            <h3>Paul Stirling</h3>
+            <p><strong>Country:</strong> 🇮🇪 Ireland</p>
+            <p><strong>Role:</strong> Opening Batter</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm off-spin</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 132 -->
+        <div class="player">
+            <h3>Harry Tector</h3>
+            <p><strong>Country:</strong> 🇮🇪 Ireland</p>
+            <p><strong>Role:</strong> Batter</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm off-spin</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 133 -->
+        <div class="player">
+            <h3>Josh Little</h3>
+            <p><strong>Country:</strong> 🇮🇪 Ireland</p>
+            <p><strong>Role:</strong> Fast Bowler</p>
+            <p><strong>Bowling:</strong> Left-arm fast</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 134 -->
+        <div class="player">
+            <h3>Mark Adair</h3>
+            <p><strong>Country:</strong> 🇮🇪 Ireland</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm fast-medium</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 135 -->
+        <div class="player">
+            <h3>Curtis Campher</h3>
+            <p><strong>Country:</strong> 🇮🇪 Ireland</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm medium</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 136 -->
+        <div class="player">
+            <h3>Lorcan Tucker</h3>
+            <p><strong>Country:</strong> 🇮🇪 Ireland</p>
+            <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+            <p><strong>Batting:</strong> Left-handed</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 137 -->
+        <div class="player">
+            <h3>Gareth Delany</h3>
+            <p><strong>Country:</strong> 🇮🇪 Ireland</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm leg spin</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 138 -->
+        <div class="player">
+            <h3>George Dockrell</h3>
+            <p><strong>Country:</strong> 🇮🇪 Ireland</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Left-handed</p>
+            <p><strong>Bowling:</strong> Left-arm orthodox spin</p>
+            <p><strong>Formats:</strong> Test, ODI, T20I</p>
+        </div>
+
+        <!-- 139 -->
+        <div class="player">
+            <h3>Rohit Paudel</h3>
+            <p><strong>Country:</strong> 🇳🇵 Nepal</p>
+            <p><strong>Role:</strong> Batter</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm medium</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 140 -->
+        <div class="player">
+            <h3>Dipendra Singh Airee</h3>
+            <p><strong>Country:</strong> 🇳🇵 Nepal</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm off-spin</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 141 -->
+        <div class="player">
+            <h3>Sandeep Lamichhane</h3>
+            <p><strong>Country:</strong> 🇳🇵 Nepal</p>
+            <p><strong>Role:</strong> Spinner</p>
+            <p><strong>Bowling:</strong> Right-arm leg spin</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 142 -->
+        <div class="player">
+            <h3>Kushal Bhurtel</h3>
+            <p><strong>Country:</strong> 🇳🇵 Nepal</p>
+            <p><strong>Role:</strong> Opening Batter</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 143 -->
+        <div class="player">
+            <h3>Aasif Sheikh</h3>
+            <p><strong>Country:</strong> 🇳🇵 Nepal</p>
+            <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 144 -->
+        <div class="player">
+            <h3>Karan KC</h3>
+            <p><strong>Country:</strong> 🇳🇵 Nepal</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm fast-medium</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 145 -->
+        <div class="player">
+            <h3>Sompal Kami</h3>
+            <p><strong>Country:</strong> 🇳🇵 Nepal</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm medium-fast</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 146 -->
+        <div class="player">
+            <h3>Gerhard Erasmus</h3>
+            <p><strong>Country:</strong> 🇳🇦 Namibia</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm off-spin</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 147 -->
+        <div class="player">
+            <h3>David Wiese</h3>
+            <p><strong>Country:</strong> 🇳🇦 Namibia</p>
+            <p><strong>Role:</strong> All-rounder</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Bowling:</strong> Right-arm fast-medium</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 148 -->
+        <div class="player">
+            <h3>Bernard Scholtz</h3>
+        s    <p><strong>Country:</strong> 🇳🇦 Namibia</p>
+            <p><strong>Role:</strong> Spinner</p>
+            <p><strong>Bowling:</strong> Left-arm orthodox spin</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 149 -->
+        <div class="player">
+            <h3>Ruben Trumpelmann</h3>
+            <p><strong>Country:</strong> 🇳🇦 Namibia</p>
+            <p><strong>Role:</strong> Fast Bowler</p>
+            <p><strong>Bowling:</strong> Left-arm fast</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+        <!-- 150 -->
+        <div class="player">
+            <h3>Michael Levitt</h3>
+            <p><strong>Country:</strong> 🇳🇱 Netherlands</p>
+            <p><strong>Role:</strong> Opening Batter</p>
+            <p><strong>Batting:</strong> Right-handed</p>
+            <p><strong>Formats:</strong> ODI, T20I</p>
+        </div>
+
+
+            <div class="player">
+                <h3>Shubman Gill</h3>
+                <p><strong>Role:</strong> Batter</p>
+                <p><strong>Batting:</strong> Right-handed</p>
+                <p><strong>Formats:</strong> Test, ODI, T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Jasprit Bumrah</h3>
+                <p><strong>Role:</strong> Fast Bowler</p>
+                <p><strong>Bowling:</strong> Right-arm fast</p>
+                <p><strong>Formats:</strong> Test, ODI, T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Ravindra Jadeja</h3>
+                <p><strong>Role:</strong> All-rounder</p>
+                <p><strong>Batting:</strong> Left-handed</p>
+                <p><strong>Formats:</strong> Test, ODI, T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>KL Rahul</h3>
+                <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+                <p><strong>Batting:</strong> Right-handed</p>
+                <p><strong>Formats:</strong> Test, ODI, T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Rishabh Pant</h3>
+                <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+                <p><strong>Batting:</strong> Left-handed</p>
+                <p><strong>Formats:</strong> Test, ODI, T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Yashasvi Jaiswal</h3>
+                <p><strong>Role:</strong> Batter</p>
+                <p><strong>Batting:</strong> Left-handed</p>
+                <p><strong>Formats:</strong> Test, T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Mohammed Siraj</h3>
+                <p><strong>Role:</strong> Fast Bowler</p>
+                <p><strong>Bowling:</strong> Right-arm fast</p>
+                <p><strong>Formats:</strong> Test, ODI, T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Hardik Pandya</h3>
+                <p><strong>Role:</strong> All-rounder</p>
+                <p><strong>Bowling:</strong> Right-arm fast-medium</p>
+                <p><strong>Formats:</strong> ODI, T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Suryakumar Yadav</h3>
+                <p><strong>Role:</strong> Batter</p>
+                <p><strong>Batting:</strong> Right-handed</p>
+                <p><strong>Formats:</strong> T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Shreyas Iyer</h3>
+                <p><strong>Role:</strong> Batter</p>
+                <p><strong>Batting:</strong> Right-handed</p>
+                <p><strong>Formats:</strong> ODI, T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Rinku Singh</h3>
+                <p><strong>Role:</strong> Batter</p>
+                <p><strong>Batting:</strong> Left-handed</p>
+                <p><strong>Formats:</strong> T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Sanju Samson</h3>
+                <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+                <p><strong>Batting:</strong> Right-handed</p>
+                <p><strong>Formats:</strong> T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Axar Patel</h3>
+                <p><strong>Role:</strong> All-rounder</p>
+                <p><strong>Bowling:</strong> Left-arm spin</p>
+                <p><strong>Formats:</strong> Test, ODI, T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Washington Sundar</h3>
+                <p><strong>Role:</strong> All-rounder</p>
+                <p><strong>Bowling:</strong> Right-arm off-spin</p>
+                <p><strong>Formats:</strong> Test, ODI, T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Arshdeep Singh</h3>
+                <p><strong>Role:</strong> Fast Bowler</p>
+                <p><strong>Bowling:</strong> Left-arm fast-medium</p>
+                <p><strong>Formats:</strong> ODI, T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Prasidh Krishna</h3>
+                <p><strong>Role:</strong> Fast Bowler</p>
+                <p><strong>Bowling:</strong> Right-arm fast</p>
+                <p><strong>Formats:</strong> Test, ODI</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Akash Deep</h3>
+                <p><strong>Role:</strong> Fast Bowler</p>
+                <p><strong>Bowling:</strong> Right-arm fast</p>
+                <p><strong>Formats:</strong> Test, ODI</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Harshit Rana</h3>
+                <p><strong>Role:</strong> Fast Bowler</p>
+                <p><strong>Bowling:</strong> Right-arm fast</p>
+                <p><strong>Formats:</strong> ODI, T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Varun Chakaravarthy</h3>
+                <p><strong>Role:</strong> Spinner</p>
+                <p><strong>Bowling:</strong> Mystery spin</p>
+                <p><strong>Formats:</strong> T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Abhishek Sharma</h3>
+                <p><strong>Role:</strong> All-rounder</p>
+                <p><strong>Batting:</strong> Left-handed</p>
+                <p><strong>Formats:</strong> T20I</p>
+            </div>
+
+
+            <div class="player">
+                <h3>Tilak Varma</h3>
+                <p><strong>Role:</strong> Batter</p>
+                <p><strong>Batting:</strong> Left-handed</p>
+                <p><strong>Formats:</strong> ODI, T20I</p>
+            </div>
+
+
+        </div>
+
+    </section>
+
+
+    <!-- RETIRED LEGENDS -->
+
+    <section id="retiredLegends" class="hidden">
+
+        <h2 class="legend-title">
+            ⭐ Retired International Legends
+        </h2>
+
+        <div class="players-container>
+<!-- 1 -->
+<div class="player">
+    <h3>⭐ Sachin Tendulkar</h3>
+    <p><strong>Country:</strong> 🇮🇳 India</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 34,357</p>
+    <p><strong>Wickets:</strong> 201</p>
+    <p><strong>Achievement:</strong> 100 international centuries</p>
+</div>
+
+<!-- 2 -->
+<div class="player">
+    <h3>⭐ Ricky Ponting</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 27,483</p>
+    <p><strong>Wickets:</strong> 5</p>
+    <p><strong>Achievement:</strong> Two-time World Cup winning captain</p>
+</div>
+
+<!-- 3 -->
+<div class="player">
+    <h3>⭐ Kumar Sangakkara</h3>
+    <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Runs:</strong> 28,016</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> Four consecutive World Cup centuries</p>
+</div>
+
+<!-- 4 -->
+<div class="player">
+    <h3>⭐ Brian Lara</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 22,358</p>
+    <p><strong>Wickets:</strong> 1</p>
+    <p><strong>Achievement:</strong> 400* in Test cricket</p>
+</div>
+
+<!-- 5 -->
+<div class="player">
+    <h3>⭐ Jacques Kallis</h3>
+    <p><strong>Country:</strong> 🇿🇦 South Africa</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 25,534</p>
+    <p><strong>Wickets:</strong> 577</p>
+    <p><strong>Achievement:</strong> One of cricket's greatest all-rounders</p>
+</div>
+
+<!-- 6 -->
+<div class="player">
+    <h3>⭐ Muttiah Muralitharan</h3>
+    <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+    <p><strong>Role:</strong> Bowler</p>
+    <p><strong>Runs:</strong> 1,936</p>
+    <p><strong>Wickets:</strong> 1,347</p>
+    <p><strong>Achievement:</strong> 1,000+ international wickets</p>
+</div>
+
+<!-- 7 -->
+<div class="player">
+    <h3>⭐ Shane Warne</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Bowler</p>
+    <p><strong>Runs:</strong> 3,154</p>
+    <p><strong>Wickets:</strong> 1,001</p>
+    <p><strong>Achievement:</strong> 708 Test wickets</p>
+</div>
+
+<!-- 8 -->
+<div class="player">
+    <h3>⭐ Glenn McGrath</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 1,302</p>
+    <p><strong>Wickets:</strong> 949</p>
+    <p><strong>Achievement:</strong> Three-time World Cup winner</p>
+</div>
+
+<!-- 9 -->
+<div class="player">
+    <h3>⭐ Wasim Akram</h3>
+    <p><strong>Country:</strong> 🇵🇰 Pakistan</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 6,615</p>
+    <p><strong>Wickets:</strong> 916</p>
+    <p><strong>Achievement:</strong> 1992 World Cup winner</p>
+</div>
+
+<!-- 10 -->
+<div class="player">
+    <h3>⭐ Imran Khan</h3>
+    <p><strong>Country:</strong> 🇵🇰 Pakistan</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 7,516</p>
+    <p><strong>Wickets:</strong> 544</p>
+    <p><strong>Achievement:</strong> 1992 World Cup winning captain</p>
+</div>
+
+<!-- 11 -->
+<div class="player">
+    <h3>⭐ AB de Villiers</h3>
+    <p><strong>Country:</strong> 🇿🇦 South Africa</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 20,014</p>
+    <p><strong>Wickets:</strong> 2</p>
+    <p><strong>Achievement:</strong> 31-ball ODI century</p>
+</div>
+
+<!-- 12 -->
+<div class="player">
+    <h3>⭐ MS Dhoni</h3>
+    <p><strong>Country:</strong> 🇮🇳 India</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Runs:</strong> 17,266</p>
+    <p><strong>Wickets:</strong> 1</p>
+    <p><strong>Achievement:</strong> 2011 World Cup winning captain</p>
+</div>
+
+<!-- 13 -->
+<div class="player">
+    <h3>⭐ Rahul Dravid</h3>
+    <p><strong>Country:</strong> 🇮🇳 India</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 24,208</p>
+    <p><strong>Wickets:</strong> 1</p>
+    <p><strong>Achievement:</strong> Over 13,000 Test runs</p>
+</div>
+
+<!-- 14 -->
+<div class="player">
+    <h3>⭐ Virender Sehwag</h3>
+    <p><strong>Country:</strong> 🇮🇳 India</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 17,253</p>
+    <p><strong>Wickets:</strong> 136</p>
+    <p><strong>Achievement:</strong> Two Test triple centuries</p>
+</div>
+
+<!-- 15 -->
+<div class="player">
+    <h3>⭐ Yuvraj Singh</h3>
+    <p><strong>Country:</strong> 🇮🇳 India</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 11,778</p>
+    <p><strong>Wickets:</strong> 148</p>
+    <p><strong>Achievement:</strong> Six sixes in one over</p>
+</div>
+
+<!-- 16 -->
+<div class="player">
+    <h3>⭐ Kapil Dev</h3>
+    <p><strong>Country:</strong> 🇮🇳 India</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 9,031</p>
+    <p><strong>Wickets:</strong> 687</p>
+    <p><strong>Achievement:</strong> 1983 World Cup winning captain</p>
+</div>
+
+<!-- 17 -->
+<div class="player">
+    <h3>⭐ Anil Kumble</h3>
+    <p><strong>Country:</strong> 🇮🇳 India</p>
+    <p><strong>Role:</strong> Bowler</p>
+    <p><strong>Runs:</strong> 2,506</p>
+    <p><strong>Wickets:</strong> 956</p>
+    <p><strong>Achievement:</strong> 10 wickets in a Test innings</p>
+</div>
+
+<!-- 18 -->
+<div class="player">
+    <h3>⭐ Sourav Ganguly</h3>
+    <p><strong>Country:</strong> 🇮🇳 India</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 18,575</p>
+    <p><strong>Wickets:</strong> 132</p>
+    <p><strong>Achievement:</strong> 22 ODI centuries</p>
+</div>
+
+<!-- 19 -->
+<div class="player">
+    <h3>⭐ Sunil Gavaskar</h3>
+    <p><strong>Country:</strong> 🇮🇳 India</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 13,214</p>
+    <p><strong>Wickets:</strong> 1</p>
+    <p><strong>Achievement:</strong> First batter to 10,000 Test runs</p>
+</div>
+
+<!-- 20 -->
+<div class="player">
+    <h3>⭐ VVS Laxman</h3>
+    <p><strong>Country:</strong> 🇮🇳 India</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 11,565</p>
+    <p><strong>Wickets:</strong> 2</p>
+    <p><strong>Achievement:</strong> Famous 281 against Australia</p>
+</div>
+
+<!-- 21 -->
+<div class="player">
+    <h3>⭐ Mahela Jayawardene</h3>
+    <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 25,957</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> 374 in Test cricket</p>
+</div>
+
+<!-- 22 -->
+<div class="player">
+    <h3>⭐ Sanath Jayasuriya</h3>
+    <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 21,032</p>
+    <p><strong>Wickets:</strong> 440</p>
+    <p><strong>Achievement:</strong> Explosive ODI opener</p>
+</div>
+
+<!-- 23 -->
+<div class="player">
+    <h3>⭐ Kumar Dharmasena</h3>
+    <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 2,462</p>
+    <p><strong>Wickets:</strong> 89</p>
+    <p><strong>Achievement:</strong> 1996 World Cup winner</p>
+</div>
+
+<!-- 24 -->
+<div class="player">
+    <h3>⭐ Aravinda de Silva</h3>
+    <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 15,645</p>
+    <p><strong>Wickets:</strong> 135</p>
+    <p><strong>Achievement:</strong> 1996 World Cup final hero</p>
+</div>
+
+<!-- 25 -->
+<div class="player">
+    <h3>⭐ Mahela Jayawardene</h3>
+    <p><strong>Country:</strong> 🇱🇰 Sri Lanka</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 25,957</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> World Cup final century</p>
+</div>
+
+<!-- 26 -->
+<div class="player">
+    <h3>⭐ Adam Gilchrist</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Runs:</strong> 15,461</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> Three-time World Cup winner</p>
+</div>
+
+<!-- 27 -->
+<div class="player">
+    <h3>⭐ Steve Waugh</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 18,496</p>
+    <p><strong>Wickets:</strong> 287</p>
+    <p><strong>Achievement:</strong> 1999 World Cup winning captain</p>
+</div>
+
+<!-- 28 -->
+<div class="player">
+    <h3>⭐ Matthew Hayden</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 15,066</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> 380 in Test cricket</p>
+</div>
+
+<!-- 29 -->
+<div class="player">
+    <h3>⭐ Brett Lee</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 2,108</p>
+    <p><strong>Wickets:</strong> 718</p>
+    <p><strong>Achievement:</strong> Legendary fast bowler</p>
+</div>
+
+<!-- 30 -->
+<div class="player">
+    <h3>⭐ Steve Smith</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 20,000+</p>
+    <p><strong>Wickets:</strong> 20+</p>
+    <p><strong>Achievement:</strong> Multiple-time Test batting great</p>
+</div>
+
+<!-- 31 -->
+<div class="player">
+    <h3>⭐ Viv Richards</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 15,261</p>
+    <p><strong>Wickets:</strong> 118</p>
+    <p><strong>Achievement:</strong> Dominant West Indies batter</p>
+</div>
+
+<!-- 32 -->
+<div class="player">
+    <h3>⭐ Clive Lloyd</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 7,515</p>
+    <p><strong>Wickets:</strong> 10</p>
+    <p><strong>Achievement:</strong> 1975 and 1979 World Cup winning captain</p>
+</div>
+
+<!-- 33 -->
+<div class="player">
+    <h3>⭐ Malcolm Marshall</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 2,079</p>
+    <p><strong>Wickets:</strong> 533</p>
+    <p><strong>Achievement:</strong> One of the greatest fast bowlers</p>
+</div>
+
+<!-- 34 -->
+<div class="player">
+    <h3>⭐ Curtly Ambrose</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 1,532</p>
+    <p><strong>Wickets:</strong> 630</p>
+    <p><strong>Achievement:</strong> 405 Test wickets</p>
+</div>
+
+<!-- 35 -->
+<div class="player">
+    <h3>⭐ Courtney Walsh</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 1,210</p>
+    <p><strong>Wickets:</strong> 746</p>
+    <p><strong>Achievement:</strong> First bowler to 500 Test wickets</p>
+</div>
+
+<!-- 36 -->
+<div class="player">
+    <h3>⭐ Ian Botham</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 7,313</p>
+    <p><strong>Wickets:</strong> 528</p>
+    <p><strong>Achievement:</strong> England all-round legend</p>
+</div>
+
+<!-- 37 -->
+<div class="player">
+    <h3>⭐ Kevin Pietersen</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 13,072</p>
+    <p><strong>Wickets:</strong> 13</p>
+    <p><strong>Achievement:</strong> 186 against India at Mumbai</p>
+</div>
+
+<!-- 38 -->
+<div class="player">
+    <h3>⭐ Alastair Cook</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 15,737</p>
+    <p><strong>Wickets:</strong> 1</p>
+    <p><strong>Achievement:</strong> England's leading Test run scorer</p>
+</div>
+
+<!-- 39 -->
+<div class="player">
+    <h3>⭐ Andrew Flintoff</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 7,313</p>
+    <p><strong>Wickets:</strong> 400+</p>
+    <p><strong>Achievement:</strong> 2005 Ashes hero</p>
+</div>
+
+<!-- 40 -->
+<div class="player">
+    <h3>⭐ James Anderson</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 2,000+</p>
+    <p><strong>Wickets:</strong> 1,100+</p>
+    <p><strong>Achievement:</strong> England's greatest Test wicket-taker</p>
+</div>
+
+<!-- 41 -->
+<div class="player">
+    <h3>⭐ Brendon McCullum</h3>
+    <p><strong>Country:</strong> 🇳🇿 New Zealand</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Runs:</strong> 14,676</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> 302 in Test cricket</p>
+</div>
+
+<!-- 42 -->
+<div class="player">
+    <h3>⭐ Daniel Vettori</h3>
+    <p><strong>Country:</strong> 🇳🇿 New Zealand</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 6,989</p>
+    <p><strong>Wickets:</strong> 705</p>
+    <p><strong>Achievement:</strong> New Zealand all-round legend</p>
+</div>
+
+<!-- 43 -->
+<div class="player">
+    <h3>⭐ Stephen Fleming</h3>
+    <p><strong>Country:</strong> 🇳🇿 New Zealand</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 15,928</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> Long-serving New Zealand captain</p>
+</div>
+
+<!-- 44 -->
+<div class="player">
+    <h3>⭐ Chris Cairns</h3>
+    <p><strong>Country:</strong> 🇳🇿 New Zealand</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 8,273</p>
+    <p><strong>Wickets:</strong> 419</p>
+    <p><strong>Achievement:</strong> Match-winning all-rounder</p>
+</div>
+
+<!-- 45 -->
+<div class="player">
+    <h3>⭐ Ross Taylor</h3>
+    <p><strong>Country:</strong> 🇳🇿 New Zealand</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 18,199</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> New Zealand batting great</p>
+</div>
+
+<!-- 46 -->
+<div class="player">
+    <h3>⭐ Inzamam-ul-Haq</h3>
+    <p><strong>Country:</strong> 🇵🇰 Pakistan</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 20,541</p>
+    <p><strong>Wickets:</strong> 22</p>
+    <p><strong>Achievement:</strong> Pakistan batting legend</p>
+</div>
+
+<!-- 47 -->
+<div class="player">
+    <h3>⭐ Waqar Younis</h3>
+    <p><strong>Country:</strong> 🇵🇰 Pakistan</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 1,169</p>
+    <p><strong>Wickets:</strong> 789</p>
+    <p><strong>Achievement:</strong> Legendary reverse-swing bowler</p>
+</div>
+
+<!-- 48 -->
+<div class="player">
+    <h3>⭐ Saeed Anwar</h3>
+    <p><strong>Country:</strong> 🇵🇰 Pakistan</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 17,230</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> Pakistan opening legend</p>
+</div>
+
+<!-- 49 -->
+<div class="player">
+    <h3>⭐ Shahid Afridi</h3>
+    <p><strong>Country:</strong> 🇵🇰 Pakistan</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 11,196</p>
+    <p><strong>Wickets:</strong> 541</p>
+    <p><strong>Achievement:</strong> Explosive all-rounder</p>
+</div>
+
+<!-- 50 -->
+<div class="player">
+    <h3>⭐ Javed Miandad</h3>
+    <p><strong>Country:</strong> 🇵🇰 Pakistan</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 16,213</p>
+    <p><strong>Wickets:</strong> 2</p>
+    <p><strong>Achievement:</strong> Pakistan batting legend</p>
+</div>
+<!-- 51 -->
+<div class="player">
+    <h3>⭐ Allan Border</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 22,145</p>
+    <p><strong>Wickets:</strong> 39</p>
+    <p><strong>Achievement:</strong> 1987 World Cup winning captain</p>
+</div>
+
+<!-- 52 -->
+<div class="player">
+    <h3>⭐ Mark Waugh</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 18,496</p>
+    <p><strong>Wickets:</strong> 85</p>
+    <p><strong>Achievement:</strong> 1999 World Cup winner</p>
+</div>
+
+<!-- 53 -->
+<div class="player">
+    <h3>⭐ Michael Bevan</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 15,069</p>
+    <p><strong>Wickets:</strong> 72</p>
+    <p><strong>Achievement:</strong> Famous ODI finisher</p>
+</div>
+
+<!-- 54 -->
+<div class="player">
+    <h3>⭐ Shane Watson</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 10,950</p>
+    <p><strong>Wickets:</strong> 291</p>
+    <p><strong>Achievement:</strong> 2015 World Cup winner</p>
+</div>
+
+<!-- 55 -->
+<div class="player">
+    <h3>⭐ Mitchell Johnson</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 4,876</p>
+    <p><strong>Wickets:</strong> 590</p>
+    <p><strong>Achievement:</strong> 2013–14 Ashes hero</p>
+</div>
+
+<!-- 56 -->
+<div class="player">
+    <h3>⭐ Michael Clarke</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 17,112</p>
+    <p><strong>Wickets:</strong> 56</p>
+    <p><strong>Achievement:</strong> 2015 World Cup winning captain</p>
+</div>
+
+<!-- 57 -->
+<div class="player">
+    <h3>⭐ Justin Langer</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 13,400+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> Over 7,500 Test runs</p>
+</div>
+
+<!-- 58 -->
+<div class="player">
+    <h3>⭐ Matthew Richardson</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 15,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> Australian Test batter</p>
+</div>
+
+<!-- 59 -->
+<div class="player">
+    <h3>⭐ Damien Martyn</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 13,742</p>
+    <p><strong>Wickets:</strong> 2</p>
+    <p><strong>Achievement:</strong> 2003 World Cup winner</p>
+</div>
+
+<!-- 60 -->
+<div class="player">
+    <h3>⭐ Jason Gillespie</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 2,944</p>
+    <p><strong>Wickets:</strong> 402</p>
+    <p><strong>Achievement:</strong> 201* as a nightwatchman</p>
+</div>
+
+
+<!-- 61 -->
+<div class="player">
+    <h3>⭐ Matthew Elliott</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 4,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> Test opener</p>
+</div>
+
+<!-- 62 -->
+<div class="player">
+    <h3>⭐ Dean Jones</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 11,000+</p>
+    <p><strong>Wickets:</strong> 20+</p>
+    <p><strong>Achievement:</strong> 1987 World Cup winner</p>
+</div>
+
+<!-- 63 -->
+<div class="player">
+    <h3>⭐ David Boon</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 13,386</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> 1987 World Cup winner</p>
+</div>
+
+<!-- 64 -->
+<div class="player">
+    <h3>⭐ Craig McDermott</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 2,000+</p>
+    <p><strong>Wickets:</strong> 500+</p>
+    <p><strong>Achievement:</strong> Australian fast-bowling great</p>
+</div>
+
+<!-- 65 -->
+<div class="player">
+    <h3>⭐ Dennis Lillee</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 2,100+</p>
+    <p><strong>Wickets:</strong> 500+</p>
+    <p><strong>Achievement:</strong> Legendary fast bowler</p>
+</div>
+
+<!-- 66 -->
+<div class="player">
+    <h3>⭐ Greg Chappell</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 15,000+</p>
+    <p><strong>Wickets:</strong> 200+</p>
+    <p><strong>Achievement:</strong> Australia captain and batting great</p>
+</div>
+
+<!-- 67 -->
+<div class="player">
+    <h3>⭐ Ian Chappell</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 11,000+</p>
+    <p><strong>Wickets:</strong> 100+</p>
+    <p><strong>Achievement:</strong> Famous Australian captain</p>
+</div>
+
+<!-- 68 -->
+<div class="player">
+    <h3>⭐ Mark Taylor</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 15,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> Australian Test captain</p>
+</div>
+
+<!-- 69 -->
+<div class="player">
+    <h3>⭐ Michael Hussey</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 12,798</p>
+    <p><strong>Wickets:</strong> 23</p>
+    <p><strong>Achievement:</strong> Famous Australian finisher</p>
+</div>
+
+<!-- 70 -->
+<div class="player">
+    <h3>⭐ Simon Katich</h3>
+    <p><strong>Country:</strong> 🇦🇺 Australia</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 11,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> Australian Test opener</p>
+</div>
+
+
+<!-- 71 -->
+<div class="player">
+    <h3>⭐ Graeme Smith</h3>
+    <p><strong>Country:</strong> 🇿🇦 South Africa</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 17,234</p>
+    <p><strong>Wickets:</strong> 8</p>
+    <p><strong>Achievement:</strong> Youngest Test captain</p>
+</div>
+
+<!-- 72 -->
+<div class="player">
+    <h3>⭐ Hashim Amla</h3>
+    <p><strong>Country:</strong> 🇿🇦 South Africa</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 18,672</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> First South African triple-centurion</p>
+</div>
+
+<!-- 73 -->
+<div class="player">
+    <h3>⭐ Dale Steyn</h3>
+    <p><strong>Country:</strong> 🇿🇦 South Africa</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 1,000+</p>
+    <p><strong>Wickets:</strong> 699</p>
+    <p><strong>Achievement:</strong> One of Test cricket's greatest fast bowlers</p>
+</div>
+
+<!-- 74 -->
+<div class="player">
+    <h3>⭐ Shaun Pollock</h3>
+    <p><strong>Country:</strong> 🇿🇦 South Africa</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 7,380</p>
+    <p><strong>Wickets:</strong> 829</p>
+    <p><strong>Achievement:</strong> South African bowling great</p>
+</div>
+
+<!-- 75 -->
+<div class="player">
+    <h3>⭐ Allan Donald</h3>
+    <p><strong>Country:</strong> 🇿🇦 South Africa</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 1,500+</p>
+    <p><strong>Wickets:</strong> 602</p>
+    <p><strong>Achievement:</strong> "White Lightning"</p>
+</div>
+
+<!-- 76 -->
+<div class="player">
+    <h3>⭐ Herschelle Gibbs</h3>
+    <p><strong>Country:</strong> 🇿🇦 South Africa</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 14,000+</p>
+    <p><strong>Wickets:</strong> 13</p>
+    <p><strong>Achievement:</strong> Six sixes in an over in first-class cricket</p>
+</div>
+
+<!-- 77 -->
+<div class="player">
+    <h3>⭐ Mark Boucher</h3>
+    <p><strong>Country:</strong> 🇿🇦 South Africa</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Runs:</strong> 10,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> Legendary wicketkeeper</p>
+</div>
+
+<!-- 78 -->
+<div class="player">
+    <h3>⭐ Lance Klusener</h3>
+    <p><strong>Country:</strong> 🇿🇦 South Africa</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 7,000+</p>
+    <p><strong>Wickets:</strong> 300+</p>
+    <p><strong>Achievement:</strong> 1999 World Cup Player of the Tournament</p>
+</div>
+
+<!-- 79 -->
+<div class="player">
+    <h3>⭐ Jonty Rhodes</h3>
+    <p><strong>Country:</strong> 🇿🇦 South Africa</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 8,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> Legendary fielder</p>
+</div>
+
+<!-- 80 -->
+<div class="player">
+    <h3>⭐ Gary Kirsten</h3>
+    <p><strong>Country:</strong> 🇿🇦 South Africa</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 14,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> South African Test run scorer</p>
+</div>
+
+
+<!-- 81 -->
+<div class="player">
+    <h3>⭐ Shivnarine Chanderpaul</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 20,988</p>
+    <p><strong>Wickets:</strong> 13</p>
+    <p><strong>Achievement:</strong> Over 11,000 Test runs</p>
+</div>
+
+<!-- 82 -->
+<div class="player">
+    <h3>⭐ Chris Gayle</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 19,593</p>
+    <p><strong>Wickets:</strong> 262</p>
+    <p><strong>Achievement:</strong> Two Test triple-centuries</p>
+</div>
+
+<!-- 83 -->
+<div class="player">
+    <h3>⭐ Dwayne Bravo</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 6,423</p>
+    <p><strong>Wickets:</strong> 337</p>
+    <p><strong>Achievement:</strong> T20 all-rounder</p>
+</div>
+
+<!-- 84 -->
+<div class="player">
+    <h3>⭐ Ramnaresh Sarwan</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 9,000+</p>
+    <p><strong>Wickets:</strong> 20+</p>
+    <p><strong>Achievement:</strong> West Indies top-order batter</p>
+</div>
+
+<!-- 85 -->
+<div class="player">
+    <h3>⭐ Marlon Samuels</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> All-rounder</p>
+    <p><strong>Runs:</strong> 11,000+</p>
+    <p><strong>Wickets:</strong> 150+</p>
+    <p><strong>Achievement:</strong> 2012 and 2016 T20 World Cup final hero</p>
+</div>
+
+<!-- 86 -->
+<div class="player">
+    <h3>⭐ Richie Richardson</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 11,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> West Indies captain</p>
+</div>
+
+<!-- 87 -->
+<div class="player">
+    <h3>⭐ Gordon Greenidge</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 17,000+</p>
+    <p><strong>Wickets:</strong> 1</p>
+    <p><strong>Achievement:</strong> Legendary opening partnership</p>
+</div>
+
+<!-- 88 -->
+<div class="player">
+    <h3>⭐ Desmond Haynes</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 16,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> West Indies opening legend</p>
+</div>
+
+<!-- 89 -->
+<div class="player">
+    <h3>⭐ Michael Holding</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 2,000+</p>
+    <p><strong>Wickets:</strong> 391</p>
+    <p><strong>Achievement:</strong> "Whispering Death"</p>
+</div>
+
+<!-- 90 -->
+<div class="player">
+    <h3>⭐ Joel Garner</h3>
+    <p><strong>Country:</strong> 🏝️ West Indies</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 1,000+</p>
+    <p><strong>Wickets:</strong> 405</p>
+    <p><strong>Achievement:</strong> One of ODI cricket's greatest bowlers</p>
+</div>
+
+
+<!-- 91 -->
+<div class="player">
+    <h3>⭐ Steve Harmison</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> Fast Bowler</p>
+    <p><strong>Runs:</strong> 2,000+</p>
+    <p><strong>Wickets:</strong> 300+</p>
+    <p><strong>Achievement:</strong> 2005 Ashes winner</p>
+</div>
+
+<!-- 92 -->
+<div class="player">
+    <h3>⭐ Marcus Trescothick</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 10,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> England opening batter</p>
+</div>
+
+<!-- 93 -->
+<div class="player">
+    <h3>⭐ Graham Thorpe</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 11,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> England Test batter</p>
+</div>
+
+<!-- 94 -->
+<div class="player">
+    <h3>⭐ Alec Stewart</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> Wicketkeeper-Batter</p>
+    <p><strong>Runs:</strong> 13,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> England captain and wicketkeeper</p>
+</div>
+
+<!-- 95 -->
+<div class="player">
+    <h3>⭐ Michael Atherton</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 11,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> England Test captain</p>
+</div>
+
+<!-- 96 -->
+<div class="player">
+    <h3>⭐ Nasser Hussain</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 12,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> England captain</p>
+</div>
+
+<!-- 97 -->
+<div class="player">
+    <h3>⭐ Graham Gooch</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> Opening Batter</p>
+    <p><strong>Runs:</strong> 22,000+</p>
+    <p><strong>Wickets:</strong> 30+</p>
+    <p><strong>Achievement:</strong> England batting legend</p>
+</div>
+
+<!-- 98 -->
+<div class="player">
+    <h3>⭐ David Gower</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 18,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> Elegant England batter</p>
+</div>
+
+<!-- 99 -->
+<div class="player">
+    <h3>⭐ Ian Bell</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 13,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> Five-time Ashes winner</p>
+</div>
+
+<!-- 100 -->
+<div class="player">
+    <h3>⭐ Jonathan Trott</h3>
+    <p><strong>Country:</strong> 🏴 England</p>
+    <p><strong>Role:</strong> Batter</p>
+    <p><strong>Runs:</strong> 10,000+</p>
+    <p><strong>Wickets:</strong> 0</p>
+    <p><strong>Achievement:</strong> England Test and ODI batter</p>
+</div>
+
+
+        </div>
+
+    </section>
+
+</main>
+
+
+<script>
+
+function searchPlayers() {
+
+    let input = document.getElementById("playerSearch").value.toLowerCase();
+
+    let players = document.getElementsByClassName("player");
+
+    for (let i = 0; i < players.length; i++) {
+
+        let playerName = players[i].innerText.toLowerCase();
+
+        if (playerName.includes(input)) {
+            players[i].style.display = "block";
+        } else {
+            players[i].style.display = "none";
+        }
+
+    }
+
+}
+
+
+function showCurrent() {
+
+    document.getElementById("currentPlayers").classList.remove("hidden");
+
+    document.getElementById("retiredLegends").classList.add("hidden");
+
+}
+
+
+function showLegends() {
+
+    document.getElementById("currentPlayers").classList.add("hidden");
+
+    document.getElementById("retiredLegends").classList.remove("hidden");
+
+}
+
+
+function showAll() {
+
+    document.getElementById("currentPlayers").classList.remove("hidden");
+
+    document.getElementById("retiredLegends").classList.remove("hidden");
+
+}
+
+</script>
+
+
+</body>
+</html>
