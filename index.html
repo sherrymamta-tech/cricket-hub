@@ -87,98 +87,85 @@
         button:hover {
             background-color: #0b8a45;
         }
-/* 📱 MOBILE FRIENDLY */
+/* 📱 Better mobile readability */
 
-* {
-    box-sizing: border-box;
-}
-
-html, body {
-    max-width: 100%;
-    overflow-x: hidden;
-}
-
-/* Make images responsive */
-img {
-    max-width: 100%;
-    height: auto;
-}
-
-/* Mobile navigation */
-nav {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 8px;
-}
-
-nav a {
-    white-space: nowrap;
-}
-
-/* Mobile phones */
 @media (max-width: 600px) {
 
     body {
-        font-size: 15px;
+        font-size: 18px;
+        line-height: 1.5;
     }
 
     nav {
-        padding: 8px 5px;
-        gap: 5px;
+        gap: 8px;
+        padding: 10px 6px;
     }
 
     nav a {
-        font-size: 14px;
-        padding: 7px 9px;
+        font-size: 17px;
+        padding: 12px 14px;
+        min-height: 48px;
     }
 
     h1 {
-        font-size: 28px;
+        font-size: 30px;
     }
 
     h2 {
-        font-size: 23px;
+        font-size: 25px;
     }
 
     h3 {
-        font-size: 19px;
+        font-size: 21px;
     }
 
-    main {
+    p {
+        font-size: 17px;
+        line-height: 1.6;
+    }
+
+    /* Player cards */
+    .player {
         width: 100%;
-        padding: 10px;
+        padding: 15px;
+        margin-bottom: 15px;
     }
 
-    .player,
-    .team,
+    .player h3 {
+        font-size: 21px;
+    }
+
+    .player p {
+        font-size: 17px;
+    }
+
+    /* News/articles */
+    article,
     .news-card {
         width: 100%;
-        max-width: 100%;
+        padding: 15px;
     }
 
-    input,
-    button,
-    select {
-        max-width: 100%;
-        font-size: 16px;
-    }
-}
-
-/* Very small phones */
-@media (max-width: 400px) {
-
-    h1 {
+    article h2,
+    .news-card h2 {
         font-size: 24px;
     }
 
-    h2 {
-        font-size: 20px;
+    article p,
+    .news-card p {
+        font-size: 17px;
+        line-height: 1.6;
     }
 
-    nav a {
-        font-size: 13px;
-        padding: 6px 7px;
+    /* Search box */
+    input {
+        font-size: 17px;
+        padding: 12px;
+    }
+
+    button {
+        font-size: 17px;
+        padding: 11px 15px;
     }
 }
     </style>
