@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+        content="Cricket Hub Player Stories - Discover the lives, careers, records, achievements and turning points of underrated cricket stars.">
+
+    <title>Player Stories | Cricket Hub</title>
+
+
+    <style>
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f2f5f3;
+            color: #222;
+        }
+
+
+        /* HEADER */
+
+        header {
+            background-color: #075e2f;
+            color: white;
+            padding: 28px 15px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 40px;
+        }
+
+
+        /* NAVIGATION */
+
+        nav {
+            margin-top: 18px;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            padding: 10px 15px;
+            border-radius: 7px;
+        }
+
+        nav a:hover {
+            background-color: #0b8a45;
+        }
+
+
+        /* INTRO */
+
+        .intro {
+            text-align: center;
+            padding: 35px 20px 20px;
+        }
+
+        .intro h2 {
+            font-size: 32px;
+            color: #075e2f;
+            margin-bottom: 10px;
+        }
+
+        .intro p {
+            font-size: 19px;
+            line-height: 1.6;
+        }
+
+
+        /* PLAYER CARDS */
+
+        .players {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 25px;
+            padding: 25px 20px 45px;
+        }
+
+        .player-card {
+            background-color: white;
+            width: 300px;
+            padding: 25px;
+            border-radius: 15px;
+            text-align: center;
+
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+
+            transition: transform 0.2s ease,
+                        box-shadow 0.2s ease;
+        }
+
+        .player-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 7px 18px rgba(0,0,0,0.20);
+        }
+
+
+        .player-icon {
+            font-size: 55px;
+            margin-bottom: 8px;
+        }
+
+
+        .player-card h3 {
+            color: #075e2f;
+            font-size: 25px;
+            margin: 10px 0;
+        }
+
+
+        .player-card p {
+            font-size: 17px;
+            line-height: 1.6;
+            min-height: 80px;
+        }
+
+
+        /* STORY BUTTON */
+
+        .story-button {
+            display: inline-block;
+
+            background-color: #075e2f;
+            color: white;
+
+            text-decoration: none;
+
+            padding: 13px 20px;
+
+            border-radius: 8px;
+
+            font-weight: bold;
+            font-size: 17px;
+        }
+
+
+        .story-button:hover {
+            background-color: #0b8a45;
+        }
+
+
+        /* FOOTER */
+
+        footer {
+            background-color: #075e2f;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+
+        /* 📱 MOBILE */
+
+        @media (max-width: 600px) {
+
+            header {
+                padding: 30px 12px;
+            }
+
+            header h1 {
+                font-size: 35px;
+            }
+
+
+            nav {
+                gap: 8px;
+                margin-top: 20px;
+            }
+
+            nav a {
+                font-size: 19px;
+                padding: 13px 15px;
+                min-height: 48px;
+
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+
+            .intro {
+                padding: 30px 18px 15px;
+            }
+
+            .intro h2 {
+                font-size: 30px;
+            }
+
+            .intro p {
+                font-size: 19px;
+                line-height: 1.7;
+            }
+
+
+            .players {
+                flex-direction: column;
+                align-items: center;
+
+                gap: 22px;
+
+                padding: 20px 15px 35px;
+            }
+
+
+            .player-card {
+                width: 94%;
+                padding: 25px 20px;
+            }
+
+
+            .player-icon {
+                font-size: 62px;
+            }
+
+
+            .player-card h3 {
+                font-size: 28px;
+            }
+
+
+            .player-card p {
+                font-size: 19px;
+                line-height: 1.7;
+                min-height: auto;
+            }
+
+
+            .story-button {
+                font-size: 19px;
+                padding: 14px 20px;
+                min-height: 50px;
+            }
+
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+
+    <!-- HEADER -->
+
+    <header>
+
+        <h1>🏏 Cricket Hub</h1>
+
+        <nav>
+
+            <a href="index.html">Home</a>
+
+            <a href="news.html">News</a>
+
+            <a href="players.html">Players</a>
+
+            <a href="teams.html">Teams</a>
+
+            <a href="stories.html">Stories</a>
+
+        </nav>
+
+    </header>
+
+
+
+    <!-- INTRO -->
+
+    <section class="intro">
+
+        <h2>👤 Player Stories</h2>
+
+        <p>
+            Discover the lives, careers, records, achievements
+            and turning points of cricket's underrated stars.
+        </p>
+
+    </section>
+
+
+
+    <!-- PLAYER STORIES -->
+
+    <section class="players">
+
+
+        <!-- 1. RINKU SINGH -->
+
+        <div class="player-card">
+
+            <div class="player-icon">🇮🇳</div>
+
+            <h3>Rinku Singh</h3>
+
+            <p>
+                Discover Rinku's journey from a difficult
+                beginning to becoming an international cricketer.
+            </p>
+
+            <a class="story-button"
+               href="rinkusinghstory.html">
+
+                📖 Read Story
+
+            </a>
+
+        </div>
+
+
+
+        <!-- 2. SURYAKUMAR YADAV -->
+
+        <div class="player-card">
+
+            <div class="player-icon">🇮🇳</div>
+
+            <h3>Suryakumar Yadav</h3>
+
+            <p>
+                Explore the long road that eventually led
+                SKY to the international stage.
+            </p>
+
+            <a class="story-button"
+               href="suryakumaryadavstory.html">
+
+                📖 Read Story
+
+            </a>
+
+        </div>
+
+
+
+        <!-- 3. R. ASHWIN -->
+
+        <div class="player-card">
+
+            <div class="player-icon">🇮🇳</div>
+
+            <h3>R. Ashwin</h3>
+
+            <p>
+                Follow Ashwin's transformation and his
+                remarkable journey as an international spinner.
+            </p>
+
+            <a class="story-button"
+               href="ashwinstory.html">
+
+                📖 Read Story
+
+            </a>
+
+        </div>
+
+
+
+        <!-- 4. SARFARAZ KHAN -->
+
+        <div class="player-card">
+
+            <div class="player-icon">🇮🇳</div>
+
+            <h3>Sarfaraz Khan</h3>
+
+            <p>
+                Discover the domestic records, long wait
+                and eventual international breakthrough.
+            </p>
+
+            <a class="story-button"
+               href="sarfarazkhanstory.html">
+
+                📖 Read Story
+
+            </a>
+
+        </div>
+
+
+
+        <!-- 5. RASHID KHAN -->
+
+        <div class="player-card">
+
+            <div class="player-icon">🇦🇫</div>
+
+            <h3>Rashid Khan</h3>
+
+            <p>
+                Explore how Rashid became one of Afghanistan's
+                biggest cricket stars.
+            </p>
+
+            <a class="story-button"
+               href="rashidkhanstory.html">
+
+                📖 Read Story
+
+            </a>
+
+        </div>
+
+
+
+        <!-- 6. LASITH MALINGA -->
+
+        <div class="player-card">
+
+            <div class="player-icon">🇱🇰</div>
+
+            <h3>Lasith Malinga</h3>
+
+            <p>
+                Discover the unusual bowling action,
+                deadly yorkers and remarkable career.
+            </p>
+
+            <a class="story-button"
+               href="malingastory.html">
+
+                📖 Read Story
+
+            </a>
+
+        </div>
+
+
+
+        <!-- 7. MOHAMMAD RIZWAN -->
+
+        <div class="player-card">
+
+            <div class="player-icon">🇵🇰</div>
+
+            <h3>Mohammad Rizwan</h3>
+
+            <p>
+                Follow Rizwan's journey from domestic cricket
+                to becoming a major Pakistan wicketkeeper-batter.
+            </p>
+
+            <a class="story-button"
+               href="rizwanstory.html">
+
+                📖 Read Story
+
+            </a>
+
+        </div>
+
+
+
+        <!-- 8. MUSTAFIZUR RAHMAN -->
+
+        <div class="player-card">
+
+            <div class="player-icon">🇧🇩</div>
+
+            <h3>Mustafizur Rahman</h3>
+
+            <p>
+                Discover how the young Bangladeshi left-arm
+                seamer shocked international cricket.
+            </p>
+
+            <a class="story-button"
+               href="mustafizurstory.html">
+
+                📖 Read Story
+
+            </a>
+
+        </div>
+
+
+
+        <!-- 9. TRENT BOULT -->
+
+        <div class="player-card">
+
+            <div class="player-icon">🇳🇿</div>
+
+            <h3>Trent Boult</h3>
+
+            <p>
+                Explore the journey of New Zealand's
+                brilliant left-arm swing bowler.
+            </p>
+
+            <a class="story-button"
+               href="trentboulttstory.html">
+
+                📖 Read Story
+
+            </a>
+
+        </div>
+
+
+
+        <!-- 10. KESHAV MAHARAJ -->
+
+        <div class="player-card">
+
+            <div class="player-icon">🇿🇦</div>
+
+            <h3>Keshav Maharaj</h3>
+
+            <p>
+                Discover the career and perseverance of
+                South Africa's accomplished left-arm spinner.
+            </p>
+
+            <a class="story-button"
+               href="keshavmaharajstory.html">
+
+                📖 Read Story
+
+            </a>
+
+        </div>
+
+
+    </section>
+
+
+
+    <!-- FOOTER -->
+
+    <footer>
+
+        <p>
+            🏏 Cricket Hub | Player Stories
+        </p>
+
+    </footer>
+
+
+</body>
+
+</html>

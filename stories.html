@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+        content="Cricket Hub Stories - Player stories and team stories from cricket.">
+
+    <title>Cricket Stories | Cricket Hub</title>
+
+
+    <style>
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f2f5f3;
+            color: #222;
+        }
+
+
+        /* HEADER */
+
+        header {
+            background-color: #075e2f;
+            color: white;
+            padding: 28px 15px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 40px;
+        }
+
+
+        /* NAVIGATION */
+
+        nav {
+            margin-top: 18px;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            padding: 10px 15px;
+            border-radius: 7px;
+        }
+
+        nav a:hover {
+            background-color: #0b8a45;
+        }
+
+
+        /* INTRO */
+
+        .intro {
+            text-align: center;
+            padding: 35px 20px 20px;
+        }
+
+        .intro h2 {
+            font-size: 32px;
+            color: #075e2f;
+            margin-bottom: 10px;
+        }
+
+        .intro p {
+            font-size: 19px;
+            line-height: 1.6;
+        }
+
+
+        /* STORY SECTIONS */
+
+        .story-container {
+            display: flex;
+            justify-content: center;
+            gap: 25px;
+            flex-wrap: wrap;
+            padding: 25px 20px 40px;
+        }
+
+
+        .story-card {
+            background-color: white;
+            width: 360px;
+            padding: 30px 25px;
+            border-radius: 15px;
+            text-align: center;
+
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+
+            transition: transform 0.2s ease,
+                        box-shadow 0.2s ease;
+        }
+
+
+        .story-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 7px 18px rgba(0,0,0,0.20);
+        }
+
+
+        .story-icon {
+            font-size: 60px;
+            margin-bottom: 10px;
+        }
+
+
+        .story-card h3 {
+            color: #075e2f;
+            font-size: 27px;
+            margin: 10px 0;
+        }
+
+
+        .story-card p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 25px;
+        }
+
+
+        /* BUTTON */
+
+        .story-button {
+            display: inline-block;
+            background-color: #075e2f;
+            color: white;
+            text-decoration: none;
+
+            padding: 14px 22px;
+
+            border-radius: 8px;
+
+            font-weight: bold;
+            font-size: 18px;
+
+            min-height: 50px;
+        }
+
+
+        .story-button:hover {
+            background-color: #0b8a45;
+        }
+
+
+        /* FOOTER */
+
+        footer {
+            background-color: #075e2f;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+
+        /* 📱 MOBILE */
+
+        @media (max-width: 600px) {
+
+            header {
+                padding: 30px 12px;
+            }
+
+            header h1 {
+                font-size: 35px;
+            }
+
+
+            nav {
+                gap: 8px;
+                margin-top: 20px;
+            }
+
+
+            nav a {
+                font-size: 19px;
+                padding: 13px 15px;
+
+                min-height: 48px;
+
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+
+            .intro {
+                padding: 30px 18px 15px;
+            }
+
+
+            .intro h2 {
+                font-size: 30px;
+            }
+
+
+            .intro p {
+                font-size: 19px;
+                line-height: 1.7;
+            }
+
+
+            .story-container {
+                flex-direction: column;
+                align-items: center;
+
+                gap: 22px;
+
+                padding: 20px 15px 35px;
+            }
+
+
+            .story-card {
+                width: 94%;
+                padding: 28px 22px;
+            }
+
+
+            .story-icon {
+                font-size: 65px;
+            }
+
+
+            .story-card h3 {
+                font-size: 28px;
+            }
+
+
+            .story-card p {
+                font-size: 19px;
+                line-height: 1.7;
+            }
+
+
+            .story-button {
+                font-size: 19px;
+                padding: 14px 22px;
+                min-height: 52px;
+            }
+
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+
+    <!-- HEADER -->
+
+    <header>
+
+        <h1>🏏 Cricket Hub</h1>
+
+
+        <nav>
+
+            <a href="index.html">Home</a>
+
+            <a href="news.html">News</a>
+
+            <a href="players.html">Players</a>
+
+            <a href="teams.html">Teams</a>
+
+            <a href="stories.html">Stories</a>
+
+        </nav>
+
+    </header>
+
+
+
+    <!-- INTRO -->
+
+    <section class="intro">
+
+        <h2>📖 Cricket Stories</h2>
+
+        <p>
+            Discover fascinating stories from the world of cricket.
+        </p>
+
+    </section>
+
+
+
+    <!-- STORY OPTIONS -->
+
+    <section class="story-container">
+
+
+        <!-- PLAYER STORIES -->
+
+        <div class="story-card">
+
+            <div class="story-icon">
+                👤
+            </div>
+
+
+            <h3>
+                Player Stories
+            </h3>
+
+
+            <p>
+                Discover the journeys, challenges, achievements
+                and memorable moments of cricket's greatest players.
+            </p>
+
+
+            <a class="story-button"
+               href="playerstories.html">
+
+                👤 Explore Player Stories
+
+            </a>
+
+        </div>
+
+
+
+        <!-- TEAM STORIES -->
+
+        <div class="story-card">
+
+            <div class="story-icon">
+                🏆
+            </div>
+
+
+            <h3>
+                Team Stories
+            </h3>
+
+
+            <p>
+                Explore the greatest journeys, victories and
+                unforgettable moments from cricket teams around
+                the world.
+            </p>
+
+
+            <a class="story-button"
+               href="teamstories.html">
+
+                🏆 Explore Team Stories
+
+            </a>
+
+        </div>
+
+
+    </section>
+
+
+
+    <!-- FOOTER -->
+
+    <footer>
+
+        <p>
+            🏏 Cricket Hub | Cricket Stories
+        </p>
+
+    </footer>
+
+
+</body>
+
+</html>
