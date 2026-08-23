@@ -1,4 +1,5 @@
 ```html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -90,7 +91,7 @@ nav a:hover {
     gap: 25px;
 }
 
-/* CARDS */
+/* NEWS CARDS */
 .news-card {
     background: white;
     border-radius: 18px;
@@ -174,6 +175,7 @@ nav a:hover {
         opacity: 0;
         transform: translateY(20px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
@@ -225,7 +227,6 @@ nav a:hover {
     margin: 25px 0;
     border-radius: 8px;
     font-weight: bold;
-    color: #172033;
 }
 
 .stat-box {
@@ -251,6 +252,17 @@ nav a:hover {
 .stat span {
     font-size: 12px;
     color: #667085;
+}
+
+/* TEAM LIST */
+.team-list {
+    margin: 18px 0;
+    padding-left: 20px;
+}
+
+.team-list li {
+    margin-bottom: 8px;
+    color: #414b5c;
 }
 
 /* FOOTER */
@@ -380,9 +392,8 @@ footer {
     </h3>
 
     <p>
-        Keemo Paul produced the kind of all-round performance that can
-        completely change a T20 match, making a major contribution with
-        both bat and ball.
+        Keemo Paul produced a superb all-round display in CPL 2026,
+        making an impact with both bat and ball.
     </p>
 
     <div class="click-text">
@@ -398,12 +409,12 @@ footer {
     <span class="tag">🏆 TEST MILESTONE</span>
 
     <h3>
-        🇮🇳 Ravindra Jadeja Joins an Elite Group of Test All-Rounders
+        🇮🇳 Ravindra Jadeja Joins an Elite Group
     </h3>
 
     <p>
-        Jadeja's latest milestone places him alongside some of the greatest
-        all-rounders in Test history.
+        Jadeja has reached 4,000+ Test runs and 350 Test wickets,
+        joining a tiny group of legendary all-rounders.
     </p>
 
     <div class="click-text">
@@ -419,12 +430,12 @@ footer {
     <span class="tag">🌍 ROAD TO 2027</span>
 
     <h3>
-        🏆 The Road to the 2027 ODI World Cup Is Taking Shape
+        🏆 The Road to the 2027 ODI World Cup
     </h3>
 
     <p>
-        The major teams are already through, but four places are still
-        available. The remaining qualification battle could be fascinating.
+        Ten teams are directly qualified and four World Cup places
+        remain. Find out who is still fighting.
     </p>
 
     <div class="click-text">
@@ -444,8 +455,8 @@ footer {
     </h3>
 
     <p>
-        India and Sri Lanka meet again in the second Test as both teams
-        look to make their mark in the series.
+        India and Sri Lanka meet again in the second Test as both sides
+        look to take control of the series.
     </p>
 
     <div class="click-text">
@@ -455,10 +466,11 @@ footer {
 </article>
 
 </div>
+
 </main>
 
 
-<!-- STORY MODAL -->
+<!-- STORY POPUP -->
 
 <div id="storyModal" class="modal">
 
@@ -477,6 +489,8 @@ footer {
 
 const stories = {
 
+/* ================= KEEMO PAUL ================= */
+
 keemo: {
 
 tag: "🔥 UNDER THE RADAR • CPL",
@@ -486,16 +500,16 @@ title: "🇯🇲 Keemo Paul Does It All in a Stunning CPL Performance",
 body: `
 
 <p>
-Sometimes the most memorable performances come from players who do not
-always get the biggest headlines. Keemo Paul produced exactly that kind
-of performance in CPL 2026, showing why he can be such a dangerous
-all-round option in T20 cricket.
+The biggest names in a tournament often receive most of the attention,
+but every season there are performances from players who quietly make
+a huge difference. Keemo Paul produced exactly that kind of performance
+in CPL 2026.
 </p>
 
 <p>
-With Jamaica Kingsmen needing a strong contribution, Paul stepped up
-with the bat and played an explosive innings. He scored <strong>65 runs
-from just 36 balls</strong>, giving his team the momentum it needed.
+Paul showed his ability as a genuine T20 all-rounder by contributing
+heavily in both innings. With the bat, he played an aggressive innings
+that gave his side crucial momentum.
 </p>
 
 <div class="stat-box">
@@ -518,31 +532,44 @@ from just 36 balls</strong>, giving his team the momentum it needed.
 </div>
 
 <p>
-But Paul was not finished. He returned with the ball and added
-<strong>3 wickets for 30 runs</strong>, turning a brilliant batting
-performance into a complete all-round display.
+His <strong>65 from 36 balls</strong> gave Jamaica Kingsmen a powerful
+platform. Instead of simply trying to survive at the crease, Paul
+attacked the bowling and kept the scoring rate moving.
 </p>
 
 <p>
-That combination is what makes the performance stand out. Scoring
-quickly is valuable in T20 cricket, but contributing again with the
-ball gives a player an opportunity to influence both innings.
+He then returned with the ball and completed an excellent all-round
+performance by taking <strong>3 wickets for 30 runs</strong>.
 </p>
 
 <p>
-For Jamaica Kingsmen, Paul's contribution was a major reason they were
-able to control the match. For Paul himself, it was the sort of
-performance that can put an underrated player firmly into the
-spotlight.
+That is what makes this performance more impressive than an ordinary
+half-century. Paul did not just contribute in one department — he
+influenced both sides of the match.
 </p>
 
 <div class="highlight">
-🔥 65 off 36 + 3/30 — a genuine all-round match-winning contribution.
+🔥 65 off 36 + 3/30 — a complete all-round performance.
 </div>
+
+<p>
+Performances like this can be especially important for players trying
+to establish themselves as regular match-winners. Paul showed that he
+can provide explosive runs and then return to make an impact with the
+ball.
+</p>
+
+<p>
+For Jamaica Kingsmen, it was a performance that deserved attention.
+For cricket fans, it was another reminder that some of the most
+important performances do not always come from the biggest stars.
+</p>
 
 `
 },
 
+
+/* ================= JADEJA ================= */
 
 jadeja: {
 
@@ -553,15 +580,15 @@ title: "🇮🇳 Ravindra Jadeja Joins an Elite Group of Test All-Rounders",
 body: `
 
 <p>
-Ravindra Jadeja has added another remarkable achievement to his Test
-career, reaching <strong>350 Test wickets</strong> while also having
-crossed the <strong>4,000-run mark</strong> in Test cricket.
+Ravindra Jadeja has added another huge achievement to his Test career,
+reaching <strong>350 Test wickets</strong> while also having crossed
+the <strong>4,000-run mark</strong> in Test cricket.
 </p>
 
 <p>
-That combination is what makes this milestone so special. Plenty of
-players have enjoyed long and successful Test careers, but very few have
-managed to make such a major impact in both departments.
+Reaching either milestone is difficult. Reaching both requires a player
+to remain productive with both bat and ball over a long Test career.
+That is what makes Jadeja's achievement so special.
 </p>
 
 <div class="stat-box">
@@ -577,63 +604,88 @@ managed to make such a major impact in both departments.
 </div>
 
 <div class="stat">
-<strong>Elite</strong>
-<span>All-Round Club</span>
+<strong>3</strong>
+<span>Players in this group</span>
 </div>
 
 </div>
 
 <p>
-Jadeja now sits alongside an extremely small group of players who have
-combined huge numbers with the bat and ball at Test level.
+Only <strong>three players</strong> have reached the combination of
+<strong>4,000+ Test runs and 350+ Test wickets</strong>:
+</p>
+
+<ul class="team-list">
+
+<li>🇮🇳 <strong>Kapil Dev</strong></li>
+<li>🏴 <strong>Ian Botham</strong></li>
+<li>🇮🇳 <strong>Ravindra Jadeja</strong></li>
+
+</ul>
+
+<div class="highlight">
+🏆 Jadeja is now only the third player to reach both
+4,000+ Test runs and 350+ Test wickets.
+</div>
+
+<p>
+The achievement puts Jadeja alongside two of the most famous
+all-rounders in Test history. Kapil Dev and Ian Botham were both
+match-winning all-rounders who could change games with either bat or
+ball.
 </p>
 
 <p>
-The list includes some of the greatest all-rounders the game has ever
-seen. Reaching this kind of statistical combination requires not only
-talent, but also incredible consistency and longevity.
+Jadeja has developed into a similar type of cricketer for India. He can
+bat in the middle order, bowl long spells of left-arm spin and make
+important contributions in the field.
+</p>
+
+<p>
+It is also worth clearing up one common comparison. South African
+legend <strong>Jacques Kallis</strong> does not qualify for this
+particular 350-wicket mark because he finished his Test career with
+<strong>292 wickets</strong>.
 </p>
 
 <div class="highlight">
-🏆 Only a handful of players in Test history have reached both
-4,000+ runs and 350+ wickets — and Ravindra Jadeja is now one of them.
+🇿🇦 Jacques Kallis: 292 Test wickets — short of the 350-wicket mark.
 </div>
 
 <p>
-What makes Jadeja's achievement even more impressive is the variety of
-ways he can influence a Test match. He can control an innings with the
-ball, produce important runs in the middle and lower order, and make a
-difference in the field.
+Kallis remains one of the greatest all-rounders in cricket history,
+but this particular statistical club is made up of Kapil Dev, Ian
+Botham and Ravindra Jadeja.
 </p>
 
 <p>
-This milestone is another reminder that Jadeja is not simply a useful
-all-rounder. He has built a statistical record that places him among the
-most productive Test all-rounders of his generation.
+Jadeja's achievement is another major chapter in a career that has
+already seen him become one of India's most valuable Test all-rounders.
 </p>
 
 `
 },
 
 
+/* ================= 2027 WORLD CUP ================= */
+
 worldcup: {
 
 tag: "🌍 ROAD TO 2027",
 
-title: "🏆 The Road to the 2027 ODI World Cup Is Taking Shape",
+title: "🏆 The Road to the 2027 ODI World Cup",
 
 body: `
 
 <p>
-The 2027 ODI World Cup is already beginning to take shape, even though
-the tournament itself is still some time away. The 14-team tournament
-will be played in <strong>South Africa, Zimbabwe and Namibia</strong>.
+The 2027 ODI World Cup is beginning to take shape, with the tournament
+set to feature <strong>14 teams</strong> across South Africa, Zimbabwe
+and Namibia.
 </p>
 
 <p>
-The biggest cricketing nations have already secured their places,
-meaning fans already know many of the teams that will be competing for
-the biggest prize in ODI cricket.
+The major teams have already secured direct qualification, but the
+fight for the remaining places is still alive.
 </p>
 
 <div class="stat-box">
@@ -645,74 +697,116 @@ the biggest prize in ODI cricket.
 
 <div class="stat">
 <strong>10</strong>
-<span>Direct Places</span>
+<span>Qualified</span>
 </div>
 
 <div class="stat">
 <strong>4</strong>
-<span>Places Remaining</span>
+<span>Spots Remaining</span>
 </div>
 
 </div>
 
 <p>
-<strong>🇿🇦 South Africa, 🇿🇼 Zimbabwe, 🇦🇺 Australia,
-🇮🇳 India, 🇳🇿 New Zealand, 🇵🇰 Pakistan, 🏴 England,
-🇱🇰 Sri Lanka, 🇧🇩 Bangladesh and 🇦🇫 Afghanistan</strong>
-have secured direct qualification.
+The teams already directly qualified are:
 </p>
 
-<p>
-That leaves four places still to be decided through the qualification
-pathway. This is where the story gets interesting, because teams that
-have traditionally been major names in ODI cricket will still have to
-fight their way through the qualifying route.
-</p>
+<ul class="team-list">
+
+<li>🇿🇦 South Africa</li>
+<li>🇿🇼 Zimbabwe</li>
+<li>🇦🇺 Australia</li>
+<li>🇮🇳 India</li>
+<li>🇳🇿 New Zealand</li>
+<li>🇵🇰 Pakistan</li>
+<li>🏴 England</li>
+<li>🇱🇰 Sri Lanka</li>
+<li>🇧🇩 Bangladesh</li>
+<li>🇦🇫 Afghanistan</li>
+
+</ul>
 
 <div class="highlight">
-🌍 10 teams are in. 4 places remain. The battle for the final spots is
-far from over.
+🌍 10 teams are already in. Only 4 World Cup places remain.
 </div>
 
 <p>
-One of the biggest names facing the qualification route is the
-<strong>West Indies</strong>. Their absence from the directly qualified
-group means they will once again have to fight for a place at the
-World Cup.
+The teams still fighting through the qualification pathway include
+<strong>West Indies, Ireland, Netherlands, Scotland, USA, Canada,
+Oman, Nepal and UAE</strong>, along with teams attempting to progress
+through the earlier qualification stages.
 </p>
 
 <p>
-Ireland are also among the teams heading toward the qualification
-battle. The remaining places will eventually be decided through the
-ICC's qualification system.
+The <strong>West Indies</strong> are one of the biggest names still
+fighting for qualification. Their place is not guaranteed, making the
+qualification campaign especially important.
 </p>
 
 <p>
-And there is an interesting detail about one of the host nations:
-<strong>🇳🇦 Namibia is a co-host but does not automatically qualify
+<strong>Ireland</strong> are another experienced ODI side still involved
+in the qualification battle, while several Associate nations are
+fighting for their chance to reach the biggest ODI tournament.
+</p>
+
+<h3 style="margin:25px 0 12px;color:#123d70;">
+🌍 What about Namibia?
+</h3>
+
+<p>
+Namibia is one of the host nations, but hosting the tournament does
+<strong>not</strong> automatically guarantee them a place in the
+final 14.
+</p>
+
+<p>
+<strong>🇳🇦 Namibia is a co-host but does NOT automatically qualify
 because it is an Associate Member.</strong>
 </p>
 
 <p>
 <strong>South Africa and Zimbabwe are the automatic host
-qualifiers.</strong> Namibia therefore still has to earn its place
-through the qualification pathway.
+qualifiers.</strong>
+Namibia therefore still has to earn its World Cup place through the
+qualification pathway.
 </p>
 
+<h3 style="margin:25px 0 12px;color:#123d70;">
+🇵🇹 What about Portugal?
+</h3>
+
 <p>
-That makes the road to 2027 much more interesting. The tournament may
-already have its biggest names, but the final four teams could come
-from a fierce qualification battle.
+Portugal is <strong>not part of the 2027 ODI World Cup qualification
+pathway</strong>, so there is no current route for Portugal to qualify
+for this tournament.
+</p>
+
+<h3 style="margin:25px 0 12px;color:#123d70;">
+🇦🇷 What about Argentina?
+</h3>
+
+<p>
+Argentina is also <strong>not part of the current 2027 ODI World Cup
+qualification pathway</strong>.
+That means Argentina was not eliminated from a qualifying tournament —
+it simply is not participating in this qualification cycle.
 </p>
 
 <div class="highlight">
-🔥 The World Cup field is taking shape — but four places are still up
-for grabs.
+🔥 The big teams are in — now the battle is for the final four places.
 </div>
+
+<p>
+The remaining qualification stages will determine which teams complete
+the 14-team World Cup field. For several nations, this is their chance
+to make history and earn a place on cricket's biggest ODI stage.
+</p>
 
 `
 },
 
+
+/* ================= INDIA SRI LANKA ================= */
 
 indsl: {
 
@@ -723,15 +817,14 @@ title: "India vs Sri Lanka — The 2nd Test",
 body: `
 
 <p>
-India and Sri Lanka meet in the second Test of the series, bringing
-another important chapter to their battle in the longest format.
+India and Sri Lanka meet in the second Test, with both teams looking
+to make a strong impact in the series.
 </p>
 
 <p>
-The second Test gives both sides another opportunity to make an impact.
-For India, the focus is on maintaining control and finishing the series
-strongly. Sri Lanka, meanwhile, will be looking to respond and put
-pressure back on the visitors.
+The second Test provides another opportunity for players to step up
+with major batting performances, important bowling spells and
+match-changing moments.
 </p>
 
 <div class="highlight">
@@ -739,19 +832,23 @@ pressure back on the visitors.
 </div>
 
 <p>
-Test cricket is often decided by small moments. A long batting
-partnership, a crucial spell with the new ball or a sudden collapse can
-completely change the direction of a match.
+Test cricket is often decided over several days, and a match can turn
+around because of one partnership, one bowling spell or one session
+where a team loses several wickets.
 </p>
 
 <p>
-That is what makes the second Test worth following closely. With both
-teams having plenty to play for, every session can become important.
+India will be looking to maintain pressure and control, while Sri Lanka
+will be aiming to respond strongly and make the contest difficult.
 </p>
 
 <p>
-Keep checking Cricket Hub for the latest developments, standout
-performances and major moments from the match.
+For Cricket Hub, this is one to keep watching as the match develops.
+</p>
+
+<p>
+Check back for major performances, records and turning points from the
+Test.
 </p>
 
 `
@@ -760,6 +857,8 @@ performances and major moments from the match.
 
 };
 
+
+/* OPEN STORY */
 
 function openStory(story) {
 
@@ -781,10 +880,11 @@ function openStory(story) {
     `;
 
     modal.style.display = "block";
-
     document.body.style.overflow = "hidden";
 }
 
+
+/* CLOSE STORY */
 
 function closeStory() {
 
@@ -793,6 +893,8 @@ function closeStory() {
     document.body.style.overflow = "auto";
 }
 
+
+/* CLOSE OUTSIDE MODAL */
 
 window.onclick = function(event) {
 
@@ -804,6 +906,8 @@ window.onclick = function(event) {
 
 };
 
+
+/* ESC KEY */
 
 document.addEventListener("keydown", function(event) {
 
@@ -822,4 +926,3 @@ document.addEventListener("keydown", function(event) {
 </body>
 </html>
 ```
-
