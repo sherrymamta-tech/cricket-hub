@@ -1,83 +1,636 @@
+```html
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-    <title>Cricket Hub - News</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #f2f5f3;
+<title>Cricket Hub | News</title>
+
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        background: #f3f6fa;
+        color: #172033;
+        line-height: 1.6;
+    }
+
+    /* HEADER */
+    header {
+        background: linear-gradient(135deg, #071a35, #124b82);
+        color: white;
+        text-align: center;
+        padding: 35px 20px;
+    }
+
+    header h1 {
+        font-size: 42px;
+        margin-bottom: 5px;
+    }
+
+    header p {
+        font-size: 16px;
+        color: #dcecff;
+    }
+
+    /* NAVIGATION */
+    nav {
+        background: white;
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+        padding: 15px;
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    }
+
+    nav a {
+        text-decoration: none;
+        color: #123d70;
+        font-weight: bold;
+        transition: 0.2s;
+    }
+
+    nav a:hover {
+        color: #e67e22;
+    }
+
+    /* MAIN */
+    .container {
+        max-width: 1100px;
+        margin: 40px auto;
+        padding: 0 20px;
+    }
+
+    .title {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .title h2 {
+        font-size: 32px;
+        color: #123d70;
+    }
+
+    .title p {
+        color: #687386;
+        margin-top: 5px;
+    }
+
+    /* NEWS GRID */
+    .news-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 25px;
+    }
+
+    /* NEWS CARD */
+    .news-card {
+        background: white;
+        border-radius: 18px;
+        padding: 25px;
+        box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+        cursor: pointer;
+        transition: transform 0.25s ease,
+                    box-shadow 0.25s ease;
+        border: 1px solid #e5eaf0;
+    }
+
+    .news-card:hover {
+        transform: translateY(-7px);
+        box-shadow: 0 14px 30px rgba(0,0,0,0.14);
+    }
+
+    .news-card:active {
+        transform: scale(0.98);
+    }
+
+    .featured {
+        grid-column: span 2;
+        border: 2px solid #123d70;
+    }
+
+    .tag {
+        display: inline-block;
+        background: #e8f1ff;
+        color: #1659a8;
+        font-size: 12px;
+        font-weight: bold;
+        padding: 6px 11px;
+        border-radius: 20px;
+        margin-bottom: 14px;
+    }
+
+    .news-card h3 {
+        font-size: 23px;
+        line-height: 1.3;
+        margin-bottom: 12px;
+    }
+
+    .featured h3 {
+        font-size: 30px;
+    }
+
+    .news-card p {
+        color: #596579;
+        font-size: 15px;
+    }
+
+    .click-text {
+        margin-top: 18px;
+        color: #123d70;
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    /* MODAL */
+    .modal {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(5, 15, 30, 0.78);
+        z-index: 1000;
+        padding: 20px;
+        overflow-y: auto;
+    }
+
+    .modal-content {
+        background: white;
+        max-width: 800px;
+        margin: 40px auto;
+        border-radius: 20px;
+        padding: 35px;
+        position: relative;
+        animation: popup 0.25s ease;
+    }
+
+    @keyframes popup {
+        from {
+            opacity: 0;
+            transform: translateY(20px);
         }
 
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .close {
+        position: absolute;
+        top: 15px;
+        right: 20px;
+        font-size: 30px;
+        cursor: pointer;
+        color: #555;
+        font-weight: bold;
+    }
+
+    .close:hover {
+        color: #d62828;
+    }
+
+    .story-tag {
+        display: inline-block;
+        background: #e8f1ff;
+        color: #1659a8;
+        padding: 6px 12px;
+        border-radius: 20px;
+        font-size: 12px;
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+
+    .modal-content h2 {
+        font-size: 32px;
+        color: #123d70;
+        margin-bottom: 20px;
+        line-height: 1.25;
+    }
+
+    .modal-content p {
+        font-size: 16px;
+        color: #414b5c;
+        margin-bottom: 15px;
+    }
+
+    .highlight {
+        background: #f1f6fc;
+        border-left: 5px solid #123d70;
+        padding: 16px;
+        margin: 20px 0;
+        border-radius: 8px;
+        font-weight: bold;
+    }
+
+    /* FOOTER */
+    footer {
+        background: #071a35;
+        color: #dcecff;
+        text-align: center;
+        padding: 25px;
+        margin-top: 50px;
+    }
+
+    /* MOBILE */
+    @media (max-width: 700px) {
+
         header {
-            background-color: #075e2f;
-            color: white;
-            padding: 25px;
-            text-align: center;
+            padding: 25px 15px;
+        }
+
+        header h1 {
+            font-size: 30px;
+        }
+
+        header p {
+            font-size: 14px;
+        }
+
+        nav {
+            justify-content: flex-start;
+            gap: 20px;
+            overflow-x: auto;
+            white-space: nowrap;
         }
 
         nav a {
-            color: white;
-            text-decoration: none;
-            margin: 0 15px;
-            font-weight: bold;
+            font-size: 14px;
         }
 
-        main {
-            padding: 30px;
-            text-align: center;
+        .container {
+            margin: 25px auto;
+            padding: 0 14px;
         }
 
-        .article {
-            background: white;
+        .title h2 {
+            font-size: 26px;
+        }
+
+        .news-grid {
+            grid-template-columns: 1fr;
+            gap: 18px;
+        }
+
+        .featured {
+            grid-column: span 1;
+        }
+
+        .featured h3 {
+            font-size: 24px;
+        }
+
+        .news-card {
             padding: 20px;
-            margin: 20px auto;
-            max-width: 600px;
-            border-radius: 12px;
         }
-    </style>
+
+        .news-card h3 {
+            font-size: 20px;
+        }
+
+        .news-card p {
+            font-size: 14px;
+        }
+
+        .modal {
+            padding: 10px;
+        }
+
+        .modal-content {
+            margin: 15px auto;
+            padding: 25px 20px;
+            border-radius: 16px;
+        }
+
+        .modal-content h2 {
+            font-size: 25px;
+            padding-right: 25px;
+        }
+
+        .modal-content p {
+            font-size: 15px;
+        }
+
+        .close {
+            top: 10px;
+            right: 15px;
+        }
+    }
+</style>
 </head>
 
 <body>
 
 <header>
-
     <h1>🏏 Cricket Hub</h1>
-
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="news.html">News</a>
-        <a href="players.html">Players</a>
-        <a href="teams.html">Teams</a>
-    </nav>
-
+    <p>Latest stories, milestones & performances</p>
 </header>
 
-<main>
+<nav>
+    <a href="index.html">Home</a>
+    <a href="players.html">Players</a>
+    <a href="teams.html">Teams</a>
+    <a href="news.html">News</a>
+</nav>
 
-    <h2>📰 Latest Cricket News</h2>
 
-    <div class="article">
-        <h3>West Indies Miss Direct Qualification</h3>
-        <p>Read about the West Indies' road to the 2027 World Cup.</p>
-        <a href="websiteattachment1.html">Read Article</a>
+<main class="container">
+
+    <div class="title">
+        <h2>📰 Latest Cricket News</h2>
+        <p>Click any story to read the full article.</p>
     </div>
 
-    <div class="article">
-        <h3>Dewald Brevis Ahead of 2027 WC</h3>
-        <p>Learn about South Africa's exciting young batter.</p>
-        <a href="websiteattachment2.html">Read Article</a>
-    </div>
 
-    <div class="article">
-        <h3>Team India: Road to 2027</h3>
-        <p>India's journey towards the 2027 World Cup.</p>
-        <a href="websiteattachment3.html">Read Article</a>
+    <div class="news-grid">
+
+        <!-- KEEMO PAUL -->
+        <article class="news-card featured"
+                 onclick="openStory('keemo')">
+
+            <span class="tag">🔥 UNDER THE RADAR • CPL</span>
+
+            <h3>
+                🇯🇲 Keemo Paul Produces a Stunning All-Round Performance
+            </h3>
+
+            <p>
+                A powerful performance with both bat and ball makes Keemo Paul
+                one of the standout underrated performers.
+            </p>
+
+            <div class="click-text">
+                Read full story → 
+            </div>
+        </article>
+
+
+        <!-- JADEJA -->
+        <article class="news-card"
+                 onclick="openStory('jadeja')">
+
+            <span class="tag">🏆 TEST MILESTONE</span>
+
+            <h3>
+                🇮🇳 Ravindra Jadeja Reaches an Elite Milestone
+            </h3>
+
+            <p>
+                Jadeja reaches 350 Test wickets while also passing the
+                4,000-run mark in Test cricket.
+            </p>
+
+            <div class="click-text">
+                Read full story →
+            </div>
+        </article>
+
+
+        <!-- WORLD CUP -->
+        <article class="news-card"
+                 onclick="openStory('worldcup')">
+
+            <span class="tag">🌍 ROAD TO 2027</span>
+
+            <h3>
+                🏆 The Road to the 2027 ODI World Cup
+            </h3>
+
+            <p>
+                Ten teams are in and four World Cup places remain as the
+                qualification race begins to take shape.
+            </p>
+
+            <div class="click-text">
+                Read full story →
+            </div>
+        </article>
+
+
+        <!-- INDIA SRI LANKA -->
+        <article class="news-card"
+                 onclick="openStory('indsl')">
+
+            <span class="tag">🇮🇳🇱🇰 TEST CRICKET</span>
+
+            <h3>
+                India vs Sri Lanka — The 2nd Test
+            </h3>
+
+            <p>
+                The second Test brings another chapter to the India-Sri Lanka
+                contest.
+            </p>
+
+            <div class="click-text">
+                Read full story →
+            </div>
+        </article>
+
     </div>
 
 </main>
 
+
+<!-- STORY MODAL -->
+<div id="storyModal" class="modal">
+
+    <div class="modal-content">
+
+        <span class="close" onclick="closeStory()">×</span>
+
+        <div id="storyContent"></div>
+
+    </div>
+
+</div>
+
+
+<footer>
+    <p>© 2026 Cricket Hub • Made for cricket fans 🏏</p>
+</footer>
+
+
+<script>
+
+const stories = {
+
+    keemo: {
+        tag: "🔥 UNDER THE RADAR • CPL",
+        title: "🇯🇲 Keemo Paul Produces a Stunning All-Round Performance",
+        body: `
+            <p>
+                Keemo Paul produced one of the standout all-round performances
+                of CPL 2026, showing his impact with both bat and ball.
+            </p>
+
+            <div class="highlight">
+                🏏 65 runs from 36 balls &nbsp; | &nbsp; 🎯 3/30
+            </div>
+
+            <p>
+                His explosive innings gave Jamaica Kingsmen valuable runs
+                before he returned with the ball and made another important
+                contribution.
+            </p>
+
+            <p>
+                Performances like this are exactly why Paul deserves to be
+                noticed among the tournament's underrated performers.
+            </p>
+        `
+    },
+
+
+    jadeja: {
+        tag: "🏆 TEST MILESTONE",
+        title: "🇮🇳 Ravindra Jadeja Reaches an Elite Milestone",
+        body: `
+            <p>
+                Ravindra Jadeja added another major achievement to an already
+                remarkable Test career.
+            </p>
+
+            <div class="highlight">
+                🏏 4,000+ Test runs &nbsp; | &nbsp; 🎯 350 Test wickets
+            </div>
+
+            <p>
+                Reaching both milestones underlines just how valuable Jadeja
+                has been as a complete Test all-rounder.
+            </p>
+
+            <p>
+                Only a tiny group of players in Test history have combined
+                this level of batting and bowling success.
+            </p>
+        `
+    },
+
+
+    worldcup: {
+        tag: "🌍 ROAD TO 2027",
+        title: "🏆 The Road to the 2027 ODI World Cup",
+        body: `
+            <p>
+                The race for the 2027 ODI World Cup is beginning to take
+                shape, with the major teams securing their places and the
+                remaining teams fighting through qualification.
+            </p>
+
+            <div class="highlight">
+                🌍 14 teams will compete &nbsp; | &nbsp;
+                10 places secured &nbsp; | &nbsp;
+                4 places remaining
+            </div>
+
+            <p>
+                The remaining qualification spots will create another exciting
+                battle for teams hoping to reach the biggest tournament in
+                ODI cricket.
+            </p>
+
+            <p>
+                The qualification race is far from over, and every major
+                series can change the picture.
+            </p>
+        `
+    },
+
+
+    indsl: {
+        tag: "🇮🇳🇱🇰 TEST CRICKET",
+        title: "India vs Sri Lanka — The 2nd Test",
+        body: `
+            <p>
+                India and Sri Lanka meet again in the second Test, with both
+                sides looking to make a strong statement in the series.
+            </p>
+
+            <div class="highlight">
+                🏏 India vs Sri Lanka • 2nd Test
+            </div>
+
+            <p>
+                Test cricket can change quickly, with batting partnerships,
+                bowling spells and sessions often deciding the direction of
+                the match.
+            </p>
+
+            <p>
+                Keep checking Cricket Hub for the latest updates from the
+                contest.
+            </p>
+        `
+    }
+
+};
+
+
+function openStory(story) {
+
+    const modal = document.getElementById("storyModal");
+    const content = document.getElementById("storyContent");
+
+    const selectedStory = stories[story];
+
+    content.innerHTML = `
+        <span class="story-tag">
+            ${selectedStory.tag}
+        </span>
+
+        <h2>
+            ${selectedStory.title}
+        </h2>
+
+        ${selectedStory.body}
+    `;
+
+    modal.style.display = "block";
+
+    document.body.style.overflow = "hidden";
+}
+
+
+function closeStory() {
+
+    document.getElementById("storyModal").style.display = "none";
+
+    document.body.style.overflow = "auto";
+}
+
+
+/* Close when clicking outside the story */
+window.onclick = function(event) {
+
+    const modal = document.getElementById("storyModal");
+
+    if (event.target === modal) {
+        closeStory();
+    }
+}
+
+
+/* Close with ESC key */
+document.addEventListener("keydown", function(event) {
+
+    if (event.key === "Escape") {
+        closeStory();
+    }
+
+});
+
+</script>
+
 </body>
 </html>
+```
+
