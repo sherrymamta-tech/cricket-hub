@@ -8,322 +8,342 @@
 <title>Cricket Hub | News</title>
 
 <style>
-    * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-    }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-    body {
-        font-family: Arial, Helvetica, sans-serif;
-        background: #f3f6fa;
-        color: #172033;
-        line-height: 1.6;
-    }
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f3f6fa;
+    color: #172033;
+    line-height: 1.7;
+}
 
-    /* HEADER */
+/* HEADER */
+header {
+    background: linear-gradient(135deg, #071a35, #124b82);
+    color: white;
+    text-align: center;
+    padding: 35px 20px;
+}
+
+header h1 {
+    font-size: 42px;
+    margin-bottom: 6px;
+}
+
+header p {
+    color: #dcecff;
+    font-size: 16px;
+}
+
+/* NAVIGATION */
+nav {
+    background: white;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 15px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
+nav a {
+    text-decoration: none;
+    color: #123d70;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #e67e22;
+}
+
+/* MAIN */
+.container {
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.title h2 {
+    font-size: 32px;
+    color: #123d70;
+}
+
+.title p {
+    color: #687386;
+}
+
+/* NEWS GRID */
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+}
+
+/* CARDS */
+.news-card {
+    background: white;
+    border-radius: 18px;
+    padding: 26px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+    cursor: pointer;
+    transition: 0.25s;
+    border: 1px solid #e5eaf0;
+}
+
+.news-card:hover {
+    transform: translateY(-7px);
+    box-shadow: 0 14px 30px rgba(0,0,0,0.14);
+}
+
+.news-card:active {
+    transform: scale(0.98);
+}
+
+.featured {
+    grid-column: span 2;
+    border: 2px solid #123d70;
+}
+
+.tag {
+    display: inline-block;
+    background: #e8f1ff;
+    color: #1659a8;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 6px 11px;
+    border-radius: 20px;
+    margin-bottom: 14px;
+}
+
+.news-card h3 {
+    font-size: 23px;
+    line-height: 1.35;
+    margin-bottom: 12px;
+}
+
+.featured h3 {
+    font-size: 30px;
+}
+
+.news-card p {
+    color: #596579;
+    font-size: 15px;
+}
+
+.click-text {
+    margin-top: 18px;
+    color: #123d70;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* MODAL */
+.modal {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(5,15,30,0.82);
+    z-index: 1000;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+.modal-content {
+    background: white;
+    max-width: 850px;
+    margin: 35px auto;
+    border-radius: 20px;
+    padding: 40px;
+    position: relative;
+    animation: popup 0.25s ease;
+}
+
+@keyframes popup {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 22px;
+    font-size: 32px;
+    cursor: pointer;
+    color: #555;
+    font-weight: bold;
+}
+
+.close:hover {
+    color: #d62828;
+}
+
+.story-tag {
+    display: inline-block;
+    background: #e8f1ff;
+    color: #1659a8;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.modal-content h2 {
+    font-size: 34px;
+    color: #123d70;
+    margin-bottom: 22px;
+    line-height: 1.3;
+}
+
+.modal-content p {
+    font-size: 17px;
+    color: #414b5c;
+    margin-bottom: 18px;
+}
+
+.highlight {
+    background: #f1f6fc;
+    border-left: 5px solid #123d70;
+    padding: 18px;
+    margin: 25px 0;
+    border-radius: 8px;
+    font-weight: bold;
+    color: #172033;
+}
+
+.stat-box {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 12px;
+    margin: 25px 0;
+}
+
+.stat {
+    background: #f5f7fa;
+    padding: 15px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.stat strong {
+    display: block;
+    font-size: 21px;
+    color: #123d70;
+}
+
+.stat span {
+    font-size: 12px;
+    color: #667085;
+}
+
+/* FOOTER */
+footer {
+    background: #071a35;
+    color: #dcecff;
+    text-align: center;
+    padding: 25px;
+    margin-top: 50px;
+}
+
+/* MOBILE */
+@media (max-width: 700px) {
+
     header {
-        background: linear-gradient(135deg, #071a35, #124b82);
-        color: white;
-        text-align: center;
-        padding: 35px 20px;
+        padding: 25px 15px;
     }
 
     header h1 {
-        font-size: 42px;
-        margin-bottom: 5px;
+        font-size: 30px;
     }
 
     header p {
-        font-size: 16px;
-        color: #dcecff;
+        font-size: 14px;
     }
 
-    /* NAVIGATION */
     nav {
-        background: white;
-        display: flex;
-        justify-content: center;
-        gap: 30px;
-        padding: 15px;
-        position: sticky;
-        top: 0;
-        z-index: 100;
-        box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        justify-content: flex-start;
+        gap: 20px;
+        overflow-x: auto;
+        white-space: nowrap;
     }
 
     nav a {
-        text-decoration: none;
-        color: #123d70;
-        font-weight: bold;
-        transition: 0.2s;
+        font-size: 14px;
     }
 
-    nav a:hover {
-        color: #e67e22;
-    }
-
-    /* MAIN */
     .container {
-        max-width: 1100px;
-        margin: 40px auto;
-        padding: 0 20px;
-    }
-
-    .title {
-        text-align: center;
-        margin-bottom: 30px;
+        margin: 25px auto;
+        padding: 0 14px;
     }
 
     .title h2 {
-        font-size: 32px;
-        color: #123d70;
+        font-size: 26px;
     }
 
-    .title p {
-        color: #687386;
-        margin-top: 5px;
-    }
-
-    /* NEWS GRID */
     .news-grid {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 25px;
-    }
-
-    /* NEWS CARD */
-    .news-card {
-        background: white;
-        border-radius: 18px;
-        padding: 25px;
-        box-shadow: 0 6px 20px rgba(0,0,0,0.08);
-        cursor: pointer;
-        transition: transform 0.25s ease,
-                    box-shadow 0.25s ease;
-        border: 1px solid #e5eaf0;
-    }
-
-    .news-card:hover {
-        transform: translateY(-7px);
-        box-shadow: 0 14px 30px rgba(0,0,0,0.14);
-    }
-
-    .news-card:active {
-        transform: scale(0.98);
+        grid-template-columns: 1fr;
+        gap: 18px;
     }
 
     .featured {
-        grid-column: span 2;
-        border: 2px solid #123d70;
-    }
-
-    .tag {
-        display: inline-block;
-        background: #e8f1ff;
-        color: #1659a8;
-        font-size: 12px;
-        font-weight: bold;
-        padding: 6px 11px;
-        border-radius: 20px;
-        margin-bottom: 14px;
-    }
-
-    .news-card h3 {
-        font-size: 23px;
-        line-height: 1.3;
-        margin-bottom: 12px;
+        grid-column: span 1;
     }
 
     .featured h3 {
-        font-size: 30px;
+        font-size: 24px;
+    }
+
+    .news-card {
+        padding: 20px;
+    }
+
+    .news-card h3 {
+        font-size: 20px;
     }
 
     .news-card p {
-        color: #596579;
-        font-size: 15px;
-    }
-
-    .click-text {
-        margin-top: 18px;
-        color: #123d70;
         font-size: 14px;
-        font-weight: bold;
     }
 
-    /* MODAL */
     .modal {
-        display: none;
-        position: fixed;
-        inset: 0;
-        background: rgba(5, 15, 30, 0.78);
-        z-index: 1000;
-        padding: 20px;
-        overflow-y: auto;
+        padding: 10px;
     }
 
     .modal-content {
-        background: white;
-        max-width: 800px;
-        margin: 40px auto;
-        border-radius: 20px;
-        padding: 35px;
-        position: relative;
-        animation: popup 0.25s ease;
-    }
-
-    @keyframes popup {
-        from {
-            opacity: 0;
-            transform: translateY(20px);
-        }
-
-        to {
-            opacity: 1;
-            transform: translateY(0);
-        }
-    }
-
-    .close {
-        position: absolute;
-        top: 15px;
-        right: 20px;
-        font-size: 30px;
-        cursor: pointer;
-        color: #555;
-        font-weight: bold;
-    }
-
-    .close:hover {
-        color: #d62828;
-    }
-
-    .story-tag {
-        display: inline-block;
-        background: #e8f1ff;
-        color: #1659a8;
-        padding: 6px 12px;
-        border-radius: 20px;
-        font-size: 12px;
-        font-weight: bold;
-        margin-bottom: 15px;
+        margin: 15px auto;
+        padding: 28px 20px;
     }
 
     .modal-content h2 {
-        font-size: 32px;
-        color: #123d70;
-        margin-bottom: 20px;
-        line-height: 1.25;
+        font-size: 26px;
+        padding-right: 25px;
     }
 
     .modal-content p {
-        font-size: 16px;
-        color: #414b5c;
-        margin-bottom: 15px;
+        font-size: 15px;
     }
 
-    .highlight {
-        background: #f1f6fc;
-        border-left: 5px solid #123d70;
-        padding: 16px;
-        margin: 20px 0;
-        border-radius: 8px;
-        font-weight: bold;
+    .stat-box {
+        grid-template-columns: 1fr;
     }
-
-    /* FOOTER */
-    footer {
-        background: #071a35;
-        color: #dcecff;
-        text-align: center;
-        padding: 25px;
-        margin-top: 50px;
-    }
-
-    /* MOBILE */
-    @media (max-width: 700px) {
-
-        header {
-            padding: 25px 15px;
-        }
-
-        header h1 {
-            font-size: 30px;
-        }
-
-        header p {
-            font-size: 14px;
-        }
-
-        nav {
-            justify-content: flex-start;
-            gap: 20px;
-            overflow-x: auto;
-            white-space: nowrap;
-        }
-
-        nav a {
-            font-size: 14px;
-        }
-
-        .container {
-            margin: 25px auto;
-            padding: 0 14px;
-        }
-
-        .title h2 {
-            font-size: 26px;
-        }
-
-        .news-grid {
-            grid-template-columns: 1fr;
-            gap: 18px;
-        }
-
-        .featured {
-            grid-column: span 1;
-        }
-
-        .featured h3 {
-            font-size: 24px;
-        }
-
-        .news-card {
-            padding: 20px;
-        }
-
-        .news-card h3 {
-            font-size: 20px;
-        }
-
-        .news-card p {
-            font-size: 14px;
-        }
-
-        .modal {
-            padding: 10px;
-        }
-
-        .modal-content {
-            margin: 15px auto;
-            padding: 25px 20px;
-            border-radius: 16px;
-        }
-
-        .modal-content h2 {
-            font-size: 25px;
-            padding-right: 25px;
-        }
-
-        .modal-content p {
-            font-size: 15px;
-        }
-
-        .close {
-            top: 10px;
-            right: 15px;
-        }
-    }
+}
 </style>
 </head>
 
@@ -341,236 +361,402 @@
     <a href="news.html">News</a>
 </nav>
 
-
 <main class="container">
 
-    <div class="title">
-        <h2>📰 Latest Cricket News</h2>
-        <p>Click any story to read the full article.</p>
+<div class="title">
+    <h2>📰 Latest Cricket News</h2>
+    <p>Click any story to read the full article.</p>
+</div>
+
+<div class="news-grid">
+
+<!-- KEEMO PAUL -->
+<article class="news-card featured" onclick="openStory('keemo')">
+
+    <span class="tag">🔥 UNDER THE RADAR • CPL</span>
+
+    <h3>
+        🇯🇲 Keemo Paul Does It All in a Stunning CPL Performance
+    </h3>
+
+    <p>
+        Keemo Paul produced the kind of all-round performance that can
+        completely change a T20 match, making a major contribution with
+        both bat and ball.
+    </p>
+
+    <div class="click-text">
+        Read full story →
     </div>
 
-
-    <div class="news-grid">
-
-        <!-- KEEMO PAUL -->
-        <article class="news-card featured"
-                 onclick="openStory('keemo')">
-
-            <span class="tag">🔥 UNDER THE RADAR • CPL</span>
-
-            <h3>
-                🇯🇲 Keemo Paul Produces a Stunning All-Round Performance
-            </h3>
-
-            <p>
-                A powerful performance with both bat and ball makes Keemo Paul
-                one of the standout underrated performers.
-            </p>
-
-            <div class="click-text">
-                Read full story → 
-            </div>
-        </article>
+</article>
 
 
-        <!-- JADEJA -->
-        <article class="news-card"
-                 onclick="openStory('jadeja')">
+<!-- JADEJA -->
+<article class="news-card" onclick="openStory('jadeja')">
 
-            <span class="tag">🏆 TEST MILESTONE</span>
+    <span class="tag">🏆 TEST MILESTONE</span>
 
-            <h3>
-                🇮🇳 Ravindra Jadeja Reaches an Elite Milestone
-            </h3>
+    <h3>
+        🇮🇳 Ravindra Jadeja Joins an Elite Group of Test All-Rounders
+    </h3>
 
-            <p>
-                Jadeja reaches 350 Test wickets while also passing the
-                4,000-run mark in Test cricket.
-            </p>
+    <p>
+        Jadeja's latest milestone places him alongside some of the greatest
+        all-rounders in Test history.
+    </p>
 
-            <div class="click-text">
-                Read full story →
-            </div>
-        </article>
-
-
-        <!-- WORLD CUP -->
-        <article class="news-card"
-                 onclick="openStory('worldcup')">
-
-            <span class="tag">🌍 ROAD TO 2027</span>
-
-            <h3>
-                🏆 The Road to the 2027 ODI World Cup
-            </h3>
-
-            <p>
-                Ten teams are in and four World Cup places remain as the
-                qualification race begins to take shape.
-            </p>
-
-            <div class="click-text">
-                Read full story →
-            </div>
-        </article>
-
-
-        <!-- INDIA SRI LANKA -->
-        <article class="news-card"
-                 onclick="openStory('indsl')">
-
-            <span class="tag">🇮🇳🇱🇰 TEST CRICKET</span>
-
-            <h3>
-                India vs Sri Lanka — The 2nd Test
-            </h3>
-
-            <p>
-                The second Test brings another chapter to the India-Sri Lanka
-                contest.
-            </p>
-
-            <div class="click-text">
-                Read full story →
-            </div>
-        </article>
-
+    <div class="click-text">
+        Read full story →
     </div>
 
+</article>
+
+
+<!-- WORLD CUP -->
+<article class="news-card" onclick="openStory('worldcup')">
+
+    <span class="tag">🌍 ROAD TO 2027</span>
+
+    <h3>
+        🏆 The Road to the 2027 ODI World Cup Is Taking Shape
+    </h3>
+
+    <p>
+        The major teams are already through, but four places are still
+        available. The remaining qualification battle could be fascinating.
+    </p>
+
+    <div class="click-text">
+        Read full story →
+    </div>
+
+</article>
+
+
+<!-- INDIA SRI LANKA -->
+<article class="news-card" onclick="openStory('indsl')">
+
+    <span class="tag">🇮🇳🇱🇰 TEST CRICKET</span>
+
+    <h3>
+        India vs Sri Lanka — The 2nd Test
+    </h3>
+
+    <p>
+        India and Sri Lanka meet again in the second Test as both teams
+        look to make their mark in the series.
+    </p>
+
+    <div class="click-text">
+        Read full story →
+    </div>
+
+</article>
+
+</div>
 </main>
 
 
 <!-- STORY MODAL -->
+
 <div id="storyModal" class="modal">
 
-    <div class="modal-content">
+<div class="modal-content">
 
-        <span class="close" onclick="closeStory()">×</span>
+<span class="close" onclick="closeStory()">×</span>
 
-        <div id="storyContent"></div>
-
-    </div>
+<div id="storyContent"></div>
 
 </div>
 
-
-<footer>
-    <p>© 2026 Cricket Hub • Made for cricket fans 🏏</p>
-</footer>
+</div>
 
 
 <script>
 
 const stories = {
 
-    keemo: {
-        tag: "🔥 UNDER THE RADAR • CPL",
-        title: "🇯🇲 Keemo Paul Produces a Stunning All-Round Performance",
-        body: `
-            <p>
-                Keemo Paul produced one of the standout all-round performances
-                of CPL 2026, showing his impact with both bat and ball.
-            </p>
+keemo: {
 
-            <div class="highlight">
-                🏏 65 runs from 36 balls &nbsp; | &nbsp; 🎯 3/30
-            </div>
+tag: "🔥 UNDER THE RADAR • CPL",
 
-            <p>
-                His explosive innings gave Jamaica Kingsmen valuable runs
-                before he returned with the ball and made another important
-                contribution.
-            </p>
+title: "🇯🇲 Keemo Paul Does It All in a Stunning CPL Performance",
 
-            <p>
-                Performances like this are exactly why Paul deserves to be
-                noticed among the tournament's underrated performers.
-            </p>
-        `
-    },
+body: `
 
+<p>
+Sometimes the most memorable performances come from players who do not
+always get the biggest headlines. Keemo Paul produced exactly that kind
+of performance in CPL 2026, showing why he can be such a dangerous
+all-round option in T20 cricket.
+</p>
 
-    jadeja: {
-        tag: "🏆 TEST MILESTONE",
-        title: "🇮🇳 Ravindra Jadeja Reaches an Elite Milestone",
-        body: `
-            <p>
-                Ravindra Jadeja added another major achievement to an already
-                remarkable Test career.
-            </p>
+<p>
+With Jamaica Kingsmen needing a strong contribution, Paul stepped up
+with the bat and played an explosive innings. He scored <strong>65 runs
+from just 36 balls</strong>, giving his team the momentum it needed.
+</p>
 
-            <div class="highlight">
-                🏏 4,000+ Test runs &nbsp; | &nbsp; 🎯 350 Test wickets
-            </div>
+<div class="stat-box">
 
-            <p>
-                Reaching both milestones underlines just how valuable Jadeja
-                has been as a complete Test all-rounder.
-            </p>
+<div class="stat">
+<strong>65</strong>
+<span>Runs</span>
+</div>
 
-            <p>
-                Only a tiny group of players in Test history have combined
-                this level of batting and bowling success.
-            </p>
-        `
-    },
+<div class="stat">
+<strong>36</strong>
+<span>Balls</span>
+</div>
 
+<div class="stat">
+<strong>3/30</strong>
+<span>Bowling</span>
+</div>
 
-    worldcup: {
-        tag: "🌍 ROAD TO 2027",
-        title: "🏆 The Road to the 2027 ODI World Cup",
-        body: `
-            <p>
-                The race for the 2027 ODI World Cup is beginning to take
-                shape, with the major teams securing their places and the
-                remaining teams fighting through qualification.
-            </p>
+</div>
 
-            <div class="highlight">
-                🌍 14 teams will compete &nbsp; | &nbsp;
-                10 places secured &nbsp; | &nbsp;
-                4 places remaining
-            </div>
+<p>
+But Paul was not finished. He returned with the ball and added
+<strong>3 wickets for 30 runs</strong>, turning a brilliant batting
+performance into a complete all-round display.
+</p>
 
-            <p>
-                The remaining qualification spots will create another exciting
-                battle for teams hoping to reach the biggest tournament in
-                ODI cricket.
-            </p>
+<p>
+That combination is what makes the performance stand out. Scoring
+quickly is valuable in T20 cricket, but contributing again with the
+ball gives a player an opportunity to influence both innings.
+</p>
 
-            <p>
-                The qualification race is far from over, and every major
-                series can change the picture.
-            </p>
-        `
-    },
+<p>
+For Jamaica Kingsmen, Paul's contribution was a major reason they were
+able to control the match. For Paul himself, it was the sort of
+performance that can put an underrated player firmly into the
+spotlight.
+</p>
+
+<div class="highlight">
+🔥 65 off 36 + 3/30 — a genuine all-round match-winning contribution.
+</div>
+
+`
+},
 
 
-    indsl: {
-        tag: "🇮🇳🇱🇰 TEST CRICKET",
-        title: "India vs Sri Lanka — The 2nd Test",
-        body: `
-            <p>
-                India and Sri Lanka meet again in the second Test, with both
-                sides looking to make a strong statement in the series.
-            </p>
+jadeja: {
 
-            <div class="highlight">
-                🏏 India vs Sri Lanka • 2nd Test
-            </div>
+tag: "🏆 TEST MILESTONE",
 
-            <p>
-                Test cricket can change quickly, with batting partnerships,
-                bowling spells and sessions often deciding the direction of
-                the match.
-            </p>
+title: "🇮🇳 Ravindra Jadeja Joins an Elite Group of Test All-Rounders",
 
-            <p>
-                Keep checking Cricket Hub for the latest updates from the
-                contest.
-            </p>
-        `
-    }
+body: `
+
+<p>
+Ravindra Jadeja has added another remarkable achievement to his Test
+career, reaching <strong>350 Test wickets</strong> while also having
+crossed the <strong>4,000-run mark</strong> in Test cricket.
+</p>
+
+<p>
+That combination is what makes this milestone so special. Plenty of
+players have enjoyed long and successful Test careers, but very few have
+managed to make such a major impact in both departments.
+</p>
+
+<div class="stat-box">
+
+<div class="stat">
+<strong>4,000+</strong>
+<span>Test Runs</span>
+</div>
+
+<div class="stat">
+<strong>350</strong>
+<span>Test Wickets</span>
+</div>
+
+<div class="stat">
+<strong>Elite</strong>
+<span>All-Round Club</span>
+</div>
+
+</div>
+
+<p>
+Jadeja now sits alongside an extremely small group of players who have
+combined huge numbers with the bat and ball at Test level.
+</p>
+
+<p>
+The list includes some of the greatest all-rounders the game has ever
+seen. Reaching this kind of statistical combination requires not only
+talent, but also incredible consistency and longevity.
+</p>
+
+<div class="highlight">
+🏆 Only a handful of players in Test history have reached both
+4,000+ runs and 350+ wickets — and Ravindra Jadeja is now one of them.
+</div>
+
+<p>
+What makes Jadeja's achievement even more impressive is the variety of
+ways he can influence a Test match. He can control an innings with the
+ball, produce important runs in the middle and lower order, and make a
+difference in the field.
+</p>
+
+<p>
+This milestone is another reminder that Jadeja is not simply a useful
+all-rounder. He has built a statistical record that places him among the
+most productive Test all-rounders of his generation.
+</p>
+
+`
+},
+
+
+worldcup: {
+
+tag: "🌍 ROAD TO 2027",
+
+title: "🏆 The Road to the 2027 ODI World Cup Is Taking Shape",
+
+body: `
+
+<p>
+The 2027 ODI World Cup is already beginning to take shape, even though
+the tournament itself is still some time away. The 14-team tournament
+will be played in <strong>South Africa, Zimbabwe and Namibia</strong>.
+</p>
+
+<p>
+The biggest cricketing nations have already secured their places,
+meaning fans already know many of the teams that will be competing for
+the biggest prize in ODI cricket.
+</p>
+
+<div class="stat-box">
+
+<div class="stat">
+<strong>14</strong>
+<span>Total Teams</span>
+</div>
+
+<div class="stat">
+<strong>10</strong>
+<span>Direct Places</span>
+</div>
+
+<div class="stat">
+<strong>4</strong>
+<span>Places Remaining</span>
+</div>
+
+</div>
+
+<p>
+<strong>🇿🇦 South Africa, 🇿🇼 Zimbabwe, 🇦🇺 Australia,
+🇮🇳 India, 🇳🇿 New Zealand, 🇵🇰 Pakistan, 🏴 England,
+🇱🇰 Sri Lanka, 🇧🇩 Bangladesh and 🇦🇫 Afghanistan</strong>
+have secured direct qualification.
+</p>
+
+<p>
+That leaves four places still to be decided through the qualification
+pathway. This is where the story gets interesting, because teams that
+have traditionally been major names in ODI cricket will still have to
+fight their way through the qualifying route.
+</p>
+
+<div class="highlight">
+🌍 10 teams are in. 4 places remain. The battle for the final spots is
+far from over.
+</div>
+
+<p>
+One of the biggest names facing the qualification route is the
+<strong>West Indies</strong>. Their absence from the directly qualified
+group means they will once again have to fight for a place at the
+World Cup.
+</p>
+
+<p>
+Ireland are also among the teams heading toward the qualification
+battle. The remaining places will eventually be decided through the
+ICC's qualification system.
+</p>
+
+<p>
+And there is an interesting detail about one of the host nations:
+<strong>🇳🇦 Namibia is a co-host but does not automatically qualify
+because it is an Associate Member.</strong>
+</p>
+
+<p>
+<strong>South Africa and Zimbabwe are the automatic host
+qualifiers.</strong> Namibia therefore still has to earn its place
+through the qualification pathway.
+</p>
+
+<p>
+That makes the road to 2027 much more interesting. The tournament may
+already have its biggest names, but the final four teams could come
+from a fierce qualification battle.
+</p>
+
+<div class="highlight">
+🔥 The World Cup field is taking shape — but four places are still up
+for grabs.
+</div>
+
+`
+},
+
+
+indsl: {
+
+tag: "🇮🇳🇱🇰 TEST CRICKET",
+
+title: "India vs Sri Lanka — The 2nd Test",
+
+body: `
+
+<p>
+India and Sri Lanka meet in the second Test of the series, bringing
+another important chapter to their battle in the longest format.
+</p>
+
+<p>
+The second Test gives both sides another opportunity to make an impact.
+For India, the focus is on maintaining control and finishing the series
+strongly. Sri Lanka, meanwhile, will be looking to respond and put
+pressure back on the visitors.
+</p>
+
+<div class="highlight">
+🏏 India 🇮🇳 vs Sri Lanka 🇱🇰 — 2nd Test
+</div>
+
+<p>
+Test cricket is often decided by small moments. A long batting
+partnership, a crucial spell with the new ball or a sudden collapse can
+completely change the direction of a match.
+</p>
+
+<p>
+That is what makes the second Test worth following closely. With both
+teams having plenty to play for, every session can become important.
+</p>
+
+<p>
+Keep checking Cricket Hub for the latest developments, standout
+performances and major moments from the match.
+</p>
+
+`
+
+}
 
 };
 
@@ -608,7 +794,6 @@ function closeStory() {
 }
 
 
-/* Close when clicking outside the story */
 window.onclick = function(event) {
 
     const modal = document.getElementById("storyModal");
@@ -616,10 +801,10 @@ window.onclick = function(event) {
     if (event.target === modal) {
         closeStory();
     }
-}
+
+};
 
 
-/* Close with ESC key */
 document.addEventListener("keydown", function(event) {
 
     if (event.key === "Escape") {
@@ -629,6 +814,10 @@ document.addEventListener("keydown", function(event) {
 });
 
 </script>
+
+<footer>
+    <p>© 2026 Cricket Hub • Made for cricket fans 🏏</p>
+</footer>
 
 </body>
 </html>
