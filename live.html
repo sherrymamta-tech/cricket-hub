@@ -214,6 +214,150 @@
 </footer>
 
 <script>
+    ```html
+<script>
+
+const API =
+    "https://sportscore.com/api/widget/matches/?sport=cricket&limit=20";
+
+async function loadScores() {
+
+    const status = document.getElementById("status");
+    const matches = document.getElementById("matches");
+
+    status.textContent = "Loading live scores...";
+    matches.innerHTML = "";
+
+    try {
+
+        const response = await fetch(API);
+
+        if (!response.ok) {
+            throw new Error("API request failed");
+        }
+
+        const data = await response.json();
+
+        console.log("SportScore data:", data);
+
+        const list = data.matches || [];
+
+        if (!list.length) {
+            status.textContent =
+                "No cricket matches found right now.";
+            return;
+        }
+
+        status.textContent =
+            "🏏 Cricket Matches";
+
+        list.forEach(match => {
+
+            const card = document.createElement("div");
+
+            card.className = "match";
+
+            const home =
+                match.home || "Unknown Team";
+
+            const away =
+                match.away || "Unknown Team";
+
+            const homeScore =
+                match.home_score ?? "-";
+
+            const awayScore =
+                match.away_score ?? "-";
+
+            const matchStatus =
+                match.status || "unknown";
+
+            const homeLogo =
+                match.home_logo || "";
+
+            const awayLogo =
+                match.away_logo || "";
+
+            card.innerHTML = `
+
+                <div class="match-title">
+                    🏏 Cricket Match
+                </div>
+
+                <div class="teams">
+
+                    ${homeLogo
+                        ? `<img src="${homeLogo}"
+                           alt="${home}"
+                           style="width:35px;height:35px;
+                           object-fit:contain;
+                           vertical-align:middle;
+                           margin-right:8px;">`
+                        : "🏏"
+                    }
+
+                    ${home}
+
+                </div>
+
+                <div class="score">
+                    ${homeScore}
+                </div>
+
+                <div class="teams">
+
+                    ${awayLogo
+                        ? `<img src="${awayLogo}"
+                           alt="${away}"
+                           style="width:35px;height:35px;
+                           object-fit:contain;
+                           vertical-align:middle;
+                           margin-right:8px;">`
+                        : "🏏"
+                    }
+
+                    ${away}
+
+                </div>
+
+                <div class="score">
+                    ${awayScore}
+                </div>
+
+                <div class="match-status">
+                    ${matchStatus.toUpperCase()}
+                </div>
+
+            `;
+
+            matches.appendChild(card);
+
+        });
+
+    } catch (error) {
+
+        console.error(error);
+
+        status.innerHTML = `
+            <div class="error">
+                ❌ Couldn't load live scores.
+                <br><br>
+                Try refreshing the page.
+            </div>
+        `;
+
+    }
+
+}
+
+loadScores();
+
+/* Refresh every 60 seconds */
+setInterval(loadScores, 60000);
+
+</script>
+```
+
 
 const API =
     "https://sportscore.com/api/widget/matches/?sport=cricket&limit=20";
