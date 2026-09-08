@@ -1,0 +1,1217 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Cricket Hub | Match Mode</title>
+
+<style>
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f3f6fa;
+    color: #172033;
+    line-height: 1.5;
+}
+
+header {
+    background: linear-gradient(135deg, #071a35, #124b82);
+    color: white;
+    text-align: center;
+    padding: 32px 18px;
+}
+
+header h1 {
+    font-size: 38px;
+}
+
+header p {
+    color: #dcecff;
+    margin-top: 6px;
+}
+
+nav {
+    background: white;
+    display: flex;
+    justify-content: center;
+    gap: 22px;
+    padding: 14px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+nav a {
+    color: #123d70;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #e67e22;
+}
+
+.container {
+    max-width: 950px;
+    margin: 30px auto;
+    padding: 0 16px;
+}
+
+.game-box {
+    background: white;
+    border-radius: 18px;
+    padding: 28px;
+    box-shadow: 0 7px 25px rgba(0,0,0,0.08);
+}
+
+.match-header {
+    text-align: center;
+    margin-bottom: 22px;
+}
+
+.match-header h2 {
+    color: #123d70;
+    font-size: 29px;
+}
+
+.scoreboard {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-bottom: 22px;
+}
+
+.stat {
+    background: #f1f6fc;
+    border-radius: 10px;
+    padding: 13px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.stat span {
+    display: block;
+    font-size: 21px;
+    color: #123d70;
+    margin-top: 3px;
+}
+
+.momentum-box {
+    margin: 18px 0;
+}
+
+.momentum-title {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    margin-bottom: 7px;
+}
+
+.momentum-bar {
+    height: 16px;
+    background: #e1e6ed;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+#momentumFill {
+    height: 100%;
+    width: 50%;
+    transition: width 0.4s ease;
+    background: #123d70;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 15px 0;
+}
+
+.tag {
+    background: #edf3fa;
+    padding: 7px 11px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.situation {
+    background: #f8fafc;
+    padding: 22px;
+    border-radius: 13px;
+    margin: 20px 0;
+}
+
+.situation h3 {
+    color: #123d70;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.options {
+    display: grid;
+    gap: 12px;
+}
+
+.option {
+    width: 100%;
+    padding: 16px;
+    border-radius: 11px;
+    border: 2px solid #dce3ec;
+    background: white;
+    text-align: left;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.option:hover {
+    border-color: #123d70;
+    background: #f4f8fd;
+}
+
+.option:disabled {
+    opacity: 0.65;
+    cursor: default;
+}
+
+.result {
+    display: none;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.good {
+    background: #e8f7ed;
+    border-left: 5px solid #26994a;
+}
+
+.bad {
+    background: #fff0f0;
+    border-left: 5px solid #d62828;
+}
+
+.next,
+.start,
+.restart {
+    width: 100%;
+    padding: 14px;
+    margin-top: 18px;
+    border: none;
+    border-radius: 10px;
+    background: #123d70;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.restart {
+    background: #e67e22;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.career {
+    margin-top: 25px;
+    background: #f7f9fc;
+    padding: 18px;
+    border-radius: 12px;
+}
+
+.career h3 {
+    color: #123d70;
+    margin-bottom: 10px;
+}
+
+.xp-bar {
+    height: 13px;
+    background: #dfe5ec;
+    border-radius: 20px;
+    overflow: hidden;
+    margin-top: 7px;
+}
+
+#xpFill {
+    height: 100%;
+    width: 0%;
+    background: #e67e22;
+    transition: width 0.4s;
+}
+
+.result-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.result-card {
+    background: #f7f9fc;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.result-card strong {
+    display: block;
+    font-size: 22px;
+    color: #123d70;
+}
+
+footer {
+    margin-top: 40px;
+    background: #071a35;
+    color: #dcecff;
+    text-align: center;
+    padding: 25px;
+}
+
+@media (max-width:700px) {
+
+    header h1 {
+        font-size: 30px;
+    }
+
+    .game-box {
+        padding: 20px 15px;
+    }
+
+    .scoreboard {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .situation h3 {
+        font-size: 21px;
+    }
+
+    .option {
+        font-size: 14px;
+        padding: 14px;
+    }
+
+    .result-grid {
+        grid-template-columns: 1fr;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>🏏 Cricket Hub</h1>
+    <p>Match Mode — You Make The Decisions</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="players.html">Players</a>
+    <a href="teams.html">Teams</a>
+    <a href="news.html">News</a>
+    <a href="stories.html">Stories</a>
+    <a href="scenarios.html">Scenarios</a>
+    <a href="match.html">Match Mode</a>
+<a href="achievements.html">🏆 Achievements</a>			
+</nav>
+
+<main class="container">
+
+<div class="game-box">
+
+<div class="match-header">
+    <h2>🏆 Match Mode</h2>
+    <p>You are responsible for the decisions.</p>
+</div>
+
+<div id="startScreen">
+
+<div class="situation">
+    <h3>🏟️ T20 Match</h3>
+
+    <p>
+        Your team is chasing a target.
+        Every decision will affect the match.
+    </p>
+
+    <p style="margin-top:10px;">
+        Make enough good decisions to win.
+    </p>
+
+    <button class="start" onclick="startMatch()">
+        🏏 Start Match
+    </button>
+</div>
+
+</div>
+
+
+<div id="gameScreen" class="hidden">
+
+<div class="scoreboard">
+
+<div class="stat">
+Runs
+<span id="runs">0</span>
+</div>
+
+<div class="stat">
+Wickets
+<span id="wickets">0</span>
+</div>
+
+<div class="stat">
+Balls
+<span id="balls">0</span>
+</div>
+
+<div class="stat">
+Need
+<span id="need">120</span>
+</div>
+
+</div>
+
+
+<div class="momentum-box">
+
+<div class="momentum-title">
+<span>🔥 Match Momentum</span>
+<span id="momentumText">50%</span>
+</div>
+
+<div class="momentum-bar">
+<div id="momentumFill"></div>
+</div>
+
+</div>
+
+
+<div class="tags" id="tags"></div>
+
+
+<div class="situation">
+
+<h3 id="situationTitle"></h3>
+
+<p id="situationText"></p>
+
+</div>
+
+
+<div class="options" id="options"></div>
+
+
+<div class="result" id="result">
+
+<h3 id="resultTitle"></h3>
+
+<p id="resultText"></p>
+
+</div>
+
+
+<button
+class="next hidden"
+id="nextButton"
+onclick="nextDecision()">
+
+Continue Match →
+
+</button>
+
+</div>
+
+
+<div id="endScreen" class="hidden">
+
+<div class="situation">
+
+<h2 id="endTitle"
+style="color:#123d70;text-align:center;">
+</h2>
+
+<p id="endText"
+style="text-align:center;margin-top:10px;">
+</p>
+
+
+<div class="result-grid">
+
+<div class="result-card">
+Score
+<strong id="finalRuns">0</strong>
+</div>
+
+<div class="result-card">
+Momentum
+<strong id="finalMomentum">0%</strong>
+</div>
+
+<div class="result-card">
+XP Earned
+<strong id="finalXP">0</strong>
+</div>
+
+<div class="result-card">
+Best Streak
+<strong id="finalStreak">0</strong>
+</div>
+
+</div>
+
+
+<button
+class="restart"
+onclick="location.reload()">
+
+🔄 Play Again
+
+</button>
+
+</div>
+
+</div>
+
+
+<div class="career">
+
+<h3>🏆 Career Progress</h3>
+
+<p>
+Level <strong id="level">1</strong>
+•
+<strong id="xp">0</strong> XP
+</p>
+
+<div class="xp-bar">
+<div id="xpFill"></div>
+</div>
+
+<p style="margin-top:8px;font-size:13px;">
+Next level:
+<strong id="nextXP">100 XP</strong>
+</p>
+
+</div>
+
+</div>
+
+</main>
+
+
+<footer>
+<p>© 2026 Cricket Hub • Made for cricket fans 🏏</p>
+</footer>
+
+
+<script>
+
+/* =========================================
+   CAREER SAVE DATA
+========================================= */
+
+let careerXP =
+Number(localStorage.getItem("cricketCareerXP")) || 0;
+
+let careerLevel =
+Number(localStorage.getItem("cricketCareerLevel")) || 1;
+
+
+/* =========================================
+   MATCH VARIABLES
+========================================= */
+
+let runs = 0;
+
+let wickets = 0;
+
+let balls = 0;
+
+let target = 120;
+
+let momentum = 50;
+
+let streak = 0;
+
+let bestStreak = 0;
+
+let matchXP = 0;
+
+let decisionNumber = 0;
+
+let answered = false;
+let matches =
+Number(localStorage.getItem("cricketMatches")) || 0;
+
+let wins =
+Number(localStorage.getItem("cricketWins")) || 0;
+
+
+/* =========================================
+   SCENARIOS
+========================================= */
+
+const matchScenarios = [
+
+{
+title:"Powerplay Opportunity",
+
+text:"You need 95 runs from 90 balls. The field is restricted and you have lost only one wicket.",
+
+options:[
+"Attack the loose ball while rotating strike",
+"Try to hit a six every ball",
+"Play every delivery defensively"
+],
+
+correct:0,
+
+good:"You attack selectively and keep the run rate moving.",
+
+bad:"You take an unnecessary risk and waste the powerplay."
+},
+
+{
+title:"Dangerous Bowler",
+
+text:"The opposition's fastest bowler has started swinging the ball. You are facing the new ball.",
+
+options:[
+"Leave dangerous deliveries and wait for scoring balls",
+"Attack every ball",
+"Charge down the pitch immediately"
+],
+
+correct:0,
+
+good:"You survive the difficult period and protect your wicket.",
+
+bad:"You give the bowler exactly the opportunity he wanted."
+},
+
+{
+title:"The Middle Overs",
+
+text:"You need 62 runs from 54 balls. The spinners are operating and the boundary riders are out.",
+
+options:[
+"Rotate strike and attack loose balls",
+"Slog every spinner",
+"Stop trying to score"
+],
+
+correct:0,
+
+good:"You keep the scoreboard moving without taking unnecessary risks.",
+
+bad:"Your approach makes the chase much harder."
+},
+
+{
+title:"Death Overs",
+
+text:"You need 31 runs from 18 balls. The bowler is preparing for the yorker.",
+
+options:[
+"Look for the scoring option while expecting the yorker",
+"Block the first three balls",
+"Attempt a huge shot regardless of the delivery"
+],
+
+correct:0,
+
+good:"You read the situation and attack intelligently.",
+
+bad:"You either waste deliveries or take an unnecessary risk."
+},
+
+{
+title:"Captain's Decision",
+
+text:"The opposition needs 45 from 30 balls. Your best bowler has one over remaining.",
+
+options:[
+"Use your best bowler while the pressure is high",
+"Save the over automatically",
+"Give the ball to your weakest bowler"
+],
+
+correct:0,
+
+good:"You trust your best option at an important moment.",
+
+bad:"The opposition gets an opportunity to take control."
+},
+
+{
+title:"New Batter",
+
+text:"A new batter has arrived with 20 balls remaining. Your team needs a wicket to regain control.",
+
+options:[
+"Attack the new batter immediately",
+"Give easy singles",
+"Spread every fielder to the boundary"
+],
+
+correct:0,
+
+good:"You keep the new batter under pressure.",
+
+bad:"You allow the new batter to settle."
+},
+
+{
+title:"Final Over",
+
+text:"The opposition needs 10 runs from the final over. You are bowling.",
+
+options:[
+"Mix yorkers and changes of pace",
+"Bowl exactly the same delivery six times",
+"Give the batter predictable short balls"
+],
+
+correct:0,
+
+good:"Variation makes the final over harder to attack.",
+
+bad:"The batter reads your predictable plan."
+},
+
+{
+title:"Turning Point",
+
+text:"Your team has lost two wickets quickly. The required rate is still manageable.",
+
+options:[
+"Rebuild the innings and attack the right balls",
+"Try to recover everything with one huge shot",
+"Stop scoring completely"
+],
+
+correct:0,
+
+good:"You stabilize the innings and keep the chase alive.",
+
+bad:"You make the pressure even greater."
+}
+
+];
+
+
+/* =========================================
+   RANDOM SCENARIO
+========================================= */
+
+function getScenario() {
+
+return matchScenarios[
+Math.floor(
+Math.random()*matchScenarios.length
+)
+];
+
+}
+
+
+/* =========================================
+   START MATCH
+========================================= */
+
+function startMatch() {
+
+runs=0;
+wickets=0;
+balls=0;
+momentum=50;
+streak=0;
+bestStreak=0;
+matchXP=0;
+decisionNumber=0;
+
+document.getElementById("startScreen")
+.classList.add("hidden");
+
+document.getElementById("gameScreen")
+.classList.remove("hidden");
+
+loadDecision();
+
+}
+
+
+/* =========================================
+   LOAD DECISION
+========================================= */
+
+let activeScenario;
+
+function loadDecision() {
+
+answered=false;
+
+activeScenario=getScenario();
+
+document.getElementById("situationTitle")
+.textContent=activeScenario.title;
+
+document.getElementById("situationText")
+.textContent=activeScenario.text;
+
+
+document.getElementById("tags").innerHTML=`
+
+<span class="tag">🏏 T20</span>
+<span class="tag">🔥 Live Match</span>
+<span class="tag">Decision ${decisionNumber+1}</span>
+
+`;
+
+
+const options=
+document.getElementById("options");
+
+options.innerHTML="";
+
+
+activeScenario.options.forEach(
+(option,index)=>{
+
+const button=
+document.createElement("button");
+
+button.className="option";
+
+button.textContent=option;
+
+button.onclick=
+()=>makeDecision(index);
+
+options.appendChild(button);
+
+});
+
+
+document.getElementById("result")
+.style.display="none";
+
+document.getElementById("nextButton")
+.classList.add("hidden");
+
+updateDisplay();
+
+}
+
+
+/* =========================================
+   MAKE DECISION
+========================================= */
+
+function makeDecision(index) {
+
+if(answered) return;
+
+answered=true;
+
+document.querySelectorAll(".option")
+.forEach(button=>{
+button.disabled=true;
+});
+
+
+balls++;
+
+decisionNumber++;
+
+
+const result=
+document.getElementById("result");
+
+const title=
+document.getElementById("resultTitle");
+
+const text=
+document.getElementById("resultText");
+
+
+if(index===activeScenario.correct) {
+
+streak++;
+
+if(streak>bestStreak)
+bestStreak=streak;
+
+
+/* Different successful outcomes */
+
+const reward=[
+1,
+2,
+3,
+4
+];
+
+const gainedRuns=
+reward[Math.floor(Math.random()*reward.length)];
+
+runs+=gainedRuns;
+
+momentum+=8;
+
+if(momentum>100)
+momentum=100;
+
+
+let gainedXP=10;
+
+if(streak===3)
+gainedXP+=10;
+
+if(streak===5)
+gainedXP+=20;
+
+matchXP+=gainedXP;
+
+addCareerXP(gainedXP);
+
+
+title.textContent=
+"✅ GREAT DECISION! +"+gainedRuns+" RUNS";
+
+text.textContent=
+activeScenario.good;
+
+
+result.className="result good";
+
+}
+
+else {
+
+streak=0;
+
+momentum-=12;
+
+if(momentum<0)
+momentum=0;
+
+
+/* Bad decisions have different consequences */
+
+const badOutcome=
+Math.random();
+
+
+if(badOutcome<0.25) {
+
+wickets++;
+
+title.textContent=
+"💀 WICKET!";
+
+text.textContent=
+activeScenario.bad;
+
+}
+
+else if(badOutcome<0.55) {
+
+title.textContent=
+"🟢 DOT BALL";
+
+text.textContent=
+activeScenario.bad;
+
+}
+
+else {
+
+const conceded=
+Math.random()<0.5 ? 4 : 6;
+
+runs+=conceded;
+
+title.textContent=
+"💥 "+conceded+" RUNS!";
+
+text.textContent=
+activeScenario.bad;
+
+}
+
+
+result.className="result bad";
+
+}
+
+
+updateDisplay();
+
+result.style.display="block";
+
+document.getElementById("nextButton")
+.classList.remove("hidden");
+
+checkMatch();
+
+}
+
+
+/* =========================================
+   NEXT DECISION
+========================================= */
+
+function nextDecision() {
+
+if(checkMatch())
+return;
+
+loadDecision();
+
+}
+
+
+/* =========================================
+   CHECK MATCH
+========================================= */
+
+function checkMatch() {
+
+if(runs>=target) {
+
+finishMatch(true);
+
+return true;
+
+}
+
+if(wickets>=10) {
+
+finishMatch(false);
+
+return true;
+
+}
+
+if(balls>=20) {
+
+finishMatch(false);
+
+return true;
+
+}
+
+return false;
+
+}
+
+
+/* =========================================
+   FINISH MATCH
+========================================= */
+
+function finishMatch(won) {matches++;
+
+if (won) {
+    wins++;
+}
+
+localStorage.setItem(
+    "cricketMatches",
+    matches
+);
+
+localStorage.setItem(
+    "cricketWins",
+    wins
+);
+
+document.getElementById("gameScreen")
+.classList.add("hidden");
+
+document.getElementById("endScreen")
+.classList.remove("hidden");
+
+
+if(won) {
+
+document.getElementById("endTitle")
+.textContent=
+"🏆 VICTORY!";
+
+document.getElementById("endText")
+.textContent=
+"You successfully chased the target.";
+
+}
+
+else {
+
+document.getElementById("endTitle")
+.textContent=
+"😔 MATCH LOST";
+
+document.getElementById("endText")
+.textContent=
+"Your decisions weren't enough this time.";
+
+}
+
+
+document.getElementById("finalRuns")
+.textContent=
+runs+"/"+target;
+
+document.getElementById("finalMomentum")
+.textContent=
+momentum+"%";
+
+document.getElementById("finalXP")
+.textContent=
+matchXP;
+
+document.getElementById("finalStreak")
+.textContent=
+bestStreak;
+
+}
+
+
+/* =========================================
+   CAREER XP
+========================================= */
+
+function addCareerXP(amount) {
+
+careerXP+=amount;
+
+
+/* Level system */
+
+while(careerXP >= careerLevel*100) {
+
+careerXP-=
+careerLevel*100;
+
+careerLevel++;
+
+}
+
+
+/* Save */
+
+localStorage.setItem(
+"cricketCareerXP",
+careerXP
+);
+
+localStorage.setItem(
+"cricketCareerLevel",
+careerLevel
+);
+
+
+updateCareer();
+
+}
+
+
+/* =========================================
+   CAREER DISPLAY
+========================================= */
+
+function updateCareer() {
+
+document.getElementById("level")
+.textContent=careerLevel;
+
+document.getElementById("xp")
+.textContent=careerXP;
+
+
+const needed=
+careerLevel*100;
+
+document.getElementById("nextXP")
+.textContent=
+needed+" XP";
+
+
+const percent=
+Math.min(
+100,
+(careerXP/needed)*100
+);
+
+document.getElementById("xpFill")
+.style.width=
+percent+"%";
+
+}
+
+
+/* =========================================
+   DISPLAY
+========================================= */
+
+function updateDisplay() {
+
+document.getElementById("runs")
+.textContent=runs;
+
+document.getElementById("wickets")
+.textContent=wickets;
+
+document.getElementById("balls")
+.textContent=balls;
+
+document.getElementById("need")
+.textContent=
+Math.max(0,target-runs);
+
+
+document.getElementById("momentumText")
+.textContent=
+momentum+"%";
+
+document.getElementById("momentumFill")
+.style.width=
+momentum+"%";
+
+
+document.getElementById("score")
+?.textContent;
+
+
+updateCareer();
+
+}
+
+
+/* =========================================
+   INITIAL CAREER DISPLAY
+========================================= */
+
+updateCareer();
+
+</script>
+
+</body>
+</html>
+```

@@ -1,0 +1,1293 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Cricket Hub | Scenarios</title>
+
+<style>
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f3f6fa;
+    color: #172033;
+    line-height: 1.6;
+}
+
+header {
+    background: linear-gradient(135deg, #071a35, #124b82);
+    color: white;
+    text-align: center;
+    padding: 35px 20px;
+}
+
+header h1 {
+    font-size: 40px;
+}
+
+header p {
+    color: #dcecff;
+    margin-top: 6px;
+}
+
+nav {
+    background: white;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    padding: 15px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
+nav a {
+    color: #123d70;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #e67e22;
+}
+
+.container {
+    max-width: 920px;
+    margin: 35px auto;
+    padding: 0 18px;
+}
+
+.game-box {
+    background: white;
+    padding: 32px;
+    border-radius: 18px;
+    box-shadow: 0 7px 25px rgba(0,0,0,0.08);
+}
+
+.game-title {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.game-title h2 {
+    color: #123d70;
+    font-size: 30px;
+}
+
+.stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-bottom: 25px;
+}
+
+.stat {
+    background: #f1f6fc;
+    padding: 12px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.stat span {
+    font-size: 20px;
+    color: #123d70;
+}
+
+.badge,
+.difficulty {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.badge {
+    background: #fff1e8;
+    color: #c45a12;
+}
+
+.easy {
+    background: #e8f7ed;
+    color: #19733a;
+}
+
+.medium {
+    background: #fff5d6;
+    color: #9a6800;
+}
+
+.hard {
+    background: #ffe7e7;
+    color: #b42323;
+}
+
+.scenario h3 {
+    font-size: 25px;
+    color: #123d70;
+    margin: 15px 0;
+}
+
+.scenario-text {
+    background: #f8fafc;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 22px;
+}
+
+.conditions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 15px 0 22px;
+}
+
+.condition {
+    background: #edf3fa;
+    padding: 7px 11px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.options {
+    display: grid;
+    gap: 12px;
+}
+
+.option {
+    border: 2px solid #dce3ec;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: left;
+    transition: 0.2s;
+}
+
+.option:hover {
+    border-color: #123d70;
+    background: #f4f8fd;
+}
+
+.option:disabled {
+    cursor: default;
+    opacity: 0.7;
+}
+
+.result {
+    display: none;
+    margin-top: 25px;
+    padding: 22px;
+    border-radius: 12px;
+}
+
+.good {
+    background: #e8f7ed;
+    border-left: 5px solid #26994a;
+}
+
+.bad {
+    background: #fff0f0;
+    border-left: 5px solid #d62828;
+}
+
+.next-btn,
+.restart {
+    display: none;
+    margin-top: 20px;
+    width: 100%;
+    padding: 14px;
+    border: none;
+    border-radius: 10px;
+    background: #123d70;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.next-btn:hover {
+    background: #0b2c55;
+}
+
+.restart {
+    background: #e67e22;
+}
+
+.report {
+    margin-top: 20px;
+    display: grid;
+    gap: 10px;
+}
+
+.report-card {
+    background: #f7f9fc;
+    padding: 15px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.iq {
+    font-size: 26px;
+    color: #123d70;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+footer {
+    background: #071a35;
+    color: #dcecff;
+    text-align: center;
+    padding: 25px;
+    margin-top: 45px;
+}
+
+@media (max-width: 700px) {
+
+    header h1 {
+        font-size: 30px;
+    }
+
+    nav {
+        justify-content: flex-start;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+
+    nav a {
+        font-size: 14px;
+    }
+
+    .game-box {
+        padding: 22px 16px;
+    }
+
+    .game-title h2 {
+        font-size: 25px;
+    }
+
+    .scenario h3 {
+        font-size: 21px;
+    }
+
+    .stats {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .option {
+        font-size: 14px;
+        padding: 14px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>🏏 Cricket Hub</h1>
+    <p>Think Like a Cricketer. Make the Call.</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="players.html">Players</a>
+    <a href="teams.html">Teams</a>
+    <a href="news.html">News</a>
+    <a href="stories.html">Stories</a>
+    <a href="scenarios.html">Scenarios</a>
+</nav>
+
+<main class="container">
+
+<div class="game-box">
+
+<div class="game-title">
+    <h2>🧠 Cricket Scenarios</h2>
+    <p>No two decisions need to feel the same.</p>
+</div>
+
+<div class="stats">
+
+<div class="stat">
+Scenario<br>
+<span id="number">1</span>/20
+</div>
+
+<div class="stat">
+Score<br>
+<span id="score">0</span>
+</div>
+
+<div class="stat">
+🔥 Streak<br>
+<span id="streak">0</span>
+</div>
+
+<div class="stat">
+🏆 Best<br>
+<span id="best">0</span>
+</div>
+
+</div>
+
+<div class="scenario">
+
+<span class="badge" id="type"></span>
+<span class="difficulty" id="difficulty"></span>
+
+<h3 id="title"></h3>
+
+<div class="conditions" id="conditions"></div>
+
+<div class="scenario-text" id="text"></div>
+
+<div class="options" id="options"></div>
+
+<div class="result" id="result">
+
+<h3 id="resultTitle"></h3>
+
+<p id="resultText"></p>
+
+</div>
+
+<button
+class="next-btn"
+id="nextBtn"
+onclick="nextScenario()">
+
+Next Scenario →
+
+</button>
+
+</div>
+
+</div>
+
+</main>
+
+<footer>
+<p>© 2026 Cricket Hub • Made for cricket fans 🏏</p>
+</footer>
+
+<script>
+
+/* =========================================
+   PHASE 4 SCENARIO ENGINE
+========================================= */
+
+
+/* ---------- BATTER ENGINE ---------- */
+
+const battingScenarios = [
+
+{
+title:"Powerplay Attack",
+situations:[
+"You need {runs} runs from {balls} balls with plenty of wickets in hand.",
+"The powerplay has just begun and the field is restricted.",
+"The bowler has bowled two dot balls in a row."
+],
+correct:[
+"Attack the next loose delivery",
+"Look for a controlled boundary opportunity",
+"Rotate strike and attack the right ball"
+],
+wrong:[
+"Try a huge shot regardless of the delivery",
+"Play every ball defensively",
+"Attempt an unnecessary risky shot"
+],
+explanation:"There is enough time and wicket security to attack selectively.",
+difficulty:"EASY"
+},
+
+{
+title:"Protect Your Wicket",
+situations:[
+"The new ball is moving around and the fast bowler is beating the outside edge.",
+"You have just arrived at the crease against a fresh fast bowler.",
+"The pitch is offering plenty of movement."
+],
+correct:[
+"Leave dangerous balls outside off",
+"Play late and close to your body",
+"Wait for the ball to come to you"
+],
+wrong:[
+"Attack every delivery",
+"Charge down the pitch immediately",
+"Attempt risky shots outside off"
+],
+explanation:"When the ball is moving, surviving the difficult period is often more valuable than forcing runs.",
+difficulty:"MEDIUM"
+},
+
+{
+title:"The Final Two Balls",
+situations:[
+"You need {runs} runs from the final two balls.",
+"The bowler has missed the yorker twice.",
+"The field is spread around the boundary."
+],
+correct:[
+"Attack the scoring delivery",
+"Look for the boundary option",
+"Commit to a calculated attacking shot"
+],
+wrong:[
+"Block both balls",
+"Attempt a random shot",
+"Take a pointless risky single"
+],
+explanation:"With very few balls remaining, a calculated attacking option is necessary.",
+difficulty:"HARD"
+},
+
+{
+title:"Turning Pitch",
+situations:[
+"The pitch is turning sharply and you are chasing a modest target.",
+"Spinners are getting significant turn from the surface.",
+"The match is moving into the later stages of a Test."
+],
+correct:[
+"Use your feet carefully and rotate strike",
+"Defend the good ball and attack the loose one",
+"Use controlled movement against spin"
+],
+wrong:[
+"Slog every delivery",
+"Refuse to rotate the strike",
+"Attack every spinner immediately"
+],
+explanation:"Good batting against spin requires patience, movement and controlled scoring.",
+difficulty:"HARD"
+}
+
+];
+
+
+/* ---------- BOWLER ENGINE ---------- */
+
+const bowlingScenarios = [
+
+{
+title:"Attack the Stumps",
+situations:[
+"The batter has scored several boundaries through cover.",
+"The batter loves width outside off stump.",
+"The batter is repeatedly driving through the off side."
+],
+correct:[
+"Attack the stumps",
+"Reduce the width",
+"Bring the batter into a straighter scoring area"
+],
+wrong:[
+"Give him even more width",
+"Keep bowling exactly the same",
+"Feed his favourite shot"
+],
+explanation:"Removing the batter's favourite scoring area makes run-scoring harder.",
+difficulty:"MEDIUM"
+},
+
+{
+title:"The Death Over",
+situations:[
+"The batter needs {runs} from 6 balls.",
+"The batter is standing deep in the crease.",
+"The final over has begun."
+],
+correct:[
+"Mix yorkers and slower balls",
+"Vary pace and length intelligently",
+"Keep the batter guessing"
+],
+wrong:[
+"Bowl exactly the same delivery every ball",
+"Feed the batter short balls",
+"Give away predictable deliveries"
+],
+explanation:"Variation makes it harder for a batter to line up the final over.",
+difficulty:"HARD"
+},
+
+{
+title:"New Batter",
+situations:[
+"A new batter has just arrived at the crease.",
+"The ball is still moving through the air.",
+"The batter has not faced a ball yet."
+],
+correct:[
+"Attack immediately",
+"Target the stumps and create pressure",
+"Use the movement while it is available"
+],
+wrong:[
+"Give easy singles",
+"Immediately become defensive",
+"Offer comfortable scoring deliveries"
+],
+explanation:"A new batter is often vulnerable, especially when the ball is moving.",
+difficulty:"EASY"
+},
+
+{
+title:"Change of Pace",
+situations:[
+"The batter is moving early against pace.",
+"The batter is expecting a fast delivery.",
+"You have noticed the batter struggles to time slower balls."
+],
+correct:[
+"Use a well-disguised slower ball",
+"Change the pace intelligently",
+"Break the batter's rhythm"
+],
+wrong:[
+"Bowl predictable pace",
+"Bowl another identical delivery",
+"Give the batter a comfortable full toss"
+],
+explanation:"A well-executed change of pace can destroy timing.",
+difficulty:"HARD"
+}
+
+];
+
+
+/* ---------- CAPTAIN ENGINE ---------- */
+
+const captainScenarios = [
+
+{
+title:"The Hot Bowler",
+situations:[
+"Your best bowler has taken two wickets recently.",
+"The opposition is starting to lose momentum.",
+"Your strike bowler is creating pressure."
+],
+correct:[
+"Keep the bowler attacking",
+"Trust the bowler's rhythm",
+"Use the bowler while the pressure is high"
+],
+wrong:[
+"Remove the bowler without reason",
+"Use your weakest option",
+"Give the opposition an easy over"
+],
+explanation:"A bowler creating pressure should normally remain involved.",
+difficulty:"EASY"
+},
+
+{
+title:"Break the Partnership",
+situations:[
+"Two batters have added {runs} runs together.",
+"One batter is attacking while the other rotates strike.",
+"The partnership is changing the momentum."
+],
+correct:[
+"Attack the dangerous batter",
+"Try to break the partnership",
+"Change the plan to create a wicket"
+],
+wrong:[
+"Ignore the partnership",
+"Spread every fielder immediately",
+"Give the batters easy scoring options"
+],
+explanation:"Breaking a dangerous partnership can completely change the match.",
+difficulty:"MEDIUM"
+},
+
+{
+title:"Day Five Pressure",
+situations:[
+"It is Day 5 and the opposition needs a manageable number of runs.",
+"Your spinner is getting sharp turn.",
+"You still have a realistic chance of taking the remaining wickets."
+],
+correct:[
+"Keep attacking with the wicket-taking bowler",
+"Use attacking fields",
+"Try to force a mistake"
+],
+wrong:[
+"Defend every boundary",
+"Use a weak bowler",
+"Give the batters comfortable singles"
+],
+explanation:"If victory is still realistic, keeping your best wicket-taking option in attack can be the right move.",
+difficulty:"HARD"
+},
+
+{
+title:"The New Batter",
+situations:[
+"A new batter has just arrived in a high-pressure chase.",
+"Your strike bowler has one over available.",
+"The previous batter was just dismissed."
+],
+correct:[
+"Attack the new batter",
+"Use your best wicket-taking option",
+"Keep the pressure on"
+],
+wrong:[
+"Give the new batter an easy over",
+"Immediately become defensive",
+"Use your weakest bowler"
+],
+explanation:"A new batter is often the best opportunity to continue the pressure.",
+difficulty:"MEDIUM"
+}
+
+];
+
+
+/* =========================================
+   RANDOM DATA
+========================================= */
+
+const formats = [
+"T20",
+"ODI",
+"TEST"
+];
+
+const phases = [
+"Powerplay",
+"Middle Overs",
+"Death Overs",
+"Final Session",
+"Early Innings"
+];
+
+const conditions = [
+"🌱 Good batting pitch",
+"🌱 Turning pitch",
+"💨 Swinging conditions",
+"🌧️ Rain approaching",
+"☀️ Hot conditions",
+"💨 Strong wind",
+"🏟️ Large boundary",
+"🏟️ Small boundary"
+];
+
+const pressures = [
+"🏆 Semi-final",
+"🏆 Final",
+"🔥 Must-win match",
+"😰 High-pressure chase",
+"🧠 Tactical battle",
+"⏳ Time running out"
+];
+
+
+/* =========================================
+   GAME VARIABLES
+========================================= */
+
+let current = 0;
+let score = 0;
+let streak = 0;
+
+let bestStreak =
+Number(localStorage.getItem("cricketBestStreak")) || 0;
+
+let recentKeys = [];
+
+let stats = {
+batting:{correct:0,total:0},
+bowling:{correct:0,total:0},
+captaincy:{correct:0,total:0}
+};
+
+
+/* =========================================
+   RANDOM HELPERS
+========================================= */
+
+function randomItem(array) {
+return array[Math.floor(Math.random()*array.length)];
+}
+
+function randomNumber(min,max) {
+return Math.floor(Math.random()*(max-min+1))+min;
+}
+
+
+/* =========================================
+   CREATE SCENARIO
+========================================= */
+
+function generateScenario() {
+
+let role;
+
+const roll=Math.random();
+
+if(roll<0.34) role="batting";
+else if(roll<0.67) role="bowling";
+else role="captaincy";
+
+let source;
+
+if(role==="batting")
+source=randomItem(battingScenarios);
+
+if(role==="bowling")
+source=randomItem(bowlingScenarios);
+
+if(role==="captaincy")
+source=randomItem(captainScenarios);
+
+
+let format=randomItem(formats);
+let phase=randomItem(phases);
+let condition=randomItem(conditions);
+let pressure=randomItem(pressures);
+
+let runs=randomNumber(18,65);
+let balls=randomNumber(12,42);
+
+let situation=randomItem(source.situations);
+
+situation=situation
+.replaceAll("{runs}",runs)
+.replaceAll("{balls}",balls);
+
+
+let correct=randomItem(source.correct);
+let wrong=randomItem(source.wrong);
+
+let wrong2=randomItem(
+source.wrong.filter(x=>x!==wrong)
+);
+
+
+/* Shuffle answer positions */
+
+let answers=[
+{
+text:correct,
+correct:true
+},
+{
+text:wrong,
+correct:false
+},
+{
+text:wrong2,
+correct:false
+}
+];
+
+for(let i=answers.length-1;i>0;i--) {
+
+const j=Math.floor(Math.random()*(i+1));
+
+[answers[i],answers[j]]
+=[answers[j],answers[i]];
+
+}
+
+
+/* Unique key */
+
+let key=
+role+"|"+
+source.title+"|"+
+format+"|"+
+phase+"|"+
+condition+"|"+
+pressure+"|"+
+situation;
+
+
+/* Avoid recent repetition */
+
+if(recentKeys.includes(key)) {
+
+return generateScenario();
+
+}
+
+recentKeys.push(key);
+
+if(recentKeys.length>25)
+recentKeys.shift();
+
+
+return {
+
+role,
+title:source.title,
+difficulty:source.difficulty,
+format,
+phase,
+condition,
+pressure,
+situation,
+answers,
+explanation:source.explanation
+
+};
+
+}
+
+
+/* =========================================
+   LOAD
+========================================= */
+
+let activeScenario;
+
+function loadScenario() {
+
+activeScenario=generateScenario();
+
+document.getElementById("number").textContent=current+1;
+
+document.getElementById("type").textContent=
+activeScenario.role==="batting"
+?"🏏 BATTING • "+activeScenario.format
+:activeScenario.role==="bowling"
+?"🎯 BOWLING • "+activeScenario.format
+:"🧢 CAPTAINCY • "+activeScenario.format;
+
+
+const difficulty=
+document.getElementById("difficulty");
+
+difficulty.textContent=
+activeScenario.difficulty;
+
+difficulty.className=
+"difficulty "+
+activeScenario.difficulty.toLowerCase();
+
+
+document.getElementById("title").textContent=
+activeScenario.title;
+
+
+document.getElementById("text").textContent=
+activeScenario.situation;
+
+
+document.getElementById("conditions").innerHTML=`
+
+<span class="condition">
+${activeScenario.phase}
+</span>
+
+<span class="condition">
+${activeScenario.condition}
+</span>
+
+<span class="condition">
+${activeScenario.pressure}
+</span>
+
+`;
+
+
+const options=
+document.getElementById("options");
+
+options.innerHTML="";
+
+
+activeScenario.answers.forEach((answer,index)=>{
+
+const button=
+document.createElement("button");
+
+button.className="option";
+
+button.textContent=answer.text;
+
+button.onclick=
+()=>answerScenario(index);
+
+options.appendChild(button);
+
+});
+
+
+document.getElementById("result")
+.style.display="none";
+
+document.getElementById("nextBtn")
+.style.display="none";
+
+}
+
+
+/* =========================================
+   ANSWER
+========================================= */
+
+function answerScenario(index) {
+
+const answer=
+activeScenario.answers[index];
+
+const role=
+activeScenario.role;
+
+
+stats[role].total++;
+
+
+document.querySelectorAll(".option")
+.forEach(button=>{
+button.disabled=true;
+});
+
+
+const result=
+document.getElementById("result");
+
+const title=
+document.getElementById("resultTitle");
+
+const text=
+document.getElementById("resultText");
+
+
+if(answer.correct) {
+
+stats[role].correct++;
+
+streak++;
+
+let points;
+
+if(activeScenario.difficulty==="EASY")
+points=2;
+
+else if(activeScenario.difficulty==="MEDIUM")
+points=3;
+
+else
+points=4;
+
+
+/* Streak bonus */
+
+if(streak===3)
+points+=2;
+
+if(streak===5)
+points+=4;
+
+score+=points;
+
+
+if(streak>bestStreak) {
+
+bestStreak=streak;
+
+localStorage.setItem(
+"cricketBestStreak",
+bestStreak
+);
+
+}
+
+
+result.className="result good";
+
+title.textContent="✅ GREAT DECISION!";
+
+let bonus="";
+
+if(streak===3)
+bonus=" 🔥 +2 STREAK BONUS!";
+
+if(streak===5)
+bonus=" 🏆 +4 STREAK BONUS!";
+
+text.textContent=
+activeScenario.explanation+
+bonus;
+
+}
+
+else {
+
+streak=0;
+
+result.className="result bad";
+
+
+if(role==="batting") {
+
+title.textContent="💀 OUT!";
+
+text.textContent=
+"Your decision backfired. "+
+activeScenario.explanation;
+
+}
+
+else if(role==="bowling") {
+
+const outcomes=[
+"🟢 DOT BALL",
+"🏏 SINGLE",
+"🏏 TWO RUNS",
+"💥 FOUR!",
+"💣 SIX!"
+];
+
+title.textContent=
+randomItem(outcomes);
+
+text.textContent=
+"The batter reacts to your plan. "+
+activeScenario.explanation;
+
+}
+
+else {
+
+title.textContent=
+"😬 COMMENTATORS CRITICIZE THE CALL!";
+
+text.textContent=
+"The decision is questioned heavily in the commentary box. "+
+activeScenario.explanation;
+
+}
+
+}
+
+
+document.getElementById("score")
+.textContent=score;
+
+document.getElementById("streak")
+.textContent=streak;
+
+document.getElementById("best")
+.textContent=bestStreak;
+
+
+result.style.display="block";
+
+document.getElementById("nextBtn")
+.style.display="block";
+
+
+if(current===19) {
+
+document.getElementById("nextBtn")
+.textContent="🏆 Finish Game";
+
+}
+
+}
+
+
+/* =========================================
+   NEXT
+========================================= */
+
+function nextScenario() {
+
+current++;
+
+if(current>=20) {
+
+finishGame();
+
+return;
+
+}
+
+loadScenario();
+
+}
+
+
+/* =========================================
+   PERCENTAGE
+========================================= */
+
+function percent(correct,total) {
+
+if(total===0)
+return 0;
+
+return Math.round(
+(correct/total)*100
+);
+
+}
+
+
+/* =========================================
+   IQ
+========================================= */
+
+function getIQ(accuracy) {
+
+if(accuracy>=90)
+return "🔥 WORLD CLASS";
+
+if(accuracy>=80)
+return "🏆 ELITE";
+
+if(accuracy>=70)
+return "👏 EXPERT";
+
+if(accuracy>=55)
+return "🧠 ADVANCED";
+
+if(accuracy>=40)
+return "👍 DEVELOPING";
+
+return "🏏 BEGINNER";
+
+}
+
+
+/* =========================================
+   FINISH
+========================================= */
+
+function finishGame() {
+
+const totalCorrect=
+stats.batting.correct+
+stats.bowling.correct+
+stats.captaincy.correct;
+
+const total=
+stats.batting.total+
+stats.bowling.total+
+stats.captaincy.total;
+
+const accuracy=
+percent(totalCorrect,total);
+
+const iq=
+getIQ(accuracy);
+
+
+document.querySelector(".scenario")
+.innerHTML=`
+
+<div style="text-align:center;padding:10px;">
+
+<h2 style="color:#123d70;">
+🏆 MATCH COMPLETE
+</h2>
+
+<div class="iq">
+Cricket IQ: ${iq}
+</div>
+
+<p style="font-size:24px;margin:15px;">
+Score: <strong>${score}</strong>
+</p>
+
+<p>
+Overall Accuracy:
+<strong>${accuracy}%</strong>
+</p>
+
+<div class="report">
+
+<div class="report-card">
+<span>🏏 Batting</span>
+<strong>
+${percent(
+stats.batting.correct,
+stats.batting.total
+)}%
+</strong>
+</div>
+
+<div class="report-card">
+<span>🎯 Bowling</span>
+<strong>
+${percent(
+stats.bowling.correct,
+stats.bowling.total
+)}%
+</strong>
+</div>
+
+<div class="report-card">
+<span>🧢 Captaincy</span>
+<strong>
+${percent(
+stats.captaincy.correct,
+stats.captaincy.total
+)}%
+</strong>
+</div>
+
+<div class="report-card">
+<span>🔥 Best Streak</span>
+<strong>
+${bestStreak}
+</strong>
+</div>
+
+</div>
+
+<button
+class="restart"
+style="display:block;"
+onclick="location.reload()">
+
+🔄 Play Again
+
+</button>
+
+</div>
+
+`;
+
+}
+
+
+/* =========================================
+   START
+========================================= */
+
+for(let i=0;i<5;i++) {
+recentKeys.push("");
+}
+
+loadScenario();
+
+</script>
+
+</body>
+</html>
+```
