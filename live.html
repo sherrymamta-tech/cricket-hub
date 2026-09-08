@@ -2,431 +2,460 @@
 <html lang="en">
 
 <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta charset="UTF-8">
+<title>Live Cricket Scores - Cricket Hub</title>
 
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1.0">
+<style>
 
-    <title>Live Cricket Scores - Cricket Hub</title>
+* {
+    box-sizing: border-box;
+}
 
-    <style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f7f5;
+    color: #222;
+}
 
-        * {
-            box-sizing: border-box;
-        }
+header {
+    background: #0b7a3b;
+    color: white;
+    padding: 18px 10px;
+    text-align: center;
+}
 
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background: #f4f7f5;
-            color: #222;
-        }
+header h1 {
+    margin: 0 0 15px;
+    font-size: 28px;
+}
 
-        header {
-            background: #0b7a3b;
-            color: white;
-            padding: 18px 10px;
-            text-align: center;
-        }
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+}
 
-        header h1 {
-            margin: 0 0 15px;
-            font-size: 28px;
-        }
+nav a {
+    color: white;
+    text-decoration: none;
+    background: #096631;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 14px;
+}
 
-        nav {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 8px;
-        }
+nav a:hover {
+    background: #075126;
+}
 
-        nav a {
-            color: white;
-            text-decoration: none;
-            background: #096631;
-            padding: 8px 12px;
-            border-radius: 6px;
-            font-size: 14px;
-        }
+main {
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 0 15px;
+}
 
-        nav a:hover {
-            background: #075126;
-        }
+h2 {
+    text-align: center;
+    color: #0b7a3b;
+}
 
-        main {
-            max-width: 1000px;
-            margin: 30px auto;
-            padding: 0 15px;
-        }
+.section-title {
+    margin-top: 35px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    font-weight: bold;
+}
 
-        h2 {
-            text-align: center;
-            color: #0b7a3b;
-        }
+.live-title {
+    color: #d00000;
+}
 
-        .section-title {
-            margin-top: 35px;
-            margin-bottom: 15px;
-            font-size: 22px;
-            font-weight: bold;
-        }
+.history-title {
+    color: #0b7a3b;
+}
 
-        .live-title {
-            color: #d00000;
-        }
+#searchBar {
+    width: 100%;
+    max-width: 700px;
+    display: block;
+    margin: 20px auto 30px;
+    padding: 15px;
+    font-size: 16px;
+    border: 2px solid #0b7a3b;
+    border-radius: 10px;
+    outline: none;
+}
 
-        .history-title {
-            color: #0b7a3b;
-        }
+#searchBar:focus {
+    box-shadow: 0 0 7px rgba(11,122,59,0.3);
+}
 
-        #searchBar {
-            width: 100%;
-            max-width: 700px;
-            display: block;
-            margin: 20px auto 30px;
-            padding: 15px;
-            font-size: 16px;
-            border: 2px solid #0b7a3b;
-            border-radius: 10px;
-            outline: none;
-        }
+#matches,
+#history {
+    display: grid;
+    gap: 18px;
+}
 
-        #searchBar:focus {
-            box-shadow: 0 0 7px rgba(11, 122, 59, 0.3);
-        }
+.match {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.12);
+}
 
-        #matches,
-        #history {
-            display: grid;
-            gap: 18px;
-        }
+.match-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #0b7a3b;
+    margin-bottom: 15px;
+}
 
-        .match {
-            background: white;
-            border-radius: 12px;
-            padding: 20px;
-            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
-        }
+.team {
+    font-size: 19px;
+    font-weight: bold;
+    margin: 8px 0;
+}
 
-        .match-title {
-            font-size: 18px;
-            font-weight: bold;
-            color: #0b7a3b;
-            margin-bottom: 15px;
-        }
+.score {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
 
-        .team {
-            font-size: 19px;
-            font-weight: bold;
-            margin: 8px 0;
-        }
+.match-status {
+    display: inline-block;
+    padding: 7px 12px;
+    border-radius: 20px;
+    background: #eeeeee;
+    font-size: 13px;
+    font-weight: bold;
+}
 
-        .score {
-            font-size: 24px;
-            font-weight: bold;
-            margin-bottom: 12px;
-        }
+.history-card {
+    border-left: 5px solid #0b7a3b;
+}
 
-        .match-status {
-            display: inline-block;
-            padding: 7px 12px;
-            border-radius: 20px;
-            background: #eeeeee;
-            font-size: 13px;
-            font-weight: bold;
-        }
+.date {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
 
-        .history-card {
-            border-left: 5px solid #0b7a3b;
-        }
+.competition {
+    color: #777;
+    font-size: 14px;
+    margin-top: 10px;
+}
 
-        .date {
-            color: #666;
-            font-size: 14px;
-            margin-bottom: 10px;
-        }
+.result {
+    font-weight: bold;
+    margin-top: 12px;
+}
 
-        .competition {
-            color: #777;
-            font-size: 14px;
-            margin-top: 10px;
-        }
+.refresh-btn,
+.load-btn,
+.scorecard-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 12px 22px;
+    border: none;
+    border-radius: 8px;
+    background: #0b7a3b;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
 
-        .result {
-            font-weight: bold;
-            margin-top: 12px;
-        }
+.refresh-btn:hover,
+.load-btn:hover,
+.scorecard-btn:hover {
+    background: #075126;
+}
 
-        .refresh-btn,
-        .load-btn {
-            display: block;
-            margin: 25px auto;
-            padding: 12px 22px;
-            border: none;
-            border-radius: 8px;
-            background: #0b7a3b;
-            color: white;
-            font-size: 16px;
-            cursor: pointer;
-        }
+.hidden {
+    display: none;
+}
 
-        .refresh-btn:hover,
-        .load-btn:hover {
-            background: #075126;
-        }
+.message {
+    text-align: center;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+}
 
-        .hidden {
-            display: none;
-        }
+.error {
+    background: #ffe5e5;
+    color: #b00000;
+    padding: 18px;
+    border-radius: 10px;
+    text-align: center;
+}
 
-        .message {
-            text-align: center;
-            padding: 20px;
-            background: white;
-            border-radius: 10px;
-        }
+#scorecardSection {
+    margin-top: 45px;
+}
 
-        .error {
-            background: #ffe5e5;
-            color: #b00000;
-            padding: 18px;
-            border-radius: 10px;
-            text-align: center;
-        }
+.scorecard-box {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.12);
+    margin-bottom: 20px;
+    overflow-x: auto;
+}
 
-        footer {
-            margin-top: 40px;
-            padding: 20px;
-            background: #0b7a3b;
-            color: white;
-            text-align: center;
-        }
+.scorecard-box h3 {
+    color: #0b7a3b;
+    border-bottom: 2px solid #0b7a3b;
+    padding-bottom: 8px;
+}
 
-        footer a {
-            color: white;
-        }
+.scorecard-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    font-size: 14px;
+}
 
-        @media (max-width: 600px) {
+.scorecard-table th,
+.scorecard-table td {
+    padding: 9px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
 
-            header h1 {
-                font-size: 23px;
-            }
+.scorecard-table th {
+    background: #f0f5f2;
+}
 
-            nav a {
-                font-size: 12px;
-                padding: 7px 9px;
-            }
+.scorecard-total {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+}
 
-            main {
-                margin-top: 20px;
-            }
+.close-scorecard {
+    display: block;
+    margin: 15px auto 30px;
+    padding: 11px 20px;
+    border: none;
+    border-radius: 8px;
+    background: #d00000;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+}
 
-            .match {
-                padding: 16px;
-            }
+footer {
+    margin-top: 40px;
+    padding: 20px;
+    background: #0b7a3b;
+    color: white;
+    text-align: center;
+}
 
-        }
+footer a {
+    color: white;
+}
 
-    </style>
+@media (max-width:600px) {
 
+    header h1 {
+        font-size: 23px;
+    }
+
+    nav a {
+        font-size: 12px;
+        padding: 7px 9px;
+    }
+
+    .match {
+        padding: 16px;
+    }
+
+    .scorecard-table {
+        font-size: 12px;
+    }
+
+}
+
+</style>
 </head>
-
 
 <body>
 
-
 <header>
 
-    <h1>🏏 Cricket Hub</h1>
+<h1>🏏 Cricket Hub</h1>
 
-    <nav>
-
-        <a href="index.html">Home</a>
-
-        <a href="news.html">News</a>
-
-        <a href="players.html">Players</a>
-
-        <a href="teams.html">Teams</a>
-
-        <a href="stories.html">Stories</a>
-
-        <a href="scenarios.html">Scenarios</a>
-
-        <a href="match.html">Match Mode</a>
-
-        <a href="achievements.html">🏆 Achievements</a>
-
-        <a href="live.html">🔴 Live Scores</a>
-
-    </nav>
+<nav>
+<a href="index.html">Home</a>
+<a href="news.html">News</a>
+<a href="players.html">Players</a>
+<a href="teams.html">Teams</a>
+<a href="stories.html">Stories</a>
+<a href="scenarios.html">Scenarios</a>
+<a href="match.html">Match Mode</a>
+<a href="achievements.html">🏆 Achievements</a>
+<a href="live.html">🔴 Live Scores</a>
+</nav>
 
 </header>
 
-
 <main>
 
-    <h2>🏏 Cricket Scores & History</h2>
+<h2>🏏 Cricket Scores & History</h2>
+
+<input
+    type="text"
+    id="searchBar"
+    placeholder="🔎 Search teams, tournaments or matches..."
+    oninput="searchEverything()"
+>
+
+<!-- LIVE -->
+
+<div class="section-title live-title">
+🔴 LIVE MATCHES
+</div>
+
+<div id="liveStatus">
+Loading live scores...
+</div>
+
+<div id="matches"></div>
+
+<button
+    class="refresh-btn"
+    onclick="loadLiveScores()"
+>
+🔄 Refresh Live Scores
+</button>
 
 
-    <!-- SEARCH -->
+<!-- HISTORY -->
 
-    <input
-        type="text"
-        id="searchBar"
-        placeholder="🔎 Search teams or matches..."
-        oninput="searchEverything()"
-    >
+<div class="section-title history-title">
+📚 MATCH HISTORY
+</div>
 
+<div id="history"></div>
 
-    <!-- LIVE -->
-
-    <div class="section-title live-title">
-        🔴 LIVE MATCHES
-    </div>
-
-
-    <div id="liveStatus">
-        Loading live scores...
-    </div>
+<button
+    id="loadMoreBtn"
+    class="load-btn"
+    onclick="loadMoreHistory()"
+>
+Load More Matches
+</button>
 
 
-    <div id="matches"></div>
+<!-- SCORECARD -->
 
+<div id="scorecardSection" class="hidden">
 
-    <button
-        class="refresh-btn"
-        onclick="loadLiveScores()"
-    >
-        🔄 Refresh Live Scores
-    </button>
+<div class="section-title history-title">
+📊 FULL SCORECARD
+</div>
 
+<div id="scorecard"></div>
 
-    <!-- HISTORY -->
+<button
+    class="close-scorecard"
+    onclick="closeScorecard()"
+>
+✖ Close Scorecard
+</button>
 
-    <div class="section-title history-title">
-        📚 MATCH HISTORY
-    </div>
-
-
-    <div id="history"></div>
-
-
-    <button
-        id="loadMoreBtn"
-        class="load-btn"
-        onclick="loadMoreHistory()"
-    >
-        Load More Matches
-    </button>
-
+</div>
 
 </main>
 
 
 <footer>
 
-    <p>
-        Cricket Hub © 2026
-    </p>
+<p>Cricket Hub © 2026</p>
 
-    <p>
-        Live sports data powered by
-        <a
-            href="https://sportscore.com/"
-            target="_blank"
-        >
-            SportScore
-        </a>
-    </p>
+<p>
+Live sports data powered by
+<a
+    href="https://sportscore.com/"
+    target="_blank"
+>
+SportScore
+</a>
+</p>
 
 </footer>
 
 
 <script>
 
-
 /* =========================================
    LIVE SCORES
 ========================================= */
 
-
 const API =
-    "https://sportscore.com/api/widget/matches/?sport=cricket&limit=50";
-
+"https://sportscore.com/api/widget/matches/?sport=cricket&limit=50";
 
 let liveMatches = [];
 
 
 async function loadLiveScores() {
 
-    const status =
-        document.getElementById("liveStatus");
+const status =
+document.getElementById("liveStatus");
 
-    const container =
-        document.getElementById("matches");
+const container =
+document.getElementById("matches");
 
+status.textContent =
+"Loading live scores...";
 
-    status.textContent =
-        "Loading live scores...";
+container.innerHTML = "";
 
-    container.innerHTML = "";
+try {
 
+const response =
+await fetch(API);
 
-    try {
+if (!response.ok) {
+throw new Error("API request failed");
+}
 
-        const response =
-            await fetch(API);
+const data =
+await response.json();
 
+console.log("SportScore data:", data);
 
-        if (!response.ok) {
+liveMatches =
+data.matches || [];
 
-            throw new Error(
-                "API request failed"
-            );
+renderLiveMatches(liveMatches);
 
-        }
+}
 
+catch(error) {
 
-        const data =
-            await response.json();
+console.error(error);
 
+status.innerHTML = `
+<div class="error">
 
-        console.log(
-            "SportScore data:",
-            data
-        );
+❌ Couldn't load live scores.
 
+<br><br>
 
-        liveMatches =
-            data.matches || [];
+Try the Refresh button.
 
+</div>
+`;
 
-        renderLiveMatches(
-            liveMatches
-        );
-
-
-    } catch (error) {
-
-        console.error(error);
-
-
-        status.innerHTML = `
-            <div class="error">
-
-                ❌ Couldn't load live scores.
-
-                <br><br>
-
-                Try the Refresh button.
-
-            </div>
-        `;
-
-    }
+}
 
 }
 
@@ -435,104 +464,88 @@ async function loadLiveScores() {
    RENDER LIVE MATCHES
 ========================================= */
 
-
 function renderLiveMatches(list) {
 
-    const container =
-        document.getElementById("matches");
+const container =
+document.getElementById("matches");
 
-    const status =
-        document.getElementById("liveStatus");
+const status =
+document.getElementById("liveStatus");
 
+container.innerHTML = "";
 
-    container.innerHTML = "";
+if (!list.length) {
 
+status.textContent =
+"No matches found.";
 
-    if (!list.length) {
+return;
 
-        status.textContent =
-            "No matches found.";
+}
 
-        return;
-
-    }
-
-
-    status.textContent =
-        list.length +
-        " cricket matches found";
+status.textContent =
+list.length +
+" cricket matches found";
 
 
-    list.forEach(match => {
+list.forEach(match => {
 
-        const card =
-            document.createElement("div");
+const card =
+document.createElement("div");
 
+card.className =
+"match";
 
-        card.className =
-            "match";
+const home =
+match.home ||
+"Unknown Team";
 
+const away =
+match.away ||
+"Unknown Team";
 
-        const home =
-            match.home ||
-            "Unknown Team";
+const homeScore =
+match.home_score ?? "-";
 
+const awayScore =
+match.away_score ?? "-";
 
-        const away =
-            match.away ||
-            "Unknown Team";
-
-
-        const homeScore =
-            match.home_score ?? "-";
-
-
-        const awayScore =
-            match.away_score ?? "-";
-
-
-        const matchStatus =
-            match.status ||
-            "Match information";
+const matchStatus =
+match.status ||
+"Match information";
 
 
-        card.innerHTML = `
+card.innerHTML = `
 
-            <div class="match-title">
-                🏏 Cricket Match
-            </div>
+<div class="match-title">
+🏏 Cricket Match
+</div>
 
+<div class="team">
+${home}
+</div>
 
-            <div class="team">
-                ${home}
-            </div>
+<div class="score">
+${homeScore}
+</div>
 
+<div class="team">
+${away}
+</div>
 
-            <div class="score">
-                ${homeScore}
-            </div>
+<div class="score">
+${awayScore}
+</div>
 
+<div class="match-status">
+${String(matchStatus).toUpperCase()}
+</div>
 
-            <div class="team">
-                ${away}
-            </div>
+`;
 
+container.appendChild(card);
 
-            <div class="score">
-                ${awayScore}
-            </div>
-
-
-            <div class="match-status">
-                ${String(matchStatus).toUpperCase()}
-            </div>
-
-        `;
-
-
-        container.appendChild(card);
-
-    });
+});
 
 }
 
@@ -541,189 +554,187 @@ function renderLiveMatches(list) {
    MATCH HISTORY
 ========================================= */
 
-
-/*
-   These are real completed matches.
-
-   This is the starter history database.
-
-   We can expand this file to hundreds/thousands
-   of matches later without changing the page.
-*/
-
-
 const matchHistory = [
 
-    {
-        date: "2024-06-29",
-        teams: "India vs South Africa",
-        score: "176/7 vs 169/8",
-        result: "India won by 7 runs",
-        competition: "ICC Men's T20 World Cup Final"
-    },
+{
+id: "sl-ind-2nd-test-2026",
+date: "2026-08-23",
+teams: "Sri Lanka vs India",
+score: "India 503/9d | Sri Lanka 290 & 429/9d",
+result: "Match drawn",
+competition: "India tour of Sri Lanka — 2nd Test",
+hasScorecard: true
+},
 
-    {
-        date: "2023-11-19",
-        teams: "India vs Australia",
-        score: "240 vs 241/4",
-        result: "Australia won by 6 wickets",
-        competition: "ICC Cricket World Cup Final"
-    },
+{
+date: "2024-06-29",
+teams: "India vs South Africa",
+score: "176/7 vs 169/8",
+result: "India won by 7 runs",
+competition: "ICC Men's T20 World Cup Final"
+},
 
-    {
-        date: "2011-04-02",
-        teams: "India vs Sri Lanka",
-        score: "277/4 vs 274/6",
-        result: "India won by 6 wickets",
-        competition: "ICC Cricket World Cup Final"
-    },
+{
+date: "2023-11-19",
+teams: "India vs Australia",
+score: "240 vs 241/4",
+result: "Australia won by 6 wickets",
+competition: "ICC Cricket World Cup Final"
+},
 
-    {
-        date: "2007-09-24",
-        teams: "India vs Pakistan",
-        score: "157/5 vs 152",
-        result: "India won in the bowl-out",
-        competition: "ICC Men's T20 World Cup"
-    },
+{
+date: "2011-04-02",
+teams: "India vs Sri Lanka",
+score: "277/4 vs 274/6",
+result: "India won by 6 wickets",
+competition: "ICC Cricket World Cup Final"
+},
 
-    {
-        date: "2007-04-28",
-        teams: "Australia vs Sri Lanka",
-        score: "281/4 vs 215/8",
-        result: "Australia won by 53 runs",
-        competition: "ICC Cricket World Cup Final"
-    },
+{
+date: "2007-09-24",
+teams: "India vs Pakistan",
+score: "157/5 vs 152",
+result: "India won in the bowl-out",
+competition: "ICC Men's T20 World Cup"
+},
 
-    {
-        date: "2003-03-23",
-        teams: "Australia vs India",
-        score: "359/2 vs 234",
-        result: "Australia won by 125 runs",
-        competition: "ICC Cricket World Cup Final"
-    },
+{
+date: "2007-04-28",
+teams: "Australia vs Sri Lanka",
+score: "281/4 vs 215/8",
+result: "Australia won by 53 runs",
+competition: "ICC Cricket World Cup Final"
+},
 
-    {
-        date: "1999-06-20",
-        teams: "Pakistan vs Australia",
-        score: "132 vs 133/2",
-        result: "Australia won by 8 wickets",
-        competition: "ICC Cricket World Cup Final"
-    },
+{
+date: "2003-03-23",
+teams: "Australia vs India",
+score: "359/2 vs 234",
+result: "Australia won by 125 runs",
+competition: "ICC Cricket World Cup Final"
+},
 
-    {
-        date: "1996-03-17",
-        teams: "Sri Lanka vs Australia",
-        score: "245/3 vs 241",
-        result: "Sri Lanka won by 7 wickets",
-        competition: "ICC Cricket World Cup Final"
-    },
+{
+date: "1999-06-20",
+teams: "Pakistan vs Australia",
+score: "132 vs 133/2",
+result: "Australia won by 8 wickets",
+competition: "ICC Cricket World Cup Final"
+},
 
-    {
-        date: "1992-03-25",
-        teams: "Pakistan vs England",
-        score: "249/6 vs 227",
-        result: "Pakistan won by 22 runs",
-        competition: "ICC Cricket World Cup Final"
-    },
+{
+date: "1996-03-17",
+teams: "Sri Lanka vs Australia",
+score: "245/3 vs 241",
+result: "Sri Lanka won by 7 wickets",
+competition: "ICC Cricket World Cup Final"
+},
 
-    {
-        date: "1983-06-25",
-        teams: "India vs West Indies",
-        score: "183 vs 140",
-        result: "India won by 43 runs",
-        competition: "ICC Cricket World Cup Final"
-    },
+{
+date: "1992-03-25",
+teams: "Pakistan vs England",
+score: "249/6 vs 227",
+result: "Pakistan won by 22 runs",
+competition: "ICC Cricket World Cup Final"
+},
 
-    {
-        date: "1987-11-08",
-        teams: "Australia vs England",
-        score: "253/5 vs 246/8",
-        result: "Australia won by 7 runs",
-        competition: "ICC Cricket World Cup Final"
-    },
+{
+date: "1983-06-25",
+teams: "India vs West Indies",
+score: "183 vs 140",
+result: "India won by 43 runs",
+competition: "ICC Cricket World Cup Final"
+},
 
-    {
-        date: "1975-06-21",
-        teams: "West Indies vs Australia",
-        score: "291/8 vs 274",
-        result: "West Indies won by 17 runs",
-        competition: "ICC Cricket World Cup Final"
-    },
+{
+date: "1987-11-08",
+teams: "Australia vs England",
+score: "253/5 vs 246/8",
+result: "Australia won by 7 runs",
+competition: "ICC Cricket World Cup Final"
+},
 
-    {
-        date: "2024-06-27",
-        teams: "India vs England",
-        score: "171/7 vs 103",
-        result: "India won by 68 runs",
-        competition: "ICC Men's T20 World Cup Semi-Final"
-    },
+{
+date: "1975-06-21",
+teams: "West Indies vs Australia",
+score: "291/8 vs 274",
+result: "West Indies won by 17 runs",
+competition: "ICC Cricket World Cup Final"
+},
 
-    {
-        date: "2024-06-26",
-        teams: "South Africa vs Afghanistan",
-        score: "60/3 vs 56",
-        result: "South Africa won by 9 wickets",
-        competition: "ICC Men's T20 World Cup Semi-Final"
-    },
+{
+date: "2024-06-27",
+teams: "India vs England",
+score: "171/7 vs 103",
+result: "India won by 68 runs",
+competition: "ICC Men's T20 World Cup Semi-Final"
+},
 
-    {
-        date: "2022-11-10",
-        teams: "England vs India",
-        score: "170/0 vs 168/6",
-        result: "England won by 10 wickets",
-        competition: "ICC Men's T20 World Cup Semi-Final"
-    },
+{
+date: "2024-06-26",
+teams: "South Africa vs Afghanistan",
+score: "60/3 vs 56",
+result: "South Africa won by 9 wickets",
+competition: "ICC Men's T20 World Cup Semi-Final"
+},
 
-    {
-        date: "2022-11-09",
-        teams: "Pakistan vs New Zealand",
-        score: "153/3 vs 152/4",
-        result: "Pakistan won by 7 wickets",
-        competition: "ICC Men's T20 World Cup Semi-Final"
-    },
+{
+date: "2022-11-10",
+teams: "England vs India",
+score: "170/0 vs 168/6",
+result: "England won by 10 wickets",
+competition: "ICC Men's T20 World Cup Semi-Final"
+},
 
-    {
-        date: "2019-07-14",
-        teams: "England vs New Zealand",
-        score: "241/8 vs 241/8",
-        result: "England won the Super Over boundary count",
-        competition: "ICC Cricket World Cup Final"
-    },
+{
+date: "2022-11-09",
+teams: "Pakistan vs New Zealand",
+score: "153/3 vs 152/4",
+result: "Pakistan won by 7 wickets",
+competition: "ICC Men's T20 World Cup Semi-Final"
+},
 
-    {
-        date: "2019-07-10",
-        teams: "New Zealand vs India",
-        score: "239/8 vs 221",
-        result: "New Zealand won by 18 runs",
-        competition: "ICC Cricket World Cup Semi-Final"
-    },
+{
+date: "2019-07-14",
+teams: "England vs New Zealand",
+score: "241/8 vs 241/8",
+result: "England won the Super Over",
+competition: "ICC Cricket World Cup Final"
+},
 
-    {
-        date: "2019-07-11",
-        teams: "Australia vs England",
-        score: "223 vs 226/2",
-        result: "England won by 8 wickets",
-        competition: "ICC Cricket World Cup Semi-Final"
-    },
+{
+date: "2019-07-10",
+teams: "New Zealand vs India",
+score: "239/8 vs 221",
+result: "New Zealand won by 18 runs",
+competition: "ICC Cricket World Cup Semi-Final"
+},
 
-    {
-        date: "2016-03-31",
-        teams: "West Indies vs India",
-        score: "196/3 vs 192/2",
-        result: "West Indies won by 7 wickets",
-        competition: "ICC Men's T20 World Cup Semi-Final"
-    },
+{
+date: "2019-07-11",
+teams: "Australia vs England",
+score: "223 vs 226/2",
+result: "England won by 8 wickets",
+competition: "ICC Cricket World Cup Semi-Final"
+},
 
-    {
-        date: "2016-03-30",
-        teams: "England vs New Zealand",
-        score: "159/3 vs 153/8",
-        result: "England won by 7 wickets",
-        competition: "ICC Men's T20 World Cup Semi-Final"
-    }
+{
+date: "2016-03-31",
+teams: "West Indies vs India",
+score: "196/3 vs 192/2",
+result: "West Indies won by 7 wickets",
+competition: "ICC Men's T20 World Cup Semi-Final"
+},
+
+{
+date: "2016-03-30",
+teams: "England vs New Zealand",
+score: "159/3 vs 153/8",
+result: "England won by 7 wickets",
+competition: "ICC Men's T20 World Cup Semi-Final"
+}
 
 ];
-
 
 let historyShown = 6;
 
@@ -732,97 +743,98 @@ let historyShown = 6;
    RENDER HISTORY
 ========================================= */
 
-
 function renderHistory(list) {
 
-    const container =
-        document.getElementById("history");
+const container =
+document.getElementById("history");
 
-    const loadButton =
-        document.getElementById("loadMoreBtn");
+const loadButton =
+document.getElementById("loadMoreBtn");
 
+container.innerHTML = "";
 
-    container.innerHTML = "";
-
-
-    const visible =
-        list.slice(0, historyShown);
+const visible =
+list.slice(0, historyShown);
 
 
-    visible.forEach(match => {
+visible.forEach(match => {
 
-        const card =
-            document.createElement("div");
+const card =
+document.createElement("div");
 
-
-        card.className =
-            "match history-card";
-
-
-        card.innerHTML = `
-
-            <div class="match-title">
-                🏏 ${match.teams}
-            </div>
+card.className =
+"match history-card";
 
 
-            <div class="date">
-                📅 ${match.date}
-            </div>
+card.innerHTML = `
+
+<div class="match-title">
+🏏 ${match.teams}
+</div>
+
+<div class="date">
+📅 ${match.date}
+</div>
+
+<div class="score">
+${match.score}
+</div>
+
+<div class="result">
+🏆 ${match.result}
+</div>
+
+<div class="competition">
+${match.competition}
+</div>
+
+${
+match.hasScorecard
+?
+`
+<button
+class="scorecard-btn"
+onclick="showScorecard('${match.id}')"
+>
+📊 View Full Scorecard
+</button>
+`
+:
+""
+}
+
+`;
 
 
-            <div class="score">
-                ${match.score}
-            </div>
+container.appendChild(card);
+
+});
 
 
-            <div class="result">
-                🏆 ${match.result}
-            </div>
+if (historyShown >= list.length) {
+
+loadButton.classList.add("hidden");
+
+}
+
+else {
+
+loadButton.classList.remove("hidden");
+
+}
 
 
-            <div class="competition">
-                ${match.competition}
-            </div>
+if (!list.length) {
 
-        `;
+container.innerHTML = `
+<div class="message">
+❌ No matches found.
+</div>
+`;
 
+loadButton.classList.add("hidden");
 
-        container.appendChild(card);
-
-    });
-
-
-    if (
-        historyShown >= list.length
-    ) {
-
-        loadButton.classList.add(
-            "hidden"
-        );
-
-    } else {
-
-        loadButton.classList.remove(
-            "hidden"
-        );
-
-    }
-
-
-    if (!list.length) {
-
-        container.innerHTML = `
-            <div class="message">
-                ❌ No matches found.
-            </div>
-        `;
-
-        loadButton.classList.add(
-            "hidden"
-        );
-
-    }
+}
 
 }
 
@@ -831,39 +843,11 @@ function renderHistory(list) {
    LOAD MORE
 ========================================= */
 
-
 function loadMoreHistory() {
 
-    historyShown += 6;
+historyShown += 6;
 
-
-    const search =
-        document.getElementById("searchBar")
-        .value
-        .toLowerCase();
-
-
-    const filtered =
-        matchHistory.filter(match => {
-
-            return (
-                match.teams
-                    .toLowerCase()
-                    .includes(search)
-                ||
-                match.competition
-                    .toLowerCase()
-                    .includes(search)
-                ||
-                match.result
-                    .toLowerCase()
-                    .includes(search)
-            );
-
-        });
-
-
-    renderHistory(filtered);
+searchEverything();
 
 }
 
@@ -872,70 +856,211 @@ function loadMoreHistory() {
    SEARCH EVERYTHING
 ========================================= */
 
-
 function searchEverything() {
 
-    const search =
-        document.getElementById("searchBar")
-        .value
-        .toLowerCase()
-        .trim();
+const search =
+document.getElementById("searchBar")
+.value
+.toLowerCase()
+.trim();
 
 
-    /* Search live matches */
+const filteredLive =
+liveMatches.filter(match => {
 
-    const filteredLive =
-        liveMatches.filter(match => {
+const home =
+(match.home || "")
+.toLowerCase();
 
-            const home =
-                (match.home || "")
-                    .toLowerCase();
+const away =
+(match.away || "")
+.toLowerCase();
 
-            const away =
-                (match.away || "")
-                    .toLowerCase();
+return (
+home.includes(search) ||
+away.includes(search)
+);
 
-            return (
-                home.includes(search)
-                ||
-                away.includes(search)
-            );
-
-        });
+});
 
 
-    renderLiveMatches(
-        filteredLive
-    );
+renderLiveMatches(filteredLive);
 
 
-    /* Search history */
+const filteredHistory =
+matchHistory.filter(match => {
 
-    const filteredHistory =
-        matchHistory.filter(match => {
+return (
 
-            return (
-                match.teams
-                    .toLowerCase()
-                    .includes(search)
-                ||
-                match.competition
-                    .toLowerCase()
-                    .includes(search)
-                ||
-                match.result
-                    .toLowerCase()
-                    .includes(search)
-            );
+match.teams
+.toLowerCase()
+.includes(search)
 
-        });
+||
+
+match.competition
+.toLowerCase()
+.includes(search)
+
+||
+
+match.result
+.toLowerCase()
+.includes(search)
+
+||
+
+match.date
+.toLowerCase()
+.includes(search)
+
+);
+
+});
 
 
-    historyShown = 6;
+historyShown = 6;
 
-    renderHistory(
-        filteredHistory
-    );
+renderHistory(filteredHistory);
+
+}
+
+
+/* =========================================
+   SCORECARD DATABASE
+========================================= */
+
+const scorecards = {
+
+"sl-ind-2nd-test-2026": {
+
+title: "Sri Lanka vs India — 2nd Test",
+
+info:
+"Colombo (SSC) • August 23–27, 2026",
+
+result:
+"Match drawn",
+
+note:
+"Verified match summary is shown here. Full player-by-player scorecard data will be connected when the historical database is imported.",
+
+innings: [
+
+{
+title: "🇮🇳 India — 1st Innings",
+total: "503/9 declared"
+},
+
+{
+title: "🇱🇰 Sri Lanka — 1st Innings",
+total: "290 all out"
+},
+
+{
+title: "🇱🇰 Sri Lanka — 2nd Innings",
+total: "429/9 declared"
+}
+
+]
+
+}
+
+};
+
+
+/* =========================================
+   SHOW SCORECARD
+========================================= */
+
+function showScorecard(id) {
+
+const match =
+scorecards[id];
+
+if (!match) {
+
+alert("Full scorecard data is not available yet.");
+
+return;
+
+}
+
+
+const section =
+document.getElementById("scorecardSection");
+
+const container =
+document.getElementById("scorecard");
+
+
+let html = `
+
+<div class="scorecard-box">
+
+<h2>
+🏏 ${match.title}
+</h2>
+
+<p>
+📅 ${match.info}
+</p>
+
+<p class="result">
+🏆 ${match.result}
+</p>
+
+<p>
+${match.note}
+</p>
+
+</div>
+
+`;
+
+
+match.innings.forEach(innings => {
+
+html += `
+
+<div class="scorecard-box">
+
+<h3>
+${innings.title}
+</h3>
+
+<div class="scorecard-total">
+${innings.total}
+</div>
+
+</div>
+
+`;
+
+});
+
+
+container.innerHTML =
+html;
+
+section.classList.remove("hidden");
+
+section.scrollIntoView({
+behavior: "smooth"
+});
+
+}
+
+
+/* =========================================
+   CLOSE SCORECARD
+========================================= */
+
+function closeScorecard() {
+
+document
+.getElementById("scorecardSection")
+.classList.add("hidden");
 
 }
 
@@ -944,25 +1069,19 @@ function searchEverything() {
    START
 ========================================= */
 
-
 loadLiveScores();
 
-renderHistory(
-    matchHistory
-);
+renderHistory(matchHistory);
 
 
 /* Refresh live data every 60 seconds */
 
 setInterval(
-    loadLiveScores,
-    60000
+loadLiveScores,
+60000
 );
-
 
 </script>
 
-
 </body>
-
 </html>
