@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -407,55 +408,55 @@ let liveMatches = [];
 
 async function loadLiveScores() {
 
-const status =
-document.getElementById("liveStatus");
+    const status =
+    document.getElementById("liveStatus");
 
-const container =
-document.getElementById("matches");
+    const container =
+    document.getElementById("matches");
 
-status.textContent =
-"Loading live scores...";
+    status.textContent =
+    "Loading live scores...";
 
-container.innerHTML = "";
+    container.innerHTML = "";
 
-try {
+    try {
 
-const response =
-await fetch(API);
+        const response =
+        await fetch(API);
 
-if (!response.ok) {
-throw new Error("API request failed");
-}
+        if (!response.ok) {
+            throw new Error("API request failed");
+        }
 
-const data =
-await response.json();
+        const data =
+        await response.json();
 
-console.log("SportScore data:", data);
+        console.log("SportScore data:", data);
 
-liveMatches =
-data.matches || [];
+        liveMatches =
+        data.matches || [];
 
-renderLiveMatches(liveMatches);
+        renderLiveMatches(liveMatches);
 
-}
+    }
 
-catch(error) {
+    catch(error) {
 
-console.error(error);
+        console.error(error);
 
-status.innerHTML = `
-<div class="error">
+        status.innerHTML = `
+        <div class="error">
 
-❌ Couldn't load live scores.
+        ❌ Couldn't load live scores.
 
-<br><br>
+        <br><br>
 
-Try the Refresh button.
+        Try the Refresh button.
 
-</div>
-`;
+        </div>
+        `;
 
-}
+    }
 
 }
 
@@ -466,277 +467,148 @@ Try the Refresh button.
 
 function renderLiveMatches(list) {
 
-const container =
-document.getElementById("matches");
+    const container =
+    document.getElementById("matches");
 
-const status =
-document.getElementById("liveStatus");
+    const status =
+    document.getElementById("liveStatus");
 
-container.innerHTML = "";
+    container.innerHTML = "";
 
-if (!list.length) {
+    if (!list.length) {
 
-status.textContent =
-"No matches found.";
+        status.textContent =
+        "No matches found.";
 
-return;
+        return;
 
-}
+    }
 
-status.textContent =
-list.length +
-" cricket matches found";
-
-
-list.forEach(match => {
-
-const card =
-document.createElement("div");
-
-card.className =
-"match";
-
-const home =
-match.home ||
-"Unknown Team";
-
-const away =
-match.away ||
-"Unknown Team";
-
-const homeScore =
-match.home_score ?? "-";
-
-const awayScore =
-match.away_score ?? "-";
-
-const matchStatus =
-match.status ||
-"Match information";
+    status.textContent =
+    list.length +
+    " cricket matches found";
 
 
-card.innerHTML = `
+    list.forEach(match => {
 
-<div class="match-title">
-🏏 Cricket Match
-</div>
+        const card =
+        document.createElement("div");
 
-<div class="team">
-${home}
-</div>
+        card.className =
+        "match";
 
-<div class="score">
-${homeScore}
-</div>
+        const home =
+        match.home ||
+        "Unknown Team";
 
-<div class="team">
-${away}
-</div>
+        const away =
+        match.away ||
+        "Unknown Team";
 
-<div class="score">
-${awayScore}
-</div>
+        const homeScore =
+        match.home_score ?? "-";
 
-<div class="match-status">
-${String(matchStatus).toUpperCase()}
-</div>
+        const awayScore =
+        match.away_score ?? "-";
 
-`;
+        const matchStatus =
+        match.status ||
+        "Match information";
 
-container.appendChild(card);
 
-});
+        card.innerHTML = `
+
+        <div class="match-title">
+        🏏 Cricket Match
+        </div>
+
+        <div class="team">
+        ${home}
+        </div>
+
+        <div class="score">
+        ${homeScore}
+        </div>
+
+        <div class="team">
+        ${away}
+        </div>
+
+        <div class="score">
+        ${awayScore}
+        </div>
+
+        <div class="match-status">
+        ${String(matchStatus).toUpperCase()}
+        </div>
+
+        `;
+
+        container.appendChild(card);
+
+    });
 
 }
 
 
 /* =========================================
-   MATCH HISTORY
+   MATCH HISTORY DATABASE
 ========================================= */
 
-const matchHistory = [
-
-{
-id: "sl-ind-2nd-test-2026",
-date: "2026-08-23",
-teams: "Sri Lanka vs India",
-score: "India 503/9d | Sri Lanka 290 & 429/9d",
-result: "Match drawn",
-competition: "India tour of Sri Lanka — 2nd Test",
-hasScorecard: true
-},
-
-{
-date: "2024-06-29",
-teams: "India vs South Africa",
-score: "176/7 vs 169/8",
-result: "India won by 7 runs",
-competition: "ICC Men's T20 World Cup Final"
-},
-
-{
-date: "2023-11-19",
-teams: "India vs Australia",
-score: "240 vs 241/4",
-result: "Australia won by 6 wickets",
-competition: "ICC Cricket World Cup Final"
-},
-
-{
-date: "2011-04-02",
-teams: "India vs Sri Lanka",
-score: "277/4 vs 274/6",
-result: "India won by 6 wickets",
-competition: "ICC Cricket World Cup Final"
-},
-
-{
-date: "2007-09-24",
-teams: "India vs Pakistan",
-score: "157/5 vs 152",
-result: "India won in the bowl-out",
-competition: "ICC Men's T20 World Cup"
-},
-
-{
-date: "2007-04-28",
-teams: "Australia vs Sri Lanka",
-score: "281/4 vs 215/8",
-result: "Australia won by 53 runs",
-competition: "ICC Cricket World Cup Final"
-},
-
-{
-date: "2003-03-23",
-teams: "Australia vs India",
-score: "359/2 vs 234",
-result: "Australia won by 125 runs",
-competition: "ICC Cricket World Cup Final"
-},
-
-{
-date: "1999-06-20",
-teams: "Pakistan vs Australia",
-score: "132 vs 133/2",
-result: "Australia won by 8 wickets",
-competition: "ICC Cricket World Cup Final"
-},
-
-{
-date: "1996-03-17",
-teams: "Sri Lanka vs Australia",
-score: "245/3 vs 241",
-result: "Sri Lanka won by 7 wickets",
-competition: "ICC Cricket World Cup Final"
-},
-
-{
-date: "1992-03-25",
-teams: "Pakistan vs England",
-score: "249/6 vs 227",
-result: "Pakistan won by 22 runs",
-competition: "ICC Cricket World Cup Final"
-},
-
-{
-date: "1983-06-25",
-teams: "India vs West Indies",
-score: "183 vs 140",
-result: "India won by 43 runs",
-competition: "ICC Cricket World Cup Final"
-},
-
-{
-date: "1987-11-08",
-teams: "Australia vs England",
-score: "253/5 vs 246/8",
-result: "Australia won by 7 runs",
-competition: "ICC Cricket World Cup Final"
-},
-
-{
-date: "1975-06-21",
-teams: "West Indies vs Australia",
-score: "291/8 vs 274",
-result: "West Indies won by 17 runs",
-competition: "ICC Cricket World Cup Final"
-},
-
-{
-date: "2024-06-27",
-teams: "India vs England",
-score: "171/7 vs 103",
-result: "India won by 68 runs",
-competition: "ICC Men's T20 World Cup Semi-Final"
-},
-
-{
-date: "2024-06-26",
-teams: "South Africa vs Afghanistan",
-score: "60/3 vs 56",
-result: "South Africa won by 9 wickets",
-competition: "ICC Men's T20 World Cup Semi-Final"
-},
-
-{
-date: "2022-11-10",
-teams: "England vs India",
-score: "170/0 vs 168/6",
-result: "England won by 10 wickets",
-competition: "ICC Men's T20 World Cup Semi-Final"
-},
-
-{
-date: "2022-11-09",
-teams: "Pakistan vs New Zealand",
-score: "153/3 vs 152/4",
-result: "Pakistan won by 7 wickets",
-competition: "ICC Men's T20 World Cup Semi-Final"
-},
-
-{
-date: "2019-07-14",
-teams: "England vs New Zealand",
-score: "241/8 vs 241/8",
-result: "England won the Super Over",
-competition: "ICC Cricket World Cup Final"
-},
-
-{
-date: "2019-07-10",
-teams: "New Zealand vs India",
-score: "239/8 vs 221",
-result: "New Zealand won by 18 runs",
-competition: "ICC Cricket World Cup Semi-Final"
-},
-
-{
-date: "2019-07-11",
-teams: "Australia vs England",
-score: "223 vs 226/2",
-result: "England won by 8 wickets",
-competition: "ICC Cricket World Cup Semi-Final"
-},
-
-{
-date: "2016-03-31",
-teams: "West Indies vs India",
-score: "196/3 vs 192/2",
-result: "West Indies won by 7 wickets",
-competition: "ICC Men's T20 World Cup Semi-Final"
-},
-
-{
-date: "2016-03-30",
-teams: "England vs New Zealand",
-score: "159/3 vs 153/8",
-result: "England won by 7 wickets",
-competition: "ICC Men's T20 World Cup Semi-Final"
-}
-
-];
+let matchHistory = [];
 
 let historyShown = 6;
+
+
+/* =========================================
+   LOAD MATCH HISTORY FROM JSON
+========================================= */
+
+async function loadMatchHistory() {
+
+    try {
+
+        const response =
+        await fetch("data/matches.json");
+
+        if (!response.ok) {
+            throw new Error(
+                "History database could not be loaded"
+            );
+        }
+
+        const data =
+        await response.json();
+
+        matchHistory =
+        data.matches || [];
+
+        renderHistory(matchHistory);
+
+        console.log(
+            "Match history loaded:",
+            matchHistory
+        );
+
+    }
+
+    catch(error) {
+
+        console.error(error);
+
+        document.getElementById("history").innerHTML = `
+        <div class="error">
+        ❌ Couldn't load match history.
+        </div>
+        `;
+
+        document
+        .getElementById("loadMoreBtn")
+        .classList.add("hidden");
+
+    }
+
+}
 
 
 /* =========================================
@@ -745,96 +617,96 @@ let historyShown = 6;
 
 function renderHistory(list) {
 
-const container =
-document.getElementById("history");
+    const container =
+    document.getElementById("history");
 
-const loadButton =
-document.getElementById("loadMoreBtn");
+    const loadButton =
+    document.getElementById("loadMoreBtn");
 
-container.innerHTML = "";
+    container.innerHTML = "";
 
-const visible =
-list.slice(0, historyShown);
-
-
-visible.forEach(match => {
-
-const card =
-document.createElement("div");
-
-card.className =
-"match history-card";
+    const visible =
+    list.slice(0, historyShown);
 
 
-card.innerHTML = `
+    visible.forEach(match => {
 
-<div class="match-title">
-🏏 ${match.teams}
-</div>
+        const card =
+        document.createElement("div");
 
-<div class="date">
-📅 ${match.date}
-</div>
-
-<div class="score">
-${match.score}
-</div>
-
-<div class="result">
-🏆 ${match.result}
-</div>
-
-<div class="competition">
-${match.competition}
-</div>
-
-${
-match.hasScorecard
-?
-`
-<button
-class="scorecard-btn"
-onclick="showScorecard('${match.id}')"
->
-📊 View Full Scorecard
-</button>
-`
-:
-""
-}
-
-`;
+        card.className =
+        "match history-card";
 
 
-container.appendChild(card);
+        card.innerHTML = `
 
-});
+        <div class="match-title">
+        🏏 ${match.teams || "Unknown Teams"}
+        </div>
+
+        <div class="date">
+        📅 ${match.date || "Unknown Date"}
+        </div>
+
+        <div class="score">
+        ${match.score || "-"}
+        </div>
+
+        <div class="result">
+        🏆 ${match.result || "Result unavailable"}
+        </div>
+
+        <div class="competition">
+        ${match.competition || "Cricket Match"}
+        </div>
+
+        ${
+        match.hasScorecard
+        ?
+        `
+        <button
+        class="scorecard-btn"
+        onclick="showScorecard('${match.id}')"
+        >
+        📊 View Full Scorecard
+        </button>
+        `
+        :
+        ""
+        }
+
+        `;
 
 
-if (historyShown >= list.length) {
+        container.appendChild(card);
 
-loadButton.classList.add("hidden");
-
-}
-
-else {
-
-loadButton.classList.remove("hidden");
-
-}
+    });
 
 
-if (!list.length) {
+    if (historyShown >= list.length) {
 
-container.innerHTML = `
-<div class="message">
-❌ No matches found.
-</div>
-`;
+        loadButton.classList.add("hidden");
 
-loadButton.classList.add("hidden");
+    }
 
-}
+    else {
+
+        loadButton.classList.remove("hidden");
+
+    }
+
+
+    if (!list.length) {
+
+        container.innerHTML = `
+        <div class="message">
+        ❌ No matches found.
+        </div>
+        `;
+
+        loadButton.classList.add("hidden");
+
+    }
 
 }
 
@@ -845,9 +717,46 @@ loadButton.classList.add("hidden");
 
 function loadMoreHistory() {
 
-historyShown += 6;
+    historyShown += 6;
 
-searchEverything();
+    const search =
+    document.getElementById("searchBar")
+    .value
+    .toLowerCase()
+    .trim();
+
+    const filteredHistory =
+    matchHistory.filter(match => {
+
+        return (
+
+            (match.teams || "")
+            .toLowerCase()
+            .includes(search)
+
+            ||
+
+            (match.competition || "")
+            .toLowerCase()
+            .includes(search)
+
+            ||
+
+            (match.result || "")
+            .toLowerCase()
+            .includes(search)
+
+            ||
+
+            (match.date || "")
+            .toLowerCase()
+            .includes(search)
+
+        );
+
+    });
+
+    renderHistory(filteredHistory);
 
 }
 
@@ -858,70 +767,70 @@ searchEverything();
 
 function searchEverything() {
 
-const search =
-document.getElementById("searchBar")
-.value
-.toLowerCase()
-.trim();
+    const search =
+    document.getElementById("searchBar")
+    .value
+    .toLowerCase()
+    .trim();
 
 
-const filteredLive =
-liveMatches.filter(match => {
+    const filteredLive =
+    liveMatches.filter(match => {
 
-const home =
-(match.home || "")
-.toLowerCase();
+        const home =
+        (match.home || "")
+        .toLowerCase();
 
-const away =
-(match.away || "")
-.toLowerCase();
+        const away =
+        (match.away || "")
+        .toLowerCase();
 
-return (
-home.includes(search) ||
-away.includes(search)
-);
+        return (
+            home.includes(search) ||
+            away.includes(search)
+        );
 
-});
-
-
-renderLiveMatches(filteredLive);
+    });
 
 
-const filteredHistory =
-matchHistory.filter(match => {
-
-return (
-
-match.teams
-.toLowerCase()
-.includes(search)
-
-||
-
-match.competition
-.toLowerCase()
-.includes(search)
-
-||
-
-match.result
-.toLowerCase()
-.includes(search)
-
-||
-
-match.date
-.toLowerCase()
-.includes(search)
-
-);
-
-});
+    renderLiveMatches(filteredLive);
 
 
-historyShown = 6;
+    const filteredHistory =
+    matchHistory.filter(match => {
 
-renderHistory(filteredHistory);
+        return (
+
+            (match.teams || "")
+            .toLowerCase()
+            .includes(search)
+
+            ||
+
+            (match.competition || "")
+            .toLowerCase()
+            .includes(search)
+
+            ||
+
+            (match.result || "")
+            .toLowerCase()
+            .includes(search)
+
+            ||
+
+            (match.date || "")
+            .toLowerCase()
+            .includes(search)
+
+        );
+
+    });
+
+
+    historyShown = 6;
+
+    renderHistory(filteredHistory);
 
 }
 
@@ -932,39 +841,49 @@ renderHistory(filteredHistory);
 
 const scorecards = {
 
-"sl-ind-2nd-test-2026": {
+    "sl-ind-2nd-test-2026": {
 
-title: "Sri Lanka vs India — 2nd Test",
+        title:
+        "Sri Lanka vs India — 2nd Test",
 
-info:
-"Colombo (SSC) • August 23–27, 2026",
+        info:
+        "Colombo (SSC) • August 23–27, 2026",
 
-result:
-"Match drawn",
+        result:
+        "Match drawn",
 
-note:
-"Verified match summary is shown here. Full player-by-player scorecard data will be connected when the historical database is imported.",
+        note:
+        "Verified match summary. The full player-by-player scorecard will be loaded from the scorecard database next.",
 
-innings: [
+        innings: [
 
-{
-title: "🇮🇳 India — 1st Innings",
-total: "503/9 declared"
-},
+            {
+                title:
+                "🇮🇳 India — 1st Innings",
 
-{
-title: "🇱🇰 Sri Lanka — 1st Innings",
-total: "290 all out"
-},
+                total:
+                "503/9 declared"
+            },
 
-{
-title: "🇱🇰 Sri Lanka — 2nd Innings",
-total: "429/9 declared"
-}
+            {
+                title:
+                "🇱🇰 Sri Lanka — 1st Innings",
 
-]
+                total:
+                "290 all out"
+            },
 
-}
+            {
+                title:
+                "🇱🇰 Sri Lanka — 2nd Innings",
+
+                total:
+                "429/9 declared"
+            }
+
+        ]
+
+    }
 
 };
 
@@ -975,79 +894,81 @@ total: "429/9 declared"
 
 function showScorecard(id) {
 
-const match =
-scorecards[id];
+    const match =
+    scorecards[id];
 
-if (!match) {
+    if (!match) {
 
-alert("Full scorecard data is not available yet.");
+        alert(
+            "Full scorecard data is not available yet."
+        );
 
-return;
+        return;
 
-}
-
-
-const section =
-document.getElementById("scorecardSection");
-
-const container =
-document.getElementById("scorecard");
+    }
 
 
-let html = `
+    const section =
+    document.getElementById("scorecardSection");
 
-<div class="scorecard-box">
-
-<h2>
-🏏 ${match.title}
-</h2>
-
-<p>
-📅 ${match.info}
-</p>
-
-<p class="result">
-🏆 ${match.result}
-</p>
-
-<p>
-${match.note}
-</p>
-
-</div>
-
-`;
+    const container =
+    document.getElementById("scorecard");
 
 
-match.innings.forEach(innings => {
+    let html = `
 
-html += `
+    <div class="scorecard-box">
 
-<div class="scorecard-box">
+    <h2>
+    🏏 ${match.title}
+    </h2>
 
-<h3>
-${innings.title}
-</h3>
+    <p>
+    📅 ${match.info}
+    </p>
 
-<div class="scorecard-total">
-${innings.total}
-</div>
+    <p class="result">
+    🏆 ${match.result}
+    </p>
 
-</div>
+    <p>
+    ${match.note}
+    </p>
 
-`;
+    </div>
 
-});
+    `;
 
 
-container.innerHTML =
-html;
+    match.innings.forEach(innings => {
 
-section.classList.remove("hidden");
+        html += `
 
-section.scrollIntoView({
-behavior: "smooth"
-});
+        <div class="scorecard-box">
+
+        <h3>
+        ${innings.title}
+        </h3>
+
+        <div class="scorecard-total">
+        ${innings.total}
+        </div>
+
+        </div>
+
+        `;
+
+    });
+
+
+    container.innerHTML =
+    html;
+
+    section.classList.remove("hidden");
+
+    section.scrollIntoView({
+        behavior: "smooth"
+    });
 
 }
 
@@ -1058,9 +979,9 @@ behavior: "smooth"
 
 function closeScorecard() {
 
-document
-.getElementById("scorecardSection")
-.classList.add("hidden");
+    document
+    .getElementById("scorecardSection")
+    .classList.add("hidden");
 
 }
 
@@ -1071,17 +992,20 @@ document
 
 loadLiveScores();
 
-renderHistory(matchHistory);
+loadMatchHistory();
 
 
-/* Refresh live data every 60 seconds */
+/* =========================================
+   AUTO REFRESH LIVE SCORES
+========================================= */
 
 setInterval(
-loadLiveScores,
-60000
+    loadLiveScores,
+    60000
 );
 
 </script>
 
 </body>
 </html>
+```
