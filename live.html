@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Live Cricket Scores - Cricket Hub</title>
+<title>Cricket Hub - Live Scores & History</title>
 
 <style>
-
 * {
     box-sizing: border-box;
 }
@@ -21,554 +19,276 @@ body {
 }
 
 header {
-    background: #0b7a3b;
+    background: #087f23;
     color: white;
-    padding: 18px 10px;
+    padding: 15px;
     text-align: center;
 }
 
 header h1 {
-    margin: 0 0 15px;
-    font-size: 28px;
+    margin: 0 0 12px;
 }
 
 nav {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 8px;
 }
 
 nav a {
     color: white;
     text-decoration: none;
-    background: #096631;
+    background: #056b1d;
     padding: 8px 12px;
     border-radius: 6px;
-    font-size: 14px;
 }
 
 nav a:hover {
-    background: #075126;
+    background: #034f15;
 }
 
-main {
-    max-width: 1000px;
-    margin: 30px auto;
-    padding: 0 15px;
+.container {
+    max-width: 1100px;
+    margin: auto;
+    padding: 20px;
 }
 
 h2 {
-    text-align: center;
-    color: #0b7a3b;
+    color: #087f23;
 }
-
-.section-title {
-    margin-top: 35px;
-    margin-bottom: 15px;
-    font-size: 22px;
-    font-weight: bold;
-}
-
-.live-title {
-    color: #d00000;
-}
-
-.history-title {
-    color: #0b7a3b;
-}
-
-
-/* =========================================
-   SEARCH
-========================================= */
 
 .search-box {
-    width: 100%;
-    max-width: 700px;
-    margin: 20px auto 30px;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
 .search-box input {
-    width: 100%;
-    padding: 14px;
-    margin-bottom: 10px;
-    font-size: 16px;
-    border: 2px solid #0b7a3b;
-    border-radius: 10px;
-    outline: none;
-}
-
-.search-box input:focus {
-    box-shadow: 0 0 7px rgba(11,122,59,0.3);
-}
-
-.search-buttons {
-    text-align: center;
-}
-
-.search-btn,
-.clear-btn {
-    padding: 11px 20px;
-    border: none;
-    border-radius: 8px;
-    color: white;
+    width: 42%;
+    padding: 11px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
     font-size: 15px;
+}
+
+button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 6px;
     cursor: pointer;
+    background: #087f23;
+    color: white;
+    font-weight: bold;
     margin: 5px;
 }
 
-.search-btn {
-    background: #0b7a3b;
+button:hover {
+    background: #056b1d;
 }
 
 .clear-btn {
-    background: #d00000;
-}
-
-.search-btn:hover {
-    background: #075126;
-}
-
-.clear-btn:hover {
-    background: #a00000;
-}
-
-.search-help {
-    text-align: center;
-    margin-top: 10px;
-    color: #666;
-    font-size: 13px;
-    line-height: 1.6;
-}
-
-
-/* =========================================
-   MATCHES
-========================================= */
-
-#matches,
-#history {
-    display: grid;
-    gap: 18px;
+    background: #777;
 }
 
 .match {
     background: white;
-    border-radius: 12px;
-    padding: 20px;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.12);
+    margin: 12px 0;
+    padding: 16px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
-.match-title {
-    font-size: 18px;
+.match h3 {
+    margin-top: 0;
+}
+
+.live-label {
+    display: inline-block;
+    background: red;
+    color: white;
+    padding: 5px 9px;
+    border-radius: 5px;
+    font-size: 13px;
     font-weight: bold;
-    color: #0b7a3b;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
-.team {
-    font-size: 19px;
+.score {
+    font-size: 20px;
     font-weight: bold;
     margin: 8px 0;
 }
 
-.score {
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 12px;
+.status {
+    color: #555;
+    margin-top: 8px;
 }
 
-.match-status {
-    display: inline-block;
-    padding: 7px 12px;
-    border-radius: 20px;
-    background: #eeeeee;
-    font-size: 13px;
-    font-weight: bold;
+.scorecard {
+    background: white;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
-.history-card {
-    border-left: 5px solid #0b7a3b;
-}
-
-.date {
-    color: #666;
-    font-size: 14px;
-    margin-bottom: 10px;
-}
-
-.competition {
-    color: #777;
-    font-size: 14px;
-    margin-top: 10px;
-}
-
-.result {
-    font-weight: bold;
-    margin-top: 12px;
-}
-
-
-/* =========================================
-   BUTTONS
-========================================= */
-
-.refresh-btn,
-.load-btn,
-.scorecard-btn {
-    display: block;
-    margin: 20px auto;
-    padding: 12px 22px;
-    border: none;
-    border-radius: 8px;
-    background: #0b7a3b;
-    color: white;
-    font-size: 16px;
-    cursor: pointer;
-}
-
-.refresh-btn:hover,
-.load-btn:hover,
-.scorecard-btn:hover {
-    background: #075126;
-}
-
-.scorecard-btn {
+.scorecard table {
     width: 100%;
-    max-width: 300px;
+    border-collapse: collapse;
+    margin: 15px 0;
 }
 
+.scorecard th,
+.scorecard td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
 
-/* =========================================
-   MESSAGES
-========================================= */
+.scorecard th {
+    background: #087f23;
+    color: white;
+}
 
 .hidden {
     display: none;
 }
 
-.message {
-    text-align: center;
-    padding: 20px;
-    background: white;
-    border-radius: 10px;
-}
-
-.error {
-    background: #ffe5e5;
-    color: #b00000;
-    padding: 18px;
-    border-radius: 10px;
-    text-align: center;
-}
-
-
-/* =========================================
-   SCORECARD
-========================================= */
-
-#scorecardSection {
-    margin-top: 45px;
-}
-
-.scorecard-box {
-    background: white;
-    padding: 20px;
-    border-radius: 12px;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.12);
-    margin-bottom: 20px;
-    overflow-x: auto;
-}
-
-.scorecard-box h3 {
-    color: #0b7a3b;
-    border-bottom: 2px solid #0b7a3b;
-    padding-bottom: 8px;
-}
-
-.scorecard-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 15px;
-    font-size: 14px;
-}
-
-.scorecard-table th,
-.scorecard-table td {
-    padding: 9px;
-    border-bottom: 1px solid #ddd;
-    text-align: left;
-}
-
-.scorecard-table th {
-    background: #f0f5f2;
-}
-
-.scorecard-total {
-    font-size: 18px;
-    font-weight: bold;
-    margin-top: 15px;
-}
-
-.close-scorecard {
-    display: block;
-    margin: 15px auto 30px;
-    padding: 11px 20px;
-    border: none;
-    border-radius: 8px;
-    background: #d00000;
-    color: white;
-    cursor: pointer;
-    font-size: 15px;
-}
-
-.close-scorecard:hover {
-    background: #a00000;
-}
-
-
-/* =========================================
-   FOOTER
-========================================= */
-
 footer {
-    margin-top: 40px;
-    padding: 20px;
-    background: #0b7a3b;
-    color: white;
     text-align: center;
-}
-
-footer a {
+    padding: 20px;
+    margin-top: 30px;
+    background: #087f23;
     color: white;
 }
 
+@media (max-width: 700px) {
+    .search-box input {
+        width: 95%;
+    }
 
-/* =========================================
-   MOBILE
-========================================= */
-
-@media (max-width:600px) {
-
-    header h1 {
-        font-size: 23px;
+    nav {
+        flex-direction: column;
     }
 
     nav a {
-        font-size: 12px;
-        padding: 7px 9px;
+        width: 100%;
     }
 
-    .match {
-        padding: 16px;
+    .scorecard table {
+        font-size: 13px;
     }
-
-    .scorecard-table {
-        font-size: 12px;
-    }
-
-    .search-box input {
-        font-size: 15px;
-    }
-
 }
-
 </style>
 </head>
 
-
 <body>
 
-
-<!-- =========================================
-     HEADER
-========================================= -->
-
 <header>
+    <h1>🏏 Cricket Hub</h1>
 
-<h1>🏏 Cricket Hub</h1>
-
-<nav>
-<a href="index.html">Home</a>
-<a href="news.html">News</a>
-<a href="players.html">Players</a>
-<a href="teams.html">Teams</a>
-<a href="stories.html">Stories</a>
-<a href="scenarios.html">Scenarios</a>
-<a href="match.html">Match Mode</a>
-<a href="achievements.html">🏆 Achievements</a>
-<a href="live.html">🔴 Live Scores</a>
-</nav>
-
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="news.html">News</a>
+        <a href="players.html">Players</a>
+        <a href="teams.html">Teams</a>
+        <a href="stories.html">Stories</a>
+        <a href="scenarios.html">Scenarios</a>
+        <a href="match.html">Match Mode</a>
+        <a href="achievements.html">Achievements</a>
+        <a href="live.html">Live Scores</a>
+    </nav>
 </header>
 
+<div class="container">
 
-<main>
+    <h2>🔴 Live Cricket Matches</h2>
 
-<h2>🏏 Cricket Scores & History</h2>
+    <div id="liveStatus">⚡ Loading live scores...</div>
 
+    <div id="matches"></div>
 
-<!-- =========================================
-     SEARCH
-========================================= -->
+    <button id="refreshButton">🔄 Refresh Live Scores</button>
 
-<div class="search-box">
+    <hr>
 
-    <input
-        type="text"
-        id="teamSearch"
-        placeholder="🏏 Enter team name..."
-    >
+    <h2>📚 Cricket Match History</h2>
 
-    <input
-        type="text"
-        id="dateSearch"
-        placeholder="📅 Enter year / month / date..."
-    >
+    <div class="search-box">
 
-    <div class="search-buttons">
-
-        <button
-            class="search-btn"
-            id="searchButton"
-            type="button"
+        <input
+            type="text"
+            id="teamSearch"
+            placeholder="🏏 Enter team name..."
         >
-            🔎 Search
+
+        <input
+            type="text"
+            id="dateSearch"
+            placeholder="📅 Enter year / month / date..."
+        >
+
+        <br>
+
+        <button id="searchButton">🔎 Search</button>
+        <button id="clearButton" class="clear-btn">❌ Clear</button>
+
+        <p>
+            Examples:
+            <br>
+            <b>India + 2019</b>
+            <br>
+            <b>India + 2019-07</b>
+            <br>
+            <b>India + 2019-07-09</b>
+            <br>
+            <b>India + July 2019</b>
+        </p>
+
+    </div>
+
+    <div id="history"></div>
+
+    <button id="loadMoreButton">⬇️ Load More</button>
+
+    <div id="scorecardSection" class="scorecard hidden">
+
+        <h2>📊 Full Scorecard</h2>
+
+        <div id="scorecard"></div>
+
+        <button id="closeScorecardButton">
+            ❌ Close Scorecard
         </button>
 
-        <button
-            class="clear-btn"
-            id="clearButton"
-            type="button"
-        >
-            ✖ Clear
-        </button>
-
-    </div>
-
-    <div class="search-help">
-
-        Examples:<br>
-
-        <b>India</b> + <b>2019</b><br>
-
-        <b>India</b> + <b>2019-07</b><br>
-
-        <b>India</b> + <b>2019-07-09</b><br>
-
-        <b>India</b> + <b>July 2019</b>
-
     </div>
 
 </div>
-
-
-<!-- =========================================
-     LIVE
-========================================= -->
-
-<div class="section-title live-title">
-🔴 LIVE MATCHES
-</div>
-
-<div id="liveStatus">
-Loading live scores...
-</div>
-
-<div id="matches"></div>
-
-<button
-    class="refresh-btn"
-    id="refreshButton"
-    type="button"
->
-🔄 Refresh Live Scores
-</button>
-
-
-<!-- =========================================
-     HISTORY
-========================================= -->
-
-<div class="section-title history-title">
-📚 MATCH HISTORY
-</div>
-
-<div id="history"></div>
-
-<button
-    id="loadMoreBtn"
-    class="load-btn"
-    type="button"
->
-Load More Matches
-</button>
-
-
-<!-- =========================================
-     SCORECARD
-========================================= -->
-
-<div id="scorecardSection" class="hidden">
-
-    <div class="section-title history-title">
-        📊 FULL SCORECARD
-    </div>
-
-    <div id="scorecard"></div>
-
-    <button
-        class="close-scorecard"
-        id="closeScorecardButton"
-        type="button"
-    >
-        ✖ Close Scorecard
-    </button>
-
-</div>
-
-</main>
-
-
-<!-- =========================================
-     FOOTER
-========================================= -->
 
 <footer>
-
-<p>Cricket Hub © 2026</p>
-
-<p>
-Live sports data powered by
-<a
-    href="https://sportscore.com/"
-    target="_blank"
-    rel="noopener noreferrer"
->
-SportScore
-</a>
-</p>
-
+    Cricket Hub © 2026
+    <br>
+    Powered by SportScore
 </footer>
-
 
 <script>
 
-
-/* =========================================
-   LIVE SCORES
-========================================= */
-
 const API =
-"https://sportscore.com/api/widget/matches/?sport=cricket&limit=50";
+    "https://sportscore.com/api/widget/matches/?sport=cricket&limit=50";
 
 let liveMatches = [];
+let matchHistory = [];
+
+let historyDisplayCount = 20;
 
 
-/* =========================================
-   LOAD LIVE SCORES
-========================================= */
+/* =========================
+   LIVE SCORES
+========================= */
 
 async function loadLiveScores() {
 
@@ -578,23 +298,18 @@ async function loadLiveScores() {
     const container =
         document.getElementById("matches");
 
-
     status.textContent =
         "⚡ Loading live scores...";
 
-
     container.innerHTML = "";
-
 
     const controller =
         new AbortController();
-
 
     const timeout =
         setTimeout(() => {
             controller.abort();
         }, 8000);
-
 
     try {
 
@@ -604,85 +319,47 @@ async function loadLiveScores() {
                 cache: "no-store"
             });
 
-
         clearTimeout(timeout);
 
-
         if (!response.ok) {
-
             throw new Error(
                 "API request failed: " +
                 response.status
             );
-
         }
-
 
         const data =
             await response.json();
-
 
         console.log(
             "SportScore data:",
             data
         );
 
-
         liveMatches =
             Array.isArray(data.matches)
-            ? data.matches
-            : [];
+                ? data.matches
+                : [];
 
+        renderLiveMatches(liveMatches);
 
-        renderLiveMatches(
-            liveMatches
-        );
-
-    }
-
-
-    catch(error) {
+    } catch (error) {
 
         clearTimeout(timeout);
-
 
         console.error(
             "Live score error:",
             error
         );
 
-
-        status.innerHTML = `
-
-        <div class="error">
-
-            ❌ Live scores are taking too long to respond.
-
-            <br><br>
-
-            Your Match History is still available.
-
-            <br><br>
-
-            <button
-                class="refresh-btn"
-                id="retryLiveButton"
-                type="button"
-                style="margin:10px auto 0;"
-            >
-                🔄 Try Again
-            </button>
-
-        </div>
-
-        `;
-
+        status.innerHTML =
+            "❌ Unable to load live matches.<br>" +
+            "<button id='retryLiveButton'>🔄 Retry</button>";
 
         const retryButton =
             document.getElementById(
                 "retryLiveButton"
             );
-
 
         if (retryButton) {
 
@@ -698,9 +375,9 @@ async function loadLiveScores() {
 }
 
 
-/* =========================================
+/* =========================
    RENDER LIVE MATCHES
-========================================= */
+========================= */
 
 function renderLiveMatches(list) {
 
@@ -710,14 +387,7 @@ function renderLiveMatches(list) {
     const status =
         document.getElementById("liveStatus");
 
-
     container.innerHTML = "";
-
-
-    /*
-     * ONLY SHOW MATCHES WHERE
-     * SPORTScore STATUS IS "live"
-     */
 
     const liveOnly =
         list.filter(match => {
@@ -730,53 +400,55 @@ function renderLiveMatches(list) {
 
         });
 
-
     if (!liveOnly.length) {
 
         status.textContent =
-            "No live matches right now.";
+            "No live cricket matches found.";
 
         return;
 
     }
 
-
     status.textContent =
         liveOnly.length +
         " live cricket matches";
-
 
     liveOnly.forEach(match => {
 
         const card =
             document.createElement("div");
 
-
-        card.className =
-            "match";
-
+        card.className = "match";
 
         const home =
-            match.home ||
-            "Unknown Team";
-
+            match.home || "Unknown Team";
 
         const away =
-            match.away ||
-            "Unknown Team";
+            match.away || "Unknown Team";
 
 
         /*
-         * SportScore is currently returning
-         * "-" for some live scores.
-         */
+          IMPORTANT:
+          SportScore sometimes sends "-"
+          or null when no score is available.
+          We convert both into "No".
+        */
 
         const homeScore =
-            match.home_score ?? "-";
-
+            match.home_score &&
+            match.home_score !== "-"
+                ? match.home_score
+                : "No";
 
         const awayScore =
-            match.away_score ?? "-";
+            match.away_score &&
+            match.away_score !== "-"
+                ? match.away_score
+                : "No";
+
+
+        const matchStatus =
+            match.status || "Live";
 
 
         const date =
@@ -787,69 +459,42 @@ function renderLiveMatches(list) {
 
         card.innerHTML = `
 
-        <div class="match-title">
-
-            🔴 LIVE • 🏏 Cricket Match
-
-        </div>
-
-
-        <div class="team">
-
-            ${escapeHTML(home)}
-
-        </div>
-
-
-        <div class="score">
-
-            ${escapeHTML(homeScore)}
-
-        </div>
-
-
-        <div class="team">
-
-            ${escapeHTML(away)}
-
-        </div>
-
-
-        <div class="score">
-
-            ${escapeHTML(awayScore)}
-
-        </div>
-
-
-        ${
-            date
-            ?
-            `
-            <div class="date">
-
-                📅 ${escapeHTML(date)}
-
+            <div class="live-label">
+                🔴 LIVE
             </div>
-            `
-            :
-            ""
-        }
 
+            <h3>
+                ${escapeHTML(home)}
+                vs
+                ${escapeHTML(away)}
+            </h3>
 
-        <div class="match-status">
+            <div class="score">
+                ${escapeHTML(home)}
+                : ${escapeHTML(homeScore)}
+            </div>
 
-            🔴 ${escapeHTML(
-                String(
-                    match.status ||
-                    "LIVE"
-                ).toUpperCase()
-            )}
+            <div class="score">
+                ${escapeHTML(away)}
+                : ${escapeHTML(awayScore)}
+            </div>
 
-        </div>
+            <div class="status">
+                Status:
+                ${escapeHTML(matchStatus)}
+            </div>
+
+            ${
+                date
+                ? `
+                    <div class="status">
+                        🕐 ${escapeHTML(date)}
+                    </div>
+                `
+                : ""
+            }
 
         `;
-
 
         container.appendChild(card);
 
@@ -858,20 +503,17 @@ function renderLiveMatches(list) {
 }
 
 
-/* =========================================
-   MATCH HISTORY DATABASE
-========================================= */
-
-let matchHistory = [];
-
-let historyShown = 6;
-
-
-/* =========================================
+/* =========================
    LOAD MATCH HISTORY
-========================================= */
+========================= */
 
 async function loadMatchHistory() {
+
+    const container =
+        document.getElementById("history");
+
+    container.innerHTML =
+        "⏳ Loading match history...";
 
     try {
 
@@ -883,627 +525,303 @@ async function loadMatchHistory() {
                 }
             );
 
-
         if (!response.ok) {
 
             throw new Error(
-                "History database could not be loaded: " +
+                "History database failed: " +
                 response.status
             );
 
         }
 
-
-        const data =
+        matchHistory =
             await response.json();
 
-
-        matchHistory =
-            Array.isArray(data.matches)
-            ? data.matches
-            : [];
-
-
         console.log(
-            "Match history loaded:",
+            "Historical matches:",
             matchHistory.length
         );
 
-
         renderHistory(
-            matchHistory
+            matchHistory.slice(
+                0,
+                historyDisplayCount
+            )
         );
 
-    }
-
-
-    catch(error) {
+    } catch (error) {
 
         console.error(
-            "History loading error:",
+            "History error:",
             error
         );
 
-
-        document.getElementById(
-            "history"
-        ).innerHTML = `
-
-        <div class="error">
-
-            ❌ Couldn't load match history.
-
-            <br><br>
-
-            ${escapeHTML(error.message)}
-
-        </div>
-
-        `;
-
-
-        document
-            .getElementById("loadMoreBtn")
-            .classList.add("hidden");
+        container.innerHTML =
+            "❌ Unable to load match history.";
 
     }
 
 }
 
 
-/* =========================================
+/* =========================
    RENDER HISTORY
-========================================= */
+========================= */
 
 function renderHistory(list) {
 
     const container =
         document.getElementById("history");
 
-    const loadButton =
-        document.getElementById("loadMoreBtn");
-
-
     container.innerHTML = "";
 
+    if (!list.length) {
 
-    const visible =
-        list.slice(
-            0,
-            historyShown
-        );
+        container.innerHTML =
+            "<p>No matches found.</p>";
+
+        return;
+
+    }
 
 
-    visible.forEach(match => {
+    list.forEach(match => {
 
         const card =
             document.createElement("div");
 
-
-        card.className =
-            "match history-card";
+        card.className = "match";
 
 
-        const teams =
-            Array.isArray(match.teams)
-            ?
-            match.teams.join(" vs ")
-            :
-            (
-                match.teams ||
-                "Unknown Teams"
-            );
+        const home =
+            match.home ||
+            match.team1 ||
+            "Unknown Team";
 
 
-        const score =
-            match.score ||
-            getHistoryScore(match);
+        const away =
+            match.away ||
+            match.team2 ||
+            "Unknown Team";
 
 
-        const matchId =
-            String(
-                match.id ?? ""
-            ).trim();
+        const date =
+            match.date ||
+            match.match_date ||
+            "";
+
+
+        const result =
+            match.result ||
+            match.status ||
+            "";
 
 
         card.innerHTML = `
 
-        <div class="match-title">
+            <h3>
+                ${escapeHTML(home)}
+                vs
+                ${escapeHTML(away)}
+            </h3>
 
-            🏏 ${escapeHTML(teams)}
+            <div>
+                📅 ${escapeHTML(date)}
+            </div>
 
-        </div>
+            ${
+                result
+                ? `
+                    <div class="status">
+                        🏆 ${escapeHTML(result)}
+                    </div>
+                `
+                : ""
+            }
 
-
-        <div class="date">
-
-            📅 ${escapeHTML(
-                match.date ||
-                "Unknown Date"
-            )}
-
-        </div>
-
-
-        <div class="score">
-
-            ${escapeHTML(score)}
-
-        </div>
-
-
-        <div class="result">
-
-            🏆 ${escapeHTML(
-                match.result ||
-                "Result unavailable"
-            )}
-
-        </div>
-
-
-        <div class="competition">
-
-            🏆 ${escapeHTML(
-                match.competition ||
-                "Cricket Match"
-            )}
-
-        </div>
-
-
-        <div class="competition">
-
-            📍 ${escapeHTML(
-                match.venue ||
-                "Venue unavailable"
-            )}
-
-        </div>
-
-
-        <div class="competition">
-
-            🏏 ${escapeHTML(
-                match.format ||
-                "Format unavailable"
-            )}
-
-        </div>
+            <button class="scorecardButton">
+                📊 View Scorecard
+            </button>
 
         `;
 
 
-        /*
-         * SCORECARD BUTTON
-         */
-
-        if (matchId) {
-
-            const scorecardButton =
-                document.createElement("button");
-
-
-            scorecardButton.className =
-                "scorecard-btn";
-
-
-            scorecardButton.type =
-                "button";
-
-
-            scorecardButton.textContent =
-                "📊 View Full Scorecard";
-
-
-            scorecardButton.addEventListener(
-                "click",
-                function () {
-
-                    console.log(
-                        "Scorecard button clicked:",
-                        matchId
-                    );
-
-
-                    showScorecard(
-                        matchId
-                    );
-
-                }
+        const scorecardButton =
+            card.querySelector(
+                ".scorecardButton"
             );
 
 
-            card.appendChild(
-                scorecardButton
-            );
+        scorecardButton.addEventListener(
+            "click",
+            () => {
 
-        }
+                showScorecard(
+                    match.id ||
+                    match.match_id ||
+                    match.key
+                );
 
-        else {
-
-            const error =
-                document.createElement("div");
-
-
-            error.className =
-                "error";
-
-
-            error.textContent =
-                "❌ Scorecard unavailable for this match.";
-
-
-            card.appendChild(
-                error
-            );
-
-        }
-
-
-        container.appendChild(
-            card
+            }
         );
+
+
+        container.appendChild(card);
 
     });
 
 
+    const loadMoreButton =
+        document.getElementById(
+            "loadMoreButton"
+        );
+
+
     if (
-        historyShown >= list.length
+        historyDisplayCount <
+        matchHistory.length
     ) {
 
-        loadButton.classList.add(
-            "hidden"
-        );
+        loadMoreButton.style.display =
+            "inline-block";
 
-    }
+    } else {
 
-    else {
-
-        loadButton.classList.remove(
-            "hidden"
-        );
-
-    }
-
-
-    if (!list.length) {
-
-        container.innerHTML = `
-
-        <div class="message">
-
-            ❌ No matches found.
-
-        </div>
-
-        `;
-
-
-        loadButton.classList.add(
-            "hidden"
-        );
+        loadMoreButton.style.display =
+            "none";
 
     }
 
 }
 
 
-/* =========================================
-   HISTORY SCORE
-========================================= */
-
-function getHistoryScore(match) {
-
-    if (
-        match.score &&
-        String(match.score).trim()
-    ) {
-
-        return String(
-            match.score
-        );
-
-    }
-
-
-    if (
-        match.result &&
-        String(match.result).trim()
-    ) {
-
-        return "Scorecard available";
-
-    }
-
-
-    return "-";
-
-}
-
-
-/* =========================================
+/* =========================
    LOAD MORE
-========================================= */
+========================= */
 
 function loadMoreHistory() {
 
-    historyShown += 6;
-
-
-    const teamSearch =
-        document
-            .getElementById("teamSearch")
-            .value
-            .toLowerCase()
-            .trim();
-
-
-    const dateSearch =
-        document
-            .getElementById("dateSearch")
-            .value
-            .toLowerCase()
-            .trim();
-
-
-    const filteredHistory =
-        filterHistory(
-            teamSearch,
-            dateSearch
-        );
-
+    historyDisplayCount += 20;
 
     renderHistory(
-        filteredHistory
+        matchHistory.slice(
+            0,
+            historyDisplayCount
+        )
     );
 
 }
 
 
-/* =========================================
-   MAIN SEARCH
-========================================= */
+/* =========================
+   SEARCH
+========================= */
 
 function searchEverything() {
 
-    const teamSearch =
-        document
-            .getElementById("teamSearch")
-            .value
-            .toLowerCase()
-            .trim();
+    const team =
+        document.getElementById(
+            "teamSearch"
+        )
+        .value
+        .toLowerCase()
+        .trim();
 
 
-    const dateSearch =
-        document
-            .getElementById("dateSearch")
-            .value
-            .toLowerCase()
-            .trim();
+    const date =
+        document.getElementById(
+            "dateSearch"
+        )
+        .value
+        .toLowerCase()
+        .trim();
 
 
-    /* =====================================
-       LIVE SEARCH
-    ===================================== */
-
-    const filteredLive =
-        liveMatches.filter(match => {
-
-            /*
-             * First make sure the match
-             * is actually LIVE.
-             */
-
-            const isLive =
-                String(
-                    match.status || ""
-                )
-                .toLowerCase()
-                .trim() === "live";
-
-
-            if (!isLive) {
-
-                return false;
-
-            }
-
+    let filtered =
+        matchHistory.filter(match => {
 
             const home =
                 String(
                     match.home ||
+                    match.team1 ||
                     ""
-                ).toLowerCase();
+                )
+                .toLowerCase();
 
 
             const away =
                 String(
                     match.away ||
+                    match.team2 ||
                     ""
-                ).toLowerCase();
+                )
+                .toLowerCase();
 
 
             const matchDate =
                 String(
                     match.date ||
-                    match.start_time ||
+                    match.match_date ||
                     ""
-                ).toLowerCase();
+                )
+                .toLowerCase();
 
 
-            const teamMatches =
-                !teamSearch ||
-                home.includes(teamSearch) ||
-                away.includes(teamSearch);
+            const teamMatch =
+                !team ||
+                home.includes(team) ||
+                away.includes(team);
 
 
-            const dateMatches =
-                !dateSearch ||
-                matchDate.includes(
-                    dateSearch
+            const dateMatch =
+                matchDateSearch(
+                    matchDate,
+                    date
                 );
 
 
-            return (
-                teamMatches &&
-                dateMatches
-            );
+            return teamMatch &&
+                   dateMatch;
 
         });
 
 
-    renderLiveMatches(
-        filteredLive
-    );
-
-
-    /* =====================================
-       HISTORY SEARCH
-    ===================================== */
-
-    historyShown = 6;
-
-
-    const filteredHistory =
-        filterHistory(
-            teamSearch,
-            dateSearch
-        );
-
-
-    renderHistory(
-        filteredHistory
-    );
+    renderHistory(filtered);
 
 }
 
 
-/* =========================================
-   HISTORY SEARCH FILTER
-========================================= */
-
-function filterHistory(
-    teamSearch,
-    dateSearch
-) {
-
-    return matchHistory.filter(match => {
-
-        const teams =
-            Array.isArray(match.teams)
-            ?
-            match.teams.join(" ")
-            :
-            (
-                match.teams ||
-                ""
-            );
-
-
-        const teamsLower =
-            String(
-                teams
-            ).toLowerCase();
-
-
-        const date =
-            String(
-                match.date ||
-                ""
-            ).toLowerCase();
-
-
-        const teamMatches =
-            !teamSearch ||
-            teamsLower.includes(
-                teamSearch
-            );
-
-
-        let dateMatches = true;
-
-
-        if (dateSearch) {
-
-            dateMatches =
-                matchDateSearch(
-                    date,
-                    dateSearch
-                );
-
-        }
-
-
-        return (
-            teamMatches &&
-            dateMatches
-        );
-
-    });
-
-}
-
-
-/* =========================================
-   FLEXIBLE DATE SEARCH
-========================================= */
+/* =========================
+   DATE SEARCH
+========================= */
 
 function matchDateSearch(
-    storedDate,
-    searchDate
+    matchDate,
+    search
 ) {
 
-    if (!storedDate) {
-
-        return false;
-
-    }
-
-
-    const date =
-        String(
-            storedDate
-        )
-        .toLowerCase()
-        .trim();
-
-
-    const search =
-        String(
-            searchDate
-        )
-        .toLowerCase()
-        .trim();
-
-
     if (!search) {
-
         return true;
-
     }
 
 
     /*
-     * DIRECT MATCH
-     *
-     * 2019
-     * 2019-07
-     * 2019-07-09
-     */
+      Direct matching:
+      2019
+      2019-07
+      2019-07-09
+    */
 
-    if (
-        date.includes(search)
-    ) {
-
+    if (matchDate.includes(search)) {
         return true;
-
     }
 
 
     /*
-     * MONTH NAMES
-     */
+      Month name matching:
+      July 2019
+      Jul 2019
+    */
 
     const months = {
 
@@ -1546,54 +864,33 @@ function matchDateSearch(
     };
 
 
-    let selectedMonth = null;
+    const parts =
+        search.split(/\s+/);
 
 
-    for (
-        const monthName in months
-    ) {
+    if (parts.length === 2) {
+
+        let month =
+            parts[0];
+
+        let year =
+            parts[1];
+
 
         if (
-            search.includes(
-                monthName
-            )
+            months[month] &&
+            /^\d{4}$/.test(year)
         ) {
 
-            selectedMonth =
-                months[monthName];
-
-            break;
-
-        }
-
-    }
+            const target =
+                year +
+                "-" +
+                months[month];
 
 
-    if (selectedMonth) {
-
-        const yearMatch =
-            search.match(
-                /\b(19|20)\d{2}\b/
+            return matchDate.includes(
+                target
             );
-
-
-        if (yearMatch) {
-
-            const year =
-                yearMatch[0];
-
-
-            if (
-                date.includes(
-                    year +
-                    "-" +
-                    selectedMonth
-                )
-            ) {
-
-                return true;
-
-            }
 
         }
 
@@ -1605,54 +902,16 @@ function matchDateSearch(
 }
 
 
-/* =========================================
-   CLEAR SEARCH
-========================================= */
-
-function clearSearch() {
-
-    document
-        .getElementById("teamSearch")
-        .value = "";
-
-
-    document
-        .getElementById("dateSearch")
-        .value = "";
-
-
-    historyShown = 6;
-
-
-    renderLiveMatches(
-        liveMatches
-    );
-
-
-    renderHistory(
-        matchHistory
-    );
-
-}
-
-
-/* =========================================
-   FULL SCORECARD
-========================================= */
+/* =========================
+   SCORECARD
+========================= */
 
 async function showScorecard(id) {
-
-    console.log(
-        "showScorecard() called with:",
-        id
-    );
-
 
     const section =
         document.getElementById(
             "scorecardSection"
         );
-
 
     const container =
         document.getElementById(
@@ -1661,14 +920,9 @@ async function showScorecard(id) {
 
 
     const matchId =
-        String(
-            id ?? ""
-        ).trim();
+        String(id ?? "")
+        .trim();
 
-
-    /*
-     * VALIDATE ID
-     */
 
     if (!matchId) {
 
@@ -1676,218 +930,114 @@ async function showScorecard(id) {
             "hidden"
         );
 
-
-        container.innerHTML = `
-
-        <div class="error">
-
-            ❌ This match does not have a valid ID.
-
-        </div>
-
-        `;
-
-
-        section.scrollIntoView({
-            behavior: "smooth"
-        });
-
+        container.innerHTML =
+            "<p>❌ Match ID not found.</p>";
 
         return;
 
     }
 
 
-    /*
-     * SHOW SCORECARD SECTION
-     */
-
     section.classList.remove(
         "hidden"
     );
 
 
-    container.innerHTML = `
-
-    <div class="message">
-
-        ⏳ Loading full scorecard...
-
-        <br><br>
-
-        Match ID:
-
-        <strong>
-            ${escapeHTML(matchId)}
-        </strong>
-
-    </div>
-
-    `;
-
-
-    section.scrollIntoView({
-        behavior: "smooth"
-    });
+    container.innerHTML =
+        "⏳ Loading full scorecard...";
 
 
     try {
 
-        const scorecardURL =
-            "data/scorecards/" +
+        const safeId =
             encodeURIComponent(
                 matchId
-            ) +
+            );
+
+
+        const url =
+            "data/scorecards/" +
+            safeId +
             ".json";
 
 
         console.log(
             "Loading scorecard:",
-            scorecardURL
+            url
         );
 
 
         const response =
             await fetch(
-                scorecardURL,
+                url,
                 {
                     cache: "no-store"
                 }
             );
 
 
-        console.log(
-            "Scorecard response:",
-            response.status,
-            response.statusText
-        );
-
-
         if (!response.ok) {
 
             throw new Error(
-                "HTTP " +
-                response.status +
-                " - scorecard file not found"
+                "Scorecard file not found: " +
+                response.status
             );
 
         }
 
 
-        const match =
+        const data =
             await response.json();
 
 
-        console.log(
-            "Scorecard loaded:",
-            match
-        );
+        renderFullScorecard(data);
 
 
-        renderFullScorecard(
-            match
-        );
-
-    }
-
-
-    catch(error) {
+    } catch (error) {
 
         console.error(
-            "Scorecard loading error:",
+            "Scorecard error:",
             error
         );
 
 
         container.innerHTML = `
 
-        <div class="error">
+            <h3>
+                ❌ Scorecard could not be loaded
+            </h3>
 
-            ❌ Couldn't load this scorecard.
-
-            <br><br>
-
-            <strong>
+            <p>
                 Match ID:
-            </strong>
+                <b>
+                    ${escapeHTML(matchId)}
+                </b>
+            </p>
 
-            ${escapeHTML(matchId)}
+            <p>
+                Expected file:
+                <code>
+                    data/scorecards/${escapeHTML(matchId)}.json
+                </code>
+            </p>
 
-            <br><br>
-
-            <small>
-
-                File expected:
-
-                <br>
-
-                data/scorecards/${escapeHTML(
-                    matchId
-                )}.json
-
-            </small>
-
-            <br><br>
-
-            <small>
-
+            <p>
                 Error:
-
-                ${escapeHTML(
-                    error.message
-                )}
-
-            </small>
-
-            <br><br>
-
-            <button
-                class="refresh-btn"
-                id="retryScorecardButton"
-                type="button"
-                style="margin:10px auto;"
-            >
-
-                🔄 Try Again
-
-            </button>
-
-        </div>
+                ${escapeHTML(error.message)}
+            </p>
 
         `;
-
-
-        const retryButton =
-            document.getElementById(
-                "retryScorecardButton"
-            );
-
-
-        if (retryButton) {
-
-            retryButton.addEventListener(
-                "click",
-                function () {
-
-                    showScorecard(
-                        matchId
-                    );
-
-                }
-            );
-
-        }
 
     }
 
 }
 
 
-/* =========================================
+/* =========================
    RENDER FULL SCORECARD
-========================================= */
+========================= */
 
-function renderFullScorecard(match) {
+function renderFullScorecard(data) {
 
     const container =
         document.getElementById(
@@ -1895,562 +1045,271 @@ function renderFullScorecard(match) {
         );
 
 
-    const teams =
-        Array.isArray(match.teams)
-        ?
-        match.teams.join(" vs ")
-        :
-        (
-            match.teams ||
-            "Cricket Match"
-        );
+    container.innerHTML = "";
 
 
-    let html = `
-
-    <div class="scorecard-box">
-
-        <h2>
-
-            🏏 ${
-                escapeHTML(
-                    teams
-                )
-            }
-
-        </h2>
-
-
-        <p>
-
-            📅 ${
-                escapeHTML(
-                    match.date ||
-                    "Unknown date"
-                )
-            }
-
-        </p>
-
-
-        <p>
-
-            🏏 ${
-                escapeHTML(
-                    match.format ||
-                    "Unknown format"
-                )
-            }
-
-        </p>
-
-
-        <p>
-
-            🏆 ${
-                escapeHTML(
-                    match.competition ||
-                    "Cricket"
-                )
-            }
-
-        </p>
-
-
-        <p>
-
-            📍 ${
-                escapeHTML(
-                    match.venue ||
-                    "Unknown venue"
-                )
-            }
-
-        </p>
-
-
-        <p class="result">
-
-            🏆 ${
-                escapeHTML(
-                    match.result ||
-                    "Result unavailable"
-                )
-            }
-
-        </p>
-
-
-        ${
-            match.winner
-            ?
-            `
-
-            <p>
-
-                🥇 Winner:
-
-                <strong>
-
-                    ${
-                        escapeHTML(
-                            match.winner
-                        )
-                    }
-
-                </strong>
-
-            </p>
-
-            `
-            :
-            ""
-        }
-
-    </div>
-
-    `;
-
-
-    /*
-     * =====================================
-     * INNINGS
-     * =====================================
-     */
-
-    if (
-        !Array.isArray(match.innings) ||
-        !match.innings.length
-    ) {
-
-        html += `
-
-        <div class="scorecard-box">
-
-            <p>
-                No innings data available.
-            </p>
-
-        </div>
-
-        `;
-
+    if (!data) {
 
         container.innerHTML =
-            html;
-
+            "<p>No scorecard data available.</p>";
 
         return;
 
     }
 
 
-    match.innings.forEach(
-        (innings, index) => {
-
-        const inningsNumber =
-            index + 1;
+    let html = "";
 
 
-        const team =
-            innings.team ||
-            "Team";
+    const info =
+        data.info || {};
 
+
+    html += `
+        <h3>
+            ${escapeHTML(
+                info.teams
+                    ? JSON.stringify(info.teams)
+                    : "Match Scorecard"
+            )}
+        </h3>
+    `;
+
+
+    if (data.meta) {
 
         html += `
-
-        <div class="scorecard-box">
-
-            <h3>
-
-                ${inningsNumber}.
-                ${escapeHTML(team)}
-
-            </h3>
-
-
-            <div class="scorecard-total">
-
-                ${innings.runs ?? 0}
-
-                ${
-                    innings.all_out
-                    ?
-                    "/all out"
-                    :
-                    ""
-                }
-
-
-                ${
-                    innings.balls !== undefined &&
-                    innings.balls !== null
-                    ?
-                    `
-
-                    <span
-                        style="
-                        font-size:14px;
-                        font-weight:normal;
-                        "
-                    >
-
-                        (
-                        ${formatOvers(
-                            innings.balls
-                        )}
-                        overs)
-
-                    </span>
-
-                    `
-                    :
-                    ""
-                }
-
-            </div>
-
+            <p>
+                ${escapeHTML(
+                    JSON.stringify(data.meta)
+                )}
+            </p>
         `;
-
-
-        /*
-         * =================================
-         * BATTING
-         * =================================
-         */
-
-        if (
-            Array.isArray(
-                innings.batting
-            ) &&
-            innings.batting.length
-        ) {
-
-            html += `
-
-            <h3>
-                🏏 Batting
-            </h3>
-
-
-            <table class="scorecard-table">
-
-                <thead>
-
-                    <tr>
-
-                        <th>Player</th>
-                        <th>R</th>
-                        <th>B</th>
-                        <th>4s</th>
-                        <th>6s</th>
-                        <th>SR</th>
-                        <th>Status</th>
-
-                    </tr>
-
-                </thead>
-
-
-                <tbody>
-
-            `;
-
-
-            innings.batting.forEach(
-                player => {
-
-                html += `
-
-                    <tr>
-
-                        <td>
-
-                            <strong>
-
-                                ${
-                                    escapeHTML(
-                                        player.player ||
-                                        ""
-                                    )
-                                }
-
-                            </strong>
-
-                        </td>
-
-
-                        <td>
-                            ${player.runs ?? 0}
-                        </td>
-
-
-                        <td>
-                            ${player.balls ?? 0}
-                        </td>
-
-
-                        <td>
-                            ${player.fours ?? 0}
-                        </td>
-
-
-                        <td>
-                            ${player.sixes ?? 0}
-                        </td>
-
-
-                        <td>
-                            ${player.strike_rate ?? "-"}
-                        </td>
-
-
-                        <td>
-
-                            ${
-                                player.out
-                                ?
-                                "Out"
-                                :
-                                "Not out"
-                            }
-
-                        </td>
-
-                    </tr>
-
-                `;
-
-            });
-
-
-            html += `
-
-                </tbody>
-
-            </table>
-
-            `;
-
-        }
-
-
-        /*
-         * =================================
-         * EXTRAS
-         * =================================
-         */
-
-        html += `
-
-            <div class="competition">
-
-                Extras:
-                ${innings.extras ?? 0}
-
-            </div>
-
-        `;
-
-
-        /*
-         * =================================
-         * BOWLING
-         * =================================
-         */
-
-        if (
-            Array.isArray(
-                innings.bowling
-            ) &&
-            innings.bowling.length
-        ) {
-
-            html += `
-
-            <h3>
-                🎯 Bowling
-            </h3>
-
-
-            <table class="scorecard-table">
-
-                <thead>
-
-                    <tr>
-
-                        <th>Bowler</th>
-                        <th>Overs</th>
-                        <th>Runs</th>
-                        <th>Wickets</th>
-                        <th>Economy</th>
-
-                    </tr>
-
-                </thead>
-
-
-                <tbody>
-
-            `;
-
-
-            innings.bowling.forEach(
-                bowler => {
-
-                html += `
-
-                    <tr>
-
-                        <td>
-
-                            <strong>
-
-                                ${
-                                    escapeHTML(
-                                        bowler.player ||
-                                        ""
-                                    )
-                                }
-
-                            </strong>
-
-                        </td>
-
-
-                        <td>
-
-                            ${
-                                escapeHTML(
-                                    bowler.overs ??
-                                    "-"
-                                )
-                            }
-
-                        </td>
-
-
-                        <td>
-                            ${bowler.runs ?? 0}
-                        </td>
-
-
-                        <td>
-                            ${bowler.wickets ?? 0}
-                        </td>
-
-
-                        <td>
-                            ${bowler.economy ?? "-"}
-                        </td>
-
-                    </tr>
-
-                `;
-
-            });
-
-
-            html += `
-
-                </tbody>
-
-            </table>
-
-            `;
-
-        }
-
-
-        html += `
-
-        </div>
-
-        `;
-
-    });
-
-
-    container.innerHTML =
-        html;
-
-}
-
-
-/* =========================================
-   OVERS CALCULATOR
-========================================= */
-
-function formatOvers(balls) {
-
-    const number =
-        Number(balls);
-
-
-    if (
-        !Number.isFinite(number)
-    ) {
-
-        return "-";
 
     }
 
 
-    const overs =
-        Math.floor(
-            number / 6
+    if (
+        Array.isArray(
+            data.innings
+        )
+    ) {
+
+
+        data.innings.forEach(
+            (innings, index) => {
+
+                const team =
+                    innings.team ||
+                    "Innings " +
+                    (index + 1);
+
+
+                const runs =
+                    innings.runs ??
+                    "";
+
+
+                const overs =
+                    innings.overs ??
+                    "";
+
+
+                html += `
+
+                    <h3>
+                        🏏 ${escapeHTML(team)}
+                    </h3>
+
+                    <p>
+                        Runs:
+                        <b>
+                            ${escapeHTML(
+                                String(runs)
+                            )}
+                        </b>
+
+                        ${
+                            overs
+                            ? `
+                                |
+                                Overs:
+                                ${escapeHTML(
+                                    String(overs)
+                                )}
+                            `
+                            : ""
+                        }
+                    </p>
+
+                `;
+
+
+                if (
+                    Array.isArray(
+                        innings.batting
+                    )
+                ) {
+
+                    html += `
+
+                        <table>
+
+                            <tr>
+                                <th>Batter</th>
+                                <th>Runs</th>
+                                <th>Balls</th>
+                            </tr>
+
+                    `;
+
+
+                    innings.batting.forEach(
+                        player => {
+
+                            html += `
+
+                                <tr>
+
+                                    <td>
+                                        ${escapeHTML(
+                                            player.name ||
+                                            player.batter ||
+                                            ""
+                                        )}
+                                    </td>
+
+                                    <td>
+                                        ${escapeHTML(
+                                            String(
+                                                player.runs ??
+                                                player.r ??
+                                                ""
+                                            )
+                                        )}
+                                    </td>
+
+                                    <td>
+                                        ${escapeHTML(
+                                            String(
+                                                player.balls ??
+                                                player.b ??
+                                                ""
+                                            )
+                                        )}
+                                    </td>
+
+                                </tr>
+
+                            `;
+
+                        }
+                    );
+
+
+                    html += `
+                        </table>
+                    `;
+
+                }
+
+
+                if (
+                    Array.isArray(
+                        innings.bowling
+                    )
+                ) {
+
+                    html += `
+
+                        <h4>
+                            Bowling
+                        </h4>
+
+                        <table>
+
+                            <tr>
+                                <th>Bowler</th>
+                                <th>Overs</th>
+                                <th>Runs</th>
+                                <th>Wickets</th>
+                            </tr>
+
+                    `;
+
+
+                    innings.bowling.forEach(
+                        player => {
+
+                            html += `
+
+                                <tr>
+
+                                    <td>
+                                        ${escapeHTML(
+                                            player.name ||
+                                            player.bowler ||
+                                            ""
+                                        )}
+                                    </td>
+
+                                    <td>
+                                        ${escapeHTML(
+                                            String(
+                                                player.overs ??
+                                                ""
+                                            )
+                                        )}
+                                    </td>
+
+                                    <td>
+                                        ${escapeHTML(
+                                            String(
+                                                player.runs ??
+                                                ""
+                                            )
+                                        )}
+                                    </td>
+
+                                    <td>
+                                        ${escapeHTML(
+                                            String(
+                                                player.wickets ??
+                                                ""
+                                            )
+                                        )}
+                                    </td>
+
+                                </tr>
+
+                            `;
+
+                        }
+                    );
+
+
+                    html += `
+                        </table>
+                    `;
+
+                }
+
+            }
         );
 
-
-    const remainingBalls =
-        number % 6;
+    }
 
 
-    return (
-        overs +
-        "." +
-        remainingBalls
-    );
+    container.innerHTML =
+        html ||
+        "<p>No scorecard information available.</p>";
 
 }
 
 
-/* =========================================
-   HTML SAFETY
-========================================= */
-
-function escapeHTML(value) {
-
-    return String(
-        value ?? ""
-    )
-    .replace(
-        /&/g,
-        "&amp;"
-    )
-    .replace(
-        /</g,
-        "&lt;"
-    )
-    .replace(
-        />/g,
-        "&gt;"
-    )
-    .replace(
-        /"/g,
-        "&quot;"
-    )
-    .replace(
-        /'/g,
-        "&#039;"
-    );
-
-}
-
-
-/* =========================================
+/* =========================
    CLOSE SCORECARD
-========================================= */
+========================= */
 
 function closeScorecard() {
 
@@ -2465,28 +1324,45 @@ function closeScorecard() {
 }
 
 
-/* =========================================
-   EVENT LISTENERS
-========================================= */
+/* =========================
+   ESCAPE HTML
+========================= */
+
+function escapeHTML(value) {
+
+    return String(value)
+        .replace(
+            /&/g,
+            "&amp;"
+        )
+        .replace(
+            /</g,
+            "&lt;"
+        )
+        .replace(
+            />/g,
+            "&gt;"
+        )
+        .replace(
+            /"/g,
+            "&quot;"
+        )
+        .replace(
+            /'/g,
+            "&#039;"
+        );
+
+}
+
+
+/* =========================
+   BUTTON EVENTS
+========================= */
 
 document
-    .getElementById("searchButton")
-    .addEventListener(
-        "click",
-        searchEverything
-    );
-
-
-document
-    .getElementById("clearButton")
-    .addEventListener(
-        "click",
-        clearSearch
-    );
-
-
-document
-    .getElementById("refreshButton")
+    .getElementById(
+        "refreshButton"
+    )
     .addEventListener(
         "click",
         loadLiveScores
@@ -2494,7 +1370,46 @@ document
 
 
 document
-    .getElementById("loadMoreBtn")
+    .getElementById(
+        "searchButton"
+    )
+    .addEventListener(
+        "click",
+        searchEverything
+    );
+
+
+document
+    .getElementById(
+        "clearButton"
+    )
+    .addEventListener(
+        "click",
+        () => {
+
+            document.getElementById(
+                "teamSearch"
+            ).value = "";
+
+            document.getElementById(
+                "dateSearch"
+            ).value = "";
+
+            renderHistory(
+                matchHistory.slice(
+                    0,
+                    historyDisplayCount
+                )
+            );
+
+        }
+    );
+
+
+document
+    .getElementById(
+        "loadMoreButton"
+    )
     .addEventListener(
         "click",
         loadMoreHistory
@@ -2502,45 +1417,65 @@ document
 
 
 document
-    .getElementById("closeScorecardButton")
+    .getElementById(
+        "closeScorecardButton"
+    )
     .addEventListener(
         "click",
         closeScorecard
     );
 
 
-/*
- * SEARCH WHILE TYPING
- */
-
 document
-    .getElementById("teamSearch")
+    .getElementById(
+        "teamSearch"
+    )
     .addEventListener(
-        "input",
-        searchEverything
+        "keydown",
+        event => {
+
+            if (
+                event.key === "Enter"
+            ) {
+
+                searchEverything();
+
+            }
+
+        }
     );
 
 
 document
-    .getElementById("dateSearch")
+    .getElementById(
+        "dateSearch"
+    )
     .addEventListener(
-        "input",
-        searchEverything
+        "keydown",
+        event => {
+
+            if (
+                event.key === "Enter"
+            ) {
+
+                searchEverything();
+
+            }
+
+        }
     );
 
 
-/* =========================================
+/* =========================
    START
-========================================= */
+========================= */
 
 loadLiveScores();
 
 loadMatchHistory();
 
 
-/* =========================================
-   AUTO REFRESH
-========================================= */
+/* Refresh every 60 seconds */
 
 setInterval(
     loadLiveScores,
