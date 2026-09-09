@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -503,7 +504,7 @@ Load More Matches
 <div id="scorecardSection" class="hidden">
 
     <div class="section-title history-title">
-    📊 FULL SCORECARD
+        📊 FULL SCORECARD
     </div>
 
     <div id="scorecard"></div>
@@ -512,7 +513,7 @@ Load More Matches
         class="close-scorecard"
         onclick="closeScorecard()"
     >
-    ✖ Close Scorecard
+        ✖ Close Scorecard
     </button>
 
 </div>
@@ -533,6 +534,7 @@ Live sports data powered by
 <a
     href="https://sportscore.com/"
     target="_blank"
+    rel="noopener noreferrer"
 >
 SportScore
 </a>
@@ -565,6 +567,8 @@ async function loadLiveScores() {
     status.textContent =
         "⚡ Loading live scores...";
 
+    container.innerHTML = "";
+
     const controller =
         new AbortController();
 
@@ -589,7 +593,8 @@ async function loadLiveScores() {
         if (!response.ok) {
 
             throw new Error(
-                "API request failed"
+                "API request failed: " +
+                response.status
             );
 
         }
@@ -606,7 +611,9 @@ async function loadLiveScores() {
 
 
         liveMatches =
-            data.matches || [];
+            Array.isArray(data.matches)
+            ? data.matches
+            : [];
 
 
         renderLiveMatches(
@@ -794,14 +801,18 @@ async function loadMatchHistory() {
 
         const response =
             await fetch(
-                "data/matches.json"
+                "data/matches.json",
+                {
+                    cache: "no-store"
+                }
             );
 
 
         if (!response.ok) {
 
             throw new Error(
-                "History database could not be loaded"
+                "History database could not be loaded: " +
+                response.status
             );
 
         }
@@ -812,7 +823,9 @@ async function loadMatchHistory() {
 
 
         matchHistory =
-            data.matches || [];
+            Array.isArray(data.matches)
+            ? data.matches
+            : [];
 
 
         console.log(
@@ -830,7 +843,10 @@ async function loadMatchHistory() {
 
     catch(error) {
 
-        console.error(error);
+        console.error(
+            "History loading error:",
+            error
+        );
 
 
         document.getElementById(
@@ -840,6 +856,10 @@ async function loadMatchHistory() {
         <div class="error">
 
             ❌ Couldn't load match history.
+
+            <br><br>
+
+            ${escapeHTML(error.message)}
 
         </div>
 
@@ -906,7 +926,7 @@ function renderHistory(list) {
 
 
         const matchId =
-            String(match.id || "");
+            String(match.id ?? "").trim();
 
 
         card.innerHTML = `
@@ -975,14 +995,24 @@ function renderHistory(list) {
         </div>
 
 
-        <button
-            class="scorecard-btn"
-            onclick="showScorecard(${JSON.stringify(matchId)})"
-        >
-
-            📊 View Full Scorecard
-
-        </button>
+        ${
+            matchId
+            ?
+            `
+            <button
+                class="scorecard-btn"
+                onclick="showScorecard(${JSON.stringify(matchId)})"
+            >
+                📊 View Full Scorecard
+            </button>
+            `
+            :
+            `
+            <div class="error">
+                ❌ Scorecard unavailable for this match.
+            </div>
+            `
+        }
 
         `;
 
@@ -1038,6 +1068,24 @@ function renderHistory(list) {
 ========================================= */
 
 function getHistoryScore(match) {
+
+    if (
+        match.score &&
+        String(match.score).trim()
+    ) {
+
+        return String(match.score);
+
+    }
+
+    if (
+        match.result &&
+        String(match.result).trim()
+    ) {
+
+        return "Scorecard available";
+
+    }
 
     return "-";
 
@@ -1113,21 +1161,21 @@ function searchEverything() {
         liveMatches.filter(match => {
 
             const home =
-                (
+                String(
                     match.home ||
                     ""
                 ).toLowerCase();
 
 
             const away =
-                (
+                String(
                     match.away ||
                     ""
                 ).toLowerCase();
 
 
             const matchDate =
-                (
+                String(
                     match.date ||
                     match.start_time ||
                     ""
@@ -1162,14 +1210,14 @@ function searchEverything() {
        HISTORY SEARCH
     ===================================== */
 
+    historyShown = 6;
+
+
     const filteredHistory =
         filterHistory(
             teamSearch,
             dateSearch
         );
-
-
-    historyShown = 6;
 
 
     renderHistory(
@@ -1207,46 +1255,24 @@ function filterHistory(
 
 
         const teamsLower =
-            teams.toLowerCase();
-
-
-        const competition =
-            (
-                match.competition ||
-                ""
+            String(
+                teams
             ).toLowerCase();
 
 
-        const result =
-            (
-                match.result ||
-                ""
-            ).toLowerCase();
-
-
-        const venue =
-            (
-                match.venue ||
-                ""
-            ).toLowerCase();
-
-
-        const format =
-            (
-                match.format ||
-                ""
-            ).toLowerCase();
-
+        /* =================================
+           DATE
+        ================================= */
 
         const date =
-            (
+            String(
                 match.date ||
                 ""
             ).toLowerCase();
 
 
         /* =================================
-           TEAM
+           TEAM MATCH
         ================================= */
 
         const teamMatches =
@@ -1257,15 +1283,7 @@ function filterHistory(
 
 
         /* =================================
-           DATE
-
-           Supports:
-
-           2019
-           2019-07
-           2019-07-09
-           July 2019
-           jul 2019
+           DATE MATCH
         ================================= */
 
         let dateMatches = true;
@@ -1280,17 +1298,6 @@ function filterHistory(
                 );
 
         }
-
-
-        /* =================================
-           OTHER SEARCH
-
-           Team field is specifically for
-           team searching.
-
-           Date field is specifically for
-           date searching.
-        ================================= */
 
 
         return (
@@ -1318,21 +1325,29 @@ function matchDateSearch(
 
 
     const date =
-        storedDate
-            .toLowerCase()
-            .trim();
+        String(
+            storedDate
+        )
+        .toLowerCase()
+        .trim();
 
 
     const search =
-        searchDate
-            .toLowerCase()
-            .trim();
+        String(
+            searchDate
+        )
+        .toLowerCase()
+        .trim();
+
+
+    if (!search) {
+        return true;
+    }
 
 
     /* =====================================
        DIRECT MATCH
 
-       Example:
        2019
        2019-07
        2019-07-09
@@ -1348,7 +1363,7 @@ function matchDateSearch(
 
 
     /* =====================================
-       MONTH NAME CONVERSION
+       MONTH NAMES
     ===================================== */
 
     const months = {
@@ -1393,95 +1408,53 @@ function matchDateSearch(
 
 
     /* =====================================
-       "JULY 2019"
+       FIND MONTH + YEAR
     ===================================== */
+
+    let selectedMonth = null;
+
 
     for (
         const monthName in months
     ) {
 
         if (
-            search.includes(
-                monthName
-            )
+            search.includes(monthName)
         ) {
 
-            const monthNumber =
+            selectedMonth =
                 months[monthName];
 
-
-            const yearMatch =
-                search.match(
-                    /\b(19|20)\d{2}\b/
-                );
-
-
-            if (yearMatch) {
-
-                const year =
-                    yearMatch[0];
-
-
-                if (
-                    date.includes(
-                        year +
-                        "-" +
-                        monthNumber
-                    )
-                ) {
-
-                    return true;
-
-                }
-
-            }
+            break;
 
         }
 
     }
 
 
-    /* =====================================
-       "2019 JULY"
-    ===================================== */
+    if (selectedMonth) {
 
-    for (
-        const monthName in months
-    ) {
-
-        if (
-            search.includes(
-                monthName
-            )
-        ) {
-
-            const monthNumber =
-                months[monthName];
+        const yearMatch =
+            search.match(
+                /\b(19|20)\d{2}\b/
+            );
 
 
-            const yearMatch =
-                search.match(
-                    /\b(19|20)\d{2}\b/
-                );
+        if (yearMatch) {
+
+            const year =
+                yearMatch[0];
 
 
-            if (yearMatch) {
+            if (
+                date.includes(
+                    year +
+                    "-" +
+                    selectedMonth
+                )
+            ) {
 
-                const year =
-                    yearMatch[0];
-
-
-                if (
-                    date.includes(
-                        year +
-                        "-" +
-                        monthNumber
-                    )
-                ) {
-
-                    return true;
-
-                }
+                return true;
 
             }
 
@@ -1544,6 +1517,48 @@ async function showScorecard(id) {
         );
 
 
+    const matchId =
+        String(
+            id ?? ""
+        ).trim();
+
+
+    /* =====================================
+       VALIDATE ID
+    ===================================== */
+
+    if (!matchId) {
+
+        section.classList.remove(
+            "hidden"
+        );
+
+
+        container.innerHTML = `
+
+        <div class="error">
+
+            ❌ This match does not have a valid ID.
+
+        </div>
+
+        `;
+
+
+        section.scrollIntoView({
+            behavior: "smooth"
+        });
+
+
+        return;
+
+    }
+
+
+    /* =====================================
+       SHOW SCORECARD SECTION
+    ===================================== */
+
     section.classList.remove(
         "hidden"
     );
@@ -1554,6 +1569,11 @@ async function showScorecard(id) {
     <div class="message">
 
         ⏳ Loading full scorecard...
+
+        <br><br>
+
+        Match ID:
+        ${escapeHTML(matchId)}
 
     </div>
 
@@ -1567,18 +1587,46 @@ async function showScorecard(id) {
 
     try {
 
+        /* =================================
+           BUILD EXACT FILE URL
+        ================================= */
+
+        const scorecardURL =
+            "data/scorecards/" +
+            encodeURIComponent(
+                matchId
+            ) +
+            ".json";
+
+
+        console.log(
+            "Loading scorecard:",
+            scorecardURL
+        );
+
+
         const response =
             await fetch(
-                "data/scorecards/" +
-                encodeURIComponent(id) +
-                ".json"
+                scorecardURL,
+                {
+                    cache: "no-store"
+                }
             );
+
+
+        console.log(
+            "Scorecard response:",
+            response.status,
+            response.statusText
+        );
 
 
         if (!response.ok) {
 
             throw new Error(
-                "Scorecard not found"
+                "HTTP " +
+                response.status +
+                " - scorecard file not found"
             );
 
         }
@@ -1586,6 +1634,12 @@ async function showScorecard(id) {
 
         const match =
             await response.json();
+
+
+        console.log(
+            "Scorecard loaded:",
+            match
+        );
 
 
         renderFullScorecard(
@@ -1597,7 +1651,10 @@ async function showScorecard(id) {
 
     catch(error) {
 
-        console.error(error);
+        console.error(
+            "Scorecard loading error:",
+            error
+        );
 
 
         container.innerHTML = `
@@ -1608,8 +1665,44 @@ async function showScorecard(id) {
 
             <br><br>
 
-            Match ID:
-            ${escapeHTML(id)}
+            <strong>
+                Match ID:
+            </strong>
+
+            ${escapeHTML(matchId)}
+
+            <br><br>
+
+            <small>
+
+                File expected:
+
+                <br>
+
+                data/scorecards/${escapeHTML(matchId)}.json
+
+            </small>
+
+            <br><br>
+
+            <small>
+
+                Error:
+                ${escapeHTML(error.message)}
+
+            </small>
+
+            <br><br>
+
+            <button
+                class="refresh-btn"
+                onclick="showScorecard(${JSON.stringify(matchId)})"
+                style="margin:10px auto;"
+            >
+
+                🔄 Try Again
+
+            </button>
 
         </div>
 
@@ -1637,7 +1730,10 @@ function renderFullScorecard(match) {
         ?
         match.teams.join(" vs ")
         :
-        match.teams;
+        (
+            match.teams ||
+            "Cricket Match"
+        );
 
 
     let html = `
@@ -1648,8 +1744,7 @@ function renderFullScorecard(match) {
 
             🏏 ${
                 escapeHTML(
-                    teams ||
-                    "Cricket Match"
+                    teams
                 )
             }
 
@@ -1747,8 +1842,12 @@ function renderFullScorecard(match) {
     `;
 
 
+    /* =====================================
+       INNINGS
+    ===================================== */
+
     if (
-        !match.innings ||
+        !Array.isArray(match.innings) ||
         !match.innings.length
     ) {
 
@@ -1800,7 +1899,7 @@ function renderFullScorecard(match) {
 
             <div class="scorecard-total">
 
-                ${innings.runs || 0}
+                ${innings.runs ?? 0}
 
                 ${
                     innings.all_out
@@ -1812,7 +1911,8 @@ function renderFullScorecard(match) {
 
 
                 ${
-                    innings.balls
+                    innings.balls !== undefined &&
+                    innings.balls !== null
                     ?
                     `
 
@@ -1846,7 +1946,7 @@ function renderFullScorecard(match) {
         ================================= */
 
         if (
-            innings.batting &&
+            Array.isArray(innings.batting) &&
             innings.batting.length
         ) {
 
@@ -1980,7 +2080,7 @@ function renderFullScorecard(match) {
         ================================= */
 
         if (
-            innings.bowling &&
+            Array.isArray(innings.bowling) &&
             innings.bowling.length
         ) {
 
@@ -2205,3 +2305,4 @@ setInterval(
 
 </body>
 </html>
+```
