@@ -7,212 +7,273 @@
 <title>Cricket Hub - Live Scores & History</title>
 
 <style>
-* {
-    box-sizing: border-box;
+
+*{
+    box-sizing:border-box;
 }
 
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background: #f4f7f5;
-    color: #222;
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#f4fff4;
+    color:#123;
 }
 
-header {
-    background: #087f23;
-    color: white;
-    padding: 15px;
-    text-align: center;
+header{
+    background:#087f23;
+    color:white;
+    padding:18px;
+    text-align:center;
 }
 
-header h1 {
-    margin: 0 0 12px;
+header h1{
+    margin:0 0 12px;
 }
 
-nav {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 8px;
+nav{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:8px;
 }
 
-nav a {
-    color: white;
-    text-decoration: none;
-    background: #056b1d;
-    padding: 8px 12px;
-    border-radius: 6px;
+nav a{
+    color:white;
+    text-decoration:none;
+    padding:8px 12px;
+    background:#06691d;
+    border-radius:6px;
+    font-size:14px;
 }
 
-nav a:hover {
-    background: #034f15;
+nav a:hover{
+    background:#0aa52d;
 }
 
-.container {
-    max-width: 1100px;
-    margin: auto;
-    padding: 20px;
+.container{
+    max-width:1100px;
+    margin:auto;
+    padding:20px;
 }
 
-h2 {
-    color: #087f23;
+h2{
+    color:#087f23;
 }
 
-.search-box {
-    background: white;
-    padding: 15px;
-    border-radius: 10px;
-    margin-bottom: 20px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+.search-box{
+    background:white;
+    padding:18px;
+    border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,.12);
+    margin-bottom:25px;
 }
 
-.search-box input {
-    width: 42%;
-    padding: 11px;
-    margin: 5px;
-    border: 1px solid #ccc;
-    border-radius: 6px;
-    font-size: 15px;
+.search-box input{
+    padding:11px;
+    width:100%;
+    margin-bottom:10px;
+    border:1px solid #bbb;
+    border-radius:6px;
+    font-size:15px;
 }
 
-button {
-    padding: 10px 15px;
-    border: none;
-    border-radius: 6px;
-    cursor: pointer;
-    background: #087f23;
-    color: white;
-    font-weight: bold;
-    margin: 5px;
+button{
+    border:none;
+    padding:10px 16px;
+    border-radius:6px;
+    cursor:pointer;
+    font-weight:bold;
 }
 
-button:hover {
-    background: #056b1d;
+.search-btn{
+    background:#087f23;
+    color:white;
 }
 
-.clear-btn {
-    background: #777;
+.clear-btn{
+    background:#777;
+    color:white;
+    margin-left:6px;
 }
 
-.match {
-    background: white;
-    margin: 12px 0;
-    padding: 16px;
-    border-radius: 10px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+.refresh-btn{
+    background:#087f23;
+    color:white;
+    margin:10px 0 20px;
 }
 
-.match h3 {
-    margin-top: 0;
+.scorecard-btn{
+    background:#1565c0;
+    color:white;
+    margin-top:12px;
 }
 
-.live-label {
-    display: inline-block;
-    background: red;
-    color: white;
-    padding: 5px 9px;
-    border-radius: 5px;
-    font-size: 13px;
-    font-weight: bold;
-    margin-bottom: 10px;
+.scorecard-btn:hover{
+    background:#0d47a1;
 }
 
-.score {
-    font-size: 20px;
-    font-weight: bold;
-    margin: 8px 0;
+.close-btn{
+    background:#b71c1c;
+    color:white;
+    margin-top:12px;
 }
 
-.status {
-    color: #555;
-    margin-top: 8px;
+.match{
+    background:white;
+    border-radius:10px;
+    padding:18px;
+    margin-bottom:15px;
+    box-shadow:0 2px 8px rgba(0,0,0,.12);
 }
 
-.live-scorecard-button {
-    background: #e60000;
+.match h3{
+    margin-top:0;
+    color:#087f23;
 }
 
-.live-scorecard-button:hover {
-    background: #b80000;
+.live-badge{
+    display:inline-block;
+    background:#d50000;
+    color:white;
+    padding:4px 9px;
+    border-radius:15px;
+    font-size:12px;
+    font-weight:bold;
+    margin-bottom:10px;
 }
 
-.scorecard {
-    background: white;
-    margin-top: 20px;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+.score{
+    font-size:20px;
+    font-weight:bold;
+    margin:8px 0;
 }
 
-.scorecard table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 15px 0;
+.status{
+    color:#555;
+    margin-top:6px;
 }
 
-.scorecard th,
-.scorecard td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
+.updated{
+    color:#777;
+    font-size:13px;
+    margin-top:8px;
 }
 
-.scorecard th {
-    background: #087f23;
-    color: white;
+.loading{
+    text-align:center;
+    padding:20px;
+    color:#555;
 }
 
-.hidden {
-    display: none;
+.empty{
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    text-align:center;
+    color:#666;
 }
 
-#liveScoreboardSection {
-    margin-top: 25px;
+.history-card{
+    background:white;
+    border-radius:10px;
+    padding:16px;
+    margin-bottom:12px;
+    box-shadow:0 2px 7px rgba(0,0,0,.1);
 }
 
-#liveScoreboardFrame {
-    width: 100%;
-    height: 700px;
-    border: none;
-    border-radius: 10px;
-    background: white;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+.history-card h3{
+    margin-top:0;
+    color:#087f23;
 }
 
-.close-live-button {
-    background: #777;
+.history-card p{
+    margin:6px 0;
 }
 
-footer {
-    text-align: center;
-    padding: 20px;
-    margin-top: 30px;
-    background: #087f23;
-    color: white;
+.live-scoreboard{
+    background:white;
+    border-radius:10px;
+    padding:15px;
+    margin:20px 0;
+    box-shadow:0 2px 8px rgba(0,0,0,.12);
 }
 
-@media (max-width: 700px) {
+.live-scoreboard iframe{
+    width:100%;
+    min-height:600px;
+    border:none;
+    border-radius:8px;
+}
 
-    .search-box input {
-        width: 95%;
+#scorecardSection{
+    display:none;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    margin-top:20px;
+    box-shadow:0 2px 8px rgba(0,0,0,.12);
+}
+
+#scorecard table{
+    width:100%;
+    border-collapse:collapse;
+    margin:15px 0;
+    background:white;
+}
+
+#scorecard th,
+#scorecard td{
+    border:1px solid #ddd;
+    padding:8px;
+    text-align:left;
+}
+
+#scorecard th{
+    background:#087f23;
+    color:white;
+}
+
+.innings-title{
+    background:#087f23;
+    color:white;
+    padding:10px;
+    border-radius:6px;
+    margin-top:20px;
+}
+
+footer{
+    margin-top:40px;
+    background:#087f23;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+footer a{
+    color:white;
+}
+
+@media(max-width:600px){
+
+    nav a{
+        font-size:12px;
+        padding:7px 9px;
     }
 
-    nav {
-        flex-direction: column;
+    .container{
+        padding:12px;
     }
 
-    nav a {
-        width: 100%;
+    .score{
+        font-size:18px;
     }
 
-    .scorecard table {
-        font-size: 13px;
+    #scorecard table{
+        font-size:12px;
     }
 
-    #liveScoreboardFrame {
-        height: 650px;
-    }
 }
+
 </style>
 </head>
 
@@ -220,239 +281,168 @@ footer {
 
 <header>
 
-    <h1>🏏 Cricket Hub</h1>
+<h1>🏏 Cricket Hub</h1>
 
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="news.html">News</a>
-        <a href="players.html">Players</a>
-        <a href="teams.html">Teams</a>
-        <a href="stories.html">Stories</a>
-        <a href="scenarios.html">Scenarios</a>
-        <a href="match.html">Match Mode</a>
-        <a href="achievements.html">Achievements</a>
-        <a href="live.html">Live Scores</a>
-    </nav>
+<nav>
+
+<a href="index.html">Home</a>
+<a href="news.html">News</a>
+<a href="players.html">Players</a>
+<a href="teams.html">Teams</a>
+<a href="stories.html">Stories</a>
+<a href="scenarios.html">Scenarios</a>
+<a href="match.html">Match Mode</a>
+<a href="achievements.html">Achievements</a>
+<a href="live.html">Live Scores</a>
+
+</nav>
 
 </header>
 
 
 <div class="container">
 
-    <!-- =========================
-         LIVE MATCHES
-    ========================== -->
+<!-- ========================= -->
+<!-- LIVE SCORES -->
+<!-- ========================= -->
 
-    <h2>🔴 Live Cricket Matches</h2>
+<h2>🔴 Live Cricket Matches</h2>
 
-    <div id="liveStatus">
-        ⚡ Loading live scores...
-    </div>
+<div id="liveStatus" class="loading">
+Loading live matches...
+</div>
 
-    <div id="matches"></div>
+<button id="refreshLiveButton" class="refresh-btn">
+🔄 Refresh Live Scores
+</button>
 
-    <button id="refreshButton">
-        🔄 Refresh Live Scores
-    </button>
-
-
-    <!-- =========================
-         LIVE SCOREBOARD
-    ========================== -->
-
-    <div
-        id="liveScoreboardSection"
-        class="hidden"
-    >
-
-        <h2>
-            📊 Live Scoreboard
-        </h2>
-
-        <div id="liveScoreboardTitle"></div>
-
-        <iframe
-            id="liveScoreboardFrame"
-            title="Live Cricket Scoreboard"
-            loading="lazy"
-            allowfullscreen>
-        </iframe>
-
-        <br>
-
-        <button
-            id="closeLiveScoreboardButton"
-            class="close-live-button">
-            ❌ Close Live Scoreboard
-        </button>
-
-    </div>
+<div id="matches"></div>
 
 
-    <hr>
+<!-- ========================= -->
+<!-- HISTORY SEARCH -->
+<!-- ========================= -->
+
+<h2>📚 Cricket Match History</h2>
+
+<div class="search-box">
+
+<input
+    type="text"
+    id="teamSearch"
+    placeholder="🏏 Enter team name..."
+>
+
+<input
+    type="text"
+    id="dateSearch"
+    placeholder="📅 Enter year / month / date..."
+>
+
+<button id="searchButton" class="search-btn">
+🔎 Search
+</button>
+
+<button id="clearButton" class="clear-btn">
+✖ Clear
+</button>
+
+<p>
+Examples:
+<br>
+<strong>India + 2019</strong>
+<br>
+<strong>India + 2019-07</strong>
+<br>
+<strong>India + 2019-07-09</strong>
+<br>
+<strong>India + July 2019</strong>
+</p>
+
+</div>
 
 
-    <!-- =========================
-         HISTORY
-    ========================== -->
+<div id="history"></div>
 
-    <h2>📚 Cricket Match History</h2>
-
-    <div class="search-box">
-
-        <input
-            type="text"
-            id="teamSearch"
-            placeholder="🏏 Enter team name..."
-        >
-
-        <input
-            type="text"
-            id="dateSearch"
-            placeholder="📅 Enter year / month / date..."
-        >
-
-        <br>
-
-        <button id="searchButton">
-            🔎 Search
-        </button>
-
-        <button
-            id="clearButton"
-            class="clear-btn">
-            ❌ Clear
-        </button>
-
-        <p>
-            Examples:
-            <br>
-            <b>India + 2019</b>
-            <br>
-            <b>India + 2019-07</b>
-            <br>
-            <b>India + 2019-07-09</b>
-            <br>
-            <b>India + July 2019</b>
-        </p>
-
-    </div>
+<button id="loadMoreButton" class="refresh-btn">
+⬇ Load More
+</button>
 
 
-    <div id="history"></div>
+<!-- ========================= -->
+<!-- HISTORICAL SCORECARD -->
+<!-- ========================= -->
 
-    <button id="loadMoreButton">
-        ⬇️ Load More
-    </button>
+<section id="scorecardSection">
 
+<h2>📊 Full Scorecard</h2>
 
-    <!-- =========================
-         HISTORICAL SCORECARD
-    ========================== -->
+<div id="scorecard"></div>
 
-    <div
-        id="scorecardSection"
-        class="scorecard hidden">
+<button id="closeScorecardButton" class="close-btn">
+✖ Close Scorecard
+</button>
 
-        <h2>
-            📊 Full Scorecard
-        </h2>
-
-        <div id="scorecard"></div>
-
-        <button id="closeScorecardButton">
-            ❌ Close Scorecard
-        </button>
-
-    </div>
+</section>
 
 </div>
 
 
 <footer>
 
-    Cricket Hub © 2026
+Cricket Hub © 2026
 
-    <br>
+<br><br>
 
-    Powered by SportScore
+<a
+href="https://sportscore.com/"
+target="_blank"
+rel="dofollow"
+>
+Powered by SportScore
+</a>
 
 </footer>
 
 
 <script>
 
-/* =========================
+/* =====================================================
    SPORT SCORE API
-========================= */
+===================================================== */
 
 const API =
-    "https://sportscore.com/api/widget/matches/?sport=cricket&limit=50";
-
+"https://sportscore.com/api/widget/matches/?sport=cricket&limit=50";
 
 let liveMatches = [];
 
-let matchHistory = [];
 
-let historyDisplayCount = 20;
+/* =====================================================
+   LIVE SCORE LOADER
+===================================================== */
 
-
-/* =========================
-   LOAD LIVE MATCHES
-========================= */
-
-async function loadLiveScores() {
+async function loadLiveScores(){
 
     const status =
-        document.getElementById(
-            "liveStatus"
-        );
+        document.getElementById("liveStatus");
 
     const container =
-        document.getElementById(
-            "matches"
-        );
-
+        document.getElementById("matches");
 
     status.textContent =
-        "⚡ Loading live scores...";
+        "⚡ Loading live matches...";
 
+    container.innerHTML =
+        "<div class='loading'>Loading...</div>";
 
-    container.innerHTML = "";
-
-
-    const controller =
-        new AbortController();
-
-
-    const timeout =
-        setTimeout(
-            () => {
-                controller.abort();
-            },
-            8000
-        );
-
-
-    try {
+    try{
 
         const response =
-            await fetch(
-                API,
-                {
-                    signal:
-                        controller.signal,
+            await fetch(API, {
+                cache:"no-store"
+            });
 
-                    cache:
-                        "no-store"
-                }
-            );
-
-
-        clearTimeout(timeout);
-
-
-        if (!response.ok) {
+        if(!response.ok){
 
             throw new Error(
                 "API request failed: " +
@@ -461,57 +451,50 @@ async function loadLiveScores() {
 
         }
 
-
         const data =
             await response.json();
-
 
         console.log(
             "SportScore data:",
             data
         );
 
-
         liveMatches =
-            Array.isArray(
-                data.matches
-            )
-            ? data.matches
+            Array.isArray(data.matches)
+            ? data.matches.filter(match =>
+                String(match.status || "")
+                .toLowerCase()
+                .trim() === "live"
+              )
             : [];
 
+        await loadDetailedLiveScores();
 
-        renderLiveMatches(
-            liveMatches
-        );
-
-
-    } catch (error) {
-
-        clearTimeout(timeout);
-
+    }
+    catch(error){
 
         console.error(
             "Live score error:",
             error
         );
 
+        status.innerHTML = `
+            ❌ Unable to load live scores.
+            <br><br>
+            <button id="retryLiveButton"
+                    class="refresh-btn">
+                🔄 Retry
+            </button>
+        `;
 
-        status.innerHTML =
-            "❌ Unable to load live matches.<br>" +
-            "<button id='retryLiveButton'>" +
-            "🔄 Retry" +
-            "</button>";
-
-
-        const retryButton =
+        const retry =
             document.getElementById(
                 "retryLiveButton"
             );
 
+        if(retry){
 
-        if (retryButton) {
-
-            retryButton.addEventListener(
+            retry.addEventListener(
                 "click",
                 loadLiveScores
             );
@@ -523,599 +506,576 @@ async function loadLiveScores() {
 }
 
 
-/* =========================
-   DISPLAY SCORE
-========================= */
+/* =====================================================
+   GET INDIVIDUAL LIVE MATCH DETAILS
+===================================================== */
 
-function displayScore(score) {
+async function loadDetailedLiveScores(){
 
-    if (
-        score === null ||
-        score === undefined ||
-        score === "" ||
-        String(score).trim() === "-"
-    ) {
+    const status =
+        document.getElementById("liveStatus");
 
-        return "No";
+    status.textContent =
+        liveMatches.length +
+        " live cricket match" +
+        (liveMatches.length === 1 ? "" : "es") +
+        " found";
+
+    const detailedMatches = [];
+
+    for(const match of liveMatches){
+
+        try{
+
+            /*
+             SportScore gives us a URL such as:
+
+             /cricket/match/
+             the-blaze-women-vs-hampshire-women/
+
+             We convert that into the slug required
+             by the single-match API.
+            */
+
+            let slug = "";
+
+            if(match.url){
+
+                slug =
+                    match.url
+                    .split("/")
+                    .filter(Boolean)
+                    .pop();
+
+            }
+
+            if(!slug){
+
+                detailedMatches.push(match);
+                continue;
+
+            }
+
+            const detailAPI =
+                "https://sportscore.com/api/widget/match/" +
+                "?sport=cricket&slug=" +
+                encodeURIComponent(slug);
+
+            const response =
+                await fetch(
+                    detailAPI,
+                    {
+                        cache:"no-store"
+                    }
+                );
+
+            if(!response.ok){
+
+                detailedMatches.push(match);
+                continue;
+
+            }
+
+            const data =
+                await response.json();
+
+            console.log(
+                "Live match detail:",
+                data
+            );
+
+            if(data.match){
+
+                detailedMatches.push({
+
+                    ...match,
+
+                    ...data.match,
+
+                    originalMatch:match
+
+                });
+
+            }
+            else{
+
+                detailedMatches.push(match);
+
+            }
+
+        }
+        catch(error){
+
+            console.warn(
+                "Could not load individual match:",
+                error
+            );
+
+            detailedMatches.push(match);
+
+        }
 
     }
 
+    liveMatches =
+        detailedMatches;
 
-    return String(score);
+    renderLiveMatches(
+        liveMatches
+    );
 
 }
 
 
-/* =========================
-   LIVE MATCH CARDS
-========================= */
+/* =====================================================
+   SCORE DISPLAY
+===================================================== */
 
-function renderLiveMatches(list) {
+function displayLiveScore(score){
+
+    if(
+        score === null ||
+        score === undefined ||
+        score === "" ||
+        score === "-"
+    ){
+
+        return "Updating...";
+
+    }
+
+    return escapeHTML(
+        String(score)
+    );
+
+}
+
+
+/* =====================================================
+   LIVE MATCH RENDER
+===================================================== */
+
+function renderLiveMatches(list){
 
     const container =
-        document.getElementById(
-            "matches"
-        );
-
+        document.getElementById("matches");
 
     const status =
-        document.getElementById(
-            "liveStatus"
-        );
-
+        document.getElementById("liveStatus");
 
     container.innerHTML = "";
 
+    if(!list.length){
 
-    const liveOnly =
-        list.filter(
-            match => {
+        status.textContent =
+            "No cricket matches are live right now.";
 
-                return String(
-                    match.status || ""
-                )
-                .toLowerCase()
-                .trim() === "live";
+        container.innerHTML = `
+            <div class="empty">
+                🏏 No live cricket matches found.
+                <br><br>
+                Try refreshing later.
+            </div>
+        `;
+
+        return;
+
+    }
+
+    status.textContent =
+        list.length +
+        " live cricket match" +
+        (list.length === 1 ? "" : "es") +
+        " found";
+
+    list.forEach(match => {
+
+        const card =
+            document.createElement("div");
+
+        card.className =
+            "match";
+
+        const home =
+            match.home ||
+            "Unknown Team";
+
+        const away =
+            match.away ||
+            "Unknown Team";
+
+        const homeScore =
+            displayLiveScore(
+                match.home_score
+            );
+
+        const awayScore =
+            displayLiveScore(
+                match.away_score
+            );
+
+        const matchStatus =
+            match.status_text ||
+            match.status ||
+            "LIVE";
+
+        const competition =
+            match.competition ||
+            "";
+
+        card.innerHTML = `
+
+            <span class="live-badge">
+                🔴 LIVE
+            </span>
+
+            <h3>
+                ${escapeHTML(home)}
+                vs
+                ${escapeHTML(away)}
+            </h3>
+
+            <div class="score">
+                ${homeScore}
+                &nbsp; — &nbsp;
+                ${awayScore}
+            </div>
+
+            <div class="status">
+                ${escapeHTML(matchStatus)}
+            </div>
+
+            ${
+                competition
+                ?
+                `<div class="updated">
+                    🏆 ${escapeHTML(competition)}
+                </div>`
+                :
+                ""
+            }
+
+            <div class="updated">
+                SportScore live data
+            </div>
+
+        `;
+
+
+        /* ============================================
+           LIVE SCORECARD BUTTON
+        ============================================ */
+
+        const scorecardButton =
+            document.createElement("button");
+
+        scorecardButton.className =
+            "scorecard-btn";
+
+        scorecardButton.textContent =
+            "📊 Open Live Scorecard";
+
+        scorecardButton.addEventListener(
+            "click",
+            () => {
+
+                openLiveScorecard(
+                    match
+                );
 
             }
         );
 
 
-    if (!liveOnly.length) {
-
-        status.textContent =
-            "No live cricket matches found.";
-
-        return;
-
-    }
-
-
-    status.textContent =
-        liveOnly.length +
-        " live cricket matches";
-
-
-    liveOnly.forEach(
-        match => {
-
-            const card =
-                document.createElement(
-                    "div"
-                );
-
-
-            card.className =
-                "match";
-
-
-            const home =
-                match.home ||
-                "Unknown Team";
-
-
-            const away =
-                match.away ||
-                "Unknown Team";
-
-
-            const homeScore =
-                displayScore(
-                    match.home_score
-                );
-
-
-            const awayScore =
-                displayScore(
-                    match.away_score
-                );
-
-
-            const matchStatus =
-                match.status ||
-                "Live";
-
-
-            const date =
-                match.time ||
-                match.date ||
-                match.start_time ||
-                "";
-
-
-            card.innerHTML = `
-
-                <div class="live-label">
-                    🔴 LIVE
-                </div>
-
-                <h3>
-                    ${escapeHTML(home)}
-                    vs
-                    ${escapeHTML(away)}
-                </h3>
-
-                <div class="score">
-                    ${escapeHTML(home)}
-                    : ${escapeHTML(homeScore)}
-                </div>
-
-                <div class="score">
-                    ${escapeHTML(away)}
-                    : ${escapeHTML(awayScore)}
-                </div>
-
-                <div class="status">
-                    Status:
-                    ${escapeHTML(matchStatus)}
-                </div>
-
-                ${
-                    match.status_text
-                    ? `
-                        <div class="status">
-                            📢
-                            ${escapeHTML(
-                                match.status_text
-                            )}
-                        </div>
-                    `
-                    : ""
-                }
-
-                ${
-                    date
-                    ? `
-                        <div class="status">
-                            🕐
-                            ${escapeHTML(date)}
-                        </div>
-                    `
-                    : ""
-                }
-
-                <button
-                    class="live-scorecard-button">
-                    📊 Live Scorecard
-                </button>
-
-            `;
-
-
-            const scorecardButton =
-                card.querySelector(
-                    ".live-scorecard-button"
-                );
-
-
-            scorecardButton.addEventListener(
-                "click",
-                () => {
-
-                    openLiveScoreboard(
-                        match
-                    );
-
-                }
-            );
-
-
-            container.appendChild(
-                card
-            );
-
-        }
-    );
-
-}
-
-
-/* =========================
-   OPEN LIVE SCOREBOARD
-========================= */
-
-function openLiveScoreboard(match) {
-
-    const section =
-        document.getElementById(
-            "liveScoreboardSection"
+        card.appendChild(
+            scorecardButton
         );
 
-
-    const frame =
-        document.getElementById(
-            "liveScoreboardFrame"
+        container.appendChild(
+            card
         );
 
-
-    const title =
-        document.getElementById(
-            "liveScoreboardTitle"
-        );
-
-
-    if (
-        !match ||
-        !match.url
-    ) {
-
-        alert(
-            "Live scoreboard is not available for this match."
-        );
-
-        return;
-
-    }
-
-
-    /*
-      SportScore gives us:
-      /cricket/match/team-a-vs-team-b/
-
-      We turn that into:
-      https://sportscore.com/cricket/match/...
-    */
-
-    const scoreboardURL =
-        "https://sportscore.com" +
-        match.url;
-
-
-    console.log(
-        "Opening live scoreboard:",
-        scoreboardURL
-    );
-
-
-    title.innerHTML = `
-
-        <p>
-            🔴
-            <b>
-                ${escapeHTML(
-                    match.home
-                )}
-                vs
-                ${escapeHTML(
-                    match.away
-                )}
-            </b>
-        </p>
-
-        <p class="status">
-            Live scoreboard powered by SportScore
-        </p>
-
-    `;
-
-
-    frame.src =
-        scoreboardURL;
-
-
-    section.classList.remove(
-        "hidden"
-    );
-
-
-    section.scrollIntoView({
-        behavior: "smooth",
-        block: "start"
     });
 
 }
 
 
-/* =========================
-   CLOSE LIVE SCOREBOARD
-========================= */
+/* =====================================================
+   OPEN OFFICIAL SPORT SCORE SCORECARD
+===================================================== */
 
-function closeLiveScoreboard() {
+function openLiveScorecard(match){
 
-    const section =
-        document.getElementById(
-            "liveScoreboardSection"
+    if(!match || !match.url){
+
+        alert(
+            "SportScore has not provided a scorecard link for this match yet."
         );
 
+        return;
 
-    const frame =
-        document.getElementById(
-            "liveScoreboardFrame"
-        );
+    }
 
+    let url =
+        match.url;
 
-    frame.src =
-        "about:blank";
+    /*
+     Make sure the URL is absolute.
+    */
 
+    if(url.startsWith("/")){
 
-    section.classList.add(
-        "hidden"
+        url =
+            "https://sportscore.com" +
+            url;
+
+    }
+
+    /*
+     Open the official SportScore match page.
+
+     We deliberately DO NOT put this inside
+     an iframe because SportScore's own page
+     may reject iframe connections.
+    */
+
+    window.open(
+        url,
+        "_blank",
+        "noopener,noreferrer"
     );
 
 }
 
 
-/* =========================
-   LOAD HISTORY
-========================= */
+/* =====================================================
+   HISTORICAL MATCH DATABASE
+===================================================== */
 
-async function loadMatchHistory() {
+let matchHistory = [];
 
-    const container =
+let visibleMatches = 50;
+
+let currentFilteredHistory = [];
+
+
+/* =====================================================
+   LOAD MATCH HISTORY
+===================================================== */
+
+async function loadMatchHistory(){
+
+    const history =
         document.getElementById(
             "history"
         );
 
+    history.innerHTML =
+        "<div class='loading'>Loading match history...</div>";
 
-    container.innerHTML =
-        "⏳ Loading match history...";
-
-
-    try {
+    try{
 
         const response =
             await fetch(
                 "data/matches.json",
                 {
-                    cache:
-                        "no-store"
+                    cache:"no-store"
                 }
             );
 
-
-        if (!response.ok) {
+        if(!response.ok){
 
             throw new Error(
-                "History database failed: " +
-                response.status
+                "Could not load matches.json"
             );
 
         }
 
-
         matchHistory =
             await response.json();
 
+        currentFilteredHistory =
+            matchHistory;
 
-        console.log(
-            "Historical matches:",
-            matchHistory.length
-        );
+        visibleMatches = 50;
 
+        renderHistory();
 
-        renderHistory(
-            matchHistory.slice(
-                0,
-                historyDisplayCount
-            )
-        );
-
-
-    } catch (error) {
+    }
+    catch(error){
 
         console.error(
             "History error:",
             error
         );
 
-
-        container.innerHTML =
-            "❌ Unable to load match history.";
+        history.innerHTML = `
+            <div class="empty">
+                ❌ Could not load match history.
+            </div>
+        `;
 
     }
 
 }
 
 
-/* =========================
-   RENDER HISTORY
-========================= */
+/* =====================================================
+   DATE SEARCH
+===================================================== */
 
-function renderHistory(list) {
+function matchDateSearch(
+    match,
+    search
+){
 
-    const container =
-        document.getElementById(
-            "history"
-        );
+    if(!search){
 
+        return true;
 
-    container.innerHTML = "";
+    }
 
+    const date =
+        String(
+            match.date ||
+            match.match_date ||
+            match.start_date ||
+            ""
+        ).toLowerCase();
 
-    if (!list.length) {
+    const cleanSearch =
+        search
+        .trim()
+        .toLowerCase();
 
-        container.innerHTML =
-            "<p>No matches found.</p>";
+    /*
+       Direct ISO search:
 
-        return;
+       2019
+       2019-07
+       2019-07-09
+    */
+
+    if(
+        date.includes(
+            cleanSearch
+        )
+    ){
+
+        return true;
 
     }
 
 
-    list.forEach(
-        match => {
+    /*
+       Month name search:
 
-            const card =
-                document.createElement(
-                    "div"
-                );
+       July 2019
+       jul 2019
+    */
 
+    const months = {
 
-            card.className =
-                "match";
+        january:"01",
+        jan:"01",
 
+        february:"02",
+        feb:"02",
 
-            const home =
-                match.home ||
-                match.team1 ||
-                "Unknown Team";
+        march:"03",
+        mar:"03",
 
+        april:"04",
+        apr:"04",
 
-            const away =
-                match.away ||
-                match.team2 ||
-                "Unknown Team";
+        may:"05",
 
+        june:"06",
+        jun:"06",
 
-            const date =
-                match.date ||
-                match.match_date ||
-                "";
+        july:"07",
+        jul:"07",
 
+        august:"08",
+        aug:"08",
 
-            const result =
-                match.result ||
-                match.status ||
-                "";
+        september:"09",
+        sep:"09",
+        sept:"09",
 
+        october:"10",
+        oct:"10",
 
-            card.innerHTML = `
+        november:"11",
+        nov:"11",
 
-                <h3>
-                    ${escapeHTML(home)}
-                    vs
-                    ${escapeHTML(away)}
-                </h3>
+        december:"12",
+        dec:"12"
 
-                <div>
-                    📅
-                    ${escapeHTML(date)}
-                </div>
-
-                ${
-                    result
-                    ? `
-                        <div class="status">
-                            🏆
-                            ${escapeHTML(result)}
-                        </div>
-                    `
-                    : ""
-                }
-
-                <button class="scorecardButton">
-                    📊 View Scorecard
-                </button>
-
-            `;
+    };
 
 
-            const scorecardButton =
-                card.querySelector(
-                    ".scorecardButton"
-                );
+    const parts =
+        cleanSearch
+        .split(/\s+/);
 
+    if(parts.length >= 2){
 
-            scorecardButton.addEventListener(
-                "click",
-                () => {
+        let month =
+            parts[0];
 
-                    showScorecard(
-                        match.id ||
-                        match.match_id ||
-                        match.key
-                    );
+        let year =
+            parts[1];
 
-                }
-            );
+        if(
+            months[month] &&
+            /^\d{4}$/.test(year)
+        ){
 
+            const iso =
+                year +
+                "-" +
+                months[month];
 
-            container.appendChild(
-                card
-            );
+            if(
+                date.includes(iso)
+            ){
+
+                return true;
+
+            }
 
         }
-    );
-
-
-    const loadMoreButton =
-        document.getElementById(
-            "loadMoreButton"
-        );
-
-
-    if (
-        historyDisplayCount <
-        matchHistory.length
-    ) {
-
-        loadMoreButton.style.display =
-            "inline-block";
-
-    } else {
-
-        loadMoreButton.style.display =
-            "none";
 
     }
 
-}
-
-
-/* =========================
-   LOAD MORE
-========================= */
-
-function loadMoreHistory() {
-
-    historyDisplayCount += 20;
-
-
-    renderHistory(
-        matchHistory.slice(
-            0,
-            historyDisplayCount
-        )
-    );
+    return false;
 
 }
 
 
-/* =========================
-   SEARCH
-========================= */
+/* =====================================================
+   HISTORY SEARCH
+===================================================== */
 
-function searchEverything() {
+function searchEverything(){
 
     const team =
         document.getElementById(
             "teamSearch"
-        )
-        .value
-        .toLowerCase()
-        .trim();
-
+        ).value
+        .trim()
+        .toLowerCase();
 
     const date =
         document.getElementById(
             "dateSearch"
-        )
-        .value
-        .toLowerCase()
-        .trim();
+        ).value
+        .trim()
+        .toLowerCase();
 
 
-    const filtered =
+    currentFilteredHistory =
         matchHistory.filter(
             match => {
 
@@ -1127,20 +1087,10 @@ function searchEverything() {
                     )
                     .toLowerCase();
 
-
                 const away =
                     String(
                         match.away ||
                         match.team2 ||
-                        ""
-                    )
-                    .toLowerCase();
-
-
-                const matchDate =
-                    String(
-                        match.date ||
-                        match.match_date ||
                         ""
                     )
                     .toLowerCase();
@@ -1154,7 +1104,7 @@ function searchEverything() {
 
                 const dateMatch =
                     matchDateSearch(
-                        matchDate,
+                        match,
                         date
                     );
 
@@ -1168,194 +1118,265 @@ function searchEverything() {
         );
 
 
-    renderHistory(
-        filtered
-    );
+    visibleMatches = 50;
+
+    renderHistory();
 
 }
 
 
-/* =========================
-   DATE SEARCH
-========================= */
+/* =====================================================
+   RENDER HISTORY
+===================================================== */
 
-function matchDateSearch(
-    matchDate,
-    search
-) {
-
-    if (!search) {
-
-        return true;
-
-    }
-
-
-    if (
-        matchDate.includes(search)
-    ) {
-
-        return true;
-
-    }
-
-
-    const months = {
-
-        january: "01",
-        jan: "01",
-
-        february: "02",
-        feb: "02",
-
-        march: "03",
-        mar: "03",
-
-        april: "04",
-        apr: "04",
-
-        may: "05",
-
-        june: "06",
-        jun: "06",
-
-        july: "07",
-        jul: "07",
-
-        august: "08",
-        aug: "08",
-
-        september: "09",
-        sep: "09",
-        sept: "09",
-
-        october: "10",
-        oct: "10",
-
-        november: "11",
-        nov: "11",
-
-        december: "12",
-        dec: "12"
-
-    };
-
-
-    const parts =
-        search.split(/\s+/);
-
-
-    if (
-        parts.length === 2
-    ) {
-
-        const month =
-            parts[0];
-
-
-        const year =
-            parts[1];
-
-
-        if (
-            months[month] &&
-            /^\d{4}$/.test(year)
-        ) {
-
-            const target =
-                year +
-                "-" +
-                months[month];
-
-
-            return matchDate.includes(
-                target
-            );
-
-        }
-
-    }
-
-
-    return false;
-
-}
-
-
-/* =========================
-   HISTORICAL SCORECARD
-========================= */
-
-async function showScorecard(id) {
-
-    const section =
-        document.getElementById(
-            "scorecardSection"
-        );
-
+function renderHistory(){
 
     const container =
         document.getElementById(
-            "scorecard"
+            "history"
+        );
+
+    container.innerHTML = "";
+
+    const list =
+        currentFilteredHistory
+        .slice(
+            0,
+            visibleMatches
         );
 
 
-    const matchId =
-        String(
-            id ?? ""
-        ).trim();
+    if(!list.length){
 
-
-    section.classList.remove(
-        "hidden"
-    );
-
-
-    if (!matchId) {
-
-        container.innerHTML =
-            "<p>❌ Match ID not found.</p>";
+        container.innerHTML = `
+            <div class="empty">
+                ❌ No matches found.
+            </div>
+        `;
 
         return;
 
     }
 
 
-    container.innerHTML =
-        "⏳ Loading full scorecard...";
+    list.forEach(match => {
 
-
-    try {
-
-        const safeId =
-            encodeURIComponent(
-                matchId
+        const card =
+            document.createElement(
+                "div"
             );
 
-
-        const url =
-            "data/scorecards/" +
-            safeId +
-            ".json";
+        card.className =
+            "history-card";
 
 
-        console.log(
-            "Loading scorecard:",
-            url
+        const home =
+            match.home ||
+            match.team1 ||
+            "Unknown Team";
+
+        const away =
+            match.away ||
+            match.team2 ||
+            "Unknown Team";
+
+        const date =
+            match.date ||
+            match.match_date ||
+            "";
+
+        const competition =
+            match.competition ||
+            match.tournament ||
+            "";
+
+
+        card.innerHTML = `
+
+            <h3>
+                ${escapeHTML(home)}
+                vs
+                ${escapeHTML(away)}
+            </h3>
+
+            ${
+                date
+                ?
+                `<p>
+                    📅 ${escapeHTML(
+                        String(date)
+                    )}
+                </p>`
+                :
+                ""
+            }
+
+            ${
+                competition
+                ?
+                `<p>
+                    🏆 ${escapeHTML(
+                        String(competition)
+                    )}
+                </p>`
+                :
+                ""
+            }
+
+        `;
+
+
+        const button =
+            document.createElement(
+                "button"
+            );
+
+        button.className =
+            "scorecard-btn";
+
+        button.textContent =
+            "📊 View Full Scorecard";
+
+
+        button.addEventListener(
+            "click",
+            () => {
+
+                showScorecard(
+                    match.id
+                );
+
+            }
         );
 
+
+        card.appendChild(
+            button
+        );
+
+        container.appendChild(
+            card
+        );
+
+    });
+
+
+    const loadMore =
+        document.getElementById(
+            "loadMoreButton"
+        );
+
+    if(
+        visibleMatches >=
+        currentFilteredHistory.length
+    ){
+
+        loadMore.style.display =
+            "none";
+
+    }
+    else{
+
+        loadMore.style.display =
+            "inline-block";
+
+    }
+
+}
+
+
+/* =====================================================
+   LOAD MORE
+===================================================== */
+
+function loadMoreHistory(){
+
+    visibleMatches += 50;
+
+    renderHistory();
+
+}
+
+
+/* =====================================================
+   HISTORICAL SCORECARD
+===================================================== */
+
+async function showScorecard(id){
+
+    const section =
+        document.getElementById(
+            "scorecardSection"
+        );
+
+    const scorecard =
+        document.getElementById(
+            "scorecard"
+        );
+
+
+    section.style.display =
+        "block";
+
+    section.scrollIntoView({
+        behavior:"smooth"
+    });
+
+
+    scorecard.innerHTML = `
+        <div class="loading">
+            📊 Loading scorecard...
+        </div>
+    `;
+
+
+    if(
+        id === undefined ||
+        id === null ||
+        String(id).trim() === ""
+    ){
+
+        scorecard.innerHTML = `
+            <div class="empty">
+                ❌ Invalid match ID.
+            </div>
+        `;
+
+        return;
+
+    }
+
+
+    const safeId =
+        encodeURIComponent(
+            String(id).trim()
+        );
+
+
+    const url =
+        "data/scorecards/" +
+        safeId +
+        ".json";
+
+
+    console.log(
+        "Loading historical scorecard:",
+        url
+    );
+
+
+    try{
 
         const response =
             await fetch(
                 url,
                 {
-                    cache:
-                        "no-store"
+                    cache:"no-store"
                 }
             );
 
 
-        if (!response.ok) {
+        if(!response.ok){
 
             throw new Error(
                 "Scorecard file not found: " +
@@ -1373,8 +1394,8 @@ async function showScorecard(id) {
             data
         );
 
-
-    } catch (error) {
+    }
+    catch(error){
 
         console.error(
             "Scorecard error:",
@@ -1382,30 +1403,34 @@ async function showScorecard(id) {
         );
 
 
-        container.innerHTML = `
+        scorecard.innerHTML = `
 
-            <h3>
-                ❌ Scorecard could not be loaded
-            </h3>
+            <div class="empty">
 
-            <p>
+                ❌ Could not load this scorecard.
+
+                <br><br>
+
                 Match ID:
-                <b>
-                    ${escapeHTML(matchId)}
-                </b>
-            </p>
+                <strong>
+                    ${escapeHTML(
+                        String(id)
+                    )}
+                </strong>
 
-            <p>
-                Expected file:
+                <br><br>
+
+                File expected:
+
+                <br>
+
                 <code>
-                    data/scorecards/${escapeHTML(matchId)}.json
+                    ${escapeHTML(
+                        url
+                    )}
                 </code>
-            </p>
 
-            <p>
-                Error:
-                ${escapeHTML(error.message)}
-            </p>
+            </div>
 
         `;
 
@@ -1414,478 +1439,474 @@ async function showScorecard(id) {
 }
 
 
-/* =========================
-   RENDER HISTORICAL SCORECARD
-========================= */
+/* =====================================================
+   RENDER FULL HISTORICAL SCORECARD
+===================================================== */
 
-function renderFullScorecard(data) {
+function renderFullScorecard(data){
 
     const container =
         document.getElementById(
             "scorecard"
         );
 
-
     container.innerHTML = "";
 
 
-    if (!data) {
+    const info =
+        data.info ||
+        {};
 
-        container.innerHTML =
-            "<p>No scorecard data available.</p>";
 
-        return;
+    const teams =
+        info.teams ||
+        data.teams ||
+        [];
 
-    }
+
+    const dates =
+        info.dates ||
+        data.dates ||
+        [];
+
+
+    const venue =
+        info.venue ||
+        data.venue ||
+        "";
 
 
     let html = "";
 
 
-    const info =
-        data.info || {};
-
-
     html += `
-
         <h3>
-
-            ${escapeHTML(
-                info.teams
-                ? JSON.stringify(
-                    info.teams
-                )
-                : "Match Scorecard"
-            )}
-
+            ${teams.length
+                ? teams
+                    .map(t =>
+                        escapeHTML(
+                            String(t)
+                        )
+                    )
+                    .join(" vs ")
+                : "Cricket Match"
+            }
         </h3>
-
     `;
 
 
-    if (data.meta) {
+    if(dates.length){
 
         html += `
-
             <p>
-                ${escapeHTML(
-                    JSON.stringify(
-                        data.meta
+                📅 ${escapeHTML(
+                    String(
+                        dates[0]
                     )
                 )}
             </p>
-
         `;
 
     }
 
 
-    if (
-        Array.isArray(
-            data.innings
-        )
-    ) {
+    if(venue){
 
-        data.innings.forEach(
-            (innings, index) => {
-
-                const team =
-                    innings.team ||
-                    "Innings " +
-                    (index + 1);
-
-
-                const runs =
-                    innings.runs ??
-                    "";
-
-
-                const overs =
-                    innings.overs ??
-                    "";
-
-
-                html += `
-
-                    <h3>
-                        🏏
-                        ${escapeHTML(team)}
-                    </h3>
-
-                    <p>
-
-                        Runs:
-                        <b>
-                            ${escapeHTML(
-                                String(runs)
-                            )}
-                        </b>
-
-                        ${
-                            overs
-                            ? `
-                                |
-                                Overs:
-                                ${escapeHTML(
-                                    String(overs)
-                                )}
-                            `
-                            : ""
-                        }
-
-                    </p>
-
-                `;
-
-
-                if (
-                    Array.isArray(
-                        innings.batting
-                    )
-                ) {
-
-                    html += `
-
-                        <table>
-
-                            <tr>
-                                <th>Batter</th>
-                                <th>Runs</th>
-                                <th>Balls</th>
-                            </tr>
-
-                    `;
-
-
-                    innings.batting.forEach(
-                        player => {
-
-                            html += `
-
-                                <tr>
-
-                                    <td>
-                                        ${escapeHTML(
-                                            player.name ||
-                                            player.batter ||
-                                            ""
-                                        )}
-                                    </td>
-
-                                    <td>
-                                        ${escapeHTML(
-                                            String(
-                                                player.runs ??
-                                                player.r ??
-                                                ""
-                                            )
-                                        )}
-                                    </td>
-
-                                    <td>
-                                        ${escapeHTML(
-                                            String(
-                                                player.balls ??
-                                                player.b ??
-                                                ""
-                                            )
-                                        )}
-                                    </td>
-
-                                </tr>
-
-                            `;
-
-                        }
-                    );
-
-
-                    html += `
-                        </table>
-                    `;
-
-                }
-
-
-                if (
-                    Array.isArray(
-                        innings.bowling
-                    )
-                ) {
-
-                    html += `
-
-                        <h4>
-                            Bowling
-                        </h4>
-
-                        <table>
-
-                            <tr>
-                                <th>Bowler</th>
-                                <th>Overs</th>
-                                <th>Runs</th>
-                                <th>Wickets</th>
-                            </tr>
-
-                    `;
-
-
-                    innings.bowling.forEach(
-                        player => {
-
-                            html += `
-
-                                <tr>
-
-                                    <td>
-                                        ${escapeHTML(
-                                            player.name ||
-                                            player.bowler ||
-                                            ""
-                                        )}
-                                    </td>
-
-                                    <td>
-                                        ${escapeHTML(
-                                            String(
-                                                player.overs ??
-                                                ""
-                                            )
-                                        )}
-                                    </td>
-
-                                    <td>
-                                        ${escapeHTML(
-                                            String(
-                                                player.runs ??
-                                                ""
-                                            )
-                                        )}
-                                    </td>
-
-                                    <td>
-                                        ${escapeHTML(
-                                            String(
-                                                player.wickets ??
-                                                ""
-                                            )
-                                        )}
-                                    </td>
-
-                                </tr>
-
-                            `;
-
-                        }
-                    );
-
-
-                    html += `
-                        </table>
-                    `;
-
-                }
-
-            }
-        );
+        html += `
+            <p>
+                🏟️ ${escapeHTML(
+                    String(venue)
+                )}
+            </p>
+        `;
 
     }
 
 
+    const innings =
+        data.innings ||
+        [];
+
+
+    innings.forEach(
+        (inning, index) => {
+
+            const team =
+                inning.team ||
+                "Innings " +
+                (index + 1);
+
+
+            const total =
+                inning.total ??
+                inning.runs ??
+                "";
+
+
+            const overs =
+                inning.overs ??
+                "";
+
+
+            html += `
+
+                <div class="innings-title">
+
+                    ${escapeHTML(
+                        String(team)
+                    )}
+
+                    ${
+                        total !== ""
+                        ?
+                        " — " +
+                        escapeHTML(
+                            String(total)
+                        )
+                        :
+                        ""
+                    }
+
+                    ${
+                        overs !== ""
+                        ?
+                        " (" +
+                        escapeHTML(
+                            String(overs)
+                        ) +
+                        " ov)"
+                        :
+                        ""
+                    }
+
+                </div>
+
+            `;
+
+
+            if(
+                Array.isArray(
+                    inning.batting
+                )
+            ){
+
+                html += `
+
+                    <h4>
+                        🏏 Batting
+                    </h4>
+
+                    <table>
+
+                        <tr>
+                            <th>Player</th>
+                            <th>Runs</th>
+                            <th>Balls</th>
+                        </tr>
+
+                `;
+
+
+                inning.batting.forEach(
+                    player => {
+
+                        html += `
+
+                            <tr>
+
+                                <td>
+                                    ${escapeHTML(
+                                        String(
+                                            player.name ||
+                                            player.player ||
+                                            ""
+                                        )
+                                    )}
+                                </td>
+
+                                <td>
+                                    ${escapeHTML(
+                                        String(
+                                            player.runs ??
+                                            ""
+                                        )
+                                    )}
+                                </td>
+
+                                <td>
+                                    ${escapeHTML(
+                                        String(
+                                            player.balls ??
+                                            ""
+                                        )
+                                    )}
+                                </td>
+
+                            </tr>
+
+                        `;
+
+                    }
+                );
+
+
+                html += `
+                    </table>
+                `;
+
+            }
+
+
+            if(
+                Array.isArray(
+                    inning.bowling
+                )
+            ){
+
+                html += `
+
+                    <h4>
+                        🎯 Bowling
+                    </h4>
+
+                    <table>
+
+                        <tr>
+                            <th>Bowler</th>
+                            <th>Overs</th>
+                            <th>Runs</th>
+                            <th>Wickets</th>
+                        </tr>
+
+                `;
+
+
+                inning.bowling.forEach(
+                    player => {
+
+                        html += `
+
+                            <tr>
+
+                                <td>
+                                    ${escapeHTML(
+                                        String(
+                                            player.name ||
+                                            player.player ||
+                                            ""
+                                        )
+                                    )}
+                                </td>
+
+                                <td>
+                                    ${escapeHTML(
+                                        String(
+                                            player.overs ??
+                                            ""
+                                        )
+                                    )}
+                                </td>
+
+                                <td>
+                                    ${escapeHTML(
+                                        String(
+                                            player.runs ??
+                                            ""
+                                        )
+                                    )}
+                                </td>
+
+                                <td>
+                                    ${escapeHTML(
+                                        String(
+                                            player.wickets ??
+                                            ""
+                                        )
+                                    )}
+                                </td>
+
+                            </tr>
+
+                        `;
+
+                    }
+                );
+
+
+                html += `
+                    </table>
+                `;
+
+            }
+
+        }
+    );
+
+
     container.innerHTML =
-        html ||
-        "<p>No scorecard information available.</p>";
+        html;
 
 }
 
 
-/* =========================
+/* =====================================================
    CLOSE HISTORICAL SCORECARD
-========================= */
+===================================================== */
 
-function closeScorecard() {
+function closeScorecard(){
 
-    document
-        .getElementById(
-            "scorecardSection"
-        )
-        .classList.add(
-            "hidden"
-        );
+    document.getElementById(
+        "scorecardSection"
+    ).style.display =
+        "none";
 
 }
 
 
-/* =========================
+/* =====================================================
    ESCAPE HTML
-========================= */
+===================================================== */
 
-function escapeHTML(value) {
+function escapeHTML(value){
 
     return String(value)
-
-        .replace(
-            /&/g,
-            "&amp;"
-        )
-
-        .replace(
-            /</g,
-            "&lt;"
-        )
-
-        .replace(
-            />/g,
-            "&gt;"
-        )
-
-        .replace(
-            /"/g,
-            "&quot;"
-        )
-
-        .replace(
-            /'/g,
-            "&#039;"
-        );
+        .replace(/&/g,"&amp;")
+        .replace(/</g,"&lt;")
+        .replace(/>/g,"&gt;")
+        .replace(/"/g,"&quot;")
+        .replace(/'/g,"&#039;");
 
 }
 
 
-/* =========================
+/* =====================================================
    BUTTON EVENTS
-========================= */
+===================================================== */
 
 document
-    .getElementById(
-        "refreshButton"
-    )
-    .addEventListener(
-        "click",
-        loadLiveScores
-    );
-
-
-document
-    .getElementById(
-        "searchButton"
-    )
-    .addEventListener(
-        "click",
-        searchEverything
-    );
+.getElementById(
+    "refreshLiveButton"
+)
+.addEventListener(
+    "click",
+    loadLiveScores
+);
 
 
 document
-    .getElementById(
-        "clearButton"
-    )
-    .addEventListener(
-        "click",
-        () => {
-
-            document.getElementById(
-                "teamSearch"
-            ).value = "";
+.getElementById(
+    "searchButton"
+)
+.addEventListener(
+    "click",
+    searchEverything
+);
 
 
-            document.getElementById(
-                "dateSearch"
-            ).value = "";
+document
+.getElementById(
+    "clearButton"
+)
+.addEventListener(
+    "click",
+    () => {
+
+        document.getElementById(
+            "teamSearch"
+        ).value = "";
+
+        document.getElementById(
+            "dateSearch"
+        ).value = "";
+
+        currentFilteredHistory =
+            matchHistory;
+
+        visibleMatches =
+            50;
+
+        renderHistory();
+
+    }
+);
 
 
-            renderHistory(
-                matchHistory.slice(
-                    0,
-                    historyDisplayCount
-                )
-            );
+document
+.getElementById(
+    "loadMoreButton"
+)
+.addEventListener(
+    "click",
+    loadMoreHistory
+);
+
+
+document
+.getElementById(
+    "closeScorecardButton"
+)
+.addEventListener(
+    "click",
+    closeScorecard
+);
+
+
+/* =====================================================
+   ENTER KEY SEARCH
+===================================================== */
+
+document
+.getElementById(
+    "teamSearch"
+)
+.addEventListener(
+    "keydown",
+    event => {
+
+        if(
+            event.key === "Enter"
+        ){
+
+            searchEverything();
 
         }
-    );
+
+    }
+);
 
 
 document
-    .getElementById(
-        "loadMoreButton"
-    )
-    .addEventListener(
-        "click",
-        loadMoreHistory
-    );
+.getElementById(
+    "dateSearch"
+)
+.addEventListener(
+    "keydown",
+    event => {
 
+        if(
+            event.key === "Enter"
+        ){
 
-document
-    .getElementById(
-        "closeScorecardButton"
-    )
-    .addEventListener(
-        "click",
-        closeScorecard
-    );
-
-
-document
-    .getElementById(
-        "closeLiveScoreboardButton"
-    )
-    .addEventListener(
-        "click",
-        closeLiveScoreboard
-    );
-
-
-document
-    .getElementById(
-        "teamSearch"
-    )
-    .addEventListener(
-        "keydown",
-        event => {
-
-            if (
-                event.key === "Enter"
-            ) {
-
-                searchEverything();
-
-            }
+            searchEverything();
 
         }
-    );
+
+    }
+);
 
 
-document
-    .getElementById(
-        "dateSearch"
-    )
-    .addEventListener(
-        "keydown",
-        event => {
-
-            if (
-                event.key === "Enter"
-            ) {
-
-                searchEverything();
-
-            }
-
-        }
-    );
-
-
-/* =========================
+/* =====================================================
    START
-========================= */
+===================================================== */
 
 loadLiveScores();
 
 loadMatchHistory();
 
 
-/* Refresh live matches */
+/* =====================================================
+   AUTO REFRESH
+===================================================== */
 
 setInterval(
     loadLiveScores,
