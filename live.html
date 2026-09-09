@@ -235,6 +235,11 @@ h2 {
     background: #075126;
 }
 
+.scorecard-btn {
+    width: 100%;
+    max-width: 300px;
+}
+
 
 /* =========================================
    MESSAGES
@@ -317,6 +322,10 @@ h2 {
     color: white;
     cursor: pointer;
     font-size: 15px;
+}
+
+.close-scorecard:hover {
+    background: #a00000;
 }
 
 
@@ -411,28 +420,28 @@ footer a {
         type="text"
         id="teamSearch"
         placeholder="🏏 Enter team name..."
-        oninput="searchEverything()"
     >
 
     <input
         type="text"
         id="dateSearch"
         placeholder="📅 Enter year / month / date..."
-        oninput="searchEverything()"
     >
 
     <div class="search-buttons">
 
         <button
             class="search-btn"
-            onclick="searchEverything()"
+            id="searchButton"
+            type="button"
         >
             🔎 Search
         </button>
 
         <button
             class="clear-btn"
-            onclick="clearSearch()"
+            id="clearButton"
+            type="button"
         >
             ✖ Clear
         </button>
@@ -472,7 +481,8 @@ Loading live scores...
 
 <button
     class="refresh-btn"
-    onclick="loadLiveScores()"
+    id="refreshButton"
+    type="button"
 >
 🔄 Refresh Live Scores
 </button>
@@ -491,7 +501,7 @@ Loading live scores...
 <button
     id="loadMoreBtn"
     class="load-btn"
-    onclick="loadMoreHistory()"
+    type="button"
 >
 Load More Matches
 </button>
@@ -511,7 +521,8 @@ Load More Matches
 
     <button
         class="close-scorecard"
-        onclick="closeScorecard()"
+        id="closeScorecardButton"
+        type="button"
     >
         ✖ Close Scorecard
     </button>
@@ -647,7 +658,8 @@ async function loadLiveScores() {
 
             <button
                 class="refresh-btn"
-                onclick="loadLiveScores()"
+                id="retryLiveButton"
+                type="button"
                 style="margin:10px auto 0;"
             >
                 🔄 Try Again
@@ -656,6 +668,22 @@ async function loadLiveScores() {
         </div>
 
         `;
+
+
+        const retryButton =
+            document.getElementById(
+                "retryLiveButton"
+            );
+
+
+        if (retryButton) {
+
+            retryButton.addEventListener(
+                "click",
+                loadLiveScores
+            );
+
+        }
 
     }
 
@@ -884,7 +912,6 @@ function renderHistory(list) {
     const container =
         document.getElementById("history");
 
-
     const loadButton =
         document.getElementById("loadMoreBtn");
 
@@ -926,7 +953,9 @@ function renderHistory(list) {
 
 
         const matchId =
-            String(match.id ?? "").trim();
+            String(
+                match.id ?? ""
+            ).trim();
 
 
         card.innerHTML = `
@@ -994,30 +1023,88 @@ function renderHistory(list) {
 
         </div>
 
-
-        ${
-            matchId
-            ?
-            `
-            <button
-                class="scorecard-btn"
-                onclick="showScorecard(${JSON.stringify(matchId)})"
-            >
-                📊 View Full Scorecard
-            </button>
-            `
-            :
-            `
-            <div class="error">
-                ❌ Scorecard unavailable for this match.
-            </div>
-            `
-        }
-
         `;
 
 
-        container.appendChild(card);
+        /*
+         * =====================================
+         * SCORECARD BUTTON
+         *
+         * IMPORTANT:
+         * NO INLINE ONCLICK
+         * =====================================
+         */
+
+        if (matchId) {
+
+            const scorecardButton =
+                document.createElement("button");
+
+
+            scorecardButton.className =
+                "scorecard-btn";
+
+
+            scorecardButton.type =
+                "button";
+
+
+            scorecardButton.textContent =
+                "📊 View Full Scorecard";
+
+
+            /*
+             * DIRECT EVENT LISTENER
+             */
+
+            scorecardButton.addEventListener(
+                "click",
+                function () {
+
+                    console.log(
+                        "Scorecard button clicked:",
+                        matchId
+                    );
+
+
+                    showScorecard(
+                        matchId
+                    );
+
+                }
+            );
+
+
+            card.appendChild(
+                scorecardButton
+            );
+
+        }
+
+        else {
+
+            const error =
+                document.createElement("div");
+
+
+            error.className =
+                "error";
+
+
+            error.textContent =
+                "❌ Scorecard unavailable for this match.";
+
+
+            card.appendChild(
+                error
+            );
+
+        }
+
+
+        container.appendChild(
+            card
+        );
 
     });
 
@@ -1074,9 +1161,12 @@ function getHistoryScore(match) {
         String(match.score).trim()
     ) {
 
-        return String(match.score);
+        return String(
+            match.score
+        );
 
     }
+
 
     if (
         match.result &&
@@ -1086,6 +1176,7 @@ function getHistoryScore(match) {
         return "Scorecard available";
 
     }
+
 
     return "-";
 
@@ -1190,7 +1281,9 @@ function searchEverything() {
 
             const dateMatches =
                 !dateSearch ||
-                matchDate.includes(dateSearch);
+                matchDate.includes(
+                    dateSearch
+                );
 
 
             return (
@@ -1238,11 +1331,6 @@ function filterHistory(
 
     return matchHistory.filter(match => {
 
-
-        /* =================================
-           TEAMS
-        ================================= */
-
         const teams =
             Array.isArray(match.teams)
             ?
@@ -1260,10 +1348,6 @@ function filterHistory(
             ).toLowerCase();
 
 
-        /* =================================
-           DATE
-        ================================= */
-
         const date =
             String(
                 match.date ||
@@ -1271,20 +1355,12 @@ function filterHistory(
             ).toLowerCase();
 
 
-        /* =================================
-           TEAM MATCH
-        ================================= */
-
         const teamMatches =
             !teamSearch ||
             teamsLower.includes(
                 teamSearch
             );
 
-
-        /* =================================
-           DATE MATCH
-        ================================= */
 
         let dateMatches = true;
 
@@ -1320,7 +1396,9 @@ function matchDateSearch(
 ) {
 
     if (!storedDate) {
+
         return false;
+
     }
 
 
@@ -1341,17 +1419,19 @@ function matchDateSearch(
 
 
     if (!search) {
+
         return true;
+
     }
 
 
-    /* =====================================
-       DIRECT MATCH
-
-       2019
-       2019-07
-       2019-07-09
-    ===================================== */
+    /*
+     * DIRECT MATCH
+     *
+     * 2019
+     * 2019-07
+     * 2019-07-09
+     */
 
     if (
         date.includes(search)
@@ -1362,9 +1442,9 @@ function matchDateSearch(
     }
 
 
-    /* =====================================
-       MONTH NAMES
-    ===================================== */
+    /*
+     * MONTH NAMES
+     */
 
     const months = {
 
@@ -1407,10 +1487,6 @@ function matchDateSearch(
     };
 
 
-    /* =====================================
-       FIND MONTH + YEAR
-    ===================================== */
-
     let selectedMonth = null;
 
 
@@ -1419,7 +1495,9 @@ function matchDateSearch(
     ) {
 
         if (
-            search.includes(monthName)
+            search.includes(
+                monthName
+            )
         ) {
 
             selectedMonth =
@@ -1505,6 +1583,12 @@ function clearSearch() {
 
 async function showScorecard(id) {
 
+    console.log(
+        "showScorecard() called with:",
+        id
+    );
+
+
     const section =
         document.getElementById(
             "scorecardSection"
@@ -1523,9 +1607,11 @@ async function showScorecard(id) {
         ).trim();
 
 
-    /* =====================================
-       VALIDATE ID
-    ===================================== */
+    /*
+     * =====================================
+     * VALIDATE ID
+     * =====================================
+     */
 
     if (!matchId) {
 
@@ -1555,9 +1641,11 @@ async function showScorecard(id) {
     }
 
 
-    /* =====================================
-       SHOW SCORECARD SECTION
-    ===================================== */
+    /*
+     * =====================================
+     * SHOW SCORECARD SECTION
+     * =====================================
+     */
 
     section.classList.remove(
         "hidden"
@@ -1573,7 +1661,10 @@ async function showScorecard(id) {
         <br><br>
 
         Match ID:
-        ${escapeHTML(matchId)}
+
+        <strong>
+            ${escapeHTML(matchId)}
+        </strong>
 
     </div>
 
@@ -1587,9 +1678,11 @@ async function showScorecard(id) {
 
     try {
 
-        /* =================================
-           BUILD EXACT FILE URL
-        ================================= */
+        /*
+         * =================================
+         * SCORECARD FILE
+         * =================================
+         */
 
         const scorecardURL =
             "data/scorecards/" +
@@ -1679,7 +1772,9 @@ async function showScorecard(id) {
 
                 <br>
 
-                data/scorecards/${escapeHTML(matchId)}.json
+                data/scorecards/${escapeHTML(
+                    matchId
+                )}.json
 
             </small>
 
@@ -1688,7 +1783,10 @@ async function showScorecard(id) {
             <small>
 
                 Error:
-                ${escapeHTML(error.message)}
+
+                ${escapeHTML(
+                    error.message
+                )}
 
             </small>
 
@@ -1696,7 +1794,8 @@ async function showScorecard(id) {
 
             <button
                 class="refresh-btn"
-                onclick="showScorecard(${JSON.stringify(matchId)})"
+                id="retryScorecardButton"
+                type="button"
                 style="margin:10px auto;"
             >
 
@@ -1707,6 +1806,28 @@ async function showScorecard(id) {
         </div>
 
         `;
+
+
+        const retryButton =
+            document.getElementById(
+                "retryScorecardButton"
+            );
+
+
+        if (retryButton) {
+
+            retryButton.addEventListener(
+                "click",
+                function () {
+
+                    showScorecard(
+                        matchId
+                    );
+
+                }
+            );
+
+        }
 
     }
 
@@ -1842,9 +1963,11 @@ function renderFullScorecard(match) {
     `;
 
 
-    /* =====================================
-       INNINGS
-    ===================================== */
+    /*
+     * =====================================
+     * INNINGS
+     * =====================================
+     */
 
     if (
         !Array.isArray(match.innings) ||
@@ -1941,12 +2064,16 @@ function renderFullScorecard(match) {
         `;
 
 
-        /* =================================
-           BATTING
-        ================================= */
+        /*
+         * =================================
+         * BATTING
+         * =================================
+         */
 
         if (
-            Array.isArray(innings.batting) &&
+            Array.isArray(
+                innings.batting
+            ) &&
             innings.batting.length
         ) {
 
@@ -2059,9 +2186,11 @@ function renderFullScorecard(match) {
         }
 
 
-        /* =================================
-           EXTRAS
-        ================================= */
+        /*
+         * =================================
+         * EXTRAS
+         * =================================
+         */
 
         html += `
 
@@ -2075,12 +2204,16 @@ function renderFullScorecard(match) {
         `;
 
 
-        /* =================================
-           BOWLING
-        ================================= */
+        /*
+         * =================================
+         * BOWLING
+         * =================================
+         */
 
         if (
-            Array.isArray(innings.bowling) &&
+            Array.isArray(
+                innings.bowling
+            ) &&
             innings.bowling.length
         ) {
 
@@ -2264,6 +2397,72 @@ function escapeHTML(value) {
     );
 
 }
+
+
+/* =========================================
+   EVENT LISTENERS
+   =========================================
+   ALL BUTTONS ARE CONNECTED HERE
+   ========================================= */
+
+document
+    .getElementById("searchButton")
+    .addEventListener(
+        "click",
+        searchEverything
+    );
+
+
+document
+    .getElementById("clearButton")
+    .addEventListener(
+        "click",
+        clearSearch
+    );
+
+
+document
+    .getElementById("refreshButton")
+    .addEventListener(
+        "click",
+        loadLiveScores
+    );
+
+
+document
+    .getElementById("loadMoreBtn")
+    .addEventListener(
+        "click",
+        loadMoreHistory
+    );
+
+
+document
+    .getElementById("closeScorecardButton")
+    .addEventListener(
+        "click",
+        closeScorecard
+    );
+
+
+/*
+ * SEARCH WHILE TYPING
+ */
+
+document
+    .getElementById("teamSearch")
+    .addEventListener(
+        "input",
+        searchEverything
+    );
+
+
+document
+    .getElementById("dateSearch")
+    .addEventListener(
+        "input",
+        searchEverything
+    );
 
 
 /* =========================================
