@@ -1,0 +1,306 @@
+{
+  "id": "1187683",
+  "teams": [
+    "New Zealand",
+    "India"
+  ],
+  "date": "2020-02-08",
+  "format": "ODI",
+  "competition": "India tour of New Zealand",
+  "venue": "Eden Park",
+  "result": "New Zealand won by 22 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 273,
+      "extras": 14,
+      "balls": 306,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 79,
+          "balls": 81,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 97.53,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 41,
+          "balls": 59,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 69.49,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 22,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 84.62,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 73,
+          "balls": 77,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 94.81,
+          "out": false
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 7,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 25,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 104.17,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SN Thakur",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 61,
+          "wickets": 2,
+          "economy": 5.81
+        },
+        {
+          "player": "JJ Bumrah",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 68,
+          "wickets": 0,
+          "economy": 6.8
+        },
+        {
+          "player": "Navdeep Saini",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 4.74
+        },
+        {
+          "player": "YS Chahal",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 58,
+          "wickets": 3,
+          "economy": 5.7
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 3.7
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 251,
+      "extras": 16,
+      "balls": 299,
+      "batting": [
+        {
+          "player": "PP Shaw",
+          "runs": 24,
+          "balls": 19,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 126.32,
+          "out": true
+        },
+        {
+          "player": "MA Agarwal",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 15,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.69,
+          "out": true
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 52,
+          "balls": 57,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 91.23,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "KM Jadhav",
+          "runs": 9,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 55,
+          "balls": 76,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 72.37,
+          "out": true
+        },
+        {
+          "player": "SN Thakur",
+          "runs": 18,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "Navdeep Saini",
+          "runs": 45,
+          "balls": 51,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 88.24,
+          "out": true
+        },
+        {
+          "player": "YS Chahal",
+          "runs": 10,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "JJ Bumrah",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HK Bennett",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 58,
+          "wickets": 2,
+          "economy": 6.11
+        },
+        {
+          "player": "TG Southee",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 4.03
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 4.2
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 5.32
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "9.5",
+          "balls": 59,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 5.59
+        }
+      ]
+    }
+  ]
+}

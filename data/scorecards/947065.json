@@ -1,0 +1,464 @@
+{
+  "id": "947065",
+  "teams": [
+    "Sussex",
+    "Kent"
+  ],
+  "date": "2016-08-31",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "County Ground, Hove",
+  "result": "Kent won by 127 runs",
+  "winner": "Kent",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sussex",
+      "runs": 180,
+      "extras": 15,
+      "balls": 251,
+      "batting": [
+        {
+          "player": "CD Nash",
+          "runs": 16,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "TJ Haines",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LWP Wells",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "Craig Cachopa",
+          "runs": 19,
+          "balls": 65,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.23,
+          "out": true
+        },
+        {
+          "player": "BC Brown",
+          "runs": 54,
+          "balls": 47,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 114.89,
+          "out": true
+        },
+        {
+          "player": "D Wiese",
+          "runs": 4,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 32,
+          "balls": 26,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 123.08,
+          "out": true
+        },
+        {
+          "player": "DR Briggs",
+          "runs": 8,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "A Shahzad",
+          "runs": 26,
+          "balls": 46,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 56.52,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MT Coles",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 2.4
+        },
+        {
+          "player": "DI Stevens",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 3.27
+        },
+        {
+          "player": "GC Viljoen",
+          "overs": "12.4",
+          "balls": 76,
+          "runs": 73,
+          "wickets": 3,
+          "economy": 5.76
+        },
+        {
+          "player": "ME Claydon",
+          "overs": "3.5",
+          "balls": 23,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 6.52
+        },
+        {
+          "player": "WRS Gidman",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 14.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 496,
+      "extras": 37,
+      "balls": 801,
+      "batting": [
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 20,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.78,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 8,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 48,
+          "balls": 53,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 90.57,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 44,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 64,
+          "balls": 80,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "DI Stevens",
+          "runs": 79,
+          "balls": 128,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 61.72,
+          "out": true
+        },
+        {
+          "player": "WRS Gidman",
+          "runs": 99,
+          "balls": 240,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 41.25,
+          "out": false
+        },
+        {
+          "player": "JC Tredwell",
+          "runs": 13,
+          "balls": 54,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 24.07,
+          "out": true
+        },
+        {
+          "player": "MT Coles",
+          "runs": 70,
+          "balls": 87,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 80.46,
+          "out": true
+        },
+        {
+          "player": "GC Viljoen",
+          "runs": 3,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.75,
+          "out": true
+        },
+        {
+          "player": "ME Claydon",
+          "runs": 11,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SJ Magoffin",
+          "overs": "35.0",
+          "balls": 210,
+          "runs": 93,
+          "wickets": 5,
+          "economy": 2.66
+        },
+        {
+          "player": "OE Robinson",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 78,
+          "wickets": 1,
+          "economy": 3.12
+        },
+        {
+          "player": "A Shahzad",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 110,
+          "wickets": 2,
+          "economy": 5.74
+        },
+        {
+          "player": "D Wiese",
+          "overs": "31.2",
+          "balls": 188,
+          "runs": 96,
+          "wickets": 1,
+          "economy": 3.06
+        },
+        {
+          "player": "TJ Haines",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 2.67
+        },
+        {
+          "player": "DR Briggs",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 79,
+          "wickets": 1,
+          "economy": 5.27
+        },
+        {
+          "player": "LWP Wells",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 6.4
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Sussex",
+      "runs": 189,
+      "extras": 29,
+      "balls": 259,
+      "batting": [
+        {
+          "player": "CD Nash",
+          "runs": 23,
+          "balls": 54,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 42.59,
+          "out": true
+        },
+        {
+          "player": "TJ Haines",
+          "runs": 11,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true
+        },
+        {
+          "player": "A Shahzad",
+          "runs": 3,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.75,
+          "out": true
+        },
+        {
+          "player": "LWP Wells",
+          "runs": 23,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 79.31,
+          "out": true
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "runs": 20,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 74.07,
+          "out": true
+        },
+        {
+          "player": "Craig Cachopa",
+          "runs": 34,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 80.95,
+          "out": true
+        },
+        {
+          "player": "BC Brown",
+          "runs": 19,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 95.0,
+          "out": true
+        },
+        {
+          "player": "D Wiese",
+          "runs": 9,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.0,
+          "out": false
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "DR Briggs",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "SJ Magoffin",
+          "runs": 8,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MT Coles",
+          "overs": "12.4",
+          "balls": 76,
+          "runs": 74,
+          "wickets": 3,
+          "economy": 5.84
+        },
+        {
+          "player": "DI Stevens",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "GC Viljoen",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 39,
+          "wickets": 3,
+          "economy": 4.11
+        },
+        {
+          "player": "ME Claydon",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 41,
+          "wickets": 3,
+          "economy": 3.73
+        }
+      ]
+    }
+  ]
+}

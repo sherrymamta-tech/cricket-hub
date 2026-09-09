@@ -1,0 +1,84 @@
+{
+  "id": "1415706",
+  "teams": [
+    "Scotland",
+    "England"
+  ],
+  "date": "2024-06-04",
+  "format": "T20",
+  "competition": "ICC Men's T20 World Cup",
+  "venue": "Kensington Oval, Bridgetown, Barbados",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Scotland",
+      "runs": 90,
+      "extras": 4,
+      "balls": 62,
+      "batting": [
+        {
+          "player": "HG Munsey",
+          "runs": 41,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 128.12,
+          "out": false
+        },
+        {
+          "player": "MA Jones",
+          "runs": 45,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Wood",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 5.14
+        },
+        {
+          "player": "JC Archer",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "MM Ali",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 12.5
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 13.0
+        }
+      ]
+    }
+  ]
+}

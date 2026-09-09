@@ -1,0 +1,278 @@
+{
+  "id": "1250350",
+  "teams": [
+    "Somerset",
+    "Glamorgan"
+  ],
+  "date": "2021-07-16",
+  "format": "T20",
+  "competition": "Vitality Blast",
+  "venue": "Sophia Gardens, Cardiff",
+  "result": "Somerset won by 74 runs",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Somerset",
+      "runs": 181,
+      "extras": 19,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "DP Conway",
+          "runs": 70,
+          "balls": 54,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 129.63,
+          "out": false
+        },
+        {
+          "player": "SM Davies",
+          "runs": 22,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 110.0,
+          "out": true
+        },
+        {
+          "player": "WCF Smeed",
+          "runs": 7,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "JC Hildreth",
+          "runs": 10,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 142.86,
+          "out": true
+        },
+        {
+          "player": "LP Goldsworthy",
+          "runs": 9,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "TA Lammonby",
+          "runs": 34,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 170.0,
+          "out": true
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 10,
+          "balls": 4,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 250.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AG Salter",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "RAJ Smith",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 9.23
+        },
+        {
+          "player": "T van der Gugten",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 11.25
+        },
+        {
+          "player": "DA Douthwaite",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 10.57
+        },
+        {
+          "player": "RI Walker",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 16,
+          "wickets": 3,
+          "economy": 3.84
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 9.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Glamorgan",
+      "runs": 107,
+      "extras": 3,
+      "balls": 107,
+      "batting": [
+        {
+          "player": "KS Carlson",
+          "runs": 6,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 19,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 90.48,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 11,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 18,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 13,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 76.47,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "DA Douthwaite",
+          "runs": 25,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 156.25,
+          "out": true
+        },
+        {
+          "player": "AG Salter",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "RI Walker",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "T van der Gugten",
+          "runs": 6,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Leach",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 8.0
+        },
+        {
+          "player": "C Overton",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 5.67
+        },
+        {
+          "player": "M de Lange",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 7.26
+        },
+        {
+          "player": "LP Goldsworthy",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 3,
+          "economy": 3.5
+        },
+        {
+          "player": "RE van der Merwe",
+          "overs": "3.4",
+          "balls": 22,
+          "runs": 21,
+          "wickets": 3,
+          "economy": 5.73
+        }
+      ]
+    }
+  ]
+}

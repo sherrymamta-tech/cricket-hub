@@ -1,0 +1,619 @@
+{
+  "id": "1461930",
+  "teams": [
+    "Kent",
+    "Glamorgan"
+  ],
+  "date": "2025-07-22",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Sophia Gardens, Cardiff",
+  "result": "Glamorgan won by 5 wickets",
+  "winner": "Glamorgan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Kent",
+      "runs": 155,
+      "extras": 7,
+      "balls": 322,
+      "batting": [
+        {
+          "player": "BG Compton",
+          "runs": 17,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 73.91,
+          "out": true
+        },
+        {
+          "player": "JK Denly",
+          "runs": 29,
+          "balls": 46,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 63.04,
+          "out": true
+        },
+        {
+          "player": "CG Benjamin",
+          "runs": 23,
+          "balls": 56,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.07,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 17,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 56.67,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 42,
+          "balls": 81,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 51.85,
+          "out": true
+        },
+        {
+          "player": "JDM Evison",
+          "runs": 14,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.0,
+          "out": true
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 1,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": true
+        },
+        {
+          "player": "G Stewart",
+          "runs": 5,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": false
+        },
+        {
+          "player": "MW Parkinson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WA Agar",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MR Quinn",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "T van der Gugten",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 28,
+          "wickets": 3,
+          "economy": 1.87
+        },
+        {
+          "player": "AM Fernando",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 3.34
+        },
+        {
+          "player": "JAR Harris",
+          "overs": "12.2",
+          "balls": 74,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 2.92
+        },
+        {
+          "player": "EO Leonard",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 5.8
+        },
+        {
+          "player": "BI Kellaway",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 2.51
+        },
+        {
+          "player": "Zain-ul-Hassan",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 0,
+          "wickets": 1,
+          "economy": 0.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Glamorgan",
+      "runs": 327,
+      "extras": 24,
+      "balls": 615,
+      "batting": [
+        {
+          "player": "Zain-ul-Hassan",
+          "runs": 27,
+          "balls": 77,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.06,
+          "out": true
+        },
+        {
+          "player": "AM Tribe",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 27,
+          "balls": 25,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 108.0,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 8,
+          "balls": 36,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 87,
+          "balls": 142,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 61.27,
+          "out": true
+        },
+        {
+          "player": "BI Kellaway",
+          "runs": 90,
+          "balls": 174,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 51.72,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 36,
+          "balls": 79,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 45.57,
+          "out": true
+        },
+        {
+          "player": "T van der Gugten",
+          "runs": 3,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "JAR Harris",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "EO Leonard",
+          "runs": 25,
+          "balls": 46,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 54.35,
+          "out": true
+        },
+        {
+          "player": "AM Fernando",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MR Quinn",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 3.76
+        },
+        {
+          "player": "WA Agar",
+          "overs": "17.3",
+          "balls": 105,
+          "runs": 62,
+          "wickets": 4,
+          "economy": 3.54
+        },
+        {
+          "player": "G Stewart",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 2.24
+        },
+        {
+          "player": "JDM Evison",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 2.83
+        },
+        {
+          "player": "MW Parkinson",
+          "overs": "28.2",
+          "balls": 170,
+          "runs": 105,
+          "wickets": 4,
+          "economy": 3.71
+        },
+        {
+          "player": "JK Denly",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 2.44
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Kent",
+      "runs": 360,
+      "extras": 23,
+      "balls": 693,
+      "batting": [
+        {
+          "player": "JK Denly",
+          "runs": 38,
+          "balls": 57,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "BG Compton",
+          "runs": 48,
+          "balls": 148,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 32.43,
+          "out": true
+        },
+        {
+          "player": "CG Benjamin",
+          "runs": 46,
+          "balls": 133,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 34.59,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 22,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JDM Evison",
+          "runs": 49,
+          "balls": 94,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 52.13,
+          "out": true
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 68,
+          "balls": 125,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 54.4,
+          "out": true
+        },
+        {
+          "player": "G Stewart",
+          "runs": 63,
+          "balls": 77,
+          "fours": 3,
+          "sixes": 5,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "MW Parkinson",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WA Agar",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "MR Quinn",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "T van der Gugten",
+          "overs": "6.4",
+          "balls": 40,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 3.45
+        },
+        {
+          "player": "AM Fernando",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 2.96
+        },
+        {
+          "player": "BI Kellaway",
+          "overs": "31.2",
+          "balls": 188,
+          "runs": 87,
+          "wickets": 2,
+          "economy": 2.78
+        },
+        {
+          "player": "JAR Harris",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 3.15
+        },
+        {
+          "player": "EO Leonard",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 64,
+          "wickets": 2,
+          "economy": 4.27
+        },
+        {
+          "player": "Zain-ul-Hassan",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 1.79
+        },
+        {
+          "player": "AM Tribe",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 4.67
+        },
+        {
+          "player": "KS Carlson",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 24,
+          "wickets": 3,
+          "economy": 4.8
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Glamorgan",
+      "runs": 189,
+      "extras": 17,
+      "balls": 279,
+      "batting": [
+        {
+          "player": "Zain-ul-Hassan",
+          "runs": 10,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "AM Tribe",
+          "runs": 4,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": true
+        },
+        {
+          "player": "JAR Harris",
+          "runs": 8,
+          "balls": 51,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.69,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 89,
+          "balls": 115,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 77.39,
+          "out": false
+        },
+        {
+          "player": "WT Root",
+          "runs": 30,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 96.77,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 27,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 93.1,
+          "out": true
+        },
+        {
+          "player": "BI Kellaway",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WA Agar",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 2.96
+        },
+        {
+          "player": "G Stewart",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 4.17
+        },
+        {
+          "player": "MW Parkinson",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 88,
+          "wickets": 4,
+          "economy": 4.63
+        },
+        {
+          "player": "JK Denly",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "player": "MR Quinn",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 3.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,615 @@
+{
+  "id": "225257",
+  "teams": [
+    "England",
+    "Pakistan"
+  ],
+  "date": "2006-08-04",
+  "format": "Test",
+  "competition": "Pakistan tour of England and Scotland",
+  "venue": "Headingley",
+  "result": "England won by 167 runs",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 515,
+      "extras": 30,
+      "balls": 749,
+      "batting": [
+        {
+          "player": "ME Trescothick",
+          "runs": 28,
+          "balls": 59,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 47.46,
+          "out": true
+        },
+        {
+          "player": "AJ Strauss",
+          "runs": 36,
+          "balls": 43,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 83.72,
+          "out": true
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 135,
+          "balls": 169,
+          "fours": 20,
+          "sixes": 2,
+          "strike_rate": 79.88,
+          "out": true
+        },
+        {
+          "player": "AN Cook",
+          "runs": 23,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 71.88,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 31,
+          "balls": 70,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 44.29,
+          "out": true
+        },
+        {
+          "player": "IR Bell",
+          "runs": 119,
+          "balls": 206,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 57.77,
+          "out": true
+        },
+        {
+          "player": "CMW Read",
+          "runs": 38,
+          "balls": 74,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 51.35,
+          "out": true
+        },
+        {
+          "player": "MJ Hoggard",
+          "runs": 0,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SI Mahmood",
+          "runs": 34,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 75.56,
+          "out": true
+        },
+        {
+          "player": "SJ Harmison",
+          "runs": 36,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "MS Panesar",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Sami",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 136,
+          "wickets": 2,
+          "economy": 5.04
+        },
+        {
+          "player": "Umar Gul",
+          "overs": "29.2",
+          "balls": 176,
+          "runs": 124,
+          "wickets": 5,
+          "economy": 4.23
+        },
+        {
+          "player": "Shahid Nazir",
+          "overs": "28.3",
+          "balls": 171,
+          "runs": 109,
+          "wickets": 1,
+          "economy": 3.82
+        },
+        {
+          "player": "Danish Kaneria",
+          "overs": "34.0",
+          "balls": 204,
+          "runs": 120,
+          "wickets": 2,
+          "economy": 3.53
+        },
+        {
+          "player": "Taufeeq Umar",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "Salman Butt",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 4.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 538,
+      "extras": 32,
+      "balls": 861,
+      "batting": [
+        {
+          "player": "Salman Butt",
+          "runs": 20,
+          "balls": 51,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.22,
+          "out": true
+        },
+        {
+          "player": "Taufeeq Umar",
+          "runs": 7,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.95,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 173,
+          "balls": 285,
+          "fours": 22,
+          "sixes": 0,
+          "strike_rate": 60.7,
+          "out": true
+        },
+        {
+          "player": "Mohammad Yousuf",
+          "runs": 192,
+          "balls": 262,
+          "fours": 25,
+          "sixes": 2,
+          "strike_rate": 73.28,
+          "out": true
+        },
+        {
+          "player": "Inzamam-ul-Haq",
+          "runs": 26,
+          "balls": 52,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Faisal Iqbal",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Kamran Akmal",
+          "runs": 20,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 52.63,
+          "out": true
+        },
+        {
+          "player": "Mohammad Sami",
+          "runs": 19,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Shahid Nazir",
+          "runs": 13,
+          "balls": 45,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.89,
+          "out": false
+        },
+        {
+          "player": "Umar Gul",
+          "runs": 7,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Danish Kaneria",
+          "runs": 29,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 80.56,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Hoggard",
+          "overs": "30.3",
+          "balls": 183,
+          "runs": 101,
+          "wickets": 1,
+          "economy": 3.31
+        },
+        {
+          "player": "SJ Harmison",
+          "overs": "30.2",
+          "balls": 182,
+          "runs": 148,
+          "wickets": 1,
+          "economy": 4.88
+        },
+        {
+          "player": "SI Mahmood",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 111,
+          "wickets": 2,
+          "economy": 4.62
+        },
+        {
+          "player": "MS Panesar",
+          "overs": "47.4",
+          "balls": 286,
+          "runs": 131,
+          "wickets": 3,
+          "economy": 2.75
+        },
+        {
+          "player": "KP Pietersen",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 14.0
+        },
+        {
+          "player": "PD Collingwood",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 3.3
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "England",
+      "runs": 345,
+      "extras": 31,
+      "balls": 551,
+      "batting": [
+        {
+          "player": "ME Trescothick",
+          "runs": 58,
+          "balls": 126,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 46.03,
+          "out": true
+        },
+        {
+          "player": "AJ Strauss",
+          "runs": 116,
+          "balls": 171,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 67.84,
+          "out": true
+        },
+        {
+          "player": "AN Cook",
+          "runs": 21,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 61.76,
+          "out": true
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 16,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 106.67,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 25,
+          "balls": 57,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.86,
+          "out": true
+        },
+        {
+          "player": "IR Bell",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "CMW Read",
+          "runs": 55,
+          "balls": 85,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 64.71,
+          "out": true
+        },
+        {
+          "player": "SI Mahmood",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "MJ Hoggard",
+          "runs": 8,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": true
+        },
+        {
+          "player": "SJ Harmison",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "MS Panesar",
+          "runs": 5,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.25,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Sami",
+          "overs": "22.4",
+          "balls": 136,
+          "runs": 103,
+          "wickets": 3,
+          "economy": 4.54
+        },
+        {
+          "player": "Umar Gul",
+          "overs": "21.4",
+          "balls": 130,
+          "runs": 82,
+          "wickets": 2,
+          "economy": 3.78
+        },
+        {
+          "player": "Shahid Nazir",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 32,
+          "wickets": 3,
+          "economy": 2.26
+        },
+        {
+          "player": "Danish Kaneria",
+          "overs": "33.2",
+          "balls": 200,
+          "runs": 128,
+          "wickets": 2,
+          "economy": 3.84
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Pakistan",
+      "runs": 155,
+      "extras": 14,
+      "balls": 291,
+      "batting": [
+        {
+          "player": "Salman Butt",
+          "runs": 16,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "Taufeeq Umar",
+          "runs": 11,
+          "balls": 54,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.37,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 41,
+          "balls": 84,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 48.81,
+          "out": true
+        },
+        {
+          "player": "Mohammad Yousuf",
+          "runs": 8,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "Faisal Iqbal",
+          "runs": 11,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Kamran Akmal",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Inzamam-ul-Haq",
+          "runs": 37,
+          "balls": 73,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 50.68,
+          "out": true
+        },
+        {
+          "player": "Mohammad Sami",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Shahid Nazir",
+          "runs": 17,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 85.0,
+          "out": true
+        },
+        {
+          "player": "Umar Gul",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Danish Kaneria",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Hoggard",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 3.55
+        },
+        {
+          "player": "MS Panesar",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 2.47
+        },
+        {
+          "player": "SJ Harmison",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 62,
+          "wickets": 0,
+          "economy": 4.04
+        },
+        {
+          "player": "SI Mahmood",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 23,
+          "wickets": 4,
+          "economy": 2.88
+        }
+      ]
+    }
+  ]
+}

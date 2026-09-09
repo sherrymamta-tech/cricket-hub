@@ -1,0 +1,102 @@
+{
+  "id": "1068340",
+  "teams": [
+    "Sussex",
+    "Glamorgan"
+  ],
+  "date": "2017-07-21",
+  "format": "T20",
+  "competition": "NatWest T20 Blast",
+  "venue": "Sophia Gardens",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sussex",
+      "runs": 87,
+      "extras": 9,
+      "balls": 52,
+      "batting": [
+        {
+          "player": "CD Nash",
+          "runs": 9,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "LJ Wright",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "PD Salt",
+          "runs": 28,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": false
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 40,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 181.82,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Hogan",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "M de Lange",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 11.14
+        },
+        {
+          "player": "T van der Gugten",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "CAJ Meschede",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 11.08
+        },
+        {
+          "player": "GG Wagg",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 10.62
+        }
+      ]
+    }
+  ]
+}

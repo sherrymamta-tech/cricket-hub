@@ -1,0 +1,259 @@
+{
+  "id": "1114868",
+  "teams": [
+    "Sydney Thunder",
+    "Hobart Hurricanes"
+  ],
+  "date": "2018-01-01",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Sydney Showground Stadium",
+  "result": "Hobart Hurricanes won by 9 runs",
+  "winner": "Hobart Hurricanes",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Hobart Hurricanes",
+      "runs": 189,
+      "extras": 11,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "AJ Doolan",
+          "runs": 5,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "DJM Short",
+          "runs": 97,
+          "balls": 68,
+          "fours": 9,
+          "sixes": 4,
+          "strike_rate": 142.65,
+          "out": true
+        },
+        {
+          "player": "MS Wade",
+          "runs": 27,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 117.39,
+          "out": true
+        },
+        {
+          "player": "BR McDermott",
+          "runs": 49,
+          "balls": 25,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 196.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJ Green",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 6.33
+        },
+        {
+          "player": "Fawad Ahmed",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.75
+        },
+        {
+          "player": "MJ McClenaghan",
+          "overs": "3.5",
+          "balls": 23,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 9.39
+        },
+        {
+          "player": "GS Sandhu",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 11.08
+        },
+        {
+          "player": "AJ Nair",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 10.29
+        },
+        {
+          "player": "SR Watson",
+          "overs": "3.4",
+          "balls": 22,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 9.55
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Thunder",
+      "runs": 180,
+      "extras": 3,
+      "balls": 121,
+      "batting": [
+        {
+          "player": "KR Patterson",
+          "runs": 36,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 138.46,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 81,
+          "balls": 44,
+          "fours": 7,
+          "sixes": 5,
+          "strike_rate": 184.09,
+          "out": true
+        },
+        {
+          "player": "SR Watson",
+          "runs": 36,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 116.13,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BJ Rohrer",
+          "runs": 5,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "AJ Nair",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RJ Gibson",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "CJ Green",
+          "runs": 5,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "GS Sandhu",
+          "runs": 11,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 275.0,
+          "out": false
+        },
+        {
+          "player": "MJ McClenaghan",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CA Rose",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "TS Mills",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 11.04
+        },
+        {
+          "player": "JC Archer",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 10.5
+        },
+        {
+          "player": "CJ Boyce",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 2,
+          "economy": 4.67
+        },
+        {
+          "player": "DJM Short",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "DT Christian",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 10.0
+        }
+      ]
+    }
+  ]
+}

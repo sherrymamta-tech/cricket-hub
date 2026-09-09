@@ -1,0 +1,277 @@
+{
+  "id": "1491739",
+  "teams": [
+    "South Africa",
+    "New Zealand"
+  ],
+  "date": "2026-03-25",
+  "format": "T20",
+  "competition": "South Africa tour of New Zealand",
+  "venue": "Hagley Oval, Christchurch",
+  "result": "South Africa won by 33 runs",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 187,
+      "extras": 8,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "T de Zorzi",
+          "runs": 12,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "PWA Mulder",
+          "runs": 31,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "RA Herman",
+          "runs": 39,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 125.81,
+          "out": true
+        },
+        {
+          "player": "C Esterhuizen",
+          "runs": 75,
+          "balls": 35,
+          "fours": 5,
+          "sixes": 6,
+          "strike_rate": 214.29,
+          "out": true
+        },
+        {
+          "player": "D Forrester",
+          "runs": 21,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 161.54,
+          "out": false
+        },
+        {
+          "player": "JF Smith",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KA Jamieson",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 9.92
+        },
+        {
+          "player": "ZGF Foulkes",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.31
+        },
+        {
+          "player": "BV Sears",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 9.25
+        },
+        {
+          "player": "CE McConchie",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 12.25
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 9.69
+        },
+        {
+          "player": "JA Clarkson",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 6.46
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 154,
+      "extras": 9,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "KD Clarke",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TB Robinson",
+          "runs": 25,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 119.05,
+          "out": true
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 22,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 110.0,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 14,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "BJ Jacobs",
+          "runs": 36,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 189.47,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 24,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 96.0,
+          "out": true
+        },
+        {
+          "player": "JA Clarkson",
+          "runs": 13,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 130.0,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "ZGF Foulkes",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "G Coetzee",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 5.25
+        },
+        {
+          "player": "PWA Mulder",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 10.0
+        },
+        {
+          "player": "GF Linde",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 4.12
+        },
+        {
+          "player": "OEG Baartman",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 8.4
+        },
+        {
+          "player": "P Subrayen",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 11.67
+        }
+      ]
+    }
+  ]
+}

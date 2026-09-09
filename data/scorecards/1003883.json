@@ -1,0 +1,339 @@
+{
+  "id": "1003883",
+  "teams": [
+    "Lions",
+    "Warriors"
+  ],
+  "date": "2016-12-04",
+  "format": "T20",
+  "competition": "CSA T20 Challenge",
+  "venue": "Kingsmead, Durban",
+  "result": "Lions won by 5 runs",
+  "winner": "Lions",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Lions",
+      "runs": 157,
+      "extras": 11,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "HE van der Dussen",
+          "runs": 50,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 5,
+          "strike_rate": 192.31,
+          "out": true
+        },
+        {
+          "player": "RR Hendricks",
+          "runs": 25,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 92.59,
+          "out": true
+        },
+        {
+          "player": "M Mosehle",
+          "runs": 16,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "OA Ramela",
+          "runs": 15,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 115.38,
+          "out": true
+        },
+        {
+          "player": "NJ van den Bergh",
+          "runs": 12,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "D Pretorius",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MK McGillivray",
+          "runs": 17,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 121.43,
+          "out": true
+        },
+        {
+          "player": "GC Viljoen",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "BC Fortuin",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AM Phangiso",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": false
+        },
+        {
+          "player": "E Leie",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BD Walters",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 16.5
+        },
+        {
+          "player": "ACR Birch",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 4.67
+        },
+        {
+          "player": "SSB Magala",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 9.47
+        },
+        {
+          "player": "CA Ingram",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.5
+        },
+        {
+          "player": "JT Smuts",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 7.89
+        },
+        {
+          "player": "CN Ackermann",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 3,
+          "economy": 5.75
+        },
+        {
+          "player": "A Gqamane",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 10.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Warriors",
+      "runs": 152,
+      "extras": 3,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "JT Smuts",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "GL Cloete",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 47,
+          "balls": 30,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 156.67,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Jonker",
+          "runs": 35,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 120.69,
+          "out": true
+        },
+        {
+          "player": "LC Ngoepe",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "ACR Birch",
+          "runs": 30,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 157.89,
+          "out": true
+        },
+        {
+          "player": "C Fortuin",
+          "runs": 12,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "SSB Magala",
+          "runs": 10,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "A Gqamane",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "BD Walters",
+          "runs": 4,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BC Fortuin",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.28
+        },
+        {
+          "player": "GC Viljoen",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 17,
+          "wickets": 3,
+          "economy": 4.25
+        },
+        {
+          "player": "D Pretorius",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 10.42
+        },
+        {
+          "player": "MK McGillivray",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "AM Phangiso",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 10.67
+        },
+        {
+          "player": "E Leie",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 3,
+          "economy": 7.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "65273",
+  "teams": [
+    "Pakistan",
+    "Zimbabwe"
+  ],
+  "date": "2003-03-04",
+  "format": "ODI",
+  "competition": "ICC World Cup",
+  "venue": "Queens Sports Club, Bulawayo",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 73,
+      "extras": 9,
+      "balls": 85,
+      "batting": [
+        {
+          "player": "Saeed Anwar",
+          "runs": 40,
+          "balls": 47,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 85.11,
+          "out": false
+        },
+        {
+          "player": "Saleem Elahi",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "Yousuf Youhana",
+          "runs": 17,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.96,
+          "out": true
+        },
+        {
+          "player": "Inzamam-ul-Haq",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HH Streak",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 3.63
+        },
+        {
+          "player": "DT Hondo",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "player": "SM Ervine",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

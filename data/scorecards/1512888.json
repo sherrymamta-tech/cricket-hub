@@ -1,0 +1,277 @@
+{
+  "id": "1512888",
+  "teams": [
+    "Hampshire",
+    "Nottinghamshire"
+  ],
+  "date": "2026-07-18",
+  "format": "T20",
+  "competition": "Vitality Blast Men",
+  "venue": "Edgbaston, Birmingham",
+  "result": "Hampshire won by 27 runs",
+  "winner": "Hampshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Hampshire",
+      "runs": 187,
+      "extras": 9,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "TE Albert",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "JJ Weatherley",
+          "runs": 88,
+          "balls": 61,
+          "fours": 5,
+          "sixes": 5,
+          "strike_rate": 144.26,
+          "out": false
+        },
+        {
+          "player": "JM Vince",
+          "runs": 59,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 131.11,
+          "out": true
+        },
+        {
+          "player": "T Stubbs",
+          "runs": 8,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 19,
+          "balls": 9,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 211.11,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Amir",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 7.62
+        },
+        {
+          "player": "DY Pennington",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 9.75
+        },
+        {
+          "player": "OP Stone",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 10.08
+        },
+        {
+          "player": "GF Linde",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 14.5
+        },
+        {
+          "player": "BAC Howell",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 6.3
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Nottinghamshire",
+      "runs": 160,
+      "extras": 4,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "JM Clarke",
+          "runs": 64,
+          "balls": 43,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 148.84,
+          "out": true
+        },
+        {
+          "player": "HG Munsey",
+          "runs": 12,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 109.09,
+          "out": true
+        },
+        {
+          "player": "JA Haynes",
+          "runs": 25,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 119.05,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 9,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "GF Linde",
+          "runs": 8,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "BAC Howell",
+          "runs": 19,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 158.33,
+          "out": true
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "JA Pocklington",
+          "runs": 8,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "DY Pennington",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OP Stone",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Amir",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CP Wood",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 7.44
+        },
+        {
+          "player": "S Baker",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 7.25
+        },
+        {
+          "player": "SW Currie",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 7.92
+        },
+        {
+          "player": "LA Dawson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 12.0
+        },
+        {
+          "player": "T Stubbs",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "JK Fuller",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 4,
+          "economy": 6.5
+        }
+      ]
+    }
+  ]
+}

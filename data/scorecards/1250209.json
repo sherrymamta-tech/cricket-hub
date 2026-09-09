@@ -1,0 +1,137 @@
+{
+  "id": "1250209",
+  "teams": [
+    "Nottinghamshire",
+    "Yorkshire"
+  ],
+  "date": "2021-08-06",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "York Cricket Club",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Nottinghamshire",
+      "runs": 185,
+      "extras": 10,
+      "balls": 205,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 74,
+          "balls": 84,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 88.1,
+          "out": true
+        },
+        {
+          "player": "SG Budinger",
+          "runs": 71,
+          "balls": 64,
+          "fours": 7,
+          "sixes": 4,
+          "strike_rate": 110.94,
+          "out": true
+        },
+        {
+          "player": "PD Trego",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "M Montgomery",
+          "runs": 20,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": false
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "D Schadendorf",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 5.02
+        },
+        {
+          "player": "MJ Waite",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 6.33
+        },
+        {
+          "player": "ML Revis",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "MW Pillans",
+          "overs": "6.4",
+          "balls": 40,
+          "runs": 26,
+          "wickets": 4,
+          "economy": 3.9
+        },
+        {
+          "player": "JR Sullivan",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 5.28
+        },
+        {
+          "player": "GCH Hill",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        }
+      ]
+    }
+  ]
+}

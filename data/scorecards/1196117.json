@@ -1,0 +1,560 @@
+{
+  "id": "1196117",
+  "teams": [
+    "Tasmania",
+    "New South Wales"
+  ],
+  "date": "2019-10-18",
+  "format": "MDM",
+  "competition": "Marsh Sheffield Shield",
+  "venue": "Drummoyne Oval, Sydney",
+  "result": "New South Wales won by 8 wickets",
+  "winner": "New South Wales",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Tasmania",
+      "runs": 268,
+      "extras": 16,
+      "balls": 612,
+      "batting": [
+        {
+          "player": "JC Silk",
+          "runs": 41,
+          "balls": 95,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 43.16,
+          "out": true
+        },
+        {
+          "player": "AJ Doolan",
+          "runs": 58,
+          "balls": 137,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 42.34,
+          "out": true
+        },
+        {
+          "player": "BJ Webster",
+          "runs": 65,
+          "balls": 164,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 39.63,
+          "out": true
+        },
+        {
+          "player": "MS Wade",
+          "runs": 20,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "BR McDermott",
+          "runs": 38,
+          "balls": 88,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 43.18,
+          "out": true
+        },
+        {
+          "player": "CP Jewell",
+          "runs": 10,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.78,
+          "out": true
+        },
+        {
+          "player": "TD Paine",
+          "runs": 11,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.0,
+          "out": true
+        },
+        {
+          "player": "A Pyecroft",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "SL Rainbird",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "L Neil-Smith",
+          "runs": 7,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": false
+        },
+        {
+          "player": "RP Meredith",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "24.4",
+          "balls": 148,
+          "runs": 41,
+          "wickets": 5,
+          "economy": 1.66
+        },
+        {
+          "player": "TA Copeland",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 3.18
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 2.64
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 2.58
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New South Wales",
+      "runs": 364,
+      "extras": 19,
+      "balls": 717,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 1,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": true
+        },
+        {
+          "player": "DP Hughes",
+          "runs": 39,
+          "balls": 106,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 36.79,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 106,
+          "balls": 259,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 40.93,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 124,
+          "balls": 191,
+          "fours": 13,
+          "sixes": 4,
+          "strike_rate": 64.92,
+          "out": true
+        },
+        {
+          "player": "PM Nevill",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SA Abbott",
+          "runs": 24,
+          "balls": 50,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.0,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "runs": 3,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "TA Copeland",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 30,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 73.17,
+          "out": true
+        },
+        {
+          "player": "KR Patterson",
+          "runs": 16,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RP Meredith",
+          "overs": "29.3",
+          "balls": 177,
+          "runs": 100,
+          "wickets": 5,
+          "economy": 3.39
+        },
+        {
+          "player": "SL Rainbird",
+          "overs": "24.4",
+          "balls": 148,
+          "runs": 70,
+          "wickets": 2,
+          "economy": 2.84
+        },
+        {
+          "player": "L Neil-Smith",
+          "overs": "22.1",
+          "balls": 133,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 2.3
+        },
+        {
+          "player": "A Pyecroft",
+          "overs": "28.1",
+          "balls": 169,
+          "runs": 78,
+          "wickets": 0,
+          "economy": 2.77
+        },
+        {
+          "player": "BJ Webster",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "player": "MS Wade",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 2.67
+        },
+        {
+          "player": "JC Silk",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.25
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Tasmania",
+      "runs": 140,
+      "extras": 19,
+      "balls": 378,
+      "batting": [
+        {
+          "player": "JC Silk",
+          "runs": 28,
+          "balls": 67,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 41.79,
+          "out": true
+        },
+        {
+          "player": "AJ Doolan",
+          "runs": 7,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "BJ Webster",
+          "runs": 2,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "MS Wade",
+          "runs": 40,
+          "balls": 113,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 35.4,
+          "out": true
+        },
+        {
+          "player": "BR McDermott",
+          "runs": 14,
+          "balls": 53,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 26.42,
+          "out": true
+        },
+        {
+          "player": "CP Jewell",
+          "runs": 14,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.84,
+          "out": true
+        },
+        {
+          "player": "TD Paine",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "A Pyecroft",
+          "runs": 4,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "SL Rainbird",
+          "runs": 1,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": true
+        },
+        {
+          "player": "L Neil-Smith",
+          "runs": 2,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        },
+        {
+          "player": "RP Meredith",
+          "runs": 7,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "19.5",
+          "balls": 119,
+          "runs": 31,
+          "wickets": 5,
+          "economy": 1.56
+        },
+        {
+          "player": "TA Copeland",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 2.93
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 1.71
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 3.22
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 2.6
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "New South Wales",
+      "runs": 46,
+      "extras": 0,
+      "balls": 50,
+      "batting": [
+        {
+          "player": "DP Hughes",
+          "runs": 25,
+          "balls": 23,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 108.7,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 15,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 68.18,
+          "out": false
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 4,
+          "balls": 1,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 400.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SL Rainbird",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "L Neil-Smith",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.67
+        },
+        {
+          "player": "A Pyecroft",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 9,
+          "wickets": 2,
+          "economy": 3.86
+        },
+        {
+          "player": "JC Silk",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

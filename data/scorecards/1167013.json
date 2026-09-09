@@ -1,0 +1,622 @@
+{
+  "id": "1167013",
+  "teams": [
+    "Durham",
+    "Worcestershire"
+  ],
+  "date": "2019-07-13",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Durham won by 109 runs",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 212,
+      "extras": 28,
+      "balls": 455,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 8,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.1,
+          "out": true
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 12,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "GJ Harte",
+          "runs": 4,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": true
+        },
+        {
+          "player": "JTA Burnham",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 12,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RD Pringle",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 50,
+          "balls": 113,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 44.25,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 78,
+          "balls": 181,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 43.09,
+          "out": false
+        },
+        {
+          "player": "BA Carse",
+          "runs": 17,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.96,
+          "out": true
+        },
+        {
+          "player": "NJ Rimmington",
+          "runs": 2,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Leach",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 75,
+          "wickets": 2,
+          "economy": 3.1
+        },
+        {
+          "player": "DY Pennington",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 2.0
+        },
+        {
+          "player": "CAJ Morris",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 2.64
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "16.4",
+          "balls": 100,
+          "runs": 54,
+          "wickets": 4,
+          "economy": 3.24
+        },
+        {
+          "player": "RA Whiteley",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 3.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Worcestershire",
+      "runs": 151,
+      "extras": 16,
+      "balls": 316,
+      "batting": [
+        {
+          "player": "DKH Mitchell",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 11,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.56,
+          "out": true
+        },
+        {
+          "player": "MH Wessels",
+          "runs": 33,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 68.75,
+          "out": true
+        },
+        {
+          "player": "JJ Dell",
+          "runs": 15,
+          "balls": 62,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 24.19,
+          "out": true
+        },
+        {
+          "player": "RA Whiteley",
+          "runs": 18,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.13,
+          "out": true
+        },
+        {
+          "player": "EG Barnard",
+          "runs": 7,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "OB Cox",
+          "runs": 24,
+          "balls": 42,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 5,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "J Leach",
+          "runs": 19,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "DY Pennington",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "CAJ Morris",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 32,
+          "wickets": 4,
+          "economy": 2.13
+        },
+        {
+          "player": "BA Carse",
+          "overs": "11.2",
+          "balls": 68,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 4.24
+        },
+        {
+          "player": "BA Raine",
+          "overs": "12.2",
+          "balls": 74,
+          "runs": 34,
+          "wickets": 3,
+          "economy": 2.76
+        },
+        {
+          "player": "NJ Rimmington",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 2.55
+        },
+        {
+          "player": "GJ Harte",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Durham",
+      "runs": 290,
+      "extras": 27,
+      "balls": 580,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 28,
+          "balls": 67,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 41.79,
+          "out": true
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 40,
+          "balls": 109,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 36.7,
+          "out": true
+        },
+        {
+          "player": "GJ Harte",
+          "runs": 19,
+          "balls": 80,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 23.75,
+          "out": true
+        },
+        {
+          "player": "JTA Burnham",
+          "runs": 76,
+          "balls": 107,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 71.03,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 6,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "RD Pringle",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 33,
+          "balls": 85,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.82,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 28,
+          "balls": 58,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 48.28,
+          "out": true
+        },
+        {
+          "player": "BA Carse",
+          "runs": 11,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.74,
+          "out": false
+        },
+        {
+          "player": "NJ Rimmington",
+          "runs": 21,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 110.53,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Leach",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 2.2
+        },
+        {
+          "player": "DY Pennington",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 2.64
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "25.3",
+          "balls": 153,
+          "runs": 80,
+          "wickets": 4,
+          "economy": 3.14
+        },
+        {
+          "player": "CAJ Morris",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 3.47
+        },
+        {
+          "player": "RA Whiteley",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 5.2
+        },
+        {
+          "player": "BL D'Oliveira",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 1.83
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Worcestershire",
+      "runs": 242,
+      "extras": 19,
+      "balls": 509,
+      "batting": [
+        {
+          "player": "DKH Mitchell",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "MH Wessels",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 30,
+          "balls": 73,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 41.1,
+          "out": true
+        },
+        {
+          "player": "JJ Dell",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RA Whiteley",
+          "runs": 18,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 40.91,
+          "out": true
+        },
+        {
+          "player": "EG Barnard",
+          "runs": 43,
+          "balls": 85,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 50.59,
+          "out": true
+        },
+        {
+          "player": "OB Cox",
+          "runs": 62,
+          "balls": 110,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 56.36,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 45,
+          "balls": 74,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 60.81,
+          "out": false
+        },
+        {
+          "player": "J Leach",
+          "runs": 3,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.75,
+          "out": true
+        },
+        {
+          "player": "DY Pennington",
+          "runs": 7,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "CAJ Morris",
+          "runs": 14,
+          "balls": 62,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.58,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "24.4",
+          "balls": 148,
+          "runs": 42,
+          "wickets": 6,
+          "economy": 1.7
+        },
+        {
+          "player": "BA Raine",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 62,
+          "wickets": 0,
+          "economy": 2.82
+        },
+        {
+          "player": "NJ Rimmington",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 53,
+          "wickets": 2,
+          "economy": 2.94
+        },
+        {
+          "player": "BA Carse",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 3.89
+        },
+        {
+          "player": "GJ Harte",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.67
+        },
+        {
+          "player": "RD Pringle",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

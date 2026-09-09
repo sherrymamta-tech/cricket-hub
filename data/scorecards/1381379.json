@@ -1,0 +1,276 @@
+{
+  "id": "1381379",
+  "teams": [
+    "Seattle Orcas",
+    "MI New York"
+  ],
+  "date": "2023-07-30",
+  "format": "T20",
+  "competition": "Major League Cricket",
+  "venue": "Grand Prairie Stadium",
+  "result": "MI New York won by 7 wickets",
+  "winner": "MI New York",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Seattle Orcas",
+      "runs": 183,
+      "extras": 5,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "Q de Kock",
+          "runs": 87,
+          "balls": 54,
+          "fours": 9,
+          "sixes": 4,
+          "strike_rate": 161.11,
+          "out": true
+        },
+        {
+          "player": "Nauman Anwar",
+          "runs": 9,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "GSNFG Jayasuriya",
+          "runs": 16,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 94.12,
+          "out": true
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "Shubham Ranjane",
+          "runs": 29,
+          "balls": 16,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 181.25,
+          "out": true
+        },
+        {
+          "player": "Imad Wasim",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "AJ Tye",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "D Pretorius",
+          "runs": 21,
+          "balls": 7,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 300.0,
+          "out": true
+        },
+        {
+          "player": "WD Parnell",
+          "runs": 2,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "Harmeet Singh",
+          "runs": 2,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 34,
+          "wickets": 3,
+          "economy": 8.16
+        },
+        {
+          "player": "Jasdeep Singh",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 16.5
+        },
+        {
+          "player": "Rashid Khan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 9,
+          "wickets": 3,
+          "economy": 2.25
+        },
+        {
+          "player": "SR Taylor",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "D Wiese",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 65,
+          "wickets": 1,
+          "economy": 14.44
+        },
+        {
+          "player": "NP Kenjige",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "TH David",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "MI New York",
+      "runs": 184,
+      "extras": 7,
+      "balls": 101,
+      "batting": [
+        {
+          "player": "SR Taylor",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "N Pooran",
+          "runs": 137,
+          "balls": 60,
+          "fours": 10,
+          "sixes": 13,
+          "strike_rate": 228.33,
+          "out": false
+        },
+        {
+          "player": "Shayan Jahangir",
+          "runs": 10,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "D Brevis",
+          "runs": 20,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "TH David",
+          "runs": 10,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 111.11,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Imad Wasim",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 7.0
+        },
+        {
+          "player": "CJ Gannon",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "D Pretorius",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 14.84
+        },
+        {
+          "player": "WD Parnell",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 10.15
+        },
+        {
+          "player": "AJ Tye",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 13.5
+        },
+        {
+          "player": "Harmeet Singh",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 10.86
+        }
+      ]
+    }
+  ]
+}

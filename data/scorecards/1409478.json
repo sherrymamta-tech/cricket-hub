@@ -1,0 +1,52 @@
+{
+  "id": "1409478",
+  "teams": [
+    "Canterbury",
+    "Otago"
+  ],
+  "date": "2023-12-26",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "Hagley Oval, Christchurch",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Canterbury",
+      "runs": 2,
+      "extras": 0,
+      "balls": 3,
+      "batting": [
+        {
+          "player": "CJ Bowes",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MB Bacon",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

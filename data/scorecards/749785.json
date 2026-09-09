@@ -1,0 +1,102 @@
+{
+  "id": "749785",
+  "teams": [
+    "New Zealand",
+    "Sri Lanka"
+  ],
+  "date": "2015-01-17",
+  "format": "ODI",
+  "competition": "Sri Lanka in New Zealand ODI Series",
+  "venue": "Eden Park",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 145,
+      "extras": 6,
+      "balls": 174,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 66,
+          "balls": 79,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 83.54,
+          "out": false
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 28,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 127.27,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 42,
+          "balls": 65,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 64.62,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KMDN Kulasekara",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 5.83
+        },
+        {
+          "player": "KTGD Prasad",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 5.17
+        },
+        {
+          "player": "AD Mathews",
+          "overs": "6.5",
+          "balls": 41,
+          "runs": 25,
+          "wickets": 3,
+          "economy": 3.66
+        },
+        {
+          "player": "SMSM Senanayake",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 4.19
+        },
+        {
+          "player": "NLTC Perera",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

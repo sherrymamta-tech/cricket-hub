@@ -1,0 +1,313 @@
+{
+  "id": "656405",
+  "teams": [
+    "India",
+    "Pakistan"
+  ],
+  "date": "2015-02-15",
+  "format": "ODI",
+  "competition": "ICC Cricket World Cup",
+  "venue": "Adelaide Oval",
+  "result": "India won by 76 runs",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 300,
+      "extras": 6,
+      "balls": 304,
+      "batting": [
+        {
+          "player": "RG Sharma",
+          "runs": 15,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 73,
+          "balls": 76,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 96.05,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 107,
+          "balls": 127,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 84.25,
+          "out": true
+        },
+        {
+          "player": "SK Raina",
+          "runs": 74,
+          "balls": 57,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 129.82,
+          "out": true
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 18,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 138.46,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Irfan",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 59,
+          "wickets": 0,
+          "economy": 5.62
+        },
+        {
+          "player": "Sohail Khan",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 56,
+          "wickets": 5,
+          "economy": 5.51
+        },
+        {
+          "player": "Shahid Afridi",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 50,
+          "wickets": 0,
+          "economy": 6.25
+        },
+        {
+          "player": "Wahab Riaz",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 4.9
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "Haris Sohail",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 6.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 224,
+      "extras": 12,
+      "balls": 293,
+      "batting": [
+        {
+          "player": "Ahmed Shehzad",
+          "runs": 47,
+          "balls": 75,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 62.67,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 36,
+          "balls": 52,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 76,
+          "balls": 86,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 88.37,
+          "out": true
+        },
+        {
+          "player": "Sohaib Maqsood",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Umar Akmal",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 22,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Wahab Riaz",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 13,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": true
+        },
+        {
+          "player": "Sohail Khan",
+          "runs": 7,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "Mohammad Irfan",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "UT Yadav",
+          "overs": "10.5",
+          "balls": 65,
+          "runs": 50,
+          "wickets": 2,
+          "economy": 4.62
+        },
+        {
+          "player": "Mohammed Shami",
+          "overs": "9.4",
+          "balls": 58,
+          "runs": 36,
+          "wickets": 4,
+          "economy": 3.72
+        },
+        {
+          "player": "MM Sharma",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 3.82
+        },
+        {
+          "player": "SK Raina",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 5.02
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 5.6
+        }
+      ]
+    }
+  ]
+}

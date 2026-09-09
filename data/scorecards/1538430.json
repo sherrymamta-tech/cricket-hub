@@ -1,0 +1,69 @@
+{
+  "id": "1538430",
+  "teams": [
+    "Netherlands",
+    "Canada"
+  ],
+  "date": "2026-06-16",
+  "format": "ODI",
+  "competition": "ICC Men's Cricket World Cup League 2",
+  "venue": "Maple Leaf North-West Ground, King City",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Netherlands",
+      "runs": 15,
+      "extras": 1,
+      "balls": 25,
+      "batting": [
+        {
+          "player": "C de Lange",
+          "runs": 10,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "MP O'Dowd",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "ZB Lion-Cachet",
+          "runs": 4,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Kaleem Sana",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 4.15
+        },
+        {
+          "player": "Akhil Kumar",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

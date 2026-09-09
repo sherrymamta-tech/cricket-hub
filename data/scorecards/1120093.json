@@ -1,0 +1,268 @@
+{
+  "id": "1120093",
+  "teams": [
+    "India",
+    "New Zealand"
+  ],
+  "date": "2017-11-01",
+  "format": "T20",
+  "competition": "New Zealand tour of India",
+  "venue": "Arun Jaitley Stadium",
+  "result": "India won by 53 runs",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 202,
+      "extras": 9,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "RG Sharma",
+          "runs": 80,
+          "balls": 55,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 145.45,
+          "out": true
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 80,
+          "balls": 53,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 150.94,
+          "out": true
+        },
+        {
+          "player": "HH Pandya",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 26,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 236.36,
+          "out": false
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 7,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 350.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Santner",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 7.75
+        },
+        {
+          "player": "TA Boult",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 12.25
+        },
+        {
+          "player": "TG Southee",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 10.56
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 11.7
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 6.25
+        },
+        {
+          "player": "C Munro",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 14.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 149,
+      "extras": 9,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 7,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 28,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 39,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 105.41,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 10,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 8,
+          "balls": 4,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 27,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 180.0,
+          "out": false
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 11,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 110.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "A Nehra",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 6.43
+        },
+        {
+          "player": "YS Chahal",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.75
+        },
+        {
+          "player": "B Kumar",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 7.67
+        },
+        {
+          "player": "JJ Bumrah",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 8.54
+        },
+        {
+          "player": "AR Patel",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 5.25
+        },
+        {
+          "player": "HH Pandya",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 11.0
+        }
+      ]
+    }
+  ]
+}

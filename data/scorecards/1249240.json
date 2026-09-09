@@ -1,0 +1,69 @@
+{
+  "id": "1249240",
+  "teams": [
+    "Australia",
+    "New Zealand"
+  ],
+  "date": "2021-04-01",
+  "format": "T20",
+  "competition": "Australia Women tour of New Zealand",
+  "venue": "Eden Park",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 14,
+      "extras": 2,
+      "balls": 19,
+      "batting": [
+        {
+          "player": "AJ Healy",
+          "runs": 8,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "BL Mooney",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MM Lanning",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Kerr",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "RA Mair",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 4.29
+        }
+      ]
+    }
+  ]
+}

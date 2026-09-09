@@ -1,0 +1,110 @@
+{
+  "id": "1068435",
+  "teams": [
+    "Durham",
+    "Derbyshire"
+  ],
+  "date": "2017-04-27",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 194,
+      "extras": 7,
+      "balls": 206,
+      "batting": [
+        {
+          "player": "SC Cook",
+          "runs": 18,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "KK Jennings",
+          "runs": 79,
+          "balls": 73,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 108.22,
+          "out": true
+        },
+        {
+          "player": "MJ Richardson",
+          "runs": 83,
+          "balls": 91,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 91.21,
+          "out": false
+        },
+        {
+          "player": "G Clark",
+          "runs": 7,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TP Milnes",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "BD Cotton",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "player": "AP Palladino",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 5.45
+        },
+        {
+          "player": "SJ Thakor",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "BMAJ Mendis",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 4.43
+        },
+        {
+          "player": "AL Hughes",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        }
+      ]
+    }
+  ]
+}

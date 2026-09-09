@@ -1,0 +1,561 @@
+{
+  "id": "1206636",
+  "teams": [
+    "Pakistan",
+    "Sri Lanka"
+  ],
+  "date": "2019-12-19",
+  "format": "Test",
+  "competition": "Sri Lanka in Pakistan Test Series",
+  "venue": "National Stadium",
+  "result": "Pakistan won by 263 runs",
+  "winner": "Pakistan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 191,
+      "extras": 6,
+      "balls": 357,
+      "batting": [
+        {
+          "player": "Shan Masood",
+          "runs": 5,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Abid Ali",
+          "runs": 38,
+          "balls": 66,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 57.58,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 60,
+          "balls": 96,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 63,
+          "balls": 126,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 9,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "Naseem Shah",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MVT Fernando",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 2.38
+        },
+        {
+          "player": "CBRLS Kumara",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 50,
+          "wickets": 4,
+          "economy": 2.78
+        },
+        {
+          "player": "FDM Karunaratne",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "L Embuldeniya",
+          "overs": "20.3",
+          "balls": 123,
+          "runs": 76,
+          "wickets": 4,
+          "economy": 3.71
+        },
+        {
+          "player": "MDK Perera",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 3.29
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sri Lanka",
+      "runs": 271,
+      "extras": 23,
+      "balls": 520,
+      "batting": [
+        {
+          "player": "BOP Fernando",
+          "runs": 4,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.05,
+          "out": true
+        },
+        {
+          "player": "FDM Karunaratne",
+          "runs": 25,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 59.52,
+          "out": true
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 13,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 48.15,
+          "out": true
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 13,
+          "balls": 45,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.89,
+          "out": true
+        },
+        {
+          "player": "L Embuldeniya",
+          "runs": 13,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.24,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 74,
+          "balls": 143,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 51.75,
+          "out": true
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 32,
+          "balls": 56,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "N Dickwella",
+          "runs": 21,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "MDK Perera",
+          "runs": 48,
+          "balls": 84,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "MVT Fernando",
+          "runs": 5,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.15,
+          "out": false
+        },
+        {
+          "player": "CBRLS Kumara",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 82,
+          "wickets": 5,
+          "economy": 3.04
+        },
+        {
+          "player": "Mohammad Abbas",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 58,
+          "wickets": 4,
+          "economy": 2.13
+        },
+        {
+          "player": "Naseem Shah",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 71,
+          "wickets": 0,
+          "economy": 4.3
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 3.62
+        },
+        {
+          "player": "Haris Sohail",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 4.33
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Pakistan",
+      "runs": 555,
+      "extras": 7,
+      "balls": 788,
+      "batting": [
+        {
+          "player": "Shan Masood",
+          "runs": 135,
+          "balls": 198,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 68.18,
+          "out": true
+        },
+        {
+          "player": "Abid Ali",
+          "runs": 174,
+          "balls": 283,
+          "fours": 21,
+          "sixes": 1,
+          "strike_rate": 61.48,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 118,
+          "balls": 157,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 75.16,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 100,
+          "balls": 131,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 76.34,
+          "out": false
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 21,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 110.53,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MVT Fernando",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 106,
+          "wickets": 0,
+          "economy": 4.42
+        },
+        {
+          "player": "CBRLS Kumara",
+          "overs": "29.0",
+          "balls": 174,
+          "runs": 143,
+          "wickets": 2,
+          "economy": 4.93
+        },
+        {
+          "player": "L Embuldeniya",
+          "overs": "50.1",
+          "balls": 301,
+          "runs": 193,
+          "wickets": 1,
+          "economy": 3.85
+        },
+        {
+          "player": "MDK Perera",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 94,
+          "wickets": 0,
+          "economy": 4.44
+        },
+        {
+          "player": "DM de Silva",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 2.71
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Sri Lanka",
+      "runs": 212,
+      "extras": 3,
+      "balls": 377,
+      "batting": [
+        {
+          "player": "FDM Karunaratne",
+          "runs": 16,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "BOP Fernando",
+          "runs": 102,
+          "balls": 180,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 56.67,
+          "out": true
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 19,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.58,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 2,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.9,
+          "out": true
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "N Dickwella",
+          "runs": 65,
+          "balls": 76,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 85.53,
+          "out": true
+        },
+        {
+          "player": "MDK Perera",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "L Embuldeniya",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MVT Fernando",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CBRLS Kumara",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 3.64
+        },
+        {
+          "player": "Mohammad Abbas",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 2.75
+        },
+        {
+          "player": "Naseem Shah",
+          "overs": "12.5",
+          "balls": 77,
+          "runs": 33,
+          "wickets": 5,
+          "economy": 2.57
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 85,
+          "wickets": 2,
+          "economy": 4.25
+        },
+        {
+          "player": "Haris Sohail",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 2.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "id": "1410495",
+  "teams": [
+    "Nottinghamshire",
+    "Yorkshire"
+  ],
+  "date": "2024-07-19",
+  "format": "T20",
+  "competition": "Vitality Blast",
+  "venue": "Headingley, Leeds",
+  "result": "Nottinghamshire won by 28 runs",
+  "winner": "Nottinghamshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Nottinghamshire",
+      "runs": 209,
+      "extras": 6,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "JM Clarke",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "FW McCann",
+          "runs": 48,
+          "balls": 33,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 145.45,
+          "out": true
+        },
+        {
+          "player": "SIM King",
+          "runs": 44,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 169.23,
+          "out": true
+        },
+        {
+          "player": "JA Haynes",
+          "runs": 50,
+          "balls": 21,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 238.1,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 30,
+          "balls": 16,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 187.5,
+          "out": true
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 5,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "CG Harrison",
+          "runs": 19,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 172.73,
+          "out": true
+        },
+        {
+          "player": "LJ Fletcher",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Fazalhaq Farooqi",
+          "runs": 4,
+          "balls": 1,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 400.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "D Moriarty",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 9.25
+        },
+        {
+          "player": "BM Cliff",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 31,
+          "wickets": 4,
+          "economy": 7.44
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 11.5
+        },
+        {
+          "player": "DM Bess",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 9.6
+        },
+        {
+          "player": "JA Chohan",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 12.95
+        },
+        {
+          "player": "GCH Hill",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 14.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Yorkshire",
+      "runs": 181,
+      "extras": 15,
+      "balls": 128,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 8,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "W Luxton",
+          "runs": 12,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "JH Wharton",
+          "runs": 52,
+          "balls": 51,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 101.96,
+          "out": true
+        },
+        {
+          "player": "Shan Masood",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GCH Hill",
+          "runs": 15,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "D Ferreira",
+          "runs": 22,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 183.33,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 50,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 166.67,
+          "out": false
+        },
+        {
+          "player": "DM Bess",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Fazalhaq Farooqi",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 7.62
+        },
+        {
+          "player": "OP Stone",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 10.22
+        },
+        {
+          "player": "LJ Fletcher",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 8.22
+        },
+        {
+          "player": "LW James",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "CG Harrison",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 5.25
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 14.0
+        }
+      ]
+    }
+  ]
+}

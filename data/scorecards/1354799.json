@@ -1,0 +1,111 @@
+{
+  "id": "1354799",
+  "teams": [
+    "Spain",
+    "Isle of Man"
+  ],
+  "date": "2023-02-24",
+  "format": "T20",
+  "competition": "Isle of Man tour of Spain",
+  "venue": "La Manga Club Bottom Ground",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Spain",
+      "runs": 151,
+      "extras": 16,
+      "balls": 111,
+      "batting": [
+        {
+          "player": "Muhammad Yasin",
+          "runs": 28,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 84.85,
+          "out": true
+        },
+        {
+          "player": "Mohammad Ihsan",
+          "runs": 34,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 161.9,
+          "out": true
+        },
+        {
+          "player": "AD Algar",
+          "runs": 28,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 90.32,
+          "out": true
+        },
+        {
+          "player": "D Doyle-Calle",
+          "runs": 39,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 195.0,
+          "out": false
+        },
+        {
+          "player": "Mohammad Kamran",
+          "runs": 6,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Ansell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 8.25
+        },
+        {
+          "player": "JA Burrows",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "J Butler",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 9.16
+        },
+        {
+          "player": "F Clarke",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 5.79
+        },
+        {
+          "player": "E Walker",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.32
+        }
+      ]
+    }
+  ]
+}

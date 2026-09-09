@@ -1,0 +1,103 @@
+{
+  "id": "1157208",
+  "teams": [
+    "Maharashtra",
+    "Tripura"
+  ],
+  "date": "2019-03-02",
+  "format": "T20",
+  "competition": "Syed Mushtaq Ali Trophy",
+  "venue": "Airforce Complex ground, Palam II",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Maharashtra",
+      "runs": 50,
+      "extras": 2,
+      "balls": 26,
+      "batting": [
+        {
+          "player": "RD Gaikwad",
+          "runs": 13,
+          "balls": 5,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 260.0,
+          "out": true
+        },
+        {
+          "player": "RA Tripathi",
+          "runs": 16,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 145.45,
+          "out": true
+        },
+        {
+          "player": "Naushad Shaikh",
+          "runs": 9,
+          "balls": 4,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 225.0,
+          "out": true
+        },
+        {
+          "player": "NS Naik",
+          "runs": 9,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 180.0,
+          "out": false
+        },
+        {
+          "player": "AR Bawne",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Rana Dutta",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 16.0
+        },
+        {
+          "player": "SS Majumder",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 11.0
+        },
+        {
+          "player": "Manisankar Murasingh",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 10.5
+        },
+        {
+          "player": "Kamal Das",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 9.0
+        }
+      ]
+    }
+  ]
+}

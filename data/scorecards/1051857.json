@@ -1,0 +1,593 @@
+{
+  "id": "1051857",
+  "teams": [
+    "Auckland Aces",
+    "Northern Districts"
+  ],
+  "date": "2017-03-14",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Kennards Hire Community Oval",
+  "result": "Auckland Aces won by 71 runs",
+  "winner": "Auckland Aces",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland Aces",
+      "runs": 461,
+      "extras": 24,
+      "balls": 731,
+      "batting": [
+        {
+          "player": "RR O'Donnell",
+          "runs": 75,
+          "balls": 143,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 52.45,
+          "out": true
+        },
+        {
+          "player": "ML Guptill-Bunce",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 11,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true
+        },
+        {
+          "player": "RJ Nicol",
+          "runs": 46,
+          "balls": 142,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 32.39,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 9,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.13,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 48,
+          "balls": 66,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 35,
+          "balls": 71,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 49.3,
+          "out": true
+        },
+        {
+          "player": "TS Nethula",
+          "runs": 52,
+          "balls": 52,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MJ McClenaghan",
+          "runs": 73,
+          "balls": 109,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 66.97,
+          "out": false
+        },
+        {
+          "player": "LH Ferguson",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "RS Sandhu",
+          "runs": 82,
+          "balls": 94,
+          "fours": 8,
+          "sixes": 5,
+          "strike_rate": 87.23,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SC Kuggeleijn",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 94,
+          "wickets": 4,
+          "economy": 3.59
+        },
+        {
+          "player": "JD Baker",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 86,
+          "wickets": 0,
+          "economy": 3.74
+        },
+        {
+          "player": "ZN Gibson",
+          "overs": "15.5",
+          "balls": 95,
+          "runs": 77,
+          "wickets": 0,
+          "economy": 4.86
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 53,
+          "wickets": 3,
+          "economy": 3.06
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "38.3",
+          "balls": 231,
+          "runs": 150,
+          "wickets": 3,
+          "economy": 3.9
+        },
+        {
+          "player": "NF Kelly",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Northern Districts",
+      "runs": 334,
+      "extras": 51,
+      "balls": 658,
+      "batting": [
+        {
+          "player": "JF Carter",
+          "runs": 36,
+          "balls": 61,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 59.02,
+          "out": true
+        },
+        {
+          "player": "HR Cooper",
+          "runs": 101,
+          "balls": 270,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 37.41,
+          "out": true
+        },
+        {
+          "player": "B Popli",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 80,
+          "balls": 132,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 60.61,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 24,
+          "balls": 52,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "TL Seifert",
+          "runs": 16,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "runs": 11,
+          "balls": 54,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.37,
+          "out": false
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JD Baker",
+          "runs": 8,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "ZN Gibson",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LH Ferguson",
+          "overs": "28.2",
+          "balls": 170,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 2.44
+        },
+        {
+          "player": "RS Sandhu",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 36,
+          "wickets": 4,
+          "economy": 2.18
+        },
+        {
+          "player": "MJ McClenaghan",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 84,
+          "wickets": 1,
+          "economy": 4.38
+        },
+        {
+          "player": "TS Nethula",
+          "overs": "28.4",
+          "balls": 172,
+          "runs": 74,
+          "wickets": 4,
+          "economy": 2.58
+        },
+        {
+          "player": "SM Solia",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 50,
+          "wickets": 0,
+          "economy": 3.57
+        },
+        {
+          "player": "GD Phillips",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Auckland Aces",
+      "runs": 202,
+      "extras": 15,
+      "balls": 295,
+      "batting": [
+        {
+          "player": "RR O'Donnell",
+          "runs": 29,
+          "balls": 51,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 56.86,
+          "out": true
+        },
+        {
+          "player": "ML Guptill-Bunce",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 109,
+          "balls": 143,
+          "fours": 16,
+          "sixes": 1,
+          "strike_rate": 76.22,
+          "out": true
+        },
+        {
+          "player": "RJ Nicol",
+          "runs": 47,
+          "balls": 92,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 51.09,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JD Baker",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 4.86
+        },
+        {
+          "player": "ZN Gibson",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 5.11
+        },
+        {
+          "player": "CJ Anderson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 1.67
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "12.3",
+          "balls": 75,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 4.48
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 4.2
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Northern Districts",
+      "runs": 258,
+      "extras": 18,
+      "balls": 463,
+      "batting": [
+        {
+          "player": "HR Cooper",
+          "runs": 83,
+          "balls": 172,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 48.26,
+          "out": true
+        },
+        {
+          "player": "JF Carter",
+          "runs": 42,
+          "balls": 72,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "B Popli",
+          "runs": 8,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 36,
+          "balls": 50,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 72.0,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 1,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.0,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "TL Seifert",
+          "runs": 31,
+          "balls": 61,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.82,
+          "out": true
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "runs": 8,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 22,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 104.76,
+          "out": false
+        },
+        {
+          "player": "JD Baker",
+          "runs": 6,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "ZN Gibson",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LH Ferguson",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 2.05
+        },
+        {
+          "player": "MJ McClenaghan",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 4.2
+        },
+        {
+          "player": "RS Sandhu",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "TS Nethula",
+          "overs": "27.3",
+          "balls": 165,
+          "runs": 84,
+          "wickets": 5,
+          "economy": 3.05
+        },
+        {
+          "player": "RR O'Donnell",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 4.83
+        },
+        {
+          "player": "SM Solia",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 2.95
+        }
+      ]
+    }
+  ]
+}

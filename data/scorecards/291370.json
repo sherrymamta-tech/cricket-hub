@@ -1,0 +1,339 @@
+{
+  "id": "291370",
+  "teams": [
+    "Australia",
+    "Sri Lanka"
+  ],
+  "date": "2008-02-29",
+  "format": "ODI",
+  "competition": "Commonwealth Bank Series",
+  "venue": "Melbourne Cricket Ground",
+  "result": "Sri Lanka won by 13 runs",
+  "winner": "Sri Lanka",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "runs": 221,
+      "extras": 13,
+      "balls": 309,
+      "batting": [
+        {
+          "player": "MDK Perera",
+          "runs": 5,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "ST Jayasuriya",
+          "runs": 23,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 69.7,
+          "out": true
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 11,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 50,
+          "balls": 68,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 73.53,
+          "out": true
+        },
+        {
+          "player": "CK Kapugedera",
+          "runs": 2,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.7,
+          "out": true
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 62,
+          "balls": 72,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 86.11,
+          "out": true
+        },
+        {
+          "player": "LPC Silva",
+          "runs": 35,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 72.92,
+          "out": true
+        },
+        {
+          "player": "KMDN Kulasekara",
+          "runs": 14,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "SL Malinga",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Muralitharan",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MKDI Amerasinghe",
+          "runs": 5,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 250.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Lee",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 5.24
+        },
+        {
+          "player": "NW Bracken",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 29,
+          "wickets": 4,
+          "economy": 2.9
+        },
+        {
+          "player": "MG Johnson",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 5.06
+        },
+        {
+          "player": "JR Hopes",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "GB Hogg",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 3.4
+        },
+        {
+          "player": "MJ Clarke",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 7.29
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 208,
+      "extras": 9,
+      "balls": 295,
+      "batting": [
+        {
+          "player": "AC Gilchrist",
+          "runs": 83,
+          "balls": 50,
+          "fours": 12,
+          "sixes": 2,
+          "strike_rate": 166.0,
+          "out": true
+        },
+        {
+          "player": "JR Hopes",
+          "runs": 28,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Symonds",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MEK Hussey",
+          "runs": 5,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "BJ Haddin",
+          "runs": 7,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "GB Hogg",
+          "runs": 21,
+          "balls": 37,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 56.76,
+          "out": true
+        },
+        {
+          "player": "B Lee",
+          "runs": 37,
+          "balls": 59,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 62.71,
+          "out": true
+        },
+        {
+          "player": "MG Johnson",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "NW Bracken",
+          "runs": 14,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 51.85,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SL Malinga",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 5.14
+        },
+        {
+          "player": "KMDN Kulasekara",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 3.7
+        },
+        {
+          "player": "MKDI Amerasinghe",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 4.52
+        },
+        {
+          "player": "M Muralitharan",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 4.13
+        },
+        {
+          "player": "CK Kapugedera",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 3.79
+        },
+        {
+          "player": "MDK Perera",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 3.67
+        },
+        {
+          "player": "ST Jayasuriya",
+          "overs": "0.1",
+          "balls": 1,
+          "runs": 0,
+          "wickets": 1,
+          "economy": 0.0
+        }
+      ]
+    }
+  ]
+}

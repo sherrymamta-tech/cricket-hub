@@ -1,0 +1,473 @@
+{
+  "id": "1513361",
+  "teams": [
+    "Essex",
+    "Nottinghamshire"
+  ],
+  "date": "2026-06-19",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "County Ground, Chelmsford",
+  "result": "Nottinghamshire won by 52 runs",
+  "winner": "Nottinghamshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Essex",
+      "runs": 184,
+      "extras": 6,
+      "balls": 347,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 12,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "PI Walter",
+          "runs": 12,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.71,
+          "out": true
+        },
+        {
+          "player": "T Westley",
+          "runs": 44,
+          "balls": 66,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "CWJ Allison",
+          "runs": 19,
+          "balls": 49,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.78,
+          "out": true
+        },
+        {
+          "player": "MJJ Critchley",
+          "runs": 1,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.33,
+          "out": true
+        },
+        {
+          "player": "LM Benkenstein",
+          "runs": 13,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": true
+        },
+        {
+          "player": "MS Pepper",
+          "runs": 24,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 92.31,
+          "out": true
+        },
+        {
+          "player": "SR Harmer",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "S Snater",
+          "runs": 31,
+          "balls": 50,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 62.0,
+          "out": true
+        },
+        {
+          "player": "CE Bennett",
+          "runs": 21,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 52.5,
+          "out": true
+        },
+        {
+          "player": "JA Porter",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "F O'Neill",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 2.85
+        },
+        {
+          "player": "BA Hutton",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 2.8
+        },
+        {
+          "player": "OP Stone",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 4.2
+        },
+        {
+          "player": "LW James",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "16.4",
+          "balls": 100,
+          "runs": 43,
+          "wickets": 6,
+          "economy": 2.58
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Nottinghamshire",
+      "runs": 457,
+      "extras": 16,
+      "balls": 757,
+      "batting": [
+        {
+          "player": "H Hameed",
+          "runs": 89,
+          "balls": 204,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 43.63,
+          "out": true
+        },
+        {
+          "player": "BT Slater",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "FW McCann",
+          "runs": 16,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.02,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 27,
+          "balls": 64,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 42.19,
+          "out": true
+        },
+        {
+          "player": "JA Haynes",
+          "runs": 137,
+          "balls": 206,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 66.5,
+          "out": false
+        },
+        {
+          "player": "K Verreynne",
+          "runs": 11,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 40,
+          "balls": 71,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 56.34,
+          "out": true
+        },
+        {
+          "player": "F O'Neill",
+          "runs": 61,
+          "balls": 50,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 122.0,
+          "out": true
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 25,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 119.05,
+          "out": true
+        },
+        {
+          "player": "BA Hutton",
+          "runs": 5,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "OP Stone",
+          "runs": 30,
+          "balls": 47,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 63.83,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Porter",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 56,
+          "wickets": 0,
+          "economy": 2.95
+        },
+        {
+          "player": "S Snater",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 62,
+          "wickets": 3,
+          "economy": 2.95
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "45.0",
+          "balls": 270,
+          "runs": 169,
+          "wickets": 5,
+          "economy": 3.76
+        },
+        {
+          "player": "CE Bennett",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 3.71
+        },
+        {
+          "player": "MJJ Critchley",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 110,
+          "wickets": 2,
+          "economy": 4.4
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Essex",
+      "runs": 221,
+      "extras": 13,
+      "balls": 498,
+      "batting": [
+        {
+          "player": "PI Walter",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JA Porter",
+          "runs": 1,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.33,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 42,
+          "balls": 76,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 55.26,
+          "out": true
+        },
+        {
+          "player": "CE Bennett",
+          "runs": 5,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": true
+        },
+        {
+          "player": "T Westley",
+          "runs": 19,
+          "balls": 72,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 26.39,
+          "out": true
+        },
+        {
+          "player": "CWJ Allison",
+          "runs": 56,
+          "balls": 104,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 53.85,
+          "out": true
+        },
+        {
+          "player": "MJJ Critchley",
+          "runs": 13,
+          "balls": 42,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.95,
+          "out": true
+        },
+        {
+          "player": "LM Benkenstein",
+          "runs": 42,
+          "balls": 102,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "MS Pepper",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SR Harmer",
+          "runs": 27,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.21,
+          "out": true
+        },
+        {
+          "player": "S Snater",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "F O'Neill",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 44,
+          "wickets": 5,
+          "economy": 3.14
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "36.0",
+          "balls": 216,
+          "runs": 67,
+          "wickets": 3,
+          "economy": 1.86
+        },
+        {
+          "player": "BA Hutton",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 3.25
+        },
+        {
+          "player": "OP Stone",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 2.73
+        },
+        {
+          "player": "FW McCann",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "LW James",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 2.29
+        }
+      ]
+    }
+  ]
+}

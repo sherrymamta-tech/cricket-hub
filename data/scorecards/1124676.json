@@ -1,0 +1,110 @@
+{
+  "id": "1124676",
+  "teams": [
+    "Knights",
+    "Lions"
+  ],
+  "date": "2017-12-01",
+  "format": "T20",
+  "competition": "Ram Slam T20 Challenge",
+  "venue": "Mangaung Oval, Bloemfontein",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Knights",
+      "runs": 86,
+      "extras": 2,
+      "balls": 79,
+      "batting": [
+        {
+          "player": "RS Second",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "KD Petersen",
+          "runs": 52,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 126.83,
+          "out": false
+        },
+        {
+          "player": "TB de Bruyn",
+          "runs": 18,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "DA Miller",
+          "runs": 7,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BC Fortuin",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 6.25
+        },
+        {
+          "player": "K Rabada",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "AM Phangiso",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 4.33
+        },
+        {
+          "player": "PWA Mulder",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "GC Viljoen",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "D Pretorius",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 8.57
+        }
+      ]
+    }
+  ]
+}

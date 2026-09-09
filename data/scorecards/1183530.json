@@ -1,0 +1,481 @@
+{
+  "id": "1183530",
+  "teams": [
+    "Australia",
+    "Pakistan"
+  ],
+  "date": "2019-11-21",
+  "format": "Test",
+  "competition": "Pakistan in Australia Test Series",
+  "venue": "Brisbane Cricket Ground, Woolloongabba",
+  "result": "Australia won by 5 runs",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 240,
+      "extras": 14,
+      "balls": 520,
+      "batting": [
+        {
+          "player": "Shan Masood",
+          "runs": 27,
+          "balls": 97,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 27.84,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 39,
+          "balls": 104,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 76,
+          "balls": 134,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 56.72,
+          "out": true
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 1,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "runs": 7,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 37,
+          "balls": 34,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 108.82,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 26,
+          "balls": 83,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 31.33,
+          "out": true
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Naseem Shah",
+          "runs": 7,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true
+        },
+        {
+          "player": "Imran Khan",
+          "runs": 5,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 53,
+          "wickets": 4,
+          "economy": 2.86
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 53,
+          "wickets": 2,
+          "economy": 2.63
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 64,
+          "wickets": 3,
+          "economy": 2.91
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 2.35
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "SPD Smith",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 580,
+      "extras": 13,
+      "balls": 949,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 154,
+          "balls": 296,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 52.03,
+          "out": true
+        },
+        {
+          "player": "JA Burns",
+          "runs": 97,
+          "balls": 166,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 58.43,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 185,
+          "balls": 279,
+          "fours": 21,
+          "sixes": 0,
+          "strike_rate": 66.31,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "MS Wade",
+          "runs": 60,
+          "balls": 97,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 61.86,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 24,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 82.76,
+          "out": true
+        },
+        {
+          "player": "TD Paine",
+          "runs": 13,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": true
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 7,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 13,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.47,
+          "out": false
+        },
+        {
+          "player": "JR Hazlewood",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "34.2",
+          "balls": 206,
+          "runs": 100,
+          "wickets": 2,
+          "economy": 2.91
+        },
+        {
+          "player": "Imran Khan",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 73,
+          "wickets": 1,
+          "economy": 3.04
+        },
+        {
+          "player": "Naseem Shah",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 3.47
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 4.42
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "48.4",
+          "balls": 292,
+          "runs": 209,
+          "wickets": 4,
+          "economy": 4.29
+        },
+        {
+          "player": "Haris Sohail",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 75,
+          "wickets": 2,
+          "economy": 3.95
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Pakistan",
+      "runs": 335,
+      "extras": 24,
+      "balls": 508,
+      "batting": [
+        {
+          "player": "Shan Masood",
+          "runs": 42,
+          "balls": 81,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 51.85,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 8,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 104,
+          "balls": 173,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 60.12,
+          "out": true
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 95,
+          "balls": 146,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 65.07,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 42,
+          "balls": 55,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 76.36,
+          "out": true
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 10,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "Imran Khan",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "Naseem Shah",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 87,
+          "wickets": 3,
+          "economy": 5.27
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 71,
+          "wickets": 2,
+          "economy": 3.35
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 65,
+          "wickets": 4,
+          "economy": 3.1
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 74,
+          "wickets": 1,
+          "economy": 3.52
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 7.6
+        }
+      ]
+    }
+  ]
+}

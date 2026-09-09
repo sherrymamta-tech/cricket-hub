@@ -1,0 +1,287 @@
+{
+  "id": "1347689",
+  "teams": [
+    "Somerset",
+    "Kent"
+  ],
+  "date": "2023-07-02",
+  "format": "T20",
+  "competition": "Vitality Blast",
+  "venue": "The Cooper Associates County Ground, Taunton",
+  "result": "Somerset won by 15 runs",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Somerset",
+      "runs": 221,
+      "extras": 7,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "T Banton",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "WCF Smeed",
+          "runs": 61,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 210.34,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 31,
+          "balls": 18,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 172.22,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 15,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 115.38,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 41,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 151.85,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 37,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 194.74,
+          "out": false
+        },
+        {
+          "player": "BGF Green",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 13,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 216.67,
+          "out": true
+        },
+        {
+          "player": "JH Davey",
+          "runs": 12,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Hogan",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 11.78
+        },
+        {
+          "player": "MR Quinn",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 11.28
+        },
+        {
+          "player": "G Stewart",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 48,
+          "wickets": 4,
+          "economy": 12.0
+        },
+        {
+          "player": "JDM Evison",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 10.67
+        },
+        {
+          "player": "GF Linde",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 6.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 206,
+      "extras": 9,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "TS Muyeye",
+          "runs": 7,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "AJ Blake",
+          "runs": 24,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 240.0,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 36,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 163.64,
+          "out": true
+        },
+        {
+          "player": "JM Cox",
+          "runs": 18,
+          "balls": 8,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 225.0,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 41,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 132.26,
+          "out": true
+        },
+        {
+          "player": "GF Linde",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "JDM Evison",
+          "runs": 46,
+          "balls": 24,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 191.67,
+          "out": true
+        },
+        {
+          "player": "G Stewart",
+          "runs": 18,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 163.64,
+          "out": false
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Overton",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 10.08
+        },
+        {
+          "player": "JH Davey",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 12.5
+        },
+        {
+          "player": "BGF Green",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 13.5
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.15
+        },
+        {
+          "player": "L Gregory",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 8.25
+        }
+      ]
+    }
+  ]
+}

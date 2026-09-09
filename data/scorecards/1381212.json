@@ -1,0 +1,453 @@
+{
+  "id": "1381212",
+  "teams": [
+    "West Indies",
+    "India"
+  ],
+  "date": "2023-07-12",
+  "format": "Test",
+  "competition": "India tour of West Indies",
+  "venue": "Windsor Park, Roseau, Dominica",
+  "result": "India won by 141 runs",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "runs": 150,
+      "extras": 10,
+      "balls": 390,
+      "batting": [
+        {
+          "player": "KC Brathwaite",
+          "runs": 20,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.48,
+          "out": true
+        },
+        {
+          "player": "T Chanderpaul",
+          "runs": 12,
+          "balls": 44,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "RA Reifer",
+          "runs": 2,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.53,
+          "out": true
+        },
+        {
+          "player": "J Blackwood",
+          "runs": 14,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "A Athanaze",
+          "runs": 47,
+          "balls": 99,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 47.47,
+          "out": true
+        },
+        {
+          "player": "J Da Silva",
+          "runs": 2,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 18,
+          "balls": 61,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.51,
+          "out": true
+        },
+        {
+          "player": "AS Joseph",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "RRS Cornwall",
+          "runs": 19,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 55.88,
+          "out": false
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 1,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.25,
+          "out": true
+        },
+        {
+          "player": "JA Warrican",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Siraj",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 2.47
+        },
+        {
+          "player": "JD Unadkat",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 2.51
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "24.3",
+          "balls": 147,
+          "runs": 61,
+          "wickets": 5,
+          "economy": 2.49
+        },
+        {
+          "player": "SN Thakur",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 2.09
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 26,
+          "wickets": 3,
+          "economy": 1.86
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 421,
+      "extras": 24,
+      "balls": 915,
+      "batting": [
+        {
+          "player": "YBK Jaiswal",
+          "runs": 171,
+          "balls": 387,
+          "fours": 16,
+          "sixes": 1,
+          "strike_rate": 44.19,
+          "out": true
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 103,
+          "balls": 222,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 46.4,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 76,
+          "balls": 182,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 41.76,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 37,
+          "balls": 82,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 45.12,
+          "out": false
+        },
+        {
+          "player": "Ishan Kishan",
+          "runs": 1,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KAJ Roach",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 2.29
+        },
+        {
+          "player": "AS Joseph",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 85,
+          "wickets": 1,
+          "economy": 4.59
+        },
+        {
+          "player": "RRS Cornwall",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 2.0
+        },
+        {
+          "player": "JA Warrican",
+          "overs": "45.0",
+          "balls": 270,
+          "runs": 112,
+          "wickets": 1,
+          "economy": 2.49
+        },
+        {
+          "player": "JO Holder",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 2.22
+        },
+        {
+          "player": "KC Brathwaite",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 2.56
+        },
+        {
+          "player": "A Athanaze",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 3.38
+        },
+        {
+          "player": "RA Reifer",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "J Blackwood",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "West Indies",
+      "runs": 130,
+      "extras": 4,
+      "balls": 303,
+      "batting": [
+        {
+          "player": "KC Brathwaite",
+          "runs": 7,
+          "balls": 47,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.89,
+          "out": true
+        },
+        {
+          "player": "T Chanderpaul",
+          "runs": 7,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "RA Reifer",
+          "runs": 11,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 26.83,
+          "out": true
+        },
+        {
+          "player": "J Blackwood",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "A Athanaze",
+          "runs": 28,
+          "balls": 44,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "J Da Silva",
+          "runs": 13,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 48.15,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 20,
+          "balls": 50,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 40.0,
+          "out": false
+        },
+        {
+          "player": "AS Joseph",
+          "runs": 13,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 56.52,
+          "out": true
+        },
+        {
+          "player": "RRS Cornwall",
+          "runs": 4,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JA Warrican",
+          "runs": 18,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Siraj",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 2.67
+        },
+        {
+          "player": "JD Unadkat",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 0.5
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "21.3",
+          "balls": 129,
+          "runs": 72,
+          "wickets": 7,
+          "economy": 3.35
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 1.95
+        }
+      ]
+    }
+  ]
+}

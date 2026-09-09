@@ -1,0 +1,259 @@
+{
+  "id": "1432749",
+  "teams": [
+    "San Francisco Unicorns",
+    "Texas Super Kings"
+  ],
+  "date": "2024-07-26",
+  "format": "T20",
+  "competition": "Major League Cricket",
+  "venue": "Grand Prairie Stadium, Dallas",
+  "result": "San Francisco Unicorns won by 10 runs",
+  "winner": "San Francisco Unicorns",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "San Francisco Unicorns",
+      "runs": 200,
+      "extras": 13,
+      "balls": 129,
+      "batting": [
+        {
+          "player": "FH Allen",
+          "runs": 101,
+          "balls": 58,
+          "fours": 9,
+          "sixes": 5,
+          "strike_rate": 174.14,
+          "out": true
+        },
+        {
+          "player": "J Fraser-McGurk",
+          "runs": 18,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "SP Krishnamurthi",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 37,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 132.14,
+          "out": true
+        },
+        {
+          "player": "SE Rutherford",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "Hassan Khan",
+          "runs": 27,
+          "balls": 15,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 180.0,
+          "out": false
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Zia-ul-Haq",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "MP Stoinis",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 11.05
+        },
+        {
+          "player": "OEG Baartman",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 10.08
+        },
+        {
+          "player": "Noor Ahmad",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 27,
+          "wickets": 3,
+          "economy": 6.48
+        },
+        {
+          "player": "AM Hardie",
+          "overs": "1.3",
+          "balls": 9,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 8.67
+        },
+        {
+          "player": "CP Savage",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 6.86
+        },
+        {
+          "player": "Mohammad Mohsin",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 8.88
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Texas Super Kings",
+      "runs": 190,
+      "extras": 5,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "DP Conway",
+          "runs": 62,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 155.0,
+          "out": false
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 45,
+          "balls": 22,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 204.55,
+          "out": true
+        },
+        {
+          "player": "AM Hardie",
+          "runs": 19,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 118.75,
+          "out": true
+        },
+        {
+          "player": "Milind Kumar",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "J Tromp",
+          "runs": 56,
+          "balls": 38,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 147.37,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C le Roux",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 9.36
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 50,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "Haris Rauf",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 10.32
+        },
+        {
+          "player": "Hassan Khan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 6.25
+        },
+        {
+          "player": "J Drysdale",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 7.62
+        }
+      ]
+    }
+  ]
+}

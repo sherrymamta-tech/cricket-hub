@@ -1,0 +1,605 @@
+{
+  "id": "1496551",
+  "teams": [
+    "India",
+    "England"
+  ],
+  "date": "2026-07-10",
+  "format": "Test",
+  "competition": "India Women tour of England",
+  "venue": "Lord's, London",
+  "result": "India won by 270 runs",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 285,
+      "extras": 9,
+      "balls": 451,
+      "batting": [
+        {
+          "player": "S Mandhana",
+          "runs": 83,
+          "balls": 109,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 76.15,
+          "out": true
+        },
+        {
+          "player": "Shafali Verma",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "YH Bhatia",
+          "runs": 12,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.59,
+          "out": true
+        },
+        {
+          "player": "JI Rodrigues",
+          "runs": 35,
+          "balls": 38,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 92.11,
+          "out": true
+        },
+        {
+          "player": "H Kaur",
+          "runs": 58,
+          "balls": 121,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 47.93,
+          "out": true
+        },
+        {
+          "player": "DB Sharma",
+          "runs": 57,
+          "balls": 87,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 65.52,
+          "out": true
+        },
+        {
+          "player": "RM Ghosh",
+          "runs": 13,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 108.33,
+          "out": true
+        },
+        {
+          "player": "S Rana",
+          "runs": 13,
+          "balls": 36,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.11,
+          "out": true
+        },
+        {
+          "player": "SG Satghare",
+          "runs": 1,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 4.35,
+          "out": true
+        },
+        {
+          "player": "K Goud",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "N Shree Charani",
+          "runs": 3,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 300.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LK Bell",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "L Filer",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 3.11
+        },
+        {
+          "player": "S Ecclestone",
+          "overs": "21.5",
+          "balls": 131,
+          "runs": 68,
+          "wickets": 3,
+          "economy": 3.11
+        },
+        {
+          "player": "IECM Wong",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 3.5
+        },
+        {
+          "player": "MK Villiers",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 79,
+          "wickets": 2,
+          "economy": 4.16
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 170,
+      "extras": 3,
+      "balls": 356,
+      "batting": [
+        {
+          "player": "ME Bouchier",
+          "runs": 23,
+          "balls": 52,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 44.23,
+          "out": true
+        },
+        {
+          "player": "TT Beaumont",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "HC Knight",
+          "runs": 6,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 24.0,
+          "out": true
+        },
+        {
+          "player": "NR Sciver-Brunt",
+          "runs": 44,
+          "balls": 85,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 51.76,
+          "out": true
+        },
+        {
+          "player": "A Capsey",
+          "runs": 9,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "AE Jones",
+          "runs": 52,
+          "balls": 62,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 83.87,
+          "out": true
+        },
+        {
+          "player": "MK Villiers",
+          "runs": 10,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.3,
+          "out": true
+        },
+        {
+          "player": "S Ecclestone",
+          "runs": 11,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "IECM Wong",
+          "runs": 7,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.21,
+          "out": false
+        },
+        {
+          "player": "LK Bell",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "L Filer",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SG Satghare",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 3.04
+        },
+        {
+          "player": "K Goud",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 38,
+          "wickets": 5,
+          "economy": 2.24
+        },
+        {
+          "player": "S Rana",
+          "overs": "13.5",
+          "balls": 83,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 2.96
+        },
+        {
+          "player": "N Shree Charani",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 5.12
+        },
+        {
+          "player": "DB Sharma",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 1.36
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "India",
+      "runs": 341,
+      "extras": 27,
+      "balls": 521,
+      "batting": [
+        {
+          "player": "S Mandhana",
+          "runs": 70,
+          "balls": 130,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 53.85,
+          "out": true
+        },
+        {
+          "player": "Shafali Verma",
+          "runs": 33,
+          "balls": 56,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 58.93,
+          "out": true
+        },
+        {
+          "player": "YH Bhatia",
+          "runs": 113,
+          "balls": 158,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 71.52,
+          "out": true
+        },
+        {
+          "player": "JI Rodrigues",
+          "runs": 3,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "H Kaur",
+          "runs": 16,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true
+        },
+        {
+          "player": "DB Sharma",
+          "runs": 10,
+          "balls": 34,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": true
+        },
+        {
+          "player": "RM Ghosh",
+          "runs": 50,
+          "balls": 52,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 96.15,
+          "out": false
+        },
+        {
+          "player": "S Rana",
+          "runs": 1,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.14,
+          "out": true
+        },
+        {
+          "player": "SG Satghare",
+          "runs": 18,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 58.06,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LK Bell",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 2.56
+        },
+        {
+          "player": "L Filer",
+          "overs": "12.2",
+          "balls": 74,
+          "runs": 64,
+          "wickets": 0,
+          "economy": 5.19
+        },
+        {
+          "player": "S Ecclestone",
+          "overs": "33.3",
+          "balls": 201,
+          "runs": 122,
+          "wickets": 5,
+          "economy": 3.64
+        },
+        {
+          "player": "IECM Wong",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 72,
+          "wickets": 0,
+          "economy": 5.14
+        },
+        {
+          "player": "MK Villiers",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 3.82
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "England",
+      "runs": 186,
+      "extras": 4,
+      "balls": 377,
+      "batting": [
+        {
+          "player": "ME Bouchier",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "TT Beaumont",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HC Knight",
+          "runs": 13,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.24,
+          "out": true
+        },
+        {
+          "player": "NR Sciver-Brunt",
+          "runs": 11,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 44.0,
+          "out": true
+        },
+        {
+          "player": "A Capsey",
+          "runs": 21,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "AE Jones",
+          "runs": 54,
+          "balls": 80,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 67.5,
+          "out": true
+        },
+        {
+          "player": "MK Villiers",
+          "runs": 26,
+          "balls": 63,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.27,
+          "out": true
+        },
+        {
+          "player": "S Ecclestone",
+          "runs": 50,
+          "balls": 66,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 75.76,
+          "out": true
+        },
+        {
+          "player": "IECM Wong",
+          "runs": 1,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 3.03,
+          "out": true
+        },
+        {
+          "player": "LK Bell",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "L Filer",
+          "runs": 4,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SG Satghare",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 2.4
+        },
+        {
+          "player": "K Goud",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 54,
+          "wickets": 2,
+          "economy": 4.91
+        },
+        {
+          "player": "S Rana",
+          "overs": "19.5",
+          "balls": 119,
+          "runs": 42,
+          "wickets": 4,
+          "economy": 2.12
+        },
+        {
+          "player": "N Shree Charani",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 2.89
+        },
+        {
+          "player": "DB Sharma",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 3.25
+        },
+        {
+          "player": "Shafali Verma",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    }
+  ]
+}

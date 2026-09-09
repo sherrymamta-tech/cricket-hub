@@ -1,0 +1,406 @@
+{
+  "id": "1513402",
+  "teams": [
+    "Northamptonshire",
+    "Kent"
+  ],
+  "date": "2026-04-10",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "St Lawrence Ground, Canterbury",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northamptonshire",
+      "runs": 684,
+      "extras": 42,
+      "balls": 810,
+      "batting": [
+        {
+          "player": "R Vasconcelos",
+          "runs": 127,
+          "balls": 171,
+          "fours": 19,
+          "sixes": 2,
+          "strike_rate": 74.27,
+          "out": true
+        },
+        {
+          "player": "LA Procter",
+          "runs": 261,
+          "balls": 360,
+          "fours": 31,
+          "sixes": 2,
+          "strike_rate": 72.5,
+          "out": false
+        },
+        {
+          "player": "CG Harrison",
+          "runs": 153,
+          "balls": 193,
+          "fours": 22,
+          "sixes": 3,
+          "strike_rate": 79.27,
+          "out": true
+        },
+        {
+          "player": "NA McSweeney",
+          "runs": 101,
+          "balls": 86,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 117.44,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ME Milnes",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 117,
+          "wickets": 0,
+          "economy": 4.65
+        },
+        {
+          "player": "KJ Dudgeon",
+          "overs": "24.3",
+          "balls": 147,
+          "runs": 123,
+          "wickets": 0,
+          "economy": 5.02
+        },
+        {
+          "player": "JDM Evison",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 76,
+          "wickets": 1,
+          "economy": 3.04
+        },
+        {
+          "player": "Jaskaran Singh",
+          "overs": "23.5",
+          "balls": 143,
+          "runs": 150,
+          "wickets": 1,
+          "economy": 6.29
+        },
+        {
+          "player": "TS Muyeye",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 101,
+          "wickets": 0,
+          "economy": 5.05
+        },
+        {
+          "player": "JK Denly",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 117,
+          "wickets": 0,
+          "economy": 7.09
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 178,
+      "extras": 12,
+      "balls": 388,
+      "batting": [
+        {
+          "player": "BG Compton",
+          "runs": 6,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 26,
+          "balls": 69,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 37.68,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 0,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TS Muyeye",
+          "runs": 48,
+          "balls": 57,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 84.21,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 19,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.93,
+          "out": true
+        },
+        {
+          "player": "JDM Evison",
+          "runs": 10,
+          "balls": 48,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.83,
+          "out": true
+        },
+        {
+          "player": "ME Milnes",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Jaskaran Singh",
+          "runs": 12,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "CG Benjamin",
+          "runs": 31,
+          "balls": 57,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 54.39,
+          "out": false
+        },
+        {
+          "player": "JK Denly",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KJ Dudgeon",
+          "runs": 14,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.17,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HNA Conway",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 36,
+          "wickets": 5,
+          "economy": 2.4
+        },
+        {
+          "player": "BW Sanderson",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 1.98
+        },
+        {
+          "player": "RA Weatherall",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 6.86
+        },
+        {
+          "player": "LA Procter",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 3.95
+        },
+        {
+          "player": "CG Harrison",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 1.48
+        },
+        {
+          "player": "JJG Sales",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 2.29
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Kent",
+      "runs": 253,
+      "extras": 23,
+      "balls": 552,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "BG Compton",
+          "runs": 114,
+          "balls": 287,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 39.72,
+          "out": false
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 69,
+          "balls": 150,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 46.0,
+          "out": true
+        },
+        {
+          "player": "ME Milnes",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Jaskaran Singh",
+          "runs": 2,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.33,
+          "out": true
+        },
+        {
+          "player": "TS Muyeye",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 36,
+          "balls": 74,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 48.65,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BW Sanderson",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 2.05
+        },
+        {
+          "player": "HNA Conway",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 3.25
+        },
+        {
+          "player": "LA Procter",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 2.33
+        },
+        {
+          "player": "CG Harrison",
+          "overs": "33.1",
+          "balls": 199,
+          "runs": 71,
+          "wickets": 1,
+          "economy": 2.14
+        },
+        {
+          "player": "RA Weatherall",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 7.58
+        },
+        {
+          "player": "JJG Sales",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 3.91
+        },
+        {
+          "player": "NA McSweeney",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "SA Zaib",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 0.67
+        }
+      ]
+    }
+  ]
+}

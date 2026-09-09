@@ -1,0 +1,513 @@
+{
+  "id": "665553",
+  "teams": [
+    "Central Stags",
+    "Otago Volts"
+  ],
+  "date": "2013-12-20",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "University Oval, Dunedin",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Central Stags",
+      "runs": 255,
+      "extras": 36,
+      "balls": 527,
+      "batting": [
+        {
+          "player": "JM How",
+          "runs": 17,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "BS Smith",
+          "runs": 27,
+          "balls": 80,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.75,
+          "out": true
+        },
+        {
+          "player": "Carl Cachopa",
+          "runs": 12,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 9,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 25.71,
+          "out": true
+        },
+        {
+          "player": "K Noema-Barnett",
+          "runs": 0,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CFK van Wyk",
+          "runs": 91,
+          "balls": 141,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 64.54,
+          "out": true
+        },
+        {
+          "player": "PD Trego",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RF Badenhorst",
+          "runs": 17,
+          "balls": 73,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 23.29,
+          "out": true
+        },
+        {
+          "player": "TS Nethula",
+          "runs": 24,
+          "balls": 63,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 38.1,
+          "out": true
+        },
+        {
+          "player": "AF Milne",
+          "runs": 7,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "AY Patel",
+          "runs": 15,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM McMillan",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 1.85
+        },
+        {
+          "player": "JA Duffy",
+          "overs": "19.5",
+          "balls": 119,
+          "runs": 54,
+          "wickets": 3,
+          "economy": 2.72
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 73,
+          "wickets": 1,
+          "economy": 3.13
+        },
+        {
+          "player": "SR Wells",
+          "overs": "18.2",
+          "balls": 110,
+          "runs": 52,
+          "wickets": 2,
+          "economy": 2.84
+        },
+        {
+          "player": "JD Ryder",
+          "overs": "11.2",
+          "balls": 68,
+          "runs": 32,
+          "wickets": 3,
+          "economy": 2.82
+        },
+        {
+          "player": "MD Craig",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 10.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Otago Volts",
+      "runs": 382,
+      "extras": 16,
+      "balls": 656,
+      "batting": [
+        {
+          "player": "AJ Redmond",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 72,
+          "balls": 123,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 58.54,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 4,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "JD Ryder",
+          "runs": 119,
+          "balls": 167,
+          "fours": 16,
+          "sixes": 1,
+          "strike_rate": 71.26,
+          "out": true
+        },
+        {
+          "player": "SR Wells",
+          "runs": 36,
+          "balls": 70,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 51.43,
+          "out": true
+        },
+        {
+          "player": "NL McCullum",
+          "runs": 30,
+          "balls": 64,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 46.88,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 28,
+          "balls": 24,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "DC de Boorder",
+          "runs": 31,
+          "balls": 83,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 37.35,
+          "out": true
+        },
+        {
+          "player": "MD Craig",
+          "runs": 31,
+          "balls": 80,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 38.75,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 10,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 43.48,
+          "out": true
+        },
+        {
+          "player": "JM McMillan",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "PD Trego",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 2.5
+        },
+        {
+          "player": "AF Milne",
+          "overs": "26.4",
+          "balls": 160,
+          "runs": 101,
+          "wickets": 2,
+          "economy": 3.79
+        },
+        {
+          "player": "RF Badenhorst",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 3.19
+        },
+        {
+          "player": "K Noema-Barnett",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 66,
+          "wickets": 2,
+          "economy": 3.88
+        },
+        {
+          "player": "Carl Cachopa",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "TS Nethula",
+          "overs": "15.4",
+          "balls": 94,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 3.77
+        },
+        {
+          "player": "AY Patel",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 3.91
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Central Stags",
+      "runs": 242,
+      "extras": 17,
+      "balls": 567,
+      "batting": [
+        {
+          "player": "JM How",
+          "runs": 7,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.0,
+          "out": true
+        },
+        {
+          "player": "BS Smith",
+          "runs": 15,
+          "balls": 65,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "Carl Cachopa",
+          "runs": 29,
+          "balls": 82,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 35.37,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 99,
+          "balls": 189,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 52.38,
+          "out": true
+        },
+        {
+          "player": "K Noema-Barnett",
+          "runs": 31,
+          "balls": 70,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 44.29,
+          "out": true
+        },
+        {
+          "player": "PD Trego",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "CFK van Wyk",
+          "runs": 13,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 59.09,
+          "out": true
+        },
+        {
+          "player": "RF Badenhorst",
+          "runs": 16,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 34.78,
+          "out": true
+        },
+        {
+          "player": "TS Nethula",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AF Milne",
+          "runs": 8,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.59,
+          "out": false
+        },
+        {
+          "player": "AY Patel",
+          "runs": 2,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM McMillan",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 35,
+          "wickets": 3,
+          "economy": 2.92
+        },
+        {
+          "player": "JA Duffy",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 2.2
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 43,
+          "wickets": 3,
+          "economy": 2.11
+        },
+        {
+          "player": "SR Wells",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 2.21
+        },
+        {
+          "player": "JD Ryder",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "MD Craig",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "AJ Redmond",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 3.24
+        },
+        {
+          "player": "NL McCullum",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 2.67
+        }
+      ]
+    }
+  ]
+}

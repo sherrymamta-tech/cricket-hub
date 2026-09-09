@@ -1,0 +1,631 @@
+{
+  "id": "1328678",
+  "teams": [
+    "Auckland Aces",
+    "Otago Volts"
+  ],
+  "date": "2022-10-18",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Kennards Hire Community Oval",
+  "result": "Otago Volts won by 168 runs",
+  "winner": "Otago Volts",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Otago Volts",
+      "runs": 261,
+      "extras": 18,
+      "balls": 526,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 28,
+          "balls": 35,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "JM Cumming",
+          "runs": 9,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 24.32,
+          "out": true
+        },
+        {
+          "player": "DN Phillips",
+          "runs": 45,
+          "balls": 102,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 44.12,
+          "out": true
+        },
+        {
+          "player": "D Foxcroft",
+          "runs": 8,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "TK Parkes",
+          "runs": 54,
+          "balls": 82,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 65.85,
+          "out": true
+        },
+        {
+          "player": "MW Chu",
+          "runs": 34,
+          "balls": 121,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 28.1,
+          "out": false
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "T Muller",
+          "runs": 13,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.43,
+          "out": true
+        },
+        {
+          "player": "JM Gibson",
+          "runs": 18,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 29,
+          "balls": 75,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.67,
+          "out": true
+        },
+        {
+          "player": "MD Rae",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RM ter Braak",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 3.75
+        },
+        {
+          "player": "SM Solia",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 3.17
+        },
+        {
+          "player": "DK Ferns",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 50,
+          "wickets": 2,
+          "economy": 2.91
+        },
+        {
+          "player": "SB Keene",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 4.12
+        },
+        {
+          "player": "WER Somerville",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 51,
+          "wickets": 3,
+          "economy": 2.04
+        },
+        {
+          "player": "RD Harrison",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 2.69
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Auckland Aces",
+      "runs": 139,
+      "extras": 5,
+      "balls": 356,
+      "batting": [
+        {
+          "player": "WT O'Donnell",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CJ Briggs",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 24,
+          "balls": 62,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 38.71,
+          "out": true
+        },
+        {
+          "player": "WER Somerville",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 26,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 53.06,
+          "out": true
+        },
+        {
+          "player": "GH Worker",
+          "runs": 52,
+          "balls": 96,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": true
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 2,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "RD Harrison",
+          "runs": 19,
+          "balls": 87,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.84,
+          "out": true
+        },
+        {
+          "player": "RM ter Braak",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "SB Keene",
+          "runs": 4,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "DK Ferns",
+          "runs": 2,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Duffy",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 27,
+          "wickets": 5,
+          "economy": 1.56
+        },
+        {
+          "player": "MD Rae",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 2.71
+        },
+        {
+          "player": "T Muller",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 45,
+          "wickets": 4,
+          "economy": 2.65
+        },
+        {
+          "player": "JM Gibson",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 1.4
+        },
+        {
+          "player": "MJG Rippon",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 4.67
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Otago Volts",
+      "runs": 219,
+      "extras": 21,
+      "balls": 440,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "DN Phillips",
+          "runs": 8,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "JM Cumming",
+          "runs": 17,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.96,
+          "out": true
+        },
+        {
+          "player": "D Foxcroft",
+          "runs": 31,
+          "balls": 103,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 30.1,
+          "out": true
+        },
+        {
+          "player": "TK Parkes",
+          "runs": 58,
+          "balls": 147,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 39.46,
+          "out": true
+        },
+        {
+          "player": "MW Chu",
+          "runs": 7,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.88,
+          "out": true
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 15,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.39,
+          "out": true
+        },
+        {
+          "player": "T Muller",
+          "runs": 5,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.25,
+          "out": true
+        },
+        {
+          "player": "JM Gibson",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 34,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 161.9,
+          "out": false
+        },
+        {
+          "player": "MD Rae",
+          "runs": 17,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 70.83,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SM Solia",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 53,
+          "wickets": 4,
+          "economy": 3.12
+        },
+        {
+          "player": "RM ter Braak",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 3.27
+        },
+        {
+          "player": "DK Ferns",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 1.74
+        },
+        {
+          "player": "SB Keene",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 3.31
+        },
+        {
+          "player": "RD Harrison",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 2.67
+        },
+        {
+          "player": "WER Somerville",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 3.67
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Auckland Aces",
+      "runs": 173,
+      "extras": 7,
+      "balls": 342,
+      "batting": [
+        {
+          "player": "WT O'Donnell",
+          "runs": 7,
+          "balls": 53,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.21,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 3,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.64,
+          "out": true
+        },
+        {
+          "player": "CJ Briggs",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 20,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 86.96,
+          "out": true
+        },
+        {
+          "player": "GH Worker",
+          "runs": 40,
+          "balls": 64,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 4,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 12.9,
+          "out": true
+        },
+        {
+          "player": "RD Harrison",
+          "runs": 14,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 31.82,
+          "out": true
+        },
+        {
+          "player": "WER Somerville",
+          "runs": 15,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RM ter Braak",
+          "runs": 4,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": true
+        },
+        {
+          "player": "SB Keene",
+          "runs": 32,
+          "balls": 33,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 96.97,
+          "out": true
+        },
+        {
+          "player": "DK Ferns",
+          "runs": 27,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 108.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Duffy",
+          "overs": "19.3",
+          "balls": 117,
+          "runs": 71,
+          "wickets": 3,
+          "economy": 3.64
+        },
+        {
+          "player": "MD Rae",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 1.33
+        },
+        {
+          "player": "T Muller",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 28,
+          "wickets": 3,
+          "economy": 2.33
+        },
+        {
+          "player": "JM Gibson",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "MJG Rippon",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 3.29
+        }
+      ]
+    }
+  ]
+}

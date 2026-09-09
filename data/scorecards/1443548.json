@@ -1,0 +1,322 @@
+{
+  "id": "1443548",
+  "teams": [
+    "Sri Lanka",
+    "New Zealand"
+  ],
+  "date": "2025-01-11",
+  "format": "ODI",
+  "competition": "Sri Lanka tour of New Zealand",
+  "venue": "Eden Park, Auckland",
+  "result": "Sri Lanka won by 140 runs",
+  "winner": "Sri Lanka",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "runs": 290,
+      "extras": 8,
+      "balls": 304,
+      "batting": [
+        {
+          "player": "P Nissanka",
+          "runs": 66,
+          "balls": 44,
+          "fours": 6,
+          "sixes": 5,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "WIA Fernando",
+          "runs": 17,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 54,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "PHKD Mendis",
+          "runs": 46,
+          "balls": 71,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 64.79,
+          "out": true
+        },
+        {
+          "player": "KIC Asalanka",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "J Liyanage",
+          "runs": 53,
+          "balls": 52,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 101.92,
+          "out": true
+        },
+        {
+          "player": "C Wickramasinghe",
+          "runs": 19,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 59.38,
+          "out": true
+        },
+        {
+          "player": "PWH de Silva",
+          "runs": 15,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "M Theekshana",
+          "runs": 11,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 137.5,
+          "out": false
+        },
+        {
+          "player": "E Malinga",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 55,
+          "wickets": 4,
+          "economy": 5.5
+        },
+        {
+          "player": "W O'Rourke",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 5.9
+        },
+        {
+          "player": "NG Smith",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 62,
+          "wickets": 1,
+          "economy": 7.75
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 5.32
+        },
+        {
+          "player": "MG Bracewell",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "GD Phillips",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 150,
+      "extras": 21,
+      "balls": 193,
+      "batting": [
+        {
+          "player": "WA Young",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 81,
+          "balls": 87,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 93.1,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 13,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 59.09,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 2,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.76,
+          "out": true
+        },
+        {
+          "player": "NG Smith",
+          "runs": 17,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.67,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 12,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "W O'Rourke",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AM Fernando",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 26,
+          "wickets": 3,
+          "economy": 3.25
+        },
+        {
+          "player": "M Theekshana",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 35,
+          "wickets": 3,
+          "economy": 4.2
+        },
+        {
+          "player": "E Malinga",
+          "overs": "7.4",
+          "balls": 46,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 4.7
+        },
+        {
+          "player": "J Liyanage",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 5.33
+        },
+        {
+          "player": "C Wickramasinghe",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "PWH de Silva",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 10.15
+        }
+      ]
+    }
+  ]
+}

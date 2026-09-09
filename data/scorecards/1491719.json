@@ -1,0 +1,69 @@
+{
+  "id": "1491719",
+  "teams": [
+    "New Zealand",
+    "England"
+  ],
+  "date": "2025-10-23",
+  "format": "T20",
+  "competition": "England tour of New Zealand",
+  "venue": "Eden Park, Auckland",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 38,
+      "extras": 3,
+      "balls": 25,
+      "batting": [
+        {
+          "player": "TL Seifert",
+          "runs": 23,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 191.67,
+          "out": false
+        },
+        {
+          "player": "TB Robinson",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 10,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 111.11,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Wood",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "BA Carse",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 12.5
+        }
+      ]
+    }
+  ]
+}

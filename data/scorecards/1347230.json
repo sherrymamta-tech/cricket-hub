@@ -1,0 +1,444 @@
+{
+  "id": "1347230",
+  "teams": [
+    "Kent",
+    "Hampshire"
+  ],
+  "date": "2023-05-11",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "St Lawrence Ground, Canterbury",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Kent",
+      "runs": 95,
+      "extras": 7,
+      "balls": 227,
+      "batting": [
+        {
+          "player": "BG Compton",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 7,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "TS Muyeye",
+          "runs": 28,
+          "balls": 42,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 24,
+          "balls": 96,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "JM Cox",
+          "runs": 12,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.71,
+          "out": true
+        },
+        {
+          "player": "JDM Evison",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "G Stewart",
+          "runs": 14,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 93.33,
+          "out": true
+        },
+        {
+          "player": "Hamidullah Qadri",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WA Agar",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Abbas",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 2.27
+        },
+        {
+          "player": "KHD Barker",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 2.89
+        },
+        {
+          "player": "KJ Abbott",
+          "overs": "9.4",
+          "balls": 58,
+          "runs": 23,
+          "wickets": 3,
+          "economy": 2.38
+        },
+        {
+          "player": "JK Fuller",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 21,
+          "wickets": 5,
+          "economy": 2.57
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Hampshire",
+      "runs": 373,
+      "extras": 28,
+      "balls": 642,
+      "batting": [
+        {
+          "player": "JJ Weatherley",
+          "runs": 58,
+          "balls": 108,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 53.7,
+          "out": true
+        },
+        {
+          "player": "FS Middleton",
+          "runs": 48,
+          "balls": 97,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 49.48,
+          "out": true
+        },
+        {
+          "player": "NRT Gubbins",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 24,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "BC Brown",
+          "runs": 10,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "LA Dawson",
+          "runs": 84,
+          "balls": 153,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 54.9,
+          "out": true
+        },
+        {
+          "player": "IG Holland",
+          "runs": 41,
+          "balls": 120,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 34.17,
+          "out": true
+        },
+        {
+          "player": "JK Fuller",
+          "runs": 51,
+          "balls": 59,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 86.44,
+          "out": true
+        },
+        {
+          "player": "KJ Abbott",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "KHD Barker",
+          "runs": 25,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 69.44,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WA Agar",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 115,
+          "wickets": 3,
+          "economy": 4.23
+        },
+        {
+          "player": "MG Hogan",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 2.78
+        },
+        {
+          "player": "JDM Evison",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 87,
+          "wickets": 3,
+          "economy": 4.11
+        },
+        {
+          "player": "G Stewart",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 3.1
+        },
+        {
+          "player": "Hamidullah Qadri",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 2.89
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Kent",
+      "runs": 259,
+      "extras": 22,
+      "balls": 678,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 56,
+          "balls": 133,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "BG Compton",
+          "runs": 54,
+          "balls": 144,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "TS Muyeye",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 68,
+          "balls": 206,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 33.01,
+          "out": false
+        },
+        {
+          "player": "SW Billings",
+          "runs": 29,
+          "balls": 61,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 47.54,
+          "out": true
+        },
+        {
+          "player": "JM Cox",
+          "runs": 30,
+          "balls": 130,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KHD Barker",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 71,
+          "wickets": 2,
+          "economy": 2.84
+        },
+        {
+          "player": "Mohammad Abbas",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 1.36
+        },
+        {
+          "player": "KJ Abbott",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 3.57
+        },
+        {
+          "player": "JK Fuller",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 69,
+          "wickets": 0,
+          "economy": 3.63
+        },
+        {
+          "player": "LA Dawson",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 1.72
+        },
+        {
+          "player": "JJ Weatherley",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 2.33
+        },
+        {
+          "player": "IG Holland",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 0.43
+        },
+        {
+          "player": "NRT Gubbins",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        },
+        {
+          "player": "JM Vince",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 3.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "id": "1068739",
+  "teams": [
+    "Scotland",
+    "Namibia"
+  ],
+  "date": "2017-06-11",
+  "format": "ODM",
+  "competition": "ICC World Cricket League Championship",
+  "venue": "Grange Cricket Club Ground, Raeburn Place",
+  "result": "Scotland won by 51 runs",
+  "winner": "Scotland",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Scotland",
+      "runs": 268,
+      "extras": 17,
+      "balls": 265,
+      "batting": [
+        {
+          "player": "MH Cross",
+          "runs": 21,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 72.41,
+          "out": true
+        },
+        {
+          "player": "KJ Coetzer",
+          "runs": 15,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "CS MacLeod",
+          "runs": 22,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "RD Berrington",
+          "runs": 110,
+          "balls": 91,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 120.88,
+          "out": true
+        },
+        {
+          "player": "CD Wallace",
+          "runs": 29,
+          "balls": 46,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.04,
+          "out": true
+        },
+        {
+          "player": "PL Mommsen",
+          "runs": 49,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 128.95,
+          "out": false
+        },
+        {
+          "player": "CD de Lange",
+          "runs": 5,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Z Groenewald",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.75
+        },
+        {
+          "player": "SF Burger",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 6.68
+        },
+        {
+          "player": "JJ Smit",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 4.91
+        },
+        {
+          "player": "C Viljoen",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 57,
+          "wickets": 2,
+          "economy": 6.11
+        },
+        {
+          "player": "JN Frylinck",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 4.88
+        },
+        {
+          "player": "BM Scholtz",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 9.16
+        },
+        {
+          "player": "SJ Baard",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 9.47
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Namibia",
+      "runs": 217,
+      "extras": 17,
+      "balls": 249,
+      "batting": [
+        {
+          "player": "SJ Baard",
+          "runs": 12,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "LP van der Westhuizen",
+          "runs": 33,
+          "balls": 35,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 94.29,
+          "out": true
+        },
+        {
+          "player": "CG Williams",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MG Erasmus",
+          "runs": 35,
+          "balls": 62,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 56.45,
+          "out": true
+        },
+        {
+          "player": "JN Frylinck",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Viljoen",
+          "runs": 18,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SF Burger",
+          "runs": 12,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 48.0,
+          "out": true
+        },
+        {
+          "player": "ZE Green",
+          "runs": 12,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "JJ Smit",
+          "runs": 30,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 115.38,
+          "out": true
+        },
+        {
+          "player": "Z Groenewald",
+          "runs": 42,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "BM Scholtz",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AC Evans",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "SM Sharif",
+          "overs": "8.5",
+          "balls": 53,
+          "runs": 40,
+          "wickets": 3,
+          "economy": 4.53
+        },
+        {
+          "player": "CB Sole",
+          "overs": "7.5",
+          "balls": 47,
+          "runs": 46,
+          "wickets": 2,
+          "economy": 5.87
+        },
+        {
+          "player": "MRJ Watt",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 6.33
+        },
+        {
+          "player": "CD de Lange",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 6.29
+        },
+        {
+          "player": "RD Berrington",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 4.5
+        }
+      ]
+    }
+  ]
+}

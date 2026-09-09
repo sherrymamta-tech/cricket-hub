@@ -1,0 +1,639 @@
+{
+  "id": "1234911",
+  "teams": [
+    "Auckland Aces",
+    "Central Stags"
+  ],
+  "date": "2020-10-28",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Eden Park Outer Oval, Auckland",
+  "result": "Auckland Aces won by 25 runs",
+  "winner": "Auckland Aces",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland Aces",
+      "runs": 167,
+      "extras": 17,
+      "balls": 417,
+      "batting": [
+        {
+          "player": "GK Beghin",
+          "runs": 2,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.0,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 15,
+          "balls": 39,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 54,
+          "balls": 93,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 58.06,
+          "out": true
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 3,
+          "balls": 38,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.89,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 7,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 12,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 6,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "WER Somerville",
+          "runs": 14,
+          "balls": 56,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "DK Ferns",
+          "runs": 18,
+          "balls": 55,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.73,
+          "out": true
+        },
+        {
+          "player": "OMR Pringle",
+          "runs": 19,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 79.17,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DAJ Bracewell",
+          "overs": "16.4",
+          "balls": 100,
+          "runs": 18,
+          "wickets": 3,
+          "economy": 1.08
+        },
+        {
+          "player": "SHA Rance",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 60,
+          "wickets": 3,
+          "economy": 3.64
+        },
+        {
+          "player": "RL Toole",
+          "overs": "18.2",
+          "balls": 110,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 3.16
+        },
+        {
+          "player": "JFA Field",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 1.61
+        },
+        {
+          "player": "BD Schmulian",
+          "overs": "6.5",
+          "balls": 41,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 1.9
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Central Stags",
+      "runs": 150,
+      "extras": 23,
+      "balls": 305,
+      "batting": [
+        {
+          "player": "GH Worker",
+          "runs": 53,
+          "balls": 164,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 32.32,
+          "out": true
+        },
+        {
+          "player": "GR Hay",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 9,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.37,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 27,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 96.43,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 8,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BD Schmulian",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DAJ Bracewell",
+          "runs": 20,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "JFA Field",
+          "runs": 5,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.74,
+          "out": true
+        },
+        {
+          "player": "SHA Rance",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RL Toole",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KA Jamieson",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 43,
+          "wickets": 5,
+          "economy": 2.5
+        },
+        {
+          "player": "DK Ferns",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 2.13
+        },
+        {
+          "player": "OMR Pringle",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "SM Solia",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 3.16
+        },
+        {
+          "player": "WER Somerville",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Auckland Aces",
+      "runs": 269,
+      "extras": 18,
+      "balls": 578,
+      "batting": [
+        {
+          "player": "GK Beghin",
+          "runs": 55,
+          "balls": 102,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 53.92,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 66,
+          "balls": 79,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 83.54,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 6,
+          "balls": 50,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.0,
+          "out": true
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 25,
+          "balls": 47,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 53.19,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 13,
+          "balls": 91,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 18,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 17,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.57,
+          "out": true
+        },
+        {
+          "player": "WER Somerville",
+          "runs": 22,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.29,
+          "out": false
+        },
+        {
+          "player": "DK Ferns",
+          "runs": 9,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "OMR Pringle",
+          "runs": 18,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DAJ Bracewell",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 99,
+          "wickets": 4,
+          "economy": 4.24
+        },
+        {
+          "player": "SHA Rance",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 2.58
+        },
+        {
+          "player": "RL Toole",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 42,
+          "wickets": 4,
+          "economy": 2.33
+        },
+        {
+          "player": "JFA Field",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "BD Schmulian",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 1.44
+        },
+        {
+          "player": "GH Worker",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "TC Bruce",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Central Stags",
+      "runs": 261,
+      "extras": 14,
+      "balls": 475,
+      "batting": [
+        {
+          "player": "GH Worker",
+          "runs": 5,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "GR Hay",
+          "runs": 17,
+          "balls": 55,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 30.91,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 23,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 62.16,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 21,
+          "balls": 25,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 84.0,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 19,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 70.37,
+          "out": true
+        },
+        {
+          "player": "BD Schmulian",
+          "runs": 17,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.52,
+          "out": true
+        },
+        {
+          "player": "JFA Field",
+          "runs": 32,
+          "balls": 92,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 34.78,
+          "out": true
+        },
+        {
+          "player": "DAJ Bracewell",
+          "runs": 102,
+          "balls": 137,
+          "fours": 7,
+          "sixes": 5,
+          "strike_rate": 74.45,
+          "out": true
+        },
+        {
+          "player": "SHA Rance",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "RL Toole",
+          "runs": 6,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.65,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KA Jamieson",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 50,
+          "wickets": 2,
+          "economy": 2.78
+        },
+        {
+          "player": "DK Ferns",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 66,
+          "wickets": 0,
+          "economy": 4.12
+        },
+        {
+          "player": "SM Solia",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 41,
+          "wickets": 4,
+          "economy": 2.89
+        },
+        {
+          "player": "OMR Pringle",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 4.5
+        },
+        {
+          "player": "WER Somerville",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 57,
+          "wickets": 2,
+          "economy": 2.85
+        },
+        {
+          "player": "GD Phillips",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    }
+  ]
+}

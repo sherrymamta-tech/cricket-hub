@@ -1,0 +1,331 @@
+{
+  "id": "932865",
+  "teams": [
+    "West Indies",
+    "South Africa"
+  ],
+  "date": "2016-06-24",
+  "format": "ODI",
+  "competition": "West Indies Tri-Nation Series",
+  "venue": "Kensington Oval, Bridgetown",
+  "result": "West Indies won by 100 runs",
+  "winner": "West Indies",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "runs": 285,
+      "extras": 24,
+      "balls": 318,
+      "batting": [
+        {
+          "player": "J Charles",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "ADS Fletcher",
+          "runs": 8,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "D Ramdin",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 102,
+          "balls": 113,
+          "fours": 12,
+          "sixes": 4,
+          "strike_rate": 90.27,
+          "out": true
+        },
+        {
+          "player": "KA Pollard",
+          "runs": 62,
+          "balls": 73,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 84.93,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 40,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 86.96,
+          "out": true
+        },
+        {
+          "player": "CR Brathwaite",
+          "runs": 33,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 73.33,
+          "out": false
+        },
+        {
+          "player": "SP Narine",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "SJ Benn",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "ST Gabriel",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 35,
+          "wickets": 3,
+          "economy": 3.33
+        },
+        {
+          "player": "WD Parnell",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 6.2
+        },
+        {
+          "player": "M Morkel",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 68,
+          "wickets": 1,
+          "economy": 6.69
+        },
+        {
+          "player": "CH Morris",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 64,
+          "wickets": 3,
+          "economy": 6.1
+        },
+        {
+          "player": "Imran Tahir",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 3.87
+        },
+        {
+          "player": "JP Duminy",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 11.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 185,
+      "extras": 13,
+      "balls": 281,
+      "batting": [
+        {
+          "player": "HM Amla",
+          "runs": 16,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "F Behardien",
+          "runs": 35,
+          "balls": 59,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 59.32,
+          "out": true
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 5,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "CH Morris",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "WD Parnell",
+          "runs": 28,
+          "balls": 58,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.28,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 9,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "M Morkel",
+          "runs": 32,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "Imran Tahir",
+          "runs": 29,
+          "balls": 24,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 120.83,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JO Holder",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 3.19
+        },
+        {
+          "player": "ST Gabriel",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 17,
+          "wickets": 3,
+          "economy": 3.29
+        },
+        {
+          "player": "SP Narine",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 3.54
+        },
+        {
+          "player": "CR Brathwaite",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 3.9
+        },
+        {
+          "player": "SJ Benn",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 5.02
+        },
+        {
+          "player": "ADS Fletcher",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ]
+    }
+  ]
+}

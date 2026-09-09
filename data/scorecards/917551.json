@@ -1,0 +1,575 @@
+{
+  "id": "917551",
+  "teams": [
+    "Central Stags",
+    "Wellington Firebirds"
+  ],
+  "date": "2016-02-20",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "McLean Park, Napier",
+  "result": "Central Stags won by 87 runs",
+  "winner": "Central Stags",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Central Stags",
+      "runs": 424,
+      "extras": 15,
+      "balls": 726,
+      "batting": [
+        {
+          "player": "GR Hay",
+          "runs": 48,
+          "balls": 104,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "BS Smith",
+          "runs": 46,
+          "balls": 118,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 38.98,
+          "out": true
+        },
+        {
+          "player": "M Renwick",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 2,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "GH Worker",
+          "runs": 123,
+          "balls": 234,
+          "fours": 15,
+          "sixes": 2,
+          "strike_rate": 52.56,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 37,
+          "balls": 22,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 168.18,
+          "out": true
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 151,
+          "balls": 208,
+          "fours": 20,
+          "sixes": 5,
+          "strike_rate": 72.6,
+          "out": false
+        },
+        {
+          "player": "BJ Small",
+          "runs": 2,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BJ Arnel",
+          "overs": "33.4",
+          "balls": 202,
+          "runs": 101,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "DS Hutchinson",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 123,
+          "wickets": 3,
+          "economy": 4.89
+        },
+        {
+          "player": "MB Bacon",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 74,
+          "wickets": 0,
+          "economy": 4.88
+        },
+        {
+          "player": "JS Patel",
+          "overs": "36.0",
+          "balls": 216,
+          "runs": 92,
+          "wickets": 1,
+          "economy": 2.56
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "LJ Woodcock",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 3.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Wellington Firebirds",
+      "runs": 370,
+      "extras": 19,
+      "balls": 616,
+      "batting": [
+        {
+          "player": "MHW Papps",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SJ Murdoch",
+          "runs": 89,
+          "balls": 174,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 51.15,
+          "out": true
+        },
+        {
+          "player": "LJ Woodcock",
+          "runs": 70,
+          "balls": 148,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 47.3,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 10,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "L Ronchi",
+          "runs": 27,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 93.1,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 92,
+          "balls": 127,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 72.44,
+          "out": true
+        },
+        {
+          "player": "FJ Colson",
+          "runs": 34,
+          "balls": 81,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 41.98,
+          "out": true
+        },
+        {
+          "player": "JS Patel",
+          "runs": 18,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": false
+        },
+        {
+          "player": "DS Hutchinson",
+          "runs": 11,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 91.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BM Tickner",
+          "overs": "21.5",
+          "balls": 131,
+          "runs": 96,
+          "wickets": 1,
+          "economy": 4.4
+        },
+        {
+          "player": "KD Richards",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 83,
+          "wickets": 3,
+          "economy": 3.72
+        },
+        {
+          "player": "BJ Small",
+          "overs": "17.3",
+          "balls": 105,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 3.66
+        },
+        {
+          "player": "AY Patel",
+          "overs": "37.0",
+          "balls": 222,
+          "runs": 116,
+          "wickets": 2,
+          "economy": 3.14
+        },
+        {
+          "player": "GH Worker",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 2.5
+        },
+        {
+          "player": "BS Smith",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Central Stags",
+      "runs": 314,
+      "extras": 8,
+      "balls": 524,
+      "batting": [
+        {
+          "player": "GR Hay",
+          "runs": 127,
+          "balls": 254,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "BS Smith",
+          "runs": 40,
+          "balls": 51,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 78.43,
+          "out": true
+        },
+        {
+          "player": "M Renwick",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 37,
+          "balls": 65,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 56.92,
+          "out": true
+        },
+        {
+          "player": "GH Worker",
+          "runs": 49,
+          "balls": 95,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 51.58,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 7,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 27,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 79.41,
+          "out": true
+        },
+        {
+          "player": "BJ Small",
+          "runs": 19,
+          "balls": 15,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 126.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BJ Arnel",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 79,
+          "wickets": 2,
+          "economy": 3.02
+        },
+        {
+          "player": "DS Hutchinson",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 2.93
+        },
+        {
+          "player": "MB Bacon",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 6.33
+        },
+        {
+          "player": "JS Patel",
+          "overs": "32.0",
+          "balls": 192,
+          "runs": 115,
+          "wickets": 3,
+          "economy": 3.59
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 62,
+          "wickets": 1,
+          "economy": 4.43
+        },
+        {
+          "player": "LJ Woodcock",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 3.6
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Wellington Firebirds",
+      "runs": 281,
+      "extras": 4,
+      "balls": 422,
+      "batting": [
+        {
+          "player": "LJ Woodcock",
+          "runs": 63,
+          "balls": 103,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 61.17,
+          "out": true
+        },
+        {
+          "player": "MHW Papps",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SJ Murdoch",
+          "runs": 82,
+          "balls": 74,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 110.81,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 22,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "L Ronchi",
+          "runs": 88,
+          "balls": 111,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 79.28,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "FJ Colson",
+          "runs": 5,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": true
+        },
+        {
+          "player": "JS Patel",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DS Hutchinson",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "MB Bacon",
+          "runs": 8,
+          "balls": 38,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.05,
+          "out": true
+        },
+        {
+          "player": "BJ Arnel",
+          "runs": 0,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BM Tickner",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 4.3
+        },
+        {
+          "player": "KD Richards",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 5.33
+        },
+        {
+          "player": "AY Patel",
+          "overs": "29.0",
+          "balls": 174,
+          "runs": 105,
+          "wickets": 4,
+          "economy": 3.62
+        },
+        {
+          "player": "BJ Small",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "player": "TC Bruce",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 5.33
+        },
+        {
+          "player": "GH Worker",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 58,
+          "wickets": 4,
+          "economy": 3.38
+        }
+      ]
+    }
+  ]
+}

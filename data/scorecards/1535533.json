@@ -1,0 +1,61 @@
+{
+  "id": "1535533",
+  "teams": [
+    "Bloomfield Cricket and Athletic Club",
+    "Sinhalese Sports Club"
+  ],
+  "date": "2026-08-24",
+  "format": "T20",
+  "competition": "Major Clubs T20 Tournament",
+  "venue": "R Premadasa Stadium, Colombo",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Bloomfield Cricket and Athletic Club",
+      "runs": 3,
+      "extras": 1,
+      "balls": 6,
+      "batting": [
+        {
+          "player": "H Amarasinghe",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Wanninayake",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        },
+        {
+          "player": "C Nethsara",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "PM Liyanagamage",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

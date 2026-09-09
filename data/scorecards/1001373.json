@@ -1,0 +1,295 @@
+{
+  "id": "1001373",
+  "teams": [
+    "Australia",
+    "New Zealand"
+  ],
+  "date": "2016-12-06",
+  "format": "ODI",
+  "competition": "Chappell-Hadlee Trophy",
+  "venue": "Manuka Oval",
+  "result": "Australia won by 116 runs",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 378,
+      "extras": 24,
+      "balls": 312,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 119,
+          "balls": 116,
+          "fours": 14,
+          "sixes": 1,
+          "strike_rate": 102.59,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 19,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 72,
+          "balls": 77,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 93.51,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 57,
+          "balls": 34,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 167.65,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 76,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 7,
+          "strike_rate": 185.37,
+          "out": false
+        },
+        {
+          "player": "MS Wade",
+          "runs": 11,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 220.0,
+          "out": true
+        },
+        {
+          "player": "GJ Bailey",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 93,
+          "wickets": 0,
+          "economy": 8.72
+        },
+        {
+          "player": "TA Boult",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 88,
+          "wickets": 1,
+          "economy": 8.38
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 4.62
+        },
+        {
+          "player": "TG Southee",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 6.1
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 75,
+          "wickets": 1,
+          "economy": 8.04
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 262,
+      "extras": 5,
+      "balls": 288,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 45,
+          "balls": 34,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 132.35,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 4,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 81,
+          "balls": 80,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 101.25,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 74,
+          "balls": 84,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 88.1,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 11,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 91.67,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 12,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 17,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 77.27,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 7,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 53,
+          "wickets": 2,
+          "economy": 5.13
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 4.58
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 41,
+          "wickets": 4,
+          "economy": 4.03
+        },
+        {
+          "player": "TM Head",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 4.43
+        },
+        {
+          "player": "JP Faulkner",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 69,
+          "wickets": 2,
+          "economy": 8.28
+        },
+        {
+          "player": "MR Marsh",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 8.67
+        }
+      ]
+    }
+  ]
+}

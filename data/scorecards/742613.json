@@ -1,0 +1,594 @@
+{
+  "id": "742613",
+  "teams": [
+    "New Zealand",
+    "Pakistan"
+  ],
+  "date": "2014-11-17",
+  "format": "Test",
+  "competition": "Pakistan v New Zealand Test Series",
+  "venue": "Dubai International Cricket Stadium",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 403,
+      "extras": 9,
+      "balls": 936,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 137,
+          "balls": 269,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 50.93,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 43,
+          "balls": 69,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 62.32,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 32,
+          "balls": 86,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.21,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 23,
+          "balls": 71,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.39,
+          "out": true
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 9,
+          "balls": 42,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 17,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 31.48,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 39,
+          "balls": 120,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.5,
+          "out": true
+        },
+        {
+          "player": "MD Craig",
+          "runs": 43,
+          "balls": 110,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 39.09,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 17,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 32,
+          "balls": 63,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 50.79,
+          "out": false
+        },
+        {
+          "player": "TA Boult",
+          "runs": 2,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Rahat Ali",
+          "overs": "32.0",
+          "balls": 192,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 2.19
+        },
+        {
+          "player": "Ehsan Adil",
+          "overs": "29.0",
+          "balls": 174,
+          "runs": 77,
+          "wickets": 2,
+          "economy": 2.66
+        },
+        {
+          "player": "Zulfiqar Babar",
+          "overs": "45.0",
+          "balls": 270,
+          "runs": 137,
+          "wickets": 4,
+          "economy": 3.04
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "41.0",
+          "balls": 246,
+          "runs": 94,
+          "wickets": 2,
+          "economy": 2.29
+        },
+        {
+          "player": "Azhar Ali",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 2.78
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 393,
+      "extras": 10,
+      "balls": 883,
+      "batting": [
+        {
+          "player": "Shan Masood",
+          "runs": 13,
+          "balls": 48,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.08,
+          "out": true
+        },
+        {
+          "player": "Taufeeq Umar",
+          "runs": 16,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.1,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 75,
+          "balls": 225,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 72,
+          "balls": 160,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 45.0,
+          "out": true
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 28,
+          "balls": 55,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 50.91,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 44,
+          "balls": 73,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 60.27,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 112,
+          "balls": 195,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 57.44,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 2,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "Ehsan Adil",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Zulfiqar Babar",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Rahat Ali",
+          "runs": 16,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.65,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "30.1",
+          "balls": 181,
+          "runs": 70,
+          "wickets": 2,
+          "economy": 2.32
+        },
+        {
+          "player": "TG Southee",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 69,
+          "wickets": 3,
+          "economy": 2.3
+        },
+        {
+          "player": "MD Craig",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 117,
+          "wickets": 1,
+          "economy": 4.18
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "39.0",
+          "balls": 234,
+          "runs": 94,
+          "wickets": 2,
+          "economy": 2.41
+        },
+        {
+          "player": "CJ Anderson",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 3.71
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 1.45
+        },
+        {
+          "player": "BB McCullum",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 1,
+          "wickets": 1,
+          "economy": 0.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New Zealand",
+      "runs": 250,
+      "extras": 3,
+      "balls": 389,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 9,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.71,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 45,
+          "balls": 62,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 72.58,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 11,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 104,
+          "balls": 133,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 78.2,
+          "out": true
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 11,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 11,
+          "balls": 43,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 25.58,
+          "out": true
+        },
+        {
+          "player": "MD Craig",
+          "runs": 34,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 64.15,
+          "out": true
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "TG Southee",
+          "runs": 20,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 400.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Rahat Ali",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 5.12
+        },
+        {
+          "player": "Ehsan Adil",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 4.12
+        },
+        {
+          "player": "Zulfiqar Babar",
+          "overs": "27.5",
+          "balls": 167,
+          "runs": 97,
+          "wickets": 4,
+          "economy": 3.49
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 79,
+          "wickets": 5,
+          "economy": 3.76
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Pakistan",
+      "runs": 196,
+      "extras": 19,
+      "balls": 404,
+      "batting": [
+        {
+          "player": "Shan Masood",
+          "runs": 40,
+          "balls": 95,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "Taufeeq Umar",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 24,
+          "balls": 74,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.43,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 44,
+          "balls": 84,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 52.38,
+          "out": true
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 41,
+          "balls": 117,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 35.04,
+          "out": false
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 24,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 104.35,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 1.2
+        },
+        {
+          "player": "TG Southee",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 2.36
+        },
+        {
+          "player": "MD Craig",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 66,
+          "wickets": 2,
+          "economy": 3.88
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 71,
+          "wickets": 0,
+          "economy": 3.38
+        },
+        {
+          "player": "CJ Anderson",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 1.26
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 0.5
+        },
+        {
+          "player": "BB McCullum",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 5.05
+        }
+      ]
+    }
+  ]
+}

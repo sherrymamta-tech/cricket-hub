@@ -1,0 +1,205 @@
+{
+  "id": "1269110",
+  "teams": [
+    "Adelaide Strikers",
+    "Melbourne Stars"
+  ],
+  "date": "2021-11-21",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Adelaide Oval",
+  "result": "Melbourne Stars won by 9 wickets",
+  "winner": "Melbourne Stars",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Adelaide Strikers",
+      "runs": 175,
+      "extras": 11,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "KM Mack",
+          "runs": 89,
+          "balls": 74,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 120.27,
+          "out": false
+        },
+        {
+          "player": "D van Niekerk",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "L Wolvaardt",
+          "runs": 13,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 92.86,
+          "out": true
+        },
+        {
+          "player": "BE Patterson",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "M Penna",
+          "runs": 56,
+          "balls": 34,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 164.71,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KJ Garth",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 9.23
+        },
+        {
+          "player": "T Flintoff",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 7.68
+        },
+        {
+          "player": "LCN Smith",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 8.25
+        },
+        {
+          "player": "A Sutherland",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 7.92
+        },
+        {
+          "player": "EA Osborne",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "L Cripps",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 10.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Stars",
+      "runs": 181,
+      "extras": 4,
+      "balls": 117,
+      "batting": [
+        {
+          "player": "EJ Villani",
+          "runs": 100,
+          "balls": 65,
+          "fours": 13,
+          "sixes": 2,
+          "strike_rate": 153.85,
+          "out": false
+        },
+        {
+          "player": "MM Lanning",
+          "runs": 50,
+          "balls": 39,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 128.21,
+          "out": true
+        },
+        {
+          "player": "A Sutherland",
+          "runs": 27,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 207.69,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ML Schutt",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 5.25
+        },
+        {
+          "player": "TM McGrath",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "SJ Coyte",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "D van Niekerk",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 10.8
+        },
+        {
+          "player": "A Wellington",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 13.0
+        },
+        {
+          "player": "JL Barsby",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

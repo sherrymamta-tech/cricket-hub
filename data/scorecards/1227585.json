@@ -1,0 +1,605 @@
+{
+  "id": "1227585",
+  "teams": [
+    "Somerset",
+    "Glamorgan"
+  ],
+  "date": "2020-08-01",
+  "format": "MDM",
+  "competition": "Bob Willis Trophy",
+  "venue": "The Cooper Associates County Ground, Taunton",
+  "result": "Somerset won by 289 runs",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Somerset",
+      "runs": 296,
+      "extras": 13,
+      "balls": 489,
+      "batting": [
+        {
+          "player": "EJ Byrom",
+          "runs": 22,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 44.9,
+          "out": true
+        },
+        {
+          "player": "TA Lammonby",
+          "runs": 41,
+          "balls": 103,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.81,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "JC Hildreth",
+          "runs": 16,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 59.26,
+          "out": true
+        },
+        {
+          "player": "GA Bartlett",
+          "runs": 23,
+          "balls": 71,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.39,
+          "out": true
+        },
+        {
+          "player": "SM Davies",
+          "runs": 81,
+          "balls": 108,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        },
+        {
+          "player": "C Overton",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "J Overton",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "JH Davey",
+          "runs": 20,
+          "balls": 51,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 39.22,
+          "out": true
+        },
+        {
+          "player": "JA Brooks",
+          "runs": 72,
+          "balls": 58,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 124.14,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Hogan",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 2.41
+        },
+        {
+          "player": "RAJ Smith",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 42,
+          "wickets": 3,
+          "economy": 3.0
+        },
+        {
+          "player": "M de Lange",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 2.24
+        },
+        {
+          "player": "GG Wagg",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 60,
+          "wickets": 2,
+          "economy": 4.29
+        },
+        {
+          "player": "DA Douthwaite",
+          "overs": "12.3",
+          "balls": 75,
+          "runs": 79,
+          "wickets": 2,
+          "economy": 6.32
+        },
+        {
+          "player": "KA Bull",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 5.14
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Glamorgan",
+      "runs": 131,
+      "extras": 21,
+      "balls": 278,
+      "batting": [
+        {
+          "player": "NJ Selman",
+          "runs": 9,
+          "balls": 41,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.95,
+          "out": true
+        },
+        {
+          "player": "CR Hemphrey",
+          "runs": 7,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.43,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 7,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.43,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "DA Douthwaite",
+          "runs": 2,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "GG Wagg",
+          "runs": 28,
+          "balls": 60,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "KA Bull",
+          "runs": 23,
+          "balls": 63,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.51,
+          "out": true
+        },
+        {
+          "player": "M de Lange",
+          "runs": 8,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "RAJ Smith",
+          "runs": 23,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 121.05,
+          "out": true
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Overton",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 49,
+          "wickets": 5,
+          "economy": 2.88
+        },
+        {
+          "player": "JH Davey",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 2.83
+        },
+        {
+          "player": "JA Brooks",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "J Overton",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 2.14
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Somerset",
+      "runs": 290,
+      "extras": 11,
+      "balls": 484,
+      "batting": [
+        {
+          "player": "EJ Byrom",
+          "runs": 27,
+          "balls": 55,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 49.09,
+          "out": true
+        },
+        {
+          "player": "TA Lammonby",
+          "runs": 8,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.1,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 119,
+          "balls": 167,
+          "fours": 13,
+          "sixes": 2,
+          "strike_rate": 71.26,
+          "out": true
+        },
+        {
+          "player": "JC Hildreth",
+          "runs": 45,
+          "balls": 53,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 84.91,
+          "out": true
+        },
+        {
+          "player": "BGF Green",
+          "runs": 54,
+          "balls": 152,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 35.53,
+          "out": true
+        },
+        {
+          "player": "SM Davies",
+          "runs": 18,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 94.74,
+          "out": true
+        },
+        {
+          "player": "J Overton",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Hogan",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 2.62
+        },
+        {
+          "player": "GG Wagg",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 2.4
+        },
+        {
+          "player": "DA Douthwaite",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 60,
+          "wickets": 2,
+          "economy": 3.75
+        },
+        {
+          "player": "M de Lange",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 2.75
+        },
+        {
+          "player": "KA Bull",
+          "overs": "19.3",
+          "balls": 117,
+          "runs": 113,
+          "wickets": 3,
+          "economy": 5.79
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Glamorgan",
+      "runs": 166,
+      "extras": 7,
+      "balls": 387,
+      "batting": [
+        {
+          "player": "NJ Selman",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 4,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": true
+        },
+        {
+          "player": "CR Hemphrey",
+          "runs": 20,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.28,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 26,
+          "balls": 88,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 29.55,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 82,
+          "balls": 138,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 59.42,
+          "out": true
+        },
+        {
+          "player": "DA Douthwaite",
+          "runs": 6,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 15.79,
+          "out": true
+        },
+        {
+          "player": "GG Wagg",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "KA Bull",
+          "runs": 9,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.03,
+          "out": true
+        },
+        {
+          "player": "RAJ Smith",
+          "runs": 3,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.0,
+          "out": true
+        },
+        {
+          "player": "M de Lange",
+          "runs": 8,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": false
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Overton",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 2.06
+        },
+        {
+          "player": "JH Davey",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 2.25
+        },
+        {
+          "player": "JA Brooks",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 3.9
+        },
+        {
+          "player": "J Overton",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 48,
+          "wickets": 5,
+          "economy": 2.82
+        },
+        {
+          "player": "RE van der Merwe",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 1.33
+        },
+        {
+          "player": "TB Abell",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 3.5
+        }
+      ]
+    }
+  ]
+}

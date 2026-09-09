@@ -1,0 +1,277 @@
+{
+  "id": "1403301",
+  "teams": [
+    "Mexico",
+    "Argentina"
+  ],
+  "date": "2023-10-19",
+  "format": "T20",
+  "competition": "South American Men's Championships",
+  "venue": "St Georges Quilmes",
+  "result": "Argentina won by 4 wickets",
+  "winner": "Argentina",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Mexico",
+      "runs": 124,
+      "extras": 20,
+      "balls": 129,
+      "batting": [
+        {
+          "player": "Praveen Santhanakrishnan",
+          "runs": 33,
+          "balls": 33,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Shashikant Laxman",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Kaushal Kumar",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "Luis Hermida",
+          "runs": 4,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": true
+        },
+        {
+          "player": "Puneet Arora",
+          "runs": 51,
+          "balls": 52,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 98.08,
+          "out": false
+        },
+        {
+          "player": "Shoaib Rafiq",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Shantanu Kaveri",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "Tarun Sharma",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "A Kirschbaum",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "H Fennell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 9,
+          "wickets": 2,
+          "economy": 2.25
+        },
+        {
+          "player": "T Rossi",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 8.1
+        },
+        {
+          "player": "Santiago Duggan",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 4.8
+        },
+        {
+          "player": "Lucas Rossi",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 8.31
+        },
+        {
+          "player": "AAP Rivero",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 6.43
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Argentina",
+      "runs": 125,
+      "extras": 5,
+      "balls": 118,
+      "batting": [
+        {
+          "player": "P Baron",
+          "runs": 16,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 94.12,
+          "out": true
+        },
+        {
+          "player": "Guido Angeletti",
+          "runs": 5,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "A Kirschbaum",
+          "runs": 19,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 118.75,
+          "out": true
+        },
+        {
+          "player": "T Rossi",
+          "runs": 38,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 115.15,
+          "out": true
+        },
+        {
+          "player": "A Ferguson",
+          "runs": 22,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 110.0,
+          "out": false
+        },
+        {
+          "player": "AAP Rivero",
+          "runs": 19,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 126.67,
+          "out": true
+        },
+        {
+          "player": "H Fennell",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Lucas Rossi",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Pratik Singh Bais",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "player": "Shoaib Rafiq",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 14,
+          "wickets": 3,
+          "economy": 3.36
+        },
+        {
+          "player": "Luis Hermida",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 6.63
+        },
+        {
+          "player": "Shantanu Kaveri",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "Shashikant Laxman",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 8.64
+        },
+        {
+          "player": "Harprit Singh",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 5.08
+        }
+      ]
+    }
+  ]
+}

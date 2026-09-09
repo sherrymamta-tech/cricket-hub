@@ -1,0 +1,84 @@
+{
+  "id": "654035",
+  "teams": [
+    "Hobart Hurricanes",
+    "Adelaide Strikers"
+  ],
+  "date": "2013-12-22",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Bellerive Oval",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Adelaide Strikers",
+      "runs": 87,
+      "extras": 6,
+      "balls": 38,
+      "batting": [
+        {
+          "player": "M Klinger",
+          "runs": 32,
+          "balls": 18,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 177.78,
+          "out": false
+        },
+        {
+          "player": "AD Hales",
+          "runs": 49,
+          "balls": 20,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 245.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Mennie",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 15.0
+        },
+        {
+          "player": "DE Bollinger",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "XJ Doherty",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 15.43
+        },
+        {
+          "player": "EP Gulbis",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 20.57
+        },
+        {
+          "player": "B Laughlin",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

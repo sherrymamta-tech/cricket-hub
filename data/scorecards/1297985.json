@@ -1,0 +1,339 @@
+{
+  "id": "1297985",
+  "teams": [
+    "Durham",
+    "Somerset"
+  ],
+  "date": "2022-08-10",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "The Cooper Associates County Ground, Taunton",
+  "result": "Durham won by 9 runs",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 342,
+      "extras": 14,
+      "balls": 302,
+      "batting": [
+        {
+          "player": "G Clark",
+          "runs": 86,
+          "balls": 101,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 85.15,
+          "out": true
+        },
+        {
+          "player": "JJ Bushnell",
+          "runs": 24,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.57,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 88,
+          "balls": 68,
+          "fours": 11,
+          "sixes": 3,
+          "strike_rate": 129.41,
+          "out": true
+        },
+        {
+          "player": "NJ Maddinson",
+          "runs": 24,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 184.62,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 11,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 110.0,
+          "out": true
+        },
+        {
+          "player": "L Trevaskis",
+          "runs": 44,
+          "balls": 32,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 137.5,
+          "out": true
+        },
+        {
+          "player": "P Coughlin",
+          "runs": 5,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "TSS Mackintosh",
+          "runs": 28,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "SJC McAlindon",
+          "runs": 13,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "OJ Gibson",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Brooks",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 63,
+          "wickets": 0,
+          "economy": 6.63
+        },
+        {
+          "player": "Kasey Aldridge",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 70,
+          "wickets": 0,
+          "economy": 6.77
+        },
+        {
+          "player": "BGF Green",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 83,
+          "wickets": 2,
+          "economy": 8.16
+        },
+        {
+          "player": "S Baker",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 47,
+          "wickets": 6,
+          "economy": 4.62
+        },
+        {
+          "player": "LP Goldsworthy",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 57,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "player": "ARJ Ogborne",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 5.28
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Somerset",
+      "runs": 333,
+      "extras": 27,
+      "balls": 310,
+      "batting": [
+        {
+          "player": "MT Renshaw",
+          "runs": 23,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 79.31,
+          "out": true
+        },
+        {
+          "player": "SM Davies",
+          "runs": 9,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "LP Goldsworthy",
+          "runs": 27,
+          "balls": 50,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.0,
+          "out": true
+        },
+        {
+          "player": "JC Hildreth",
+          "runs": 12,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "GA Bartlett",
+          "runs": 34,
+          "balls": 40,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 85.0,
+          "out": true
+        },
+        {
+          "player": "JEK Rew",
+          "runs": 24,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BGF Green",
+          "runs": 157,
+          "balls": 88,
+          "fours": 10,
+          "sixes": 12,
+          "strike_rate": 178.41,
+          "out": true
+        },
+        {
+          "player": "Kasey Aldridge",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JA Brooks",
+          "runs": 14,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 107.69,
+          "out": true
+        },
+        {
+          "player": "ARJ Ogborne",
+          "runs": 3,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.64,
+          "out": true
+        },
+        {
+          "player": "S Baker",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 62,
+          "wickets": 3,
+          "economy": 6.2
+        },
+        {
+          "player": "OJ Gibson",
+          "overs": "8.4",
+          "balls": 52,
+          "runs": 56,
+          "wickets": 3,
+          "economy": 6.46
+        },
+        {
+          "player": "SJC McAlindon",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 6.67
+        },
+        {
+          "player": "L Trevaskis",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "player": "NJ Maddinson",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.08
+        }
+      ]
+    }
+  ]
+}

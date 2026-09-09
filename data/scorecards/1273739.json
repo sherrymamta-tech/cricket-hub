@@ -1,0 +1,233 @@
+{
+  "id": "1273739",
+  "teams": [
+    "India",
+    "New Zealand"
+  ],
+  "date": "2021-10-31",
+  "format": "T20",
+  "competition": "ICC Men's T20 World Cup",
+  "venue": "Dubai International Cricket Stadium",
+  "result": "New Zealand won by 8 wickets",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 110,
+      "extras": 4,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "KL Rahul",
+          "runs": 18,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "Ishan Kishan",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 14,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 9,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "RR Pant",
+          "runs": 12,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "HH Pandya",
+          "runs": 23,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 92.0,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 26,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 136.84,
+          "out": false
+        },
+        {
+          "player": "SN Thakur",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 3,
+          "economy": 5.0
+        },
+        {
+          "player": "TG Southee",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 3.75
+        },
+        {
+          "player": "AF Milne",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.44
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 4.32
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 111,
+      "extras": 7,
+      "balls": 92,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 20,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 117.65,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 49,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 132.43,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 33,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 97.06,
+          "out": false
+        },
+        {
+          "player": "DP Conway",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CV Varun",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "JJ Bumrah",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 4.22
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 11.5
+        },
+        {
+          "player": "Mohammed Shami",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 9.43
+        },
+        {
+          "player": "SN Thakur",
+          "overs": "1.3",
+          "balls": 9,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 11.33
+        },
+        {
+          "player": "HH Pandya",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 7.85
+        }
+      ]
+    }
+  ]
+}

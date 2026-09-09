@@ -1,0 +1,593 @@
+{
+  "id": "770793",
+  "teams": [
+    "Auckland Aces",
+    "Canterbury"
+  ],
+  "date": "2015-03-01",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Colin Maiden Park, Auckland",
+  "result": "Canterbury won by 4 wickets",
+  "winner": "Canterbury",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland Aces",
+      "runs": 294,
+      "extras": 7,
+      "balls": 562,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 41,
+          "balls": 99,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 41.41,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RJ Nicol",
+          "runs": 1,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.0,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 62,
+          "balls": 60,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 103.33,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 1,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.25,
+          "out": true
+        },
+        {
+          "player": "DJ Grobbelaar",
+          "runs": 26,
+          "balls": 55,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 47.27,
+          "out": true
+        },
+        {
+          "player": "B Cachopa",
+          "runs": 131,
+          "balls": 178,
+          "fours": 16,
+          "sixes": 4,
+          "strike_rate": 73.6,
+          "out": false
+        },
+        {
+          "player": "TS Nethula",
+          "runs": 1,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.26,
+          "out": true
+        },
+        {
+          "player": "MD Bates",
+          "runs": 4,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.05,
+          "out": true
+        },
+        {
+          "player": "LH Ferguson",
+          "runs": 6,
+          "balls": 39,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "DJ Bartlett",
+          "runs": 14,
+          "balls": 54,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 25.93,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 85,
+          "wickets": 2,
+          "economy": 4.47
+        },
+        {
+          "player": "RJ McCone",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 2.81
+        },
+        {
+          "player": "AM Ellis",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 3.03
+        },
+        {
+          "player": "EJ Nuttall",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 43,
+          "wickets": 3,
+          "economy": 2.05
+        },
+        {
+          "player": "TD Astle",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 3.47
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Canterbury",
+      "runs": 340,
+      "extras": 25,
+      "balls": 568,
+      "batting": [
+        {
+          "player": "RM Hira",
+          "runs": 22,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true
+        },
+        {
+          "player": "GJ Dawson",
+          "runs": 4,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "PG Fulton",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 46,
+          "balls": 91,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 50.55,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 102,
+          "balls": 190,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 53.68,
+          "out": true
+        },
+        {
+          "player": "AM Ellis",
+          "runs": 72,
+          "balls": 125,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 57.6,
+          "out": true
+        },
+        {
+          "player": "TD Astle",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CD Fletcher",
+          "runs": 17,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 48.57,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 39,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 84.78,
+          "out": true
+        },
+        {
+          "player": "RJ McCone",
+          "runs": 4,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.0,
+          "out": true
+        },
+        {
+          "player": "EJ Nuttall",
+          "runs": 9,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Bartlett",
+          "overs": "14.5",
+          "balls": 89,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 4.25
+        },
+        {
+          "player": "MD Bates",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 57,
+          "wickets": 3,
+          "economy": 2.85
+        },
+        {
+          "player": "LH Ferguson",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 56,
+          "wickets": 2,
+          "economy": 3.82
+        },
+        {
+          "player": "DJ Grobbelaar",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 3.61
+        },
+        {
+          "player": "TS Nethula",
+          "overs": "21.5",
+          "balls": 131,
+          "runs": 81,
+          "wickets": 1,
+          "economy": 3.71
+        },
+        {
+          "player": "RJ Nicol",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 3.43
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Auckland Aces",
+      "runs": 407,
+      "extras": 18,
+      "balls": 688,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 67,
+          "balls": 116,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 57.76,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 24,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 64.86,
+          "out": true
+        },
+        {
+          "player": "RJ Nicol",
+          "runs": 24,
+          "balls": 86,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.91,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 137,
+          "balls": 138,
+          "fours": 10,
+          "sixes": 7,
+          "strike_rate": 99.28,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 25,
+          "balls": 65,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "DJ Grobbelaar",
+          "runs": 63,
+          "balls": 145,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 43.45,
+          "out": true
+        },
+        {
+          "player": "B Cachopa",
+          "runs": 35,
+          "balls": 74,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 47.3,
+          "out": false
+        },
+        {
+          "player": "TS Nethula",
+          "runs": 14,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 51.85,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 58,
+          "wickets": 0,
+          "economy": 3.38
+        },
+        {
+          "player": "RJ McCone",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 1.75
+        },
+        {
+          "player": "EJ Nuttall",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 92,
+          "wickets": 2,
+          "economy": 4.6
+        },
+        {
+          "player": "AM Ellis",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 50,
+          "wickets": 0,
+          "economy": 3.3
+        },
+        {
+          "player": "TD Astle",
+          "overs": "36.0",
+          "balls": 216,
+          "runs": 146,
+          "wickets": 4,
+          "economy": 4.06
+        },
+        {
+          "player": "RM Hira",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 2.29
+        },
+        {
+          "player": "HM Nicholls",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Canterbury",
+      "runs": 362,
+      "extras": 26,
+      "balls": 518,
+      "batting": [
+        {
+          "player": "RM Hira",
+          "runs": 14,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.85,
+          "out": true
+        },
+        {
+          "player": "GJ Dawson",
+          "runs": 6,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "PG Fulton",
+          "runs": 101,
+          "balls": 177,
+          "fours": 12,
+          "sixes": 1,
+          "strike_rate": 57.06,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 78,
+          "balls": 144,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 54.17,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 54,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "AM Ellis",
+          "runs": 81,
+          "balls": 82,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 98.78,
+          "out": false
+        },
+        {
+          "player": "TD Astle",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "CD Fletcher",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MD Bates",
+          "overs": "16.4",
+          "balls": 100,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 4.2
+        },
+        {
+          "player": "DJ Bartlett",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 2.95
+        },
+        {
+          "player": "DJ Grobbelaar",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 56,
+          "wickets": 0,
+          "economy": 5.33
+        },
+        {
+          "player": "TS Nethula",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 90,
+          "wickets": 0,
+          "economy": 3.33
+        },
+        {
+          "player": "LH Ferguson",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 5.1
+        },
+        {
+          "player": "RJ Nicol",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 65,
+          "wickets": 2,
+          "economy": 5.42
+        }
+      ]
+    }
+  ]
+}

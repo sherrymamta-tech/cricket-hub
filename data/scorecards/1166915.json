@@ -1,0 +1,615 @@
+{
+  "id": "1166915",
+  "teams": [
+    "Somerset",
+    "Kent"
+  ],
+  "date": "2019-04-05",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "County Ground, Taunton",
+  "result": "Somerset won by 74 runs",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Somerset",
+      "runs": 171,
+      "extras": 1,
+      "balls": 288,
+      "batting": [
+        {
+          "player": "ME Trescothick",
+          "runs": 10,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 24,
+          "balls": 39,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "JC Hildreth",
+          "runs": 27,
+          "balls": 34,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 79.41,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 49,
+          "balls": 80,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 61.25,
+          "out": true
+        },
+        {
+          "player": "EJ Byrom",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SM Davies",
+          "runs": 18,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.65,
+          "out": true
+        },
+        {
+          "player": "GA Bartlett",
+          "runs": 6,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 14,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "JH Davey",
+          "runs": 7,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "JA Brooks",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HW Podmore",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 3.08
+        },
+        {
+          "player": "DI Stevens",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 4.36
+        },
+        {
+          "player": "ME Milnes",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 40,
+          "wickets": 3,
+          "economy": 3.08
+        },
+        {
+          "player": "ME Claydon",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 46,
+          "wickets": 5,
+          "economy": 3.83
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 209,
+      "extras": 26,
+      "balls": 444,
+      "batting": [
+        {
+          "player": "SR Dickson",
+          "runs": 43,
+          "balls": 107,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 40.19,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 37,
+          "balls": 66,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 56.06,
+          "out": true
+        },
+        {
+          "player": "HW Podmore",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "MT Renshaw",
+          "runs": 5,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.24,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 33,
+          "balls": 84,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 39.29,
+          "out": true
+        },
+        {
+          "player": "HG Kuhn",
+          "runs": 18,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "AJ Blake",
+          "runs": 8,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 13,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.95,
+          "out": true
+        },
+        {
+          "player": "DI Stevens",
+          "runs": 6,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "ME Milnes",
+          "runs": 5,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": true
+        },
+        {
+          "player": "ME Claydon",
+          "runs": 13,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 130.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Gregory",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 37,
+          "wickets": 3,
+          "economy": 2.16
+        },
+        {
+          "player": "JA Brooks",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 76,
+          "wickets": 1,
+          "economy": 3.8
+        },
+        {
+          "player": "JH Davey",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 2.28
+        },
+        {
+          "player": "C Overton",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 52,
+          "wickets": 3,
+          "economy": 3.06
+        },
+        {
+          "player": "TB Abell",
+          "overs": "1.5",
+          "balls": 11,
+          "runs": 3,
+          "wickets": 1,
+          "economy": 1.64
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Somerset",
+      "runs": 243,
+      "extras": 16,
+      "balls": 433,
+      "batting": [
+        {
+          "player": "ME Trescothick",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 2,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.33,
+          "out": true
+        },
+        {
+          "player": "JC Hildreth",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 30,
+          "balls": 93,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.26,
+          "out": true
+        },
+        {
+          "player": "EJ Byrom",
+          "runs": 14,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true
+        },
+        {
+          "player": "SM Davies",
+          "runs": 39,
+          "balls": 77,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 50.65,
+          "out": true
+        },
+        {
+          "player": "GA Bartlett",
+          "runs": 63,
+          "balls": 110,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 57.27,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 7,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 28,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 68.29,
+          "out": true
+        },
+        {
+          "player": "JH Davey",
+          "runs": 2,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "JA Brooks",
+          "runs": 35,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 112.9,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HW Podmore",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 3.53
+        },
+        {
+          "player": "DI Stevens",
+          "overs": "15.3",
+          "balls": 93,
+          "runs": 34,
+          "wickets": 3,
+          "economy": 2.19
+        },
+        {
+          "player": "ME Claydon",
+          "overs": "18.2",
+          "balls": 110,
+          "runs": 67,
+          "wickets": 4,
+          "economy": 3.65
+        },
+        {
+          "player": "ME Milnes",
+          "overs": "11.2",
+          "balls": 68,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 5.21
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 2.33
+        },
+        {
+          "player": "MT Renshaw",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Kent",
+      "runs": 131,
+      "extras": 4,
+      "balls": 277,
+      "batting": [
+        {
+          "player": "SR Dickson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MT Renshaw",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 21,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 18,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 51.43,
+          "out": true
+        },
+        {
+          "player": "HG Kuhn",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AJ Blake",
+          "runs": 20,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.78,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 2,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "DI Stevens",
+          "runs": 43,
+          "balls": 82,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 52.44,
+          "out": false
+        },
+        {
+          "player": "HW Podmore",
+          "runs": 6,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "ME Milnes",
+          "runs": 10,
+          "balls": 46,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.74,
+          "out": true
+        },
+        {
+          "player": "ME Claydon",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Gregory",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 18,
+          "wickets": 5,
+          "economy": 1.38
+        },
+        {
+          "player": "JA Brooks",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "player": "C Overton",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 2.73
+        },
+        {
+          "player": "JH Davey",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 3.89
+        },
+        {
+          "player": "TB Abell",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 2.6
+        }
+      ]
+    }
+  ]
+}

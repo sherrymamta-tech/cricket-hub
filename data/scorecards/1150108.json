@@ -1,0 +1,579 @@
+{
+  "id": "1150108",
+  "teams": [
+    "New South Wales",
+    "South Australia"
+  ],
+  "date": "2018-10-16",
+  "format": "MDM",
+  "competition": "Sheffield Shield",
+  "venue": "Adelaide Oval",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New South Wales",
+      "runs": 246,
+      "extras": 8,
+      "balls": 458,
+      "batting": [
+        {
+          "player": "DP Hughes",
+          "runs": 60,
+          "balls": 163,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 36.81,
+          "out": true
+        },
+        {
+          "player": "NCR Larkin",
+          "runs": 2,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "KR Patterson",
+          "runs": 17,
+          "balls": 57,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.82,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 47,
+          "balls": 73,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 64.38,
+          "out": true
+        },
+        {
+          "player": "J Edwards",
+          "runs": 4,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "PM Nevill",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JJS Sangha",
+          "runs": 12,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "DR Sams",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TA Copeland",
+          "runs": 55,
+          "balls": 68,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 80.88,
+          "out": false
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "runs": 14,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "SA Abbott",
+          "runs": 27,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 87.1,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJ Sayers",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 2.57
+        },
+        {
+          "player": "NP Winter",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "JM Mennie",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 42,
+          "wickets": 5,
+          "economy": 2.1
+        },
+        {
+          "player": "C Valente",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 3.89
+        },
+        {
+          "player": "L Pope",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Australia",
+      "runs": 273,
+      "extras": 5,
+      "balls": 650,
+      "batting": [
+        {
+          "player": "J Weatherald",
+          "runs": 14,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true
+        },
+        {
+          "player": "CJ McInerney",
+          "runs": 8,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 34.78,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 36,
+          "balls": 115,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 31.3,
+          "out": true
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 61,
+          "balls": 123,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 49.59,
+          "out": true
+        },
+        {
+          "player": "TLW Cooper",
+          "runs": 40,
+          "balls": 47,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 85.11,
+          "out": true
+        },
+        {
+          "player": "HJ Nielsen",
+          "runs": 36,
+          "balls": 116,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 31.03,
+          "out": true
+        },
+        {
+          "player": "C Valente",
+          "runs": 12,
+          "balls": 52,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "JM Mennie",
+          "runs": 33,
+          "balls": 67,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 49.25,
+          "out": true
+        },
+        {
+          "player": "NP Winter",
+          "runs": 16,
+          "balls": 58,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.59,
+          "out": true
+        },
+        {
+          "player": "CJ Sayers",
+          "runs": 12,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": false
+        },
+        {
+          "player": "L Pope",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Copeland",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 86,
+          "wickets": 6,
+          "economy": 2.87
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "24.2",
+          "balls": 146,
+          "runs": 65,
+          "wickets": 2,
+          "economy": 2.67
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 1.93
+        },
+        {
+          "player": "DR Sams",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 2.61
+        },
+        {
+          "player": "J Edwards",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 2.14
+        },
+        {
+          "player": "JJS Sangha",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New South Wales",
+      "runs": 279,
+      "extras": 11,
+      "balls": 520,
+      "batting": [
+        {
+          "player": "DP Hughes",
+          "runs": 18,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "NCR Larkin",
+          "runs": 39,
+          "balls": 85,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.88,
+          "out": true
+        },
+        {
+          "player": "KR Patterson",
+          "runs": 12,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.29,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 12,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 70.59,
+          "out": true
+        },
+        {
+          "player": "SA Abbott",
+          "runs": 29,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 78.38,
+          "out": true
+        },
+        {
+          "player": "J Edwards",
+          "runs": 30,
+          "balls": 91,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.97,
+          "out": true
+        },
+        {
+          "player": "PM Nevill",
+          "runs": 72,
+          "balls": 149,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 48.32,
+          "out": false
+        },
+        {
+          "player": "JJS Sangha",
+          "runs": 33,
+          "balls": 55,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "DR Sams",
+          "runs": 14,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "TA Copeland",
+          "runs": 9,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJ Sayers",
+          "overs": "25.2",
+          "balls": 152,
+          "runs": 101,
+          "wickets": 5,
+          "economy": 3.99
+        },
+        {
+          "player": "NP Winter",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 76,
+          "wickets": 2,
+          "economy": 3.77
+        },
+        {
+          "player": "JM Mennie",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 2.22
+        },
+        {
+          "player": "L Pope",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 2.89
+        },
+        {
+          "player": "C Valente",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 1.94
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "South Australia",
+      "runs": 103,
+      "extras": 4,
+      "balls": 269,
+      "batting": [
+        {
+          "player": "J Weatherald",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "CJ McInerney",
+          "runs": 13,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 72.22,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 33,
+          "balls": 126,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 26.19,
+          "out": false
+        },
+        {
+          "player": "TLW Cooper",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HJ Nielsen",
+          "runs": 5,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.81,
+          "out": true
+        },
+        {
+          "player": "C Valente",
+          "runs": 24,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "JM Mennie",
+          "runs": 12,
+          "balls": 51,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Copeland",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 45,
+          "wickets": 3,
+          "economy": 2.37
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "13.4",
+          "balls": 82,
+          "runs": 31,
+          "wickets": 3,
+          "economy": 2.27
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 1.25
+        },
+        {
+          "player": "DR Sams",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.08
+        }
+      ]
+    }
+  ]
+}

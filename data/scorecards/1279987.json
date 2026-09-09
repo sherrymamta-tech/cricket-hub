@@ -1,0 +1,588 @@
+{
+  "id": "1279987",
+  "teams": [
+    "Canterbury",
+    "Auckland Aces"
+  ],
+  "date": "2022-04-12",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Bert Sutcliffe Oval, Lincoln",
+  "result": "Canterbury won by 98 runs",
+  "winner": "Canterbury",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Canterbury",
+      "runs": 325,
+      "extras": 23,
+      "balls": 562,
+      "batting": [
+        {
+          "player": "CJ Bowes",
+          "runs": 127,
+          "balls": 167,
+          "fours": 19,
+          "sixes": 1,
+          "strike_rate": 76.05,
+          "out": true
+        },
+        {
+          "player": "KJ McClure",
+          "runs": 22,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 55.0,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 45,
+          "balls": 73,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 61.64,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 56,
+          "balls": 91,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "LJ Carter",
+          "runs": 39,
+          "balls": 102,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 38.24,
+          "out": false
+        },
+        {
+          "player": "CD Fletcher",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "ZGF Foulkes",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SB Davey",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TF van Woerkom",
+          "runs": 9,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "WSA Williams",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "W O'Rourke",
+          "runs": 4,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BG Lister",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 62,
+          "wickets": 0,
+          "economy": 4.77
+        },
+        {
+          "player": "SB Keene",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 3.18
+        },
+        {
+          "player": "SM Solia",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 3.78
+        },
+        {
+          "player": "WER Somerville",
+          "overs": "31.0",
+          "balls": 186,
+          "runs": 93,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "L Delport",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 79,
+          "wickets": 7,
+          "economy": 3.39
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Auckland Aces",
+      "runs": 172,
+      "extras": 15,
+      "balls": 409,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WT O'Donnell",
+          "runs": 9,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "GH Worker",
+          "runs": 29,
+          "balls": 65,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 44.62,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 14,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 6,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 16,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 29,
+          "balls": 125,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 23.2,
+          "out": true
+        },
+        {
+          "player": "WER Somerville",
+          "runs": 37,
+          "balls": 92,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.22,
+          "out": true
+        },
+        {
+          "player": "SB Keene",
+          "runs": 5,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 19.23,
+          "out": true
+        },
+        {
+          "player": "L Delport",
+          "runs": 12,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "BG Lister",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WSA Williams",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 3.33
+        },
+        {
+          "player": "W O'Rourke",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 2.33
+        },
+        {
+          "player": "CE McConchie",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 77,
+          "wickets": 4,
+          "economy": 2.94
+        },
+        {
+          "player": "TF van Woerkom",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 51,
+          "wickets": 5,
+          "economy": 2.04
+        },
+        {
+          "player": "SB Davey",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Canterbury",
+      "runs": 218,
+      "extras": 10,
+      "balls": 290,
+      "batting": [
+        {
+          "player": "KJ McClure",
+          "runs": 16,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "CJ Bowes",
+          "runs": 22,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.74,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 72,
+          "balls": 74,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 97.3,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 34,
+          "balls": 39,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 87.18,
+          "out": true
+        },
+        {
+          "player": "LJ Carter",
+          "runs": 36,
+          "balls": 51,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 70.59,
+          "out": false
+        },
+        {
+          "player": "CD Fletcher",
+          "runs": 4,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "ZGF Foulkes",
+          "runs": 11,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 57.89,
+          "out": true
+        },
+        {
+          "player": "SB Davey",
+          "runs": 13,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 216.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Delport",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 91,
+          "wickets": 0,
+          "economy": 4.33
+        },
+        {
+          "player": "WER Somerville",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 83,
+          "wickets": 4,
+          "economy": 4.12
+        },
+        {
+          "player": "SM Solia",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "SB Keene",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.24
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Auckland Aces",
+      "runs": 273,
+      "extras": 9,
+      "balls": 514,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 33,
+          "balls": 40,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 82.5,
+          "out": true
+        },
+        {
+          "player": "GH Worker",
+          "runs": 7,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "WT O'Donnell",
+          "runs": 119,
+          "balls": 241,
+          "fours": 16,
+          "sixes": 1,
+          "strike_rate": 49.38,
+          "out": false
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 17,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 65.38,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 31,
+          "balls": 53,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 58.49,
+          "out": true
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 35,
+          "balls": 73,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 47.95,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 11,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.56,
+          "out": true
+        },
+        {
+          "player": "WER Somerville",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "SB Keene",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "L Delport",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "BG Lister",
+          "runs": 5,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WSA Williams",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 37,
+          "wickets": 3,
+          "economy": 3.47
+        },
+        {
+          "player": "W O'Rourke",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 60,
+          "wickets": 3,
+          "economy": 4.29
+        },
+        {
+          "player": "CE McConchie",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 68,
+          "wickets": 2,
+          "economy": 2.83
+        },
+        {
+          "player": "TF van Woerkom",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 97,
+          "wickets": 1,
+          "economy": 3.23
+        },
+        {
+          "player": "SB Davey",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 1.67
+        },
+        {
+          "player": "HM Nicholls",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    }
+  ]
+}

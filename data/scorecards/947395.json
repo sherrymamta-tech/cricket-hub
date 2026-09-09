@@ -1,0 +1,60 @@
+{
+  "id": "947395",
+  "teams": [
+    "Northamptonshire",
+    "Leicestershire"
+  ],
+  "date": "2016-06-12",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "County Ground, Northampton",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northamptonshire",
+      "runs": 12,
+      "extras": 4,
+      "balls": 16,
+      "batting": [
+        {
+          "player": "JJ Cobb",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": false
+        },
+        {
+          "player": "AM Rossington",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "1.3",
+          "balls": 9,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 3.33
+        },
+        {
+          "player": "CJ McKay",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

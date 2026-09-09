@@ -1,0 +1,111 @@
+{
+  "id": "1196129",
+  "teams": [
+    "Western Australia",
+    "Victoria"
+  ],
+  "date": "2019-12-07",
+  "format": "MDM",
+  "competition": "Marsh Sheffield Shield",
+  "venue": "Melbourne Cricket Ground",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Western Australia",
+      "runs": 89,
+      "extras": 12,
+      "balls": 239,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 10,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.64,
+          "out": true
+        },
+        {
+          "player": "JM Carder",
+          "runs": 44,
+          "balls": 103,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 42.72,
+          "out": true
+        },
+        {
+          "player": "SE Marsh",
+          "runs": 14,
+          "balls": 57,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 24.56,
+          "out": true
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 2,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.41,
+          "out": false
+        },
+        {
+          "player": "C Green",
+          "runs": 7,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "PM Siddle",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 25,
+          "wickets": 3,
+          "economy": 1.79
+        },
+        {
+          "player": "CP Tremain",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 3.14
+        },
+        {
+          "player": "AL Fekete",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 2.57
+        },
+        {
+          "player": "W Sutherland",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 1.64
+        },
+        {
+          "player": "MW Short",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "id": "1443081",
+  "teams": [
+    "Sydney Thunder",
+    "Brisbane Heat"
+  ],
+  "date": "2025-01-06",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+  "result": "Brisbane Heat won by 5 wickets",
+  "winner": "Brisbane Heat",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Thunder",
+      "runs": 173,
+      "extras": 13,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "O Davies",
+          "runs": 10,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 50,
+          "balls": 37,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 135.14,
+          "out": true
+        },
+        {
+          "player": "M Gilkes",
+          "runs": 20,
+          "balls": 11,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 181.82,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 10,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SE Rutherford",
+          "runs": 11,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 122.22,
+          "out": true
+        },
+        {
+          "player": "HD Weibgen",
+          "runs": 11,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 137.5,
+          "out": true
+        },
+        {
+          "player": "CJ Green",
+          "runs": 5,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "DT Christian",
+          "runs": 23,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 143.75,
+          "out": false
+        },
+        {
+          "player": "TD Andrews",
+          "runs": 13,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 216.67,
+          "out": true
+        },
+        {
+          "player": "LH Ferguson",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Neser",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 6.5
+        },
+        {
+          "player": "XC Bartlett",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 10.08
+        },
+        {
+          "player": "MP Kuhnemann",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 7.68
+        },
+        {
+          "player": "MJ Swepson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 8.16
+        },
+        {
+          "player": "SH Johnson",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 39,
+          "wickets": 3,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Brisbane Heat",
+      "runs": 174,
+      "extras": 6,
+      "balls": 117,
+      "batting": [
+        {
+          "player": "JP Wood",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "NA McSweeney",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 23,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 92.0,
+          "out": true
+        },
+        {
+          "player": "MT Renshaw",
+          "runs": 48,
+          "balls": 34,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 141.18,
+          "out": false
+        },
+        {
+          "player": "M Bryant",
+          "runs": 72,
+          "balls": 36,
+          "fours": 7,
+          "sixes": 4,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "TP Alsop",
+          "runs": 9,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "MG Neser",
+          "runs": 7,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 233.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LH Ferguson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.5
+        },
+        {
+          "player": "WA Agar",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 61,
+          "wickets": 1,
+          "economy": 14.64
+        },
+        {
+          "player": "DT Christian",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 6.25
+        },
+        {
+          "player": "CJ Green",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 10.08
+        },
+        {
+          "player": "TD Andrews",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 7.58
+        }
+      ]
+    }
+  ]
+}

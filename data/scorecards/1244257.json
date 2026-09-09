@@ -1,0 +1,485 @@
+{
+  "id": "1244257",
+  "teams": [
+    "Hampshire",
+    "Somerset"
+  ],
+  "date": "2021-05-06",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "The Rose Bowl, Southampton",
+  "result": "Somerset won by 10 wickets",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Hampshire",
+      "runs": 79,
+      "extras": 3,
+      "balls": 243,
+      "batting": [
+        {
+          "player": "JJ Weatherley",
+          "runs": 20,
+          "balls": 69,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 28.99,
+          "out": true
+        },
+        {
+          "player": "IG Holland",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "TP Alsop",
+          "runs": 5,
+          "balls": 40,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 6,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "LA Dawson",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LD McManus",
+          "runs": 13,
+          "balls": 42,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.95,
+          "out": true
+        },
+        {
+          "player": "FS Organ",
+          "runs": 11,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 52.38,
+          "out": true
+        },
+        {
+          "player": "KHD Barker",
+          "runs": 10,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "KJ Abbott",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Gregory",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 26,
+          "wickets": 4,
+          "economy": 1.93
+        },
+        {
+          "player": "C Overton",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 1.64
+        },
+        {
+          "player": "JH Davey",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "TB Abell",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 2,
+          "wickets": 1,
+          "economy": 0.4
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Somerset",
+      "runs": 336,
+      "extras": 15,
+      "balls": 596,
+      "batting": [
+        {
+          "player": "EJ Byrom",
+          "runs": 11,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "TA Lammonby",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JC Hildreth",
+          "runs": 14,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 64,
+          "balls": 153,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 41.83,
+          "out": true
+        },
+        {
+          "player": "GA Bartlett",
+          "runs": 27,
+          "balls": 81,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "LP Goldsworthy",
+          "runs": 24,
+          "balls": 62,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 38.71,
+          "out": true
+        },
+        {
+          "player": "MJ Leach",
+          "runs": 34,
+          "balls": 44,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 77.27,
+          "out": true
+        },
+        {
+          "player": "SM Davies",
+          "runs": 33,
+          "balls": 47,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 70.21,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 74,
+          "balls": 93,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 79.57,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 33,
+          "balls": 60,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 55.0,
+          "out": false
+        },
+        {
+          "player": "JH Davey",
+          "runs": 7,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KHD Barker",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 68,
+          "wickets": 4,
+          "economy": 2.81
+        },
+        {
+          "player": "Mohammad Abbas",
+          "overs": "31.0",
+          "balls": 186,
+          "runs": 88,
+          "wickets": 2,
+          "economy": 2.84
+        },
+        {
+          "player": "KJ Abbott",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 92,
+          "wickets": 3,
+          "economy": 3.54
+        },
+        {
+          "player": "IG Holland",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 5.64
+        },
+        {
+          "player": "LA Dawson",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 3.57
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Hampshire",
+      "runs": 258,
+      "extras": 34,
+      "balls": 797,
+      "batting": [
+        {
+          "player": "JJ Weatherley",
+          "runs": 44,
+          "balls": 209,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 21.05,
+          "out": true
+        },
+        {
+          "player": "IG Holland",
+          "runs": 19,
+          "balls": 69,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 27.54,
+          "out": true
+        },
+        {
+          "player": "TP Alsop",
+          "runs": 32,
+          "balls": 64,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "KJ Abbott",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 9,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.0,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 42,
+          "balls": 118,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 35.59,
+          "out": true
+        },
+        {
+          "player": "LA Dawson",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LD McManus",
+          "runs": 19,
+          "balls": 79,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 24.05,
+          "out": true
+        },
+        {
+          "player": "FS Organ",
+          "runs": 7,
+          "balls": 110,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.36,
+          "out": true
+        },
+        {
+          "player": "KHD Barker",
+          "runs": 52,
+          "balls": 96,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": false
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Gregory",
+          "overs": "29.1",
+          "balls": 175,
+          "runs": 78,
+          "wickets": 0,
+          "economy": 2.67
+        },
+        {
+          "player": "C Overton",
+          "overs": "40.0",
+          "balls": 240,
+          "runs": 70,
+          "wickets": 5,
+          "economy": 1.75
+        },
+        {
+          "player": "JH Davey",
+          "overs": "24.2",
+          "balls": 146,
+          "runs": 34,
+          "wickets": 5,
+          "economy": 1.4
+        },
+        {
+          "player": "TB Abell",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 2.24
+        },
+        {
+          "player": "MJ Leach",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 1.7
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Somerset",
+      "runs": 2,
+      "extras": 0,
+      "balls": 1,
+      "batting": [
+        {
+          "player": "EJ Byrom",
+          "runs": 2,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "IG Holland",
+          "overs": "0.1",
+          "balls": 1,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 12.0
+        }
+      ]
+    }
+  ]
+}

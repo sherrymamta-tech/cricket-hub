@@ -1,0 +1,118 @@
+{
+  "id": "1409505",
+  "teams": [
+    "Canterbury",
+    "Auckland"
+  ],
+  "date": "2024-01-28",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "Eden Park, Auckland",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Canterbury",
+      "runs": 133,
+      "extras": 2,
+      "balls": 88,
+      "batting": [
+        {
+          "player": "CJ Bowes",
+          "runs": 17,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 154.55,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 58,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 5,
+          "strike_rate": 170.59,
+          "out": false
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 42,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 14,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BG Lister",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "player": "DK Ferns",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 10.5
+        },
+        {
+          "player": "SM Solia",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 7.8
+        },
+        {
+          "player": "J McKenzie",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 10.15
+        },
+        {
+          "player": "L Delport",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 9.16
+        },
+        {
+          "player": "RD Harrison",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "MS Chapman",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 15.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "id": "1299169",
+  "teams": [
+    "Southern Brave",
+    "Trent Rockets"
+  ],
+  "date": "2022-09-02",
+  "format": "T20",
+  "competition": "The Hundred Women's Competition",
+  "venue": "The Rose Bowl, Southampton",
+  "result": "Southern Brave won by 2 runs",
+  "winner": "Southern Brave",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Southern Brave",
+      "runs": 134,
+      "extras": 8,
+      "balls": 102,
+      "batting": [
+        {
+          "player": "S Mandhana",
+          "runs": 16,
+          "balls": 11,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 145.45,
+          "out": true
+        },
+        {
+          "player": "DN Wyatt",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SIR Dunkley",
+          "runs": 8,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "TM McGrath",
+          "runs": 31,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 106.9,
+          "out": true
+        },
+        {
+          "player": "ME Bouchier",
+          "runs": 29,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 116.0,
+          "out": true
+        },
+        {
+          "player": "GL Adams",
+          "runs": 38,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 152.0,
+          "out": true
+        },
+        {
+          "player": "FG Kemp",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BF Smith",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 10.5
+        },
+        {
+          "player": "GK Davis",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 8.7
+        },
+        {
+          "player": "KH Brunt",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 6.3
+        },
+        {
+          "player": "NR Sciver",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 6.38
+        },
+        {
+          "player": "A King",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "S Glenn",
+          "overs": "1.4",
+          "balls": 10,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 8.4
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Trent Rockets",
+      "runs": 132,
+      "extras": 2,
+      "balls": 102,
+      "batting": [
+        {
+          "player": "BF Smith",
+          "runs": 16,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "EJ Villani",
+          "runs": 24,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 96.0,
+          "out": true
+        },
+        {
+          "player": "NR Sciver",
+          "runs": 72,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 5,
+          "strike_rate": 200.0,
+          "out": false
+        },
+        {
+          "player": "M du Preez",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "M Kelly",
+          "runs": 8,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "A King",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "KH Brunt",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "AJ Freeborn",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "S Glenn",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LK Bell",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 9.14
+        },
+        {
+          "player": "A Shrubsole",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 3.6
+        },
+        {
+          "player": "FG Kemp",
+          "overs": "0.5",
+          "balls": 5,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 8.4
+        },
+        {
+          "player": "GL Adams",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "A Wellington",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "player": "TM McGrath",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 10.29
+        }
+      ]
+    }
+  ]
+}

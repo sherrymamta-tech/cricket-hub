@@ -1,0 +1,631 @@
+{
+  "id": "947077",
+  "teams": [
+    "Northamptonshire",
+    "Gloucestershire"
+  ],
+  "date": "2016-09-12",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "County Ground, Northampton",
+  "result": "Northamptonshire won by 114 runs",
+  "winner": "Northamptonshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northamptonshire",
+      "runs": 326,
+      "extras": 6,
+      "balls": 596,
+      "batting": [
+        {
+          "player": "BM Duckett",
+          "runs": 5,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "RI Newton",
+          "runs": 130,
+          "balls": 223,
+          "fours": 17,
+          "sixes": 0,
+          "strike_rate": 58.3,
+          "out": true
+        },
+        {
+          "player": "AG Wakely",
+          "runs": 104,
+          "balls": 191,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 54.45,
+          "out": true
+        },
+        {
+          "player": "RI Keogh",
+          "runs": 8,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 32.0,
+          "out": true
+        },
+        {
+          "player": "RE Levi",
+          "runs": 28,
+          "balls": 51,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 54.9,
+          "out": true
+        },
+        {
+          "player": "SP Crook",
+          "runs": 27,
+          "balls": 43,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 62.79,
+          "out": true
+        },
+        {
+          "player": "AM Rossington",
+          "runs": 11,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.29,
+          "out": true
+        },
+        {
+          "player": "D Murphy",
+          "runs": 7,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": false
+        },
+        {
+          "player": "RK Kleinveldt",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Azharullah",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BW Sanderson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DA Payne",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 57,
+          "wickets": 4,
+          "economy": 2.48
+        },
+        {
+          "player": "LC Norwell",
+          "overs": "22.1",
+          "balls": 133,
+          "runs": 56,
+          "wickets": 3,
+          "economy": 2.53
+        },
+        {
+          "player": "CN Miles",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 58,
+          "wickets": 2,
+          "economy": 3.05
+        },
+        {
+          "player": "MD Taylor",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 89,
+          "wickets": 0,
+          "economy": 4.9
+        },
+        {
+          "player": "JMR Taylor",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 4.64
+        },
+        {
+          "player": "CDJ Dent",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 2.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Gloucestershire",
+      "runs": 261,
+      "extras": 24,
+      "balls": 479,
+      "batting": [
+        {
+          "player": "GH Roderick",
+          "runs": 18,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 78.26,
+          "out": true
+        },
+        {
+          "player": "CDJ Dent",
+          "runs": 9,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "WA Tavare",
+          "runs": 36,
+          "balls": 111,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 32.43,
+          "out": true
+        },
+        {
+          "player": "GT Hankins",
+          "runs": 8,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 25.81,
+          "out": true
+        },
+        {
+          "player": "HJH Marshall",
+          "runs": 38,
+          "balls": 79,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 48.1,
+          "out": true
+        },
+        {
+          "player": "P Mustard",
+          "runs": 19,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JMR Taylor",
+          "runs": 35,
+          "balls": 60,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "CN Miles",
+          "runs": 3,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "DA Payne",
+          "runs": 56,
+          "balls": 65,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 86.15,
+          "out": true
+        },
+        {
+          "player": "LC Norwell",
+          "runs": 13,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        },
+        {
+          "player": "MD Taylor",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RK Kleinveldt",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 3.24
+        },
+        {
+          "player": "BW Sanderson",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 1.78
+        },
+        {
+          "player": "Azharullah",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 60,
+          "wickets": 2,
+          "economy": 3.71
+        },
+        {
+          "player": "SP Crook",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 3.76
+        },
+        {
+          "player": "RI Keogh",
+          "overs": "17.3",
+          "balls": 105,
+          "runs": 72,
+          "wickets": 4,
+          "economy": 4.11
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Northamptonshire",
+      "runs": 376,
+      "extras": 17,
+      "balls": 519,
+      "batting": [
+        {
+          "player": "BM Duckett",
+          "runs": 70,
+          "balls": 87,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 80.46,
+          "out": true
+        },
+        {
+          "player": "RI Newton",
+          "runs": 47,
+          "balls": 65,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 72.31,
+          "out": true
+        },
+        {
+          "player": "AG Wakely",
+          "runs": 19,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 51.35,
+          "out": true
+        },
+        {
+          "player": "RI Keogh",
+          "runs": 13,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.33,
+          "out": true
+        },
+        {
+          "player": "RE Levi",
+          "runs": 95,
+          "balls": 114,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "AM Rossington",
+          "runs": 24,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "SP Crook",
+          "runs": 46,
+          "balls": 88,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.27,
+          "out": true
+        },
+        {
+          "player": "D Murphy",
+          "runs": 36,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "Azharullah",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "BW Sanderson",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "RK Kleinveldt",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LC Norwell",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 79,
+          "wickets": 0,
+          "economy": 4.65
+        },
+        {
+          "player": "DA Payne",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 75,
+          "wickets": 4,
+          "economy": 4.13
+        },
+        {
+          "player": "MD Taylor",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 4.08
+        },
+        {
+          "player": "CN Miles",
+          "overs": "18.2",
+          "balls": 110,
+          "runs": 89,
+          "wickets": 2,
+          "economy": 4.85
+        },
+        {
+          "player": "JMR Taylor",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 4.38
+        },
+        {
+          "player": "CDJ Dent",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 3.38
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Gloucestershire",
+      "runs": 327,
+      "extras": 20,
+      "balls": 583,
+      "batting": [
+        {
+          "player": "GH Roderick",
+          "runs": 19,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 70.37,
+          "out": true
+        },
+        {
+          "player": "CDJ Dent",
+          "runs": 58,
+          "balls": 156,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 37.18,
+          "out": true
+        },
+        {
+          "player": "WA Tavare",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LC Norwell",
+          "runs": 14,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "GT Hankins",
+          "runs": 116,
+          "balls": 177,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 65.54,
+          "out": true
+        },
+        {
+          "player": "HJH Marshall",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "P Mustard",
+          "runs": 79,
+          "balls": 139,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 56.83,
+          "out": true
+        },
+        {
+          "player": "JMR Taylor",
+          "runs": 5,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "CN Miles",
+          "runs": 10,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "DA Payne",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "MD Taylor",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RK Kleinveldt",
+          "overs": "25.2",
+          "balls": 152,
+          "runs": 108,
+          "wickets": 2,
+          "economy": 4.26
+        },
+        {
+          "player": "BW Sanderson",
+          "overs": "29.5",
+          "balls": 179,
+          "runs": 77,
+          "wickets": 8,
+          "economy": 2.58
+        },
+        {
+          "player": "RI Keogh",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 2.58
+        },
+        {
+          "player": "Azharullah",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 2.55
+        },
+        {
+          "player": "SP Crook",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 65,
+          "wickets": 0,
+          "economy": 5.42
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "1098206",
+  "teams": [
+    "West Indies",
+    "India"
+  ],
+  "date": "2017-06-23",
+  "format": "ODI",
+  "competition": "India in West Indies ODI Series",
+  "venue": "Queen's Park Oval, Port of Spain",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 199,
+      "extras": 5,
+      "balls": 241,
+      "batting": [
+        {
+          "player": "AM Rahane",
+          "runs": 62,
+          "balls": 80,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 77.5,
+          "out": true
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 87,
+          "balls": 94,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 92.55,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 32,
+          "balls": 47,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 68.09,
+          "out": false
+        },
+        {
+          "player": "Yuvraj Singh",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 9,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JO Holder",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 4.16
+        },
+        {
+          "player": "AS Joseph",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 6.49
+        },
+        {
+          "player": "AR Nurse",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "player": "ML Cummins",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 5.52
+        },
+        {
+          "player": "D Bishoo",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 3.9
+        },
+        {
+          "player": "JL Carter",
+          "overs": "1.3",
+          "balls": 9,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 3.33
+        }
+      ]
+    }
+  ]
+}

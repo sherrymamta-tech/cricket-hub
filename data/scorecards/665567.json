@@ -1,0 +1,600 @@
+{
+  "id": "665567",
+  "teams": [
+    "Canterbury",
+    "Auckland Aces"
+  ],
+  "date": "2014-02-07",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Hagley Oval, Christchurch",
+  "result": "Canterbury won by 64 runs",
+  "winner": "Canterbury",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Canterbury",
+      "runs": 328,
+      "extras": 17,
+      "balls": 765,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 39,
+          "balls": 81,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 48.15,
+          "out": true
+        },
+        {
+          "player": "GH Worker",
+          "runs": 33,
+          "balls": 127,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 25.98,
+          "out": true
+        },
+        {
+          "player": "DG Brownlie",
+          "runs": 41,
+          "balls": 74,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 55.41,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 17,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 89.47,
+          "out": true
+        },
+        {
+          "player": "RJ Nicol",
+          "runs": 66,
+          "balls": 223,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 29.6,
+          "out": false
+        },
+        {
+          "player": "SL Stewart",
+          "runs": 7,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "B Cachopa",
+          "runs": 12,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "AM Ellis",
+          "runs": 35,
+          "balls": 56,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "TD Astle",
+          "runs": 44,
+          "balls": 95,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 46.32,
+          "out": true
+        },
+        {
+          "player": "RJ McCone",
+          "runs": 13,
+          "balls": 31,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 41.94,
+          "out": true
+        },
+        {
+          "player": "HK Bennett",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MD Bates",
+          "overs": "32.0",
+          "balls": 192,
+          "runs": 61,
+          "wickets": 2,
+          "economy": 1.91
+        },
+        {
+          "player": "MR Quinn",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 81,
+          "wickets": 0,
+          "economy": 2.89
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "26.3",
+          "balls": 159,
+          "runs": 69,
+          "wickets": 3,
+          "economy": 2.6
+        },
+        {
+          "player": "C Munro",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 60,
+          "wickets": 3,
+          "economy": 2.29
+        },
+        {
+          "player": "BP Martin",
+          "overs": "14.5",
+          "balls": 89,
+          "runs": 57,
+          "wickets": 2,
+          "economy": 3.84
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Auckland Aces",
+      "runs": 300,
+      "extras": 11,
+      "balls": 634,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 5,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.73,
+          "out": true
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 50,
+          "balls": 94,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 53.19,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 72,
+          "balls": 118,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 61.02,
+          "out": true
+        },
+        {
+          "player": "Craig Cachopa",
+          "runs": 28,
+          "balls": 114,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 24.56,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 50,
+          "balls": 91,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 54.95,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 19,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 57.58,
+          "out": true
+        },
+        {
+          "player": "GJ Hopkins",
+          "runs": 18,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "BP Martin",
+          "runs": 33,
+          "balls": 77,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": false
+        },
+        {
+          "player": "MD Bates",
+          "runs": 14,
+          "balls": 40,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HK Bennett",
+          "overs": "20.5",
+          "balls": 125,
+          "runs": 62,
+          "wickets": 2,
+          "economy": 2.98
+        },
+        {
+          "player": "RJ McCone",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 71,
+          "wickets": 1,
+          "economy": 2.82
+        },
+        {
+          "player": "AM Ellis",
+          "overs": "30.4",
+          "balls": 184,
+          "runs": 72,
+          "wickets": 4,
+          "economy": 2.35
+        },
+        {
+          "player": "SL Stewart",
+          "overs": "15.3",
+          "balls": 93,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 2.58
+        },
+        {
+          "player": "TD Astle",
+          "overs": "12.3",
+          "balls": 75,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 4.24
+        },
+        {
+          "player": "GH Worker",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Canterbury",
+      "runs": 332,
+      "extras": 9,
+      "balls": 402,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 22,
+          "balls": 45,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 48.89,
+          "out": true
+        },
+        {
+          "player": "GH Worker",
+          "runs": 22,
+          "balls": 76,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 28.95,
+          "out": true
+        },
+        {
+          "player": "DG Brownlie",
+          "runs": 98,
+          "balls": 93,
+          "fours": 15,
+          "sixes": 3,
+          "strike_rate": 105.38,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "RJ Nicol",
+          "runs": 81,
+          "balls": 116,
+          "fours": 13,
+          "sixes": 3,
+          "strike_rate": 69.83,
+          "out": false
+        },
+        {
+          "player": "SL Stewart",
+          "runs": 96,
+          "balls": 65,
+          "fours": 13,
+          "sixes": 4,
+          "strike_rate": 147.69,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MD Bates",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 3.14
+        },
+        {
+          "player": "MR Quinn",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 1.2
+        },
+        {
+          "player": "C Munro",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 3.25
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 3.1
+        },
+        {
+          "player": "Bhupinder Singh",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "JA Raval",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 113,
+          "wickets": 2,
+          "economy": 5.84
+        },
+        {
+          "player": "AK Kitchen",
+          "overs": "10.5",
+          "balls": 65,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 2.31
+        },
+        {
+          "player": "Craig Cachopa",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 57,
+          "wickets": 0,
+          "economy": 10.69
+        },
+        {
+          "player": "MJ Guptill",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 69,
+          "wickets": 0,
+          "economy": 8.62
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Auckland Aces",
+      "runs": 296,
+      "extras": 21,
+      "balls": 456,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 19,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.72,
+          "out": true
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 9,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 8,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "Craig Cachopa",
+          "runs": 118,
+          "balls": 165,
+          "fours": 14,
+          "sixes": 2,
+          "strike_rate": 71.52,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 58,
+          "balls": 47,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 123.4,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "GJ Hopkins",
+          "runs": 40,
+          "balls": 58,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 68.97,
+          "out": true
+        },
+        {
+          "player": "BP Martin",
+          "runs": 0,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MD Bates",
+          "runs": 15,
+          "balls": 78,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.23,
+          "out": true
+        },
+        {
+          "player": "MR Quinn",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Bhupinder Singh",
+          "runs": 1,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HK Bennett",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 59,
+          "wickets": 1,
+          "economy": 4.12
+        },
+        {
+          "player": "RJ McCone",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 80,
+          "wickets": 4,
+          "economy": 4.44
+        },
+        {
+          "player": "AM Ellis",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 3.12
+        },
+        {
+          "player": "SL Stewart",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 8.33
+        },
+        {
+          "player": "TD Astle",
+          "overs": "20.4",
+          "balls": 124,
+          "runs": 62,
+          "wickets": 4,
+          "economy": 3.0
+        },
+        {
+          "player": "RJ Nicol",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 5.67
+        }
+      ]
+    }
+  ]
+}

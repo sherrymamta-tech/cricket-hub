@@ -1,0 +1,279 @@
+{
+  "id": "1388218",
+  "teams": [
+    "New Zealand",
+    "Pakistan"
+  ],
+  "date": "2024-01-17",
+  "format": "T20",
+  "competition": "Pakistan tour of New Zealand",
+  "venue": "University Oval, Dunedin",
+  "result": "New Zealand won by 45 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 224,
+      "extras": 13,
+      "balls": 128,
+      "batting": [
+        {
+          "player": "FH Allen",
+          "runs": 137,
+          "balls": 68,
+          "fours": 5,
+          "sixes": 16,
+          "strike_rate": 201.47,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "TL Seifert",
+          "runs": 31,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 129.17,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 8,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 160.0,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 19,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 118.75,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 11.0
+        },
+        {
+          "player": "Zaman Khan",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 8.88
+        },
+        {
+          "player": "Haris Rauf",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 60,
+          "wickets": 2,
+          "economy": 12.86
+        },
+        {
+          "player": "Mohammad Nawaz",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 10.56
+        },
+        {
+          "player": "Mohammad Wasim",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 179,
+      "extras": 12,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "Saim Ayub",
+          "runs": 10,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 24,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 58,
+          "balls": 37,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 156.76,
+          "out": true
+        },
+        {
+          "player": "Fakhar Zaman",
+          "runs": 19,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 158.33,
+          "out": true
+        },
+        {
+          "player": "Azam Khan",
+          "runs": 10,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 142.86,
+          "out": true
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Nawaz",
+          "runs": 28,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 16,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 145.45,
+          "out": false
+        },
+        {
+          "player": "Mohammad Wasim",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 8.0
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 12.24
+        },
+        {
+          "player": "LH Ferguson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.44
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.23
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 9.5
+        }
+      ]
+    }
+  ]
+}

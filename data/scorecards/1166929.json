@@ -1,0 +1,551 @@
+{
+  "id": "1166929",
+  "teams": [
+    "Yorkshire",
+    "Hampshire"
+  ],
+  "date": "2019-05-27",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "Headingley, Leeds",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Yorkshire",
+      "runs": 181,
+      "extras": 16,
+      "balls": 340,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 18,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 17,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 65.38,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 12,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 45,
+          "balls": 105,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 19,
+          "balls": 47,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.43,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 14,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 32.56,
+          "out": true
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 34,
+          "balls": 35,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 97.14,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 6,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BO Coad",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KHD Barker",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 48,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "FH Edwards",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 53,
+          "wickets": 5,
+          "economy": 3.46
+        },
+        {
+          "player": "JK Fuller",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 51,
+          "wickets": 3,
+          "economy": 3.82
+        },
+        {
+          "player": "IG Holland",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 2.42
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Hampshire",
+      "runs": 235,
+      "extras": 19,
+      "balls": 449,
+      "batting": [
+        {
+          "player": "JJ Weatherley",
+          "runs": 14,
+          "balls": 61,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 22.95,
+          "out": true
+        },
+        {
+          "player": "OC Soames",
+          "runs": 2,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.0,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 31,
+          "balls": 65,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 47.69,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 50,
+          "balls": 92,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 54.35,
+          "out": true
+        },
+        {
+          "player": "RR Rossouw",
+          "runs": 12,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "TP Alsop",
+          "runs": 14,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.28,
+          "out": true
+        },
+        {
+          "player": "IG Holland",
+          "runs": 19,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.35,
+          "out": true
+        },
+        {
+          "player": "JK Fuller",
+          "runs": 54,
+          "balls": 74,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 72.97,
+          "out": false
+        },
+        {
+          "player": "KHD Barker",
+          "runs": 14,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "MS Crane",
+          "runs": 5,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "FH Edwards",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 42,
+          "wickets": 4,
+          "economy": 2.17
+        },
+        {
+          "player": "D Olivier",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 62,
+          "wickets": 2,
+          "economy": 3.76
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 1.78
+        },
+        {
+          "player": "DJ Willey",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 54,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "DM Bess",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 3.36
+        },
+        {
+          "player": "JA Leaning",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Yorkshire",
+      "runs": 332,
+      "extras": 27,
+      "balls": 550,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 9,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 34.62,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 9,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.13,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 100,
+          "balls": 170,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 69,
+          "balls": 156,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 44.23,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 41,
+          "balls": 94,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 43.62,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 51,
+          "balls": 53,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 96.23,
+          "out": false
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 26,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 92.86,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KHD Barker",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 75,
+          "wickets": 3,
+          "economy": 2.88
+        },
+        {
+          "player": "FH Edwards",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 70,
+          "wickets": 0,
+          "economy": 4.33
+        },
+        {
+          "player": "JK Fuller",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 63,
+          "wickets": 0,
+          "economy": 4.2
+        },
+        {
+          "player": "IG Holland",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 2.71
+        },
+        {
+          "player": "MS Crane",
+          "overs": "17.3",
+          "balls": 105,
+          "runs": 78,
+          "wickets": 1,
+          "economy": 4.46
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Hampshire",
+      "runs": 158,
+      "extras": 7,
+      "balls": 277,
+      "batting": [
+        {
+          "player": "JJ Weatherley",
+          "runs": 66,
+          "balls": 108,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true
+        },
+        {
+          "player": "OC Soames",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 14,
+          "balls": 34,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "RR Rossouw",
+          "runs": 54,
+          "balls": 88,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 61.36,
+          "out": false
+        },
+        {
+          "player": "IG Holland",
+          "runs": 14,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "TP Alsop",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 46,
+          "wickets": 2,
+          "economy": 3.83
+        },
+        {
+          "player": "D Olivier",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 4.15
+        },
+        {
+          "player": "DJ Willey",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "DM Bess",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 2.0
+        },
+        {
+          "player": "JA Leaning",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    }
+  ]
+}

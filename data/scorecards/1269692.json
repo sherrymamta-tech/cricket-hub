@@ -1,0 +1,269 @@
+{
+  "id": "1269692",
+  "teams": [
+    "Sydney Sixers",
+    "Brisbane Heat"
+  ],
+  "date": "2022-01-19",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+  "result": "Sydney Sixers won by 27 runs",
+  "winner": "Sydney Sixers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Sixers",
+      "runs": 178,
+      "extras": 4,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "J Edwards",
+          "runs": 25,
+          "balls": 15,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "JR Philippe",
+          "runs": 18,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 138.46,
+          "out": true
+        },
+        {
+          "player": "DP Hughes",
+          "runs": 59,
+          "balls": 45,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 131.11,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 28,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 155.56,
+          "out": true
+        },
+        {
+          "player": "DT Christian",
+          "runs": 32,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 128.0,
+          "out": true
+        },
+        {
+          "player": "J Avendano",
+          "runs": 12,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MT Steketee",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 9.12
+        },
+        {
+          "player": "MG Neser",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 39,
+          "wickets": 3,
+          "economy": 9.36
+        },
+        {
+          "player": "JJ Bazley",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 9.23
+        },
+        {
+          "player": "MJ Swepson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 7.44
+        },
+        {
+          "player": "MP Kuhnemann",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 7.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Brisbane Heat",
+      "runs": 151,
+      "extras": 9,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "M Bryant",
+          "runs": 57,
+          "balls": 58,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 98.28,
+          "out": true
+        },
+        {
+          "player": "CA Lynn",
+          "runs": 19,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 135.71,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "SD Heazlett",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JJ Peirson",
+          "runs": 42,
+          "balls": 24,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "JJ Bazley",
+          "runs": 12,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        },
+        {
+          "player": "MG Neser",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "MT Steketee",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MJ Swepson",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SNJ O'Keefe",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 5.04
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "4.5",
+          "balls": 29,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 7.45
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 9.36
+        },
+        {
+          "player": "H Kerr",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 3,
+          "economy": 6.0
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.75
+        }
+      ]
+    }
+  ]
+}

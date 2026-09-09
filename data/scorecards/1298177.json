@@ -1,0 +1,215 @@
+{
+  "id": "1298177",
+  "teams": [
+    "New Zealand",
+    "Pakistan"
+  ],
+  "date": "2022-11-09",
+  "format": "T20",
+  "competition": "ICC Men's T20 World Cup",
+  "venue": "Sydney Cricket Ground",
+  "result": "Pakistan won by 7 wickets",
+  "winner": "Pakistan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 152,
+      "extras": 6,
+      "balls": 120,
+      "batting": [
+        {
+          "player": "FH Allen",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 46,
+          "balls": 42,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 109.52,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 21,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 105.0,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 6,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 53,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 151.43,
+          "out": false
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 16,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 6.25
+        },
+        {
+          "player": "Naseem Shah",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "Haris Rauf",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 8.25
+        },
+        {
+          "player": "Mohammad Wasim",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "Shadab Khan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 8.25
+        },
+        {
+          "player": "Mohammad Nawaz",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 153,
+      "extras": 10,
+      "balls": 118,
+      "batting": [
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 57,
+          "balls": 44,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 129.55,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 53,
+          "balls": 43,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 123.26,
+          "out": true
+        },
+        {
+          "player": "Mohammad Haris",
+          "runs": 30,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 115.38,
+          "out": true
+        },
+        {
+          "player": "Shan Masood",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 8.5
+        },
+        {
+          "player": "TG Southee",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 6.86
+        },
+        {
+          "player": "LH Ferguson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 9.36
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 6.5
+        }
+      ]
+    }
+  ]
+}

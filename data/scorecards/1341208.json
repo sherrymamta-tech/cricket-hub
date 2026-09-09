@@ -1,0 +1,215 @@
+{
+  "id": "1341208",
+  "teams": [
+    "Auckland",
+    "Canterbury"
+  ],
+  "date": "2023-01-08",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "Eden Park Outer Oval, Auckland",
+  "result": "Canterbury won by 14 runs",
+  "winner": "Canterbury",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland",
+      "runs": 140,
+      "extras": 3,
+      "balls": 121,
+      "batting": [
+        {
+          "player": "GH Worker",
+          "runs": 7,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "CJ Briggs",
+          "runs": 10,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 8,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 51,
+          "balls": 46,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 110.87,
+          "out": true
+        },
+        {
+          "player": "WT O'Donnell",
+          "runs": 44,
+          "balls": 34,
+          "fours": 0,
+          "sixes": 4,
+          "strike_rate": 129.41,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 17,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 242.86,
+          "out": false
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "EJ Nuttall",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "W O'Rourke",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 7.75
+        },
+        {
+          "player": "AW McKenzie",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 7.33
+        },
+        {
+          "player": "ZGF Foulkes",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.24
+        },
+        {
+          "player": "TD Astle",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "CE McConchie",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 7.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Canterbury",
+      "runs": 48,
+      "extras": 1,
+      "balls": 34,
+      "batting": [
+        {
+          "player": "CJ Bowes",
+          "runs": 15,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 125.0,
+          "out": false
+        },
+        {
+          "player": "KJ McClure",
+          "runs": 32,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 213.33,
+          "out": true
+        },
+        {
+          "player": "LJ Carter",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Gibson",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 3.23
+        },
+        {
+          "player": "DK Ferns",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 23.0
+        },
+        {
+          "player": "L Delport",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "A Ashok",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "SM Solia",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    }
+  ]
+}

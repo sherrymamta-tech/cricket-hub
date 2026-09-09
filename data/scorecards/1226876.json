@@ -1,0 +1,261 @@
+{
+  "id": "1226876",
+  "teams": [
+    "Melbourne Stars",
+    "Adelaide Strikers"
+  ],
+  "date": "2021-01-11",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Adelaide Oval",
+  "result": "Adelaide Strikers won by 5 wickets",
+  "winner": "Adelaide Strikers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Melbourne Stars",
+      "runs": 149,
+      "extras": 5,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "ADS Fletcher",
+          "runs": 12,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 47,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 151.61,
+          "out": true
+        },
+        {
+          "player": "NCR Larkin",
+          "runs": 18,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 78.26,
+          "out": true
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NJ Maddinson",
+          "runs": 48,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 137.14,
+          "out": false
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "SE Gotch",
+          "runs": 11,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.62,
+          "out": true
+        },
+        {
+          "player": "A Zampa",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "SL Rainbird",
+          "runs": 5,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 250.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Worrall",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 7.0
+        },
+        {
+          "player": "HNA Conway",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 6.96
+        },
+        {
+          "player": "WA Agar",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.28
+        },
+        {
+          "player": "Rashid Khan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 7.25
+        },
+        {
+          "player": "DR Briggs",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 10.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Adelaide Strikers",
+      "runs": 150,
+      "extras": 8,
+      "balls": 118,
+      "batting": [
+        {
+          "player": "MT Renshaw",
+          "runs": 9,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "PD Salt",
+          "runs": 31,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 140.91,
+          "out": true
+        },
+        {
+          "player": "AT Carey",
+          "runs": 21,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 105.0,
+          "out": true
+        },
+        {
+          "player": "JW Wells",
+          "runs": 36,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 19,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 105.56,
+          "out": true
+        },
+        {
+          "player": "RJ Gibson",
+          "runs": 22,
+          "balls": 15,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 146.67,
+          "out": false
+        },
+        {
+          "player": "Rashid Khan",
+          "runs": 4,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "A Zampa",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 5.25
+        },
+        {
+          "player": "SL Rainbird",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 8.5
+        },
+        {
+          "player": "GJ Maxwell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "player": "Haris Rauf",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 10.42
+        },
+        {
+          "player": "LC Hatcher",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 9.56
+        }
+      ]
+    }
+  ]
+}

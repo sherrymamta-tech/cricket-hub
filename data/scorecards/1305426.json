@@ -1,0 +1,94 @@
+{
+  "id": "1305426",
+  "teams": [
+    "Leinster Lightning",
+    "Northern Knights"
+  ],
+  "date": "2022-05-17",
+  "format": "ODM",
+  "competition": "Cricket Ireland Inter-Provincial Limited Over Cup",
+  "venue": "Civil Service Cricket Club, Stormont, Belfast",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Leinster Lightning",
+      "runs": 59,
+      "extras": 5,
+      "balls": 101,
+      "batting": [
+        {
+          "player": "TH Tector",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Balbirnie",
+          "runs": 26,
+          "balls": 46,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 56.52,
+          "out": true
+        },
+        {
+          "player": "Simi Singh",
+          "runs": 25,
+          "balls": 47,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.19,
+          "out": false
+        },
+        {
+          "player": "HT Tector",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Manley",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 4.25
+        },
+        {
+          "player": "MR Adair",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 2.31
+        },
+        {
+          "player": "R Pretorius",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 4.15
+        },
+        {
+          "player": "MJ Humphreys",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 3.36
+        }
+      ]
+    }
+  ]
+}

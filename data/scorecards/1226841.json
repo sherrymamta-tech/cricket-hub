@@ -1,0 +1,277 @@
+{
+  "id": "1226841",
+  "teams": [
+    "Perth Scorchers",
+    "Melbourne Renegades"
+  ],
+  "date": "2020-12-12",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Bellerive Oval",
+  "result": "Melbourne Renegades won by 7 wickets",
+  "winner": "Melbourne Renegades",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Perth Scorchers",
+      "runs": 130,
+      "extras": 7,
+      "balls": 119,
+      "batting": [
+        {
+          "player": "JP Inglis",
+          "runs": 9,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 17,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 94.44,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 10,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 24,
+          "balls": 17,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 141.18,
+          "out": true
+        },
+        {
+          "player": "CT Bancroft",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "AM Hardie",
+          "runs": 33,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 86.84,
+          "out": true
+        },
+        {
+          "player": "JA Richardson",
+          "runs": 8,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "AJ Tye",
+          "runs": 15,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 115.38,
+          "out": true
+        },
+        {
+          "player": "JP Behrendorff",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "Fawad Ahmed",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JK Lalor",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 7.2
+        },
+        {
+          "player": "KW Richardson",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 23,
+          "wickets": 3,
+          "economy": 7.26
+        },
+        {
+          "player": "P Hatzoglou",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 6.69
+        },
+        {
+          "player": "JA Prestwidge",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 9.23
+        },
+        {
+          "player": "BAC Howell",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 4.67
+        },
+        {
+          "player": "BJ Webster",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 4.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Renegades",
+      "runs": 131,
+      "extras": 12,
+      "balls": 105,
+      "batting": [
+        {
+          "player": "SE Marsh",
+          "runs": 62,
+          "balls": 47,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 131.91,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 35,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "SB Harper",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "RR Rossouw",
+          "runs": 17,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "J Fraser-McGurk",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JP Behrendorff",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 8.64
+        },
+        {
+          "player": "JA Richardson",
+          "overs": "3.5",
+          "balls": 23,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 5.48
+        },
+        {
+          "player": "AJ Tye",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 9.75
+        },
+        {
+          "player": "Fawad Ahmed",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 7.26
+        },
+        {
+          "player": "AM Hardie",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "AJ Turner",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "id": "1019995",
+  "teams": [
+    "New Zealand",
+    "Pakistan"
+  ],
+  "date": "2016-11-25",
+  "format": "Test",
+  "competition": "Pakistan in New Zealand Test Series",
+  "venue": "Seddon Park",
+  "result": "New Zealand won by 138 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 271,
+      "extras": 6,
+      "balls": 504,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 55,
+          "balls": 112,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 49.11,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 13,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.95,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 37,
+          "balls": 31,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 119.35,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 13,
+          "balls": 52,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 37,
+          "balls": 56,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 66.07,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 49,
+          "balls": 125,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 39.2,
+          "out": false
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 16,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.24,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 29,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 103.57,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 15,
+          "balls": 11,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 136.36,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Amir",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 3.11
+        },
+        {
+          "player": "Sohail Khan",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 99,
+          "wickets": 4,
+          "economy": 3.96
+        },
+        {
+          "player": "Imran Khan",
+          "overs": "20.5",
+          "balls": 125,
+          "runs": 52,
+          "wickets": 3,
+          "economy": 2.5
+        },
+        {
+          "player": "Wahab Riaz",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 3.14
+        },
+        {
+          "player": "Azhar Ali",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 216,
+      "extras": 6,
+      "balls": 403,
+      "batting": [
+        {
+          "player": "Sami Aslam",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 1,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.56,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 90,
+          "balls": 196,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 45.92,
+          "out": false
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 2,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 23,
+          "balls": 35,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 65.71,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 41,
+          "balls": 44,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 93.18,
+          "out": true
+        },
+        {
+          "player": "Sohail Khan",
+          "runs": 37,
+          "balls": 47,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 78.72,
+          "out": true
+        },
+        {
+          "player": "Wahab Riaz",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Amir",
+          "runs": 5,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.83,
+          "out": true
+        },
+        {
+          "player": "Imran Khan",
+          "runs": 6,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 81,
+          "wickets": 6,
+          "economy": 3.86
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 1.57
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 3.22
+        },
+        {
+          "player": "N Wagner",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 63,
+          "wickets": 3,
+          "economy": 4.5
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 3.25
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New Zealand",
+      "runs": 313,
+      "extras": 14,
+      "balls": 517,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 2,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.7,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 80,
+          "balls": 150,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 42,
+          "balls": 88,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 47.73,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 102,
+          "balls": 135,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 75.56,
+          "out": false
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 26,
+          "balls": 60,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 43.33,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 32,
+          "balls": 21,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 152.38,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 15,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Amir",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 86,
+          "wickets": 1,
+          "economy": 3.85
+        },
+        {
+          "player": "Sohail Khan",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 73,
+          "wickets": 0,
+          "economy": 4.29
+        },
+        {
+          "player": "Imran Khan",
+          "overs": "20.3",
+          "balls": 123,
+          "runs": 77,
+          "wickets": 3,
+          "economy": 3.76
+        },
+        {
+          "player": "Wahab Riaz",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 2.79
+        },
+        {
+          "player": "Azhar Ali",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 3.17
+        },
+        {
+          "player": "Asad Shafiq",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Pakistan",
+      "runs": 230,
+      "extras": 14,
+      "balls": 556,
+      "batting": [
+        {
+          "player": "Sami Aslam",
+          "runs": 91,
+          "balls": 239,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 38.08,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 58,
+          "balls": 162,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 35.8,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 16,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 64.0,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 19,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.48,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 11,
+          "balls": 44,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 13,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.39,
+          "out": false
+        },
+        {
+          "player": "Sohail Khan",
+          "runs": 8,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "Mohammad Amir",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Wahab Riaz",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Imran Khan",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 61,
+          "wickets": 2,
+          "economy": 2.54
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 2.21
+        },
+        {
+          "player": "N Wagner",
+          "overs": "20.4",
+          "balls": 124,
+          "runs": 59,
+          "wickets": 3,
+          "economy": 2.85
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 3.06
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 1.42
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    }
+  ]
+}

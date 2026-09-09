@@ -1,0 +1,145 @@
+{
+  "id": "1157234",
+  "teams": [
+    "Warriors",
+    "Lions"
+  ],
+  "date": "2019-04-14",
+  "format": "T20",
+  "competition": "CSA T20 Challenge",
+  "venue": "Buffalo Park, East London",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Warriors",
+      "runs": 155,
+      "extras": 4,
+      "balls": 115,
+      "batting": [
+        {
+          "player": "GL Cloete",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JT Smuts",
+          "runs": 15,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "MP Breetzke",
+          "runs": 9,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "S Qeshile",
+          "runs": 38,
+          "balls": 34,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 111.76,
+          "out": true
+        },
+        {
+          "player": "LC Ngoepe",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "M Marais",
+          "runs": 82,
+          "balls": 35,
+          "fours": 5,
+          "sixes": 8,
+          "strike_rate": 234.29,
+          "out": false
+        },
+        {
+          "player": "O Nyaku",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BC Fortuin",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 7.67
+        },
+        {
+          "player": "BE Hendricks",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 4.62
+        },
+        {
+          "player": "D Pretorius",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 13.67
+        },
+        {
+          "player": "PWA Mulder",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 12.5
+        },
+        {
+          "player": "AM Phangiso",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 13,
+          "wickets": 2,
+          "economy": 3.25
+        },
+        {
+          "player": "MP Siboto",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 9.75
+        },
+        {
+          "player": "WJ Lubbe",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

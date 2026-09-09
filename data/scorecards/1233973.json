@@ -1,0 +1,277 @@
+{
+  "id": "1233973",
+  "teams": [
+    "Australia",
+    "New Zealand"
+  ],
+  "date": "2021-03-03",
+  "format": "T20",
+  "competition": "Australia tour of New Zealand",
+  "venue": "Westpac Stadium",
+  "result": "Australia won by 64 runs",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 208,
+      "extras": 6,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "MS Wade",
+          "runs": 5,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 69,
+          "balls": 44,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 156.82,
+          "out": true
+        },
+        {
+          "player": "JR Philippe",
+          "runs": 43,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 159.26,
+          "out": true
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 70,
+          "balls": 32,
+          "fours": 8,
+          "sixes": 5,
+          "strike_rate": 218.75,
+          "out": true
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 9,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": false
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 6,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 8.54
+        },
+        {
+          "player": "TA Boult",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 9.75
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 14.4
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 8.16
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 144,
+      "extras": 2,
+      "balls": 104,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 43,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 148.28,
+          "out": true
+        },
+        {
+          "player": "TL Seifert",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 9,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 38,
+          "balls": 27,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 140.74,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 13,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 130.0,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 18,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 180.0,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 11,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": true
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Richardson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 11.33
+        },
+        {
+          "player": "RP Meredith",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 6.25
+        },
+        {
+          "player": "A Zampa",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 8.5
+        },
+        {
+          "player": "KW Richardson",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 7.29
+        },
+        {
+          "player": "AC Agar",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 6,
+          "economy": 7.5
+        },
+        {
+          "player": "MP Stoinis",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "GJ Maxwell",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 15.0
+        }
+      ]
+    }
+  ]
+}

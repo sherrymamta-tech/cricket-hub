@@ -1,0 +1,295 @@
+{
+  "id": "1250172",
+  "teams": [
+    "Kent",
+    "Worcestershire"
+  ],
+  "date": "2021-07-25",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "County Ground, New Road, Worcester",
+  "result": "Worcestershire won by 3 wickets",
+  "winner": "Worcestershire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Kent",
+      "runs": 322,
+      "extras": 13,
+      "balls": 305,
+      "batting": [
+        {
+          "player": "OG Robinson",
+          "runs": 13,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 68.42,
+          "out": true
+        },
+        {
+          "player": "TS Muyeye",
+          "runs": 22,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 84.62,
+          "out": true
+        },
+        {
+          "player": "HG Kuhn",
+          "runs": 19,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HG Munsey",
+          "runs": 108,
+          "balls": 114,
+          "fours": 14,
+          "sixes": 2,
+          "strike_rate": 94.74,
+          "out": true
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 84,
+          "balls": 79,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 106.33,
+          "out": true
+        },
+        {
+          "player": "DI Stevens",
+          "runs": 23,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 164.29,
+          "out": true
+        },
+        {
+          "player": "G Stewart",
+          "runs": 9,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "MK O'Riordan",
+          "runs": 17,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 113.33,
+          "out": false
+        },
+        {
+          "player": "ME Milnes",
+          "runs": 14,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 155.56,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Leach",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 6.43
+        },
+        {
+          "player": "CAJ Morris",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 68,
+          "wickets": 1,
+          "economy": 7.29
+        },
+        {
+          "player": "AW Finch",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 5.67
+        },
+        {
+          "player": "JO Baker",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 5.44
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 72,
+          "wickets": 2,
+          "economy": 7.85
+        },
+        {
+          "player": "J Banton",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 4.4
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Worcestershire",
+      "runs": 323,
+      "extras": 15,
+      "balls": 304,
+      "batting": [
+        {
+          "player": "JA Haynes",
+          "runs": 77,
+          "balls": 90,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 85.56,
+          "out": true
+        },
+        {
+          "player": "JJ Dell",
+          "runs": 20,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 95.24,
+          "out": true
+        },
+        {
+          "player": "TC Fell",
+          "runs": 57,
+          "balls": 56,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 101.79,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 17,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 94.44,
+          "out": true
+        },
+        {
+          "player": "GH Roderick",
+          "runs": 5,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "EG Barnard",
+          "runs": 39,
+          "balls": 49,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 79.59,
+          "out": false
+        },
+        {
+          "player": "J Banton",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "J Leach",
+          "runs": 88,
+          "balls": 54,
+          "fours": 5,
+          "sixes": 7,
+          "strike_rate": 162.96,
+          "out": true
+        },
+        {
+          "player": "JO Baker",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DI Stevens",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 4.05
+        },
+        {
+          "player": "ME Milnes",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 76,
+          "wickets": 1,
+          "economy": 7.24
+        },
+        {
+          "player": "MR Quinn",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 6.63
+        },
+        {
+          "player": "G Stewart",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 7.53
+        },
+        {
+          "player": "MK O'Riordan",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 6.65
+        },
+        {
+          "player": "JEG Logan",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 5.51
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id": "1324649",
+  "teams": [
+    "Adelaide Strikers",
+    "Hobart Hurricanes"
+  ],
+  "date": "2023-01-02",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Bellerive Oval, Hobart",
+  "result": "Hobart Hurricanes won by 7 wickets",
+  "winner": "Hobart Hurricanes",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Adelaide Strikers",
+      "runs": 177,
+      "extras": 9,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "MW Short",
+          "runs": 38,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 140.74,
+          "out": true
+        },
+        {
+          "player": "HJ Hunt",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "CA Lynn",
+          "runs": 87,
+          "balls": 59,
+          "fours": 9,
+          "sixes": 3,
+          "strike_rate": 147.46,
+          "out": true
+        },
+        {
+          "player": "AJ Hose",
+          "runs": 5,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 30,
+          "balls": 20,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "Rashid Khan",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "T Kelly",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Faheem Ashraf",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 8.08
+        },
+        {
+          "player": "PG Dooley",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 6.25
+        },
+        {
+          "player": "RP Meredith",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 7.68
+        },
+        {
+          "player": "DJM Short",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 14.0
+        },
+        {
+          "player": "NT Ellis",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 9.23
+        },
+        {
+          "player": "MJ Owen",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 7.85
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Hobart Hurricanes",
+      "runs": 178,
+      "extras": 8,
+      "balls": 110,
+      "batting": [
+        {
+          "player": "CP Jewell",
+          "runs": 54,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 192.86,
+          "out": true
+        },
+        {
+          "player": "BR McDermott",
+          "runs": 53,
+          "balls": 34,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 155.88,
+          "out": true
+        },
+        {
+          "player": "MS Wade",
+          "runs": 9,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DJM Short",
+          "runs": 27,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": false
+        },
+        {
+          "player": "TH David",
+          "runs": 27,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 180.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HNA Conway",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "MW Short",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "WA Agar",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 12.86
+        },
+        {
+          "player": "Rashid Khan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 11.0
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 14.57
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 5.04
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "1003899",
+  "teams": [
+    "Titans",
+    "Warriors"
+  ],
+  "date": "2016-12-11",
+  "format": "T20",
+  "competition": "CSA T20 Challenge",
+  "venue": "Buffalo Park, East London",
+  "result": "Titans won by 6 runs",
+  "winner": "Titans",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Titans",
+      "runs": 80,
+      "extras": 2,
+      "balls": 32,
+      "batting": [
+        {
+          "player": "JD Vandiar",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HG Kuhn",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 17,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 170.0,
+          "out": false
+        },
+        {
+          "player": "F Behardien",
+          "runs": 55,
+          "balls": 16,
+          "fours": 4,
+          "sixes": 5,
+          "strike_rate": 343.75,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ACR Birch",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "BD Walters",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "JT Smuts",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 24.0
+        },
+        {
+          "player": "SSB Magala",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 20.25
+        },
+        {
+          "player": "KJ Abbott",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 18.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Warriors",
+      "runs": 74,
+      "extras": 2,
+      "balls": 32,
+      "batting": [
+        {
+          "player": "JT Smuts",
+          "runs": 21,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 262.5,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 19,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 211.11,
+          "out": true
+        },
+        {
+          "player": "C Jonker",
+          "runs": 26,
+          "balls": 10,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 260.0,
+          "out": false
+        },
+        {
+          "player": "MQ Adams",
+          "runs": 6,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Ngidi",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 19.0
+        },
+        {
+          "player": "CJ Dala",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 14.0
+        },
+        {
+          "player": "JA Morkel",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 20.0
+        },
+        {
+          "player": "D Wiese",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "player": "MP Siboto",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 15.0
+        }
+      ]
+    }
+  ]
+}

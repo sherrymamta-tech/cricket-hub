@@ -1,0 +1,234 @@
+{
+  "id": "1278686",
+  "teams": [
+    "Sri Lanka",
+    "India"
+  ],
+  "date": "2022-02-27",
+  "format": "T20",
+  "competition": "Sri Lanka tour of India",
+  "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+  "result": "India won by 6 wickets",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "runs": 146,
+      "extras": 24,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "P Nissanka",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "MD Gunathilaka",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KIC Asalanka",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "J Liyanage",
+          "runs": 9,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 47.37,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 22,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "MD Shanaka",
+          "runs": 74,
+          "balls": 41,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 180.49,
+          "out": false
+        },
+        {
+          "player": "C Karunaratne",
+          "runs": 12,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Siraj",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "Avesh Khan",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 6.46
+        },
+        {
+          "player": "HV Patel",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 8.16
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 7.25
+        },
+        {
+          "player": "Ravi Bishnoi",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 7.62
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 148,
+      "extras": 4,
+      "balls": 105,
+      "batting": [
+        {
+          "player": "SV Samson",
+          "runs": 18,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 138.46,
+          "out": true
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 73,
+          "balls": 45,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 162.22,
+          "out": false
+        },
+        {
+          "player": "DJ Hooda",
+          "runs": 21,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 131.25,
+          "out": true
+        },
+        {
+          "player": "VR Iyer",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 22,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Fernando",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 8.75
+        },
+        {
+          "player": "PVD Chameera",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 5.7
+        },
+        {
+          "player": "CBRLS Kumara",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 9.36
+        },
+        {
+          "player": "C Karunaratne",
+          "overs": "3.4",
+          "balls": 22,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 8.45
+        },
+        {
+          "player": "JDF Vandersay",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 10.29
+        }
+      ]
+    }
+  ]
+}

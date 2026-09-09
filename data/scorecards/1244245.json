@@ -1,0 +1,464 @@
+{
+  "id": "1244245",
+  "teams": [
+    "Warwickshire",
+    "Durham"
+  ],
+  "date": "2021-04-29",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Durham won by 127 runs",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Warwickshire",
+      "runs": 87,
+      "extras": 7,
+      "balls": 257,
+      "batting": [
+        {
+          "player": "WMH Rhodes",
+          "runs": 10,
+          "balls": 44,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.73,
+          "out": true
+        },
+        {
+          "player": "RM Yates",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "GH Vihari",
+          "runs": 8,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "SR Hain",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "MJ Lamb",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "MGK Burgess",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 1,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": true
+        },
+        {
+          "player": "DR Briggs",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "CN Miles",
+          "runs": 22,
+          "balls": 65,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.85,
+          "out": true
+        },
+        {
+          "player": "LC Norwell",
+          "runs": 25,
+          "balls": 66,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 37.88,
+          "out": true
+        },
+        {
+          "player": "OJ Hannon-Dalby",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 2.8
+        },
+        {
+          "player": "MA Wood",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 2.5
+        },
+        {
+          "player": "BA Raine",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 13,
+          "wickets": 5,
+          "economy": 1.0
+        },
+        {
+          "player": "BA Carse",
+          "overs": "7.5",
+          "balls": 47,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 2.04
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Durham",
+      "runs": 391,
+      "extras": 12,
+      "balls": 870,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 129,
+          "balls": 353,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 36.54,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 124,
+          "balls": 274,
+          "fours": 14,
+          "sixes": 1,
+          "strike_rate": 45.26,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 21,
+          "balls": 52,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.38,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 2,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "JTA Burnham",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 26,
+          "balls": 62,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.94,
+          "out": true
+        },
+        {
+          "player": "SW Poynter",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "BA Carse",
+          "runs": 40,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 75.47,
+          "out": false
+        },
+        {
+          "player": "BA Raine",
+          "runs": 14,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 82.35,
+          "out": true
+        },
+        {
+          "player": "MA Wood",
+          "runs": 17,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.52,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OJ Hannon-Dalby",
+          "overs": "36.0",
+          "balls": 216,
+          "runs": 76,
+          "wickets": 1,
+          "economy": 2.11
+        },
+        {
+          "player": "LC Norwell",
+          "overs": "31.0",
+          "balls": 186,
+          "runs": 59,
+          "wickets": 3,
+          "economy": 1.9
+        },
+        {
+          "player": "CN Miles",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 82,
+          "wickets": 1,
+          "economy": 4.1
+        },
+        {
+          "player": "TT Bresnan",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "WMH Rhodes",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 3.18
+        },
+        {
+          "player": "DR Briggs",
+          "overs": "31.0",
+          "balls": 186,
+          "runs": 95,
+          "wickets": 4,
+          "economy": 3.06
+        },
+        {
+          "player": "RM Yates",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Warwickshire",
+      "runs": 177,
+      "extras": 19,
+      "balls": 408,
+      "batting": [
+        {
+          "player": "WMH Rhodes",
+          "runs": 3,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "RM Yates",
+          "runs": 34,
+          "balls": 92,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 36.96,
+          "out": true
+        },
+        {
+          "player": "GH Vihari",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SR Hain",
+          "runs": 21,
+          "balls": 70,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "MJ Lamb",
+          "runs": 19,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MGK Burgess",
+          "runs": 27,
+          "balls": 52,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 51.92,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 39,
+          "balls": 89,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 43.82,
+          "out": false
+        },
+        {
+          "player": "DR Briggs",
+          "runs": 7,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true
+        },
+        {
+          "player": "CN Miles",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LC Norwell",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OJ Hannon-Dalby",
+          "runs": 8,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "17.3",
+          "balls": 105,
+          "runs": 41,
+          "wickets": 3,
+          "economy": 2.34
+        },
+        {
+          "player": "MA Wood",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 1.8
+        },
+        {
+          "player": "BA Raine",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 2.79
+        },
+        {
+          "player": "BA Carse",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 49,
+          "wickets": 5,
+          "economy": 3.42
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 2.93
+        }
+      ]
+    }
+  ]
+}

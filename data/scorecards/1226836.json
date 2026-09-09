@@ -1,0 +1,214 @@
+{
+  "id": "1226836",
+  "teams": [
+    "Adelaide Strikers",
+    "Sydney Thunder"
+  ],
+  "date": "2021-01-25",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Adelaide Oval",
+  "result": "Sydney Thunder won by 9 wickets",
+  "winner": "Sydney Thunder",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Adelaide Strikers",
+      "runs": 115,
+      "extras": 6,
+      "balls": 88,
+      "batting": [
+        {
+          "player": "AT Carey",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 80,
+          "balls": 50,
+          "fours": 8,
+          "sixes": 4,
+          "strike_rate": 160.0,
+          "out": false
+        },
+        {
+          "player": "PD Salt",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "JW Wells",
+          "runs": 21,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 110.53,
+          "out": true
+        },
+        {
+          "player": "RJ Gibson",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AF Milne",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 10.11
+        },
+        {
+          "player": "B Doggett",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 6.33
+        },
+        {
+          "player": "N McAndrew",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "player": "BCJ Cutting",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 6.86
+        },
+        {
+          "player": "T Sangha",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 10.0
+        },
+        {
+          "player": "CJ Green",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 8.77
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Thunder",
+      "runs": 116,
+      "extras": 7,
+      "balls": 75,
+      "batting": [
+        {
+          "player": "UT Khawaja",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 46,
+          "balls": 35,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 131.43,
+          "out": false
+        },
+        {
+          "player": "AD Hales",
+          "runs": 63,
+          "balls": 39,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 161.54,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Worrall",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 7.58
+        },
+        {
+          "player": "MG Neser",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 10.5
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 11.08
+        },
+        {
+          "player": "WA Agar",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 9.69
+        },
+        {
+          "player": "LN O'Connor",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "TM Head",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

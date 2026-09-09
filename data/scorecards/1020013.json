@@ -1,0 +1,331 @@
+{
+  "id": "1020013",
+  "teams": [
+    "New Zealand",
+    "Australia"
+  ],
+  "date": "2017-01-30",
+  "format": "ODI",
+  "competition": "Chappell-Hadlee Trophy",
+  "venue": "Eden Park",
+  "result": "New Zealand won by 6 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 286,
+      "extras": 29,
+      "balls": 308,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 61,
+          "balls": 75,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 81.33,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 24,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.59,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 16,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 59.26,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 73,
+          "balls": 78,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 93.59,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 48,
+          "balls": 45,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 106.67,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 7,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LH Ferguson",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "TA Boult",
+          "runs": 16,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 228.57,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 5.81
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 4.82
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 72,
+          "wickets": 2,
+          "economy": 7.85
+        },
+        {
+          "player": "JP Faulkner",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "MP Stoinis",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 50,
+          "wickets": 3,
+          "economy": 4.84
+        },
+        {
+          "player": "TM Head",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 4.69
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 280,
+      "extras": 14,
+      "balls": 290,
+      "batting": [
+        {
+          "player": "AJ Finch",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 5,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "SE Marsh",
+          "runs": 16,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 76.19,
+          "out": true
+        },
+        {
+          "player": "PSP Handscomb",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 20,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "SD Heazlett",
+          "runs": 4,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 146,
+          "balls": 121,
+          "fours": 9,
+          "sixes": 11,
+          "strike_rate": 120.66,
+          "out": false
+        },
+        {
+          "player": "JP Faulkner",
+          "runs": 25,
+          "balls": 53,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.17,
+          "out": true
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 36,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JR Hazlewood",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 6.3
+        },
+        {
+          "player": "TA Boult",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 6.44
+        },
+        {
+          "player": "LH Ferguson",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 4.5
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 4.33
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "5.4",
+          "balls": 34,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 8.65
+        },
+        {
+          "player": "C Munro",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

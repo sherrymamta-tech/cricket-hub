@@ -1,0 +1,233 @@
+{
+  "id": "1247028",
+  "teams": [
+    "Quetta Gladiators",
+    "Islamabad United"
+  ],
+  "date": "2021-06-11",
+  "format": "T20",
+  "competition": "Pakistan Super League",
+  "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+  "result": "Islamabad United won by 10 wickets",
+  "winner": "Islamabad United",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Quetta Gladiators",
+      "runs": 133,
+      "extras": 16,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "Usman Khan",
+          "runs": 14,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 5,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 43,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 119.44,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Azam Khan",
+          "runs": 26,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 113.04,
+          "out": true
+        },
+        {
+          "player": "AD Russell",
+          "runs": 13,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 185.71,
+          "out": true
+        },
+        {
+          "player": "Mohammad Nawaz",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "JD Wildermuth",
+          "runs": 9,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "Khurram Shahzad",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "Zahid Mahmood",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Hasan Ali",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 6.92
+        },
+        {
+          "player": "Akif Javed",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 4.15
+        },
+        {
+          "player": "Mohammad Wasim",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 13,
+          "wickets": 2,
+          "economy": 3.25
+        },
+        {
+          "player": "Shadab Khan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 8.25
+        },
+        {
+          "player": "Muhammad Musa",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 8.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Islamabad United",
+      "runs": 137,
+      "extras": 7,
+      "balls": 65,
+      "batting": [
+        {
+          "player": "UT Khawaja",
+          "runs": 40,
+          "balls": 28,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 142.86,
+          "out": false
+        },
+        {
+          "player": "C Munro",
+          "runs": 90,
+          "balls": 37,
+          "fours": 12,
+          "sixes": 5,
+          "strike_rate": 243.24,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Naseem Shah",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 19.0
+        },
+        {
+          "player": "Khurram Shahzad",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 11.6
+        },
+        {
+          "player": "JD Wildermuth",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "Mohammad Hasnain",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "Zahid Mahmood",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 18.0
+        },
+        {
+          "player": "Mohammad Nawaz",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 8.14
+        }
+      ]
+    }
+  ]
+}

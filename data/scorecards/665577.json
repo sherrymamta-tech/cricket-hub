@@ -1,0 +1,469 @@
+{
+  "id": "665577",
+  "teams": [
+    "Otago Volts",
+    "Auckland Aces"
+  ],
+  "date": "2014-02-16",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "University Oval, Dunedin",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Otago Volts",
+      "runs": 232,
+      "extras": 12,
+      "balls": 533,
+      "batting": [
+        {
+          "player": "AJ Redmond",
+          "runs": 74,
+          "balls": 159,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 46.54,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 5,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.62,
+          "out": true
+        },
+        {
+          "player": "JD Ryder",
+          "runs": 44,
+          "balls": 56,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "BP Rodden",
+          "runs": 26,
+          "balls": 79,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.91,
+          "out": true
+        },
+        {
+          "player": "NL McCullum",
+          "runs": 4,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "SR Wells",
+          "runs": 18,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "DC de Boorder",
+          "runs": 29,
+          "balls": 79,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 36.71,
+          "out": true
+        },
+        {
+          "player": "MD Craig",
+          "runs": 10,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.3,
+          "out": true
+        },
+        {
+          "player": "BE Scott",
+          "runs": 9,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": false
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MR Quinn",
+          "overs": "22.3",
+          "balls": 135,
+          "runs": 61,
+          "wickets": 3,
+          "economy": 2.71
+        },
+        {
+          "player": "MD Bates",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 42,
+          "wickets": 4,
+          "economy": 1.97
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 4.31
+        },
+        {
+          "player": "C Munro",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 2.27
+        },
+        {
+          "player": "Bhupinder Singh",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 1.95
+        },
+        {
+          "player": "JA Raval",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Auckland Aces",
+      "runs": 518,
+      "extras": 23,
+      "balls": 864,
+      "batting": [
+        {
+          "player": "TG McIntosh",
+          "runs": 116,
+          "balls": 340,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 34.12,
+          "out": true
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MD Bates",
+          "runs": 1,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.0,
+          "out": true
+        },
+        {
+          "player": "JA Raval",
+          "runs": 143,
+          "balls": 273,
+          "fours": 20,
+          "sixes": 2,
+          "strike_rate": 52.38,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 22,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.74,
+          "out": true
+        },
+        {
+          "player": "Craig Cachopa",
+          "runs": 36,
+          "balls": 29,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 124.14,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 112,
+          "balls": 81,
+          "fours": 9,
+          "sixes": 6,
+          "strike_rate": 138.27,
+          "out": false
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 65,
+          "balls": 61,
+          "fours": 3,
+          "sixes": 5,
+          "strike_rate": 106.56,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Duffy",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        },
+        {
+          "player": "BE Scott",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 67,
+          "wickets": 2,
+          "economy": 2.91
+        },
+        {
+          "player": "SR Wells",
+          "overs": "31.2",
+          "balls": 188,
+          "runs": 148,
+          "wickets": 1,
+          "economy": 4.72
+        },
+        {
+          "player": "JD Ryder",
+          "overs": "21.3",
+          "balls": 129,
+          "runs": 65,
+          "wickets": 1,
+          "economy": 3.02
+        },
+        {
+          "player": "BP Rodden",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 54,
+          "wickets": 0,
+          "economy": 4.1
+        },
+        {
+          "player": "MD Craig",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 89,
+          "wickets": 0,
+          "economy": 2.97
+        },
+        {
+          "player": "NL McCullum",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 95,
+          "wickets": 2,
+          "economy": 3.96
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Otago Volts",
+      "runs": 322,
+      "extras": 18,
+      "balls": 667,
+      "batting": [
+        {
+          "player": "AJ Redmond",
+          "runs": 19,
+          "balls": 52,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 36.54,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 32,
+          "balls": 47,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 68.09,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 155,
+          "balls": 293,
+          "fours": 21,
+          "sixes": 4,
+          "strike_rate": 52.9,
+          "out": false
+        },
+        {
+          "player": "JD Ryder",
+          "runs": 19,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 86.36,
+          "out": true
+        },
+        {
+          "player": "BP Rodden",
+          "runs": 8,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "NL McCullum",
+          "runs": 7,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "SR Wells",
+          "runs": 20,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "DC de Boorder",
+          "runs": 27,
+          "balls": 99,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "MD Craig",
+          "runs": 0,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BE Scott",
+          "runs": 17,
+          "balls": 74,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 22.97,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MD Bates",
+          "overs": "29.4",
+          "balls": 178,
+          "runs": 77,
+          "wickets": 2,
+          "economy": 2.6
+        },
+        {
+          "player": "MR Quinn",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 93,
+          "wickets": 2,
+          "economy": 3.55
+        },
+        {
+          "player": "Bhupinder Singh",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 2.89
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 1.7
+        },
+        {
+          "player": "C Munro",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 2.83
+        },
+        {
+          "player": "AK Kitchen",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 3.4
+        },
+        {
+          "player": "JA Raval",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 7.0
+        }
+      ]
+    }
+  ]
+}

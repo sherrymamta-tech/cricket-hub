@@ -1,0 +1,623 @@
+{
+  "id": "1297762",
+  "teams": [
+    "Nottinghamshire",
+    "Sussex"
+  ],
+  "date": "2022-07-26",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Trent Bridge, Nottingham",
+  "result": "Nottinghamshire won by 256 runs",
+  "winner": "Nottinghamshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Nottinghamshire",
+      "runs": 240,
+      "extras": 30,
+      "balls": 378,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 55,
+          "balls": 108,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 50.93,
+          "out": true
+        },
+        {
+          "player": "H Hameed",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 7,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.92,
+          "out": true
+        },
+        {
+          "player": "SJ Mullaney",
+          "runs": 70,
+          "balls": 109,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 64.22,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 10,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 43.48,
+          "out": true
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JL Pattinson",
+          "runs": 39,
+          "balls": 58,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 67.24,
+          "out": true
+        },
+        {
+          "player": "LJ Fletcher",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": false
+        },
+        {
+          "player": "D Paterson",
+          "runs": 11,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 91.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OE Robinson",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 52,
+          "wickets": 4,
+          "economy": 3.15
+        },
+        {
+          "player": "BJ Currie",
+          "overs": "14.5",
+          "balls": 89,
+          "runs": 59,
+          "wickets": 3,
+          "economy": 3.98
+        },
+        {
+          "player": "SF Hunt",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 4.28
+        },
+        {
+          "player": "A Karvelas",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 43,
+          "wickets": 2,
+          "economy": 3.53
+        },
+        {
+          "player": "TGR Clark",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 3.1
+        },
+        {
+          "player": "JM Coles",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 13.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sussex",
+      "runs": 143,
+      "extras": 6,
+      "balls": 272,
+      "batting": [
+        {
+          "player": "AGH Orr",
+          "runs": 34,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 69.39,
+          "out": true
+        },
+        {
+          "player": "TGR Clark",
+          "runs": 8,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 49,
+          "balls": 85,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 57.65,
+          "out": true
+        },
+        {
+          "player": "OJ Carter",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JM Coles",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AC Lenham",
+          "runs": 31,
+          "balls": 80,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 38.75,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 5,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "A Karvelas",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "SF Hunt",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BJ Currie",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LJ Fletcher",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 2.9
+        },
+        {
+          "player": "JL Pattinson",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 57,
+          "wickets": 5,
+          "economy": 3.56
+        },
+        {
+          "player": "D Paterson",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 47,
+          "wickets": 5,
+          "economy": 3.07
+        },
+        {
+          "player": "SJ Mullaney",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 2.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Nottinghamshire",
+      "runs": 301,
+      "extras": 18,
+      "balls": 507,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 20,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 86.96,
+          "out": true
+        },
+        {
+          "player": "H Hameed",
+          "runs": 94,
+          "balls": 115,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 81.74,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 56,
+          "balls": 113,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 49.56,
+          "out": true
+        },
+        {
+          "player": "SJ Mullaney",
+          "runs": 42,
+          "balls": 84,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 6,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 32,
+          "balls": 71,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 45.07,
+          "out": true
+        },
+        {
+          "player": "JL Pattinson",
+          "runs": 31,
+          "balls": 57,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 54.39,
+          "out": true
+        },
+        {
+          "player": "LJ Fletcher",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "D Paterson",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OE Robinson",
+          "overs": "20.3",
+          "balls": 123,
+          "runs": 69,
+          "wickets": 5,
+          "economy": 3.37
+        },
+        {
+          "player": "BJ Currie",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 58,
+          "wickets": 2,
+          "economy": 3.41
+        },
+        {
+          "player": "A Karvelas",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 55,
+          "wickets": 0,
+          "economy": 3.06
+        },
+        {
+          "player": "SF Hunt",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 68,
+          "wickets": 2,
+          "economy": 5.23
+        },
+        {
+          "player": "AC Lenham",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 3.12
+        },
+        {
+          "player": "JM Coles",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 3.25
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Sussex",
+      "runs": 142,
+      "extras": 11,
+      "balls": 287,
+      "batting": [
+        {
+          "player": "AGH Orr",
+          "runs": 34,
+          "balls": 66,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 51.52,
+          "out": true
+        },
+        {
+          "player": "TGR Clark",
+          "runs": 5,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "runs": 17,
+          "balls": 50,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 34.0,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 46,
+          "balls": 75,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 61.33,
+          "out": false
+        },
+        {
+          "player": "OJ Carter",
+          "runs": 13,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.0,
+          "out": true
+        },
+        {
+          "player": "JM Coles",
+          "runs": 12,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "AC Lenham",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Karvelas",
+          "runs": 4,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "SF Hunt",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BJ Currie",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LJ Fletcher",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 50,
+          "wickets": 2,
+          "economy": 3.75
+        },
+        {
+          "player": "JL Pattinson",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 47,
+          "wickets": 3,
+          "economy": 3.62
+        },
+        {
+          "player": "D Paterson",
+          "overs": "12.3",
+          "balls": 75,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 1.2
+        },
+        {
+          "player": "SJ Mullaney",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 2.17
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 5.67
+        }
+      ]
+    }
+  ]
+}

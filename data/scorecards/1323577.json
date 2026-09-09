@@ -1,0 +1,285 @@
+{
+  "id": "1323577",
+  "teams": [
+    "Sydney Sixers",
+    "Melbourne Renegades"
+  ],
+  "date": "2022-10-30",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Eastern Oval, Ballarat",
+  "result": "Sydney Sixers won by 37 runs",
+  "winner": "Sydney Sixers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Sixers",
+      "runs": 188,
+      "extras": 7,
+      "balls": 121,
+      "batting": [
+        {
+          "player": "SW Bates",
+          "runs": 66,
+          "balls": 47,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 140.43,
+          "out": true
+        },
+        {
+          "player": "AJ Healy",
+          "runs": 78,
+          "balls": 55,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 141.82,
+          "out": true
+        },
+        {
+          "player": "A Gardner",
+          "runs": 17,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 170.0,
+          "out": true
+        },
+        {
+          "player": "EA Burns",
+          "runs": 16,
+          "balls": 8,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        },
+        {
+          "player": "EA Perry",
+          "runs": 4,
+          "balls": 1,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 400.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "S Ismail",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "S Molineux",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 9.75
+        },
+        {
+          "player": "HK Matthews",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "player": "SJ Coyte",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 11.33
+        },
+        {
+          "player": "G Prestwidge",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 8.88
+        },
+        {
+          "player": "RK O'Donnell",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 14.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Renegades",
+      "runs": 151,
+      "extras": 18,
+      "balls": 130,
+      "batting": [
+        {
+          "player": "S Molineux",
+          "runs": 18,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HK Matthews",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Webb",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "AC Jayangani",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "G Prestwidge",
+          "runs": 6,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "C Leeson",
+          "runs": 52,
+          "balls": 37,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 140.54,
+          "out": true
+        },
+        {
+          "player": "RK O'Donnell",
+          "runs": 32,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "SJ Coyte",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "E Falconer",
+          "runs": 5,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "PA Bowdler",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "S Ismail",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "S Ecclestone",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 4.5
+        },
+        {
+          "player": "A Gardner",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 5.25
+        },
+        {
+          "player": "NE Bolton",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 9.69
+        },
+        {
+          "player": "L Cheatle",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 3,
+          "economy": 7.25
+        },
+        {
+          "player": "M Brown",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 16,
+          "wickets": 3,
+          "economy": 3.69
+        },
+        {
+          "player": "S Campbell",
+          "overs": "1.5",
+          "balls": 11,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "EA Perry",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 18.0
+        }
+      ]
+    }
+  ]
+}

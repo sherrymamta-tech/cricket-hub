@@ -1,0 +1,595 @@
+{
+  "id": "249217",
+  "teams": [
+    "India",
+    "South Africa"
+  ],
+  "date": "2007-01-02",
+  "format": "Test",
+  "competition": "India tour of South Africa",
+  "venue": "Newlands",
+  "result": "South Africa won by 5 wickets",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 414,
+      "extras": 19,
+      "balls": 797,
+      "batting": [
+        {
+          "player": "W Jaffer",
+          "runs": 116,
+          "balls": 244,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 47.54,
+          "out": true
+        },
+        {
+          "player": "KD Karthik",
+          "runs": 63,
+          "balls": 171,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "R Dravid",
+          "runs": 29,
+          "balls": 58,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 64,
+          "balls": 131,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 48.85,
+          "out": true
+        },
+        {
+          "player": "VVS Laxman",
+          "runs": 13,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 28.26,
+          "out": true
+        },
+        {
+          "player": "SC Ganguly",
+          "runs": 66,
+          "balls": 75,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 88.0,
+          "out": true
+        },
+        {
+          "player": "V Sehwag",
+          "runs": 40,
+          "balls": 50,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "A Kumble",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Z Khan",
+          "runs": 1,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.33,
+          "out": true
+        },
+        {
+          "player": "S Sreesanth",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "MM Patel",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DW Steyn",
+          "overs": "27.4",
+          "balls": 166,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 2.13
+        },
+        {
+          "player": "M Ntini",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 108,
+          "wickets": 0,
+          "economy": 4.15
+        },
+        {
+          "player": "SM Pollock",
+          "overs": "29.1",
+          "balls": 175,
+          "runs": 76,
+          "wickets": 4,
+          "economy": 2.61
+        },
+        {
+          "player": "JH Kallis",
+          "overs": "12.2",
+          "balls": 74,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 2.92
+        },
+        {
+          "player": "PL Harris",
+          "overs": "37.4",
+          "balls": 226,
+          "runs": 135,
+          "wickets": 4,
+          "economy": 3.58
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 373,
+      "extras": 35,
+      "balls": 785,
+      "batting": [
+        {
+          "player": "GC Smith",
+          "runs": 94,
+          "balls": 142,
+          "fours": 14,
+          "sixes": 1,
+          "strike_rate": 66.2,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 63,
+          "balls": 174,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 36.21,
+          "out": true
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 54,
+          "balls": 128,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 42.19,
+          "out": true
+        },
+        {
+          "player": "AG Prince",
+          "runs": 26,
+          "balls": 112,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.21,
+          "out": true
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 7,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.17,
+          "out": true
+        },
+        {
+          "player": "MV Boucher",
+          "runs": 50,
+          "balls": 100,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "SM Pollock",
+          "runs": 31,
+          "balls": 57,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.39,
+          "out": true
+        },
+        {
+          "player": "PL Harris",
+          "runs": 11,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.93,
+          "out": false
+        },
+        {
+          "player": "DW Steyn",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "M Ntini",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Z Khan",
+          "overs": "20.3",
+          "balls": 123,
+          "runs": 77,
+          "wickets": 1,
+          "economy": 3.76
+        },
+        {
+          "player": "S Sreesanth",
+          "overs": "24.2",
+          "balls": 146,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 2.59
+        },
+        {
+          "player": "A Kumble",
+          "overs": "42.5",
+          "balls": 257,
+          "runs": 126,
+          "wickets": 4,
+          "economy": 2.94
+        },
+        {
+          "player": "MM Patel",
+          "overs": "20.4",
+          "balls": 124,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 2.23
+        },
+        {
+          "player": "V Sehwag",
+          "overs": "12.3",
+          "balls": 75,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 2.48
+        },
+        {
+          "player": "SR Tendulkar",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "India",
+      "runs": 169,
+      "extras": 6,
+      "balls": 386,
+      "batting": [
+        {
+          "player": "W Jaffer",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "V Sehwag",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "SC Ganguly",
+          "runs": 46,
+          "balls": 89,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 51.69,
+          "out": true
+        },
+        {
+          "player": "R Dravid",
+          "runs": 47,
+          "balls": 134,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 35.07,
+          "out": true
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 14,
+          "balls": 62,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.58,
+          "out": true
+        },
+        {
+          "player": "VVS Laxman",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "KD Karthik",
+          "runs": 38,
+          "balls": 48,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 79.17,
+          "out": false
+        },
+        {
+          "player": "A Kumble",
+          "runs": 6,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "Z Khan",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "S Sreesanth",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "MM Patel",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Ntini",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 3.62
+        },
+        {
+          "player": "DW Steyn",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 31,
+          "wickets": 4,
+          "economy": 4.23
+        },
+        {
+          "player": "SM Pollock",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 1.87
+        },
+        {
+          "player": "PL Harris",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 2.27
+        },
+        {
+          "player": "JH Kallis",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 2.58
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "South Africa",
+      "runs": 211,
+      "extras": 17,
+      "balls": 390,
+      "batting": [
+        {
+          "player": "AB de Villiers",
+          "runs": 22,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "GC Smith",
+          "runs": 55,
+          "balls": 84,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 65.48,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 10,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "SM Pollock",
+          "runs": 37,
+          "balls": 56,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 66.07,
+          "out": true
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 32,
+          "balls": 90,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.56,
+          "out": true
+        },
+        {
+          "player": "AG Prince",
+          "runs": 38,
+          "balls": 103,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.89,
+          "out": false
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Z Khan",
+          "overs": "21.3",
+          "balls": 129,
+          "runs": 62,
+          "wickets": 4,
+          "economy": 2.88
+        },
+        {
+          "player": "S Sreesanth",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 3.87
+        },
+        {
+          "player": "A Kumble",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 81,
+          "wickets": 1,
+          "economy": 3.24
+        },
+        {
+          "player": "MM Patel",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "V Sehwag",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 6.86
+        },
+        {
+          "player": "SR Tendulkar",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 2.21
+        }
+      ]
+    }
+  ]
+}

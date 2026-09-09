@@ -1,0 +1,639 @@
+{
+  "id": "1336044",
+  "teams": [
+    "Australia",
+    "England"
+  ],
+  "date": "2023-06-28",
+  "format": "Test",
+  "competition": "The Ashes",
+  "venue": "Lord's, London",
+  "result": "Australia won by 43 runs",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 416,
+      "extras": 38,
+      "balls": 616,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 66,
+          "balls": 88,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 17,
+          "balls": 70,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 24.29,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 47,
+          "balls": 93,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 50.54,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 110,
+          "balls": 184,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 59.78,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 77,
+          "balls": 73,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 105.48,
+          "out": true
+        },
+        {
+          "player": "C Green",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AT Carey",
+          "runs": 22,
+          "balls": 43,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.16,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 22,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 7,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true
+        },
+        {
+          "player": "JR Hazlewood",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 2.73
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 104,
+          "wickets": 1,
+          "economy": 4.49
+        },
+        {
+          "player": "OE Robinson",
+          "overs": "25.4",
+          "balls": 154,
+          "runs": 104,
+          "wickets": 3,
+          "economy": 4.05
+        },
+        {
+          "player": "JC Tongue",
+          "overs": "22.1",
+          "balls": 133,
+          "runs": 109,
+          "wickets": 3,
+          "economy": 4.92
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "JE Root",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 2.88
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 325,
+      "extras": 22,
+      "balls": 467,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 48,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 98,
+          "balls": 134,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 73.13,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 42,
+          "balls": 63,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 10,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 52.63,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 50,
+          "balls": 68,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 73.53,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 17,
+          "balls": 58,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.31,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 16,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 43.24,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 12,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 48.0,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 9,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "JC Tongue",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 88,
+          "wickets": 3,
+          "economy": 5.08
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 3.21
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 71,
+          "wickets": 2,
+          "economy": 5.46
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 2.77
+        },
+        {
+          "player": "C Green",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 59,
+          "wickets": 1,
+          "economy": 5.9
+        },
+        {
+          "player": "TM Head",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 2.43
+        },
+        {
+          "player": "SPD Smith",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Australia",
+      "runs": 279,
+      "extras": 36,
+      "balls": 623,
+      "batting": [
+        {
+          "player": "UT Khawaja",
+          "runs": 77,
+          "balls": 188,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 40.96,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 25,
+          "balls": 76,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.89,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 30,
+          "balls": 51,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 34,
+          "balls": 65,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 52.31,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 7,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "C Green",
+          "runs": 18,
+          "balls": 67,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 26.87,
+          "out": true
+        },
+        {
+          "player": "AT Carey",
+          "runs": 21,
+          "balls": 73,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 28.77,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 15,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 36.59,
+          "out": false
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 11,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.93,
+          "out": true
+        },
+        {
+          "player": "JR Hazlewood",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 4,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 3.68
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 69,
+          "wickets": 4,
+          "economy": 2.76
+        },
+        {
+          "player": "JC Tongue",
+          "overs": "20.3",
+          "balls": 123,
+          "runs": 58,
+          "wickets": 2,
+          "economy": 2.83
+        },
+        {
+          "player": "OE Robinson",
+          "overs": "26.2",
+          "balls": 158,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 2.09
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 2.08
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "England",
+      "runs": 327,
+      "extras": 17,
+      "balls": 503,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 83,
+          "balls": 117,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 70.94,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 18,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 155,
+          "balls": 216,
+          "fours": 9,
+          "sixes": 9,
+          "strike_rate": 71.76,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 10,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 11,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 29.73,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "JC Tongue",
+          "runs": 19,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 73.08,
+          "out": true
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 3,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.04,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 80,
+          "wickets": 3,
+          "economy": 3.64
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "25.3",
+          "balls": 153,
+          "runs": 69,
+          "wickets": 3,
+          "economy": 2.71
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "18.4",
+          "balls": 112,
+          "runs": 81,
+          "wickets": 3,
+          "economy": 4.34
+        },
+        {
+          "player": "TM Head",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 5.75
+        },
+        {
+          "player": "C Green",
+          "overs": "13.4",
+          "balls": 82,
+          "runs": 74,
+          "wickets": 1,
+          "economy": 5.41
+        }
+      ]
+    }
+  ]
+}

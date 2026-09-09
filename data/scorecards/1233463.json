@@ -1,0 +1,379 @@
+{
+  "id": "1233463",
+  "teams": [
+    "Zimbabwe",
+    "Pakistan"
+  ],
+  "date": "2020-11-03",
+  "format": "ODI",
+  "competition": "Zimbabwe tour of Pakistan",
+  "venue": "Rawalpindi Cricket Stadium",
+  "result": "tie",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Zimbabwe",
+      "runs": 278,
+      "extras": 15,
+      "balls": 309,
+      "batting": [
+        {
+          "player": "BB Chari",
+          "runs": 9,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "CJ Chibhabha",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CR Ervine",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 56,
+          "balls": 70,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "SC Williams",
+          "runs": 118,
+          "balls": 139,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 84.89,
+          "out": false
+        },
+        {
+          "player": "W Madhevere",
+          "runs": 33,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Sikandar Raza",
+          "runs": 45,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "DT Tiripano",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "Mohammad Hasnain",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 31,
+          "wickets": 5,
+          "economy": 3.05
+        },
+        {
+          "player": "Muhammad Musa",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 80,
+          "wickets": 0,
+          "economy": 7.74
+        },
+        {
+          "player": "Wahab Riaz",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 65,
+          "wickets": 1,
+          "economy": 6.19
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 278,
+      "extras": 7,
+      "balls": 306,
+      "batting": [
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 125,
+          "balls": 129,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 96.9,
+          "out": true
+        },
+        {
+          "player": "Fakhar Zaman",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Haider Ali",
+          "runs": 13,
+          "balls": 9,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 144.44,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 10,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.04,
+          "out": true
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "runs": 18,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "Khushdil Shah",
+          "runs": 33,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 68.75,
+          "out": true
+        },
+        {
+          "player": "Wahab Riaz",
+          "runs": 52,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 92.86,
+          "out": true
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "Muhammad Musa",
+          "runs": 9,
+          "balls": 3,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 300.0,
+          "out": false
+        },
+        {
+          "player": "Mohammad Hasnain",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Muzarabani",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 50,
+          "wickets": 5,
+          "economy": 4.76
+        },
+        {
+          "player": "R Ngarava",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 62,
+          "wickets": 2,
+          "economy": 6.89
+        },
+        {
+          "player": "TS Chisoro",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 6.86
+        },
+        {
+          "player": "DT Tiripano",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 5.32
+        },
+        {
+          "player": "Sikandar Raza",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 4.13
+        },
+        {
+          "player": "SC Williams",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 5.29
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Pakistan",
+      "runs": 2,
+      "extras": 0,
+      "balls": 4,
+      "batting": [
+        {
+          "player": "Iftikhar Ahmed",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Khushdil Shah",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Fakhar Zaman",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Muzarabani",
+          "overs": "0.4",
+          "balls": 4,
+          "runs": 2,
+          "wickets": 2,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Zimbabwe",
+      "runs": 3,
+      "extras": 0,
+      "balls": 3,
+      "batting": [
+        {
+          "player": "BRM Taylor",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "Sikandar Raza",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

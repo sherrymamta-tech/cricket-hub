@@ -1,0 +1,269 @@
+{
+  "id": "1115802",
+  "teams": [
+    "New Zealand",
+    "Pakistan"
+  ],
+  "date": "2018-01-06",
+  "format": "ODI",
+  "competition": "Pakistan tour of New Zealand",
+  "venue": "Basin Reserve",
+  "result": "New Zealand won by 61 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 315,
+      "extras": 10,
+      "balls": 306,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 48,
+          "balls": 74,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 64.86,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 58,
+          "balls": 35,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 165.71,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 115,
+          "balls": 118,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 97.46,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 12,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 50,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 7,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 12,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 171.43,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Amir",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 6.22
+        },
+        {
+          "player": "Rumman Raees",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 6.68
+        },
+        {
+          "player": "Hasan Ali",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 62,
+          "wickets": 3,
+          "economy": 6.2
+        },
+        {
+          "player": "Shadab Khan",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 50,
+          "wickets": 0,
+          "economy": 5.45
+        },
+        {
+          "player": "Faheem Ashraf",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 6.21
+        },
+        {
+          "player": "Fakhar Zaman",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 6.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 166,
+      "extras": 11,
+      "balls": 191,
+      "batting": [
+        {
+          "player": "Azhar Ali",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "Fakhar Zaman",
+          "runs": 82,
+          "balls": 91,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 90.11,
+          "out": false
+        },
+        {
+          "player": "Shoaib Malik",
+          "runs": 13,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 92.86,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 8,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Shadab Khan",
+          "runs": 28,
+          "balls": 34,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 82.35,
+          "out": true
+        },
+        {
+          "player": "Faheem Ashraf",
+          "runs": 17,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 130.77,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "6.3",
+          "balls": 39,
+          "runs": 22,
+          "wickets": 3,
+          "economy": 3.38
+        },
+        {
+          "player": "TA Boult",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 5.53
+        },
+        {
+          "player": "LH Ferguson",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 5.33
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "6.3",
+          "balls": 39,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "TD Astle",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

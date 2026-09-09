@@ -1,0 +1,96 @@
+{
+  "id": "1346932",
+  "teams": [
+    "Dubai Capitals",
+    "Sharjah Warriors"
+  ],
+  "date": "2023-01-26",
+  "format": "T20",
+  "competition": "International League T20",
+  "venue": "Sharjah Cricket Stadium",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Dubai Capitals",
+      "runs": 17,
+      "extras": 6,
+      "balls": 32,
+      "batting": [
+        {
+          "player": "Hazratullah",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "DW Lawrence",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "PBB Rajapaksa",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "R Powell",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": false
+        },
+        {
+          "player": "MD Shanaka",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "Sikandar Raza",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Naveen-ul-Haq",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 9,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "Junaid Siddique",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 8,
+          "wickets": 2,
+          "economy": 3.43
+        }
+      ]
+    }
+  ]
+}

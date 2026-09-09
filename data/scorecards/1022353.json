@@ -1,0 +1,260 @@
+{
+  "id": "1022353",
+  "teams": [
+    "India",
+    "Pakistan"
+  ],
+  "date": "2017-06-04",
+  "format": "ODI",
+  "competition": "ICC Champions Trophy",
+  "venue": "Edgbaston",
+  "result": "India won by 124 runs",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 319,
+      "extras": 6,
+      "balls": 292,
+      "batting": [
+        {
+          "player": "RG Sharma",
+          "runs": 91,
+          "balls": 119,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 76.47,
+          "out": true
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 68,
+          "balls": 67,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 101.49,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 81,
+          "balls": 68,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 119.12,
+          "out": false
+        },
+        {
+          "player": "Yuvraj Singh",
+          "runs": 53,
+          "balls": 32,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 165.62,
+          "out": true
+        },
+        {
+          "player": "HH Pandya",
+          "runs": 20,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 333.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Amir",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 4.04
+        },
+        {
+          "player": "Imad Wasim",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 66,
+          "wickets": 0,
+          "economy": 7.07
+        },
+        {
+          "player": "Hasan Ali",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 71,
+          "wickets": 1,
+          "economy": 6.98
+        },
+        {
+          "player": "Wahab Riaz",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 87,
+          "wickets": 0,
+          "economy": 9.67
+        },
+        {
+          "player": "Shadab Khan",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 5.2
+        },
+        {
+          "player": "Shoaib Malik",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 164,
+      "extras": 8,
+      "balls": 208,
+      "batting": [
+        {
+          "player": "Azhar Ali",
+          "runs": 50,
+          "balls": 68,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 73.53,
+          "out": true
+        },
+        {
+          "player": "Ahmed Shehzad",
+          "runs": 12,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 33,
+          "balls": 43,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.74,
+          "out": true
+        },
+        {
+          "player": "Shoaib Malik",
+          "runs": 15,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 15,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "Imad Wasim",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Shadab Khan",
+          "runs": 14,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 87.5,
+          "out": false
+        },
+        {
+          "player": "Mohammad Amir",
+          "runs": 9,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Kumar",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "player": "UT Yadav",
+          "overs": "7.5",
+          "balls": 47,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 3.83
+        },
+        {
+          "player": "JJ Bumrah",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.8
+        },
+        {
+          "player": "HH Pandya",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 43,
+          "wickets": 2,
+          "economy": 5.06
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 43,
+          "wickets": 2,
+          "economy": 5.38
+        }
+      ]
+    }
+  ]
+}

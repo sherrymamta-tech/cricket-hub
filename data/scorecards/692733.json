@@ -1,0 +1,473 @@
+{
+  "id": "692733",
+  "teams": [
+    "Yorkshire",
+    "Northamptonshire"
+  ],
+  "date": "2014-04-20",
+  "format": "MDM",
+  "competition": "LV= County Championship",
+  "venue": "Headingley, Leeds",
+  "result": "Yorkshire won by 120 runs",
+  "winner": "Yorkshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Yorkshire",
+      "runs": 459,
+      "extras": 34,
+      "balls": 755,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 11,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 90,
+          "balls": 196,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 45.92,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 3,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.34,
+          "out": true
+        },
+        {
+          "player": "AW Gale",
+          "runs": 13,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.39,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 174,
+          "balls": 256,
+          "fours": 25,
+          "sixes": 2,
+          "strike_rate": 67.97,
+          "out": true
+        },
+        {
+          "player": "AU Rashid",
+          "runs": 33,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 68.75,
+          "out": true
+        },
+        {
+          "player": "AJ Hodd",
+          "runs": 21,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 80.77,
+          "out": true
+        },
+        {
+          "player": "LE Plunkett",
+          "runs": 11,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 91.67,
+          "out": true
+        },
+        {
+          "player": "RJ Sidebottom",
+          "runs": 15,
+          "balls": 74,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.27,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 17,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.71,
+          "out": false
+        },
+        {
+          "player": "JA Brooks",
+          "runs": 37,
+          "balls": 39,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 94.87,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Chambers",
+          "overs": "22.1",
+          "balls": 133,
+          "runs": 78,
+          "wickets": 1,
+          "economy": 3.52
+        },
+        {
+          "player": "Azharullah",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 81,
+          "wickets": 2,
+          "economy": 3.24
+        },
+        {
+          "player": "AJ Hall",
+          "overs": "28.3",
+          "balls": 171,
+          "runs": 121,
+          "wickets": 4,
+          "economy": 4.25
+        },
+        {
+          "player": "SP Crook",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 95,
+          "wickets": 1,
+          "economy": 3.93
+        },
+        {
+          "player": "James Middlebrook",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 68,
+          "wickets": 1,
+          "economy": 2.96
+        },
+        {
+          "player": "MNW Spriegel",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 5.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Northamptonshire",
+      "runs": 94,
+      "extras": 14,
+      "balls": 181,
+      "batting": [
+        {
+          "player": "SD Peters",
+          "runs": 9,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "James Middlebrook",
+          "runs": 6,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "KJ Coetzer",
+          "runs": 10,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "MNW Spriegel",
+          "runs": 29,
+          "balls": 78,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 37.18,
+          "out": false
+        },
+        {
+          "player": "RI Newton",
+          "runs": 2,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.76,
+          "out": true
+        },
+        {
+          "player": "AJ Hall",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SP Crook",
+          "runs": 8,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "D Murphy",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MA Chambers",
+          "runs": 10,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.62,
+          "out": true
+        },
+        {
+          "player": "Azharullah",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RJ Sidebottom",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 17,
+          "wickets": 4,
+          "economy": 1.89
+        },
+        {
+          "player": "JA Brooks",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 41,
+          "wickets": 5,
+          "economy": 3.42
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 2.5
+        },
+        {
+          "player": "LE Plunkett",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 5.03
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Northamptonshire",
+      "runs": 245,
+      "extras": 30,
+      "balls": 476,
+      "batting": [
+        {
+          "player": "SD Peters",
+          "runs": 11,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true
+        },
+        {
+          "player": "James Middlebrook",
+          "runs": 63,
+          "balls": 140,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 45.0,
+          "out": true
+        },
+        {
+          "player": "KJ Coetzer",
+          "runs": 39,
+          "balls": 71,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 54.93,
+          "out": true
+        },
+        {
+          "player": "MNW Spriegel",
+          "runs": 7,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.82,
+          "out": true
+        },
+        {
+          "player": "RI Newton",
+          "runs": 11,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true
+        },
+        {
+          "player": "MA Chambers",
+          "runs": 1,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 4.35,
+          "out": true
+        },
+        {
+          "player": "AJ Hall",
+          "runs": 12,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 20,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "SP Crook",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "D Murphy",
+          "runs": 23,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.07,
+          "out": false
+        },
+        {
+          "player": "Azharullah",
+          "runs": 23,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.1,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RJ Sidebottom",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 2.44
+        },
+        {
+          "player": "JA Brooks",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 80,
+          "wickets": 3,
+          "economy": 3.81
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "7.5",
+          "balls": 47,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 2.3
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 2.29
+        },
+        {
+          "player": "LE Plunkett",
+          "overs": "15.3",
+          "balls": 93,
+          "runs": 62,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

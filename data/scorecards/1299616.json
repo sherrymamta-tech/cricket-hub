@@ -1,0 +1,277 @@
+{
+  "id": "1299616",
+  "teams": [
+    "Boland",
+    "Lions"
+  ],
+  "date": "2022-02-15",
+  "format": "T20",
+  "competition": "CSA T20 Challenge",
+  "venue": "St George's Park, Port Elizabeth",
+  "result": "Boland won by 44 runs",
+  "winner": "Boland",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Boland",
+      "runs": 160,
+      "extras": 4,
+      "balls": 121,
+      "batting": [
+        {
+          "player": "JN Malan",
+          "runs": 15,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "PJ Malan",
+          "runs": 71,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 147.92,
+          "out": true
+        },
+        {
+          "player": "C Fortuin",
+          "runs": 18,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "FD Adams",
+          "runs": 30,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 130.43,
+          "out": false
+        },
+        {
+          "player": "C Jonker",
+          "runs": 20,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "M Copeland",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BC Fortuin",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "SSB Magala",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 9.84
+        },
+        {
+          "player": "Codi Yusuf",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "A Myoli",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "player": "MP Siboto",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.75
+        },
+        {
+          "player": "RR Hendricks",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Lions",
+      "runs": 116,
+      "extras": 7,
+      "balls": 107,
+      "batting": [
+        {
+          "player": "J Richards",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "S Dadswell",
+          "runs": 29,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 111.54,
+          "out": true
+        },
+        {
+          "player": "RR Hendricks",
+          "runs": 46,
+          "balls": 39,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 117.95,
+          "out": true
+        },
+        {
+          "player": "M Van Buuren",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DA Hendricks",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "R Haasbroek",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "SSB Magala",
+          "runs": 21,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 131.25,
+          "out": true
+        },
+        {
+          "player": "BC Fortuin",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Codi Yusuf",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "MP Siboto",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Siyabonga Mahima",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "player": "I Manack",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.48
+        },
+        {
+          "player": "GC Viljoen",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 7.38
+        },
+        {
+          "player": "S von Berg",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 3,
+          "economy": 3.5
+        },
+        {
+          "player": "ZC Qwabe",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 10.15
+        },
+        {
+          "player": "FD Adams",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 12.75
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,615 @@
+{
+  "id": "1410255",
+  "teams": [
+    "Lancashire",
+    "Somerset"
+  ],
+  "date": "2024-09-17",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Old Trafford, Manchester",
+  "result": "Lancashire won by 168 runs",
+  "winner": "Lancashire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Lancashire",
+      "runs": 140,
+      "extras": 15,
+      "balls": 242,
+      "batting": [
+        {
+          "player": "KK Jennings",
+          "runs": 56,
+          "balls": 68,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 82.35,
+          "out": true
+        },
+        {
+          "player": "Harry Singh",
+          "runs": 7,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "JJ Bohannon",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "R Flintoff",
+          "runs": 7,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.59,
+          "out": true
+        },
+        {
+          "player": "MF Hurst",
+          "runs": 11,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true
+        },
+        {
+          "player": "LWP Wells",
+          "runs": 14,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true
+        },
+        {
+          "player": "GJ Bell",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GP Balderson",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "TE Bailey",
+          "runs": 16,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 59.26,
+          "out": true
+        },
+        {
+          "player": "A Phillip",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "WSA Williams",
+          "runs": 8,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Overton",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 36,
+          "wickets": 4,
+          "economy": 2.4
+        },
+        {
+          "player": "BG Randell",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 3.43
+        },
+        {
+          "player": "L Gregory",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 51,
+          "wickets": 4,
+          "economy": 4.64
+        },
+        {
+          "player": "Kasey Aldridge",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 4.05
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Somerset",
+      "runs": 146,
+      "extras": 14,
+      "balls": 245,
+      "batting": [
+        {
+          "player": "ARI Umeed",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TA Lammonby",
+          "runs": 36,
+          "balls": 64,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "AM Vaughan",
+          "runs": 21,
+          "balls": 55,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 38.18,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 22,
+          "balls": 47,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 46.81,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "JEK Rew",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "Kasey Aldridge",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 30,
+          "balls": 35,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": false
+        },
+        {
+          "player": "C Overton",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "BG Randell",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MJ Leach",
+          "runs": 13,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TE Bailey",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 37,
+          "wickets": 4,
+          "economy": 3.36
+        },
+        {
+          "player": "A Phillip",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 5.14
+        },
+        {
+          "player": "GP Balderson",
+          "overs": "13.4",
+          "balls": 82,
+          "runs": 50,
+          "wickets": 4,
+          "economy": 3.66
+        },
+        {
+          "player": "WSA Williams",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 2.51
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Lancashire",
+      "runs": 398,
+      "extras": 46,
+      "balls": 854,
+      "batting": [
+        {
+          "player": "Harry Singh",
+          "runs": 31,
+          "balls": 142,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 21.83,
+          "out": true
+        },
+        {
+          "player": "KK Jennings",
+          "runs": 4,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.05,
+          "out": true
+        },
+        {
+          "player": "WSA Williams",
+          "runs": 7,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.93,
+          "out": true
+        },
+        {
+          "player": "JJ Bohannon",
+          "runs": 60,
+          "balls": 76,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 78.95,
+          "out": true
+        },
+        {
+          "player": "R Flintoff",
+          "runs": 27,
+          "balls": 79,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 34.18,
+          "out": true
+        },
+        {
+          "player": "MF Hurst",
+          "runs": 19,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 67.86,
+          "out": true
+        },
+        {
+          "player": "LWP Wells",
+          "runs": 130,
+          "balls": 231,
+          "fours": 15,
+          "sixes": 1,
+          "strike_rate": 56.28,
+          "out": true
+        },
+        {
+          "player": "GJ Bell",
+          "runs": 23,
+          "balls": 77,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 29.87,
+          "out": true
+        },
+        {
+          "player": "GP Balderson",
+          "runs": 47,
+          "balls": 157,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 29.94,
+          "out": true
+        },
+        {
+          "player": "TE Bailey",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "A Phillip",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Overton",
+          "overs": "33.0",
+          "balls": 198,
+          "runs": 72,
+          "wickets": 1,
+          "economy": 2.18
+        },
+        {
+          "player": "BG Randell",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 71,
+          "wickets": 3,
+          "economy": 3.35
+        },
+        {
+          "player": "L Gregory",
+          "overs": "28.3",
+          "balls": 171,
+          "runs": 81,
+          "wickets": 2,
+          "economy": 2.84
+        },
+        {
+          "player": "MJ Leach",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 57,
+          "wickets": 3,
+          "economy": 2.19
+        },
+        {
+          "player": "Kasey Aldridge",
+          "overs": "21.3",
+          "balls": 129,
+          "runs": 73,
+          "wickets": 1,
+          "economy": 3.4
+        },
+        {
+          "player": "AM Vaughan",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 3.44
+        },
+        {
+          "player": "TA Lammonby",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 4.5
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Somerset",
+      "runs": 224,
+      "extras": 12,
+      "balls": 418,
+      "batting": [
+        {
+          "player": "ARI Umeed",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "TA Lammonby",
+          "runs": 49,
+          "balls": 83,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 59.04,
+          "out": true
+        },
+        {
+          "player": "AM Vaughan",
+          "runs": 68,
+          "balls": 121,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 56.2,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 23,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 60.53,
+          "out": true
+        },
+        {
+          "player": "JEK Rew",
+          "runs": 31,
+          "balls": 90,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 34.44,
+          "out": true
+        },
+        {
+          "player": "Kasey Aldridge",
+          "runs": 19,
+          "balls": 53,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.85,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BG Randell",
+          "runs": 9,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "MJ Leach",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TE Bailey",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 3.77
+        },
+        {
+          "player": "A Phillip",
+          "overs": "19.3",
+          "balls": 117,
+          "runs": 81,
+          "wickets": 3,
+          "economy": 4.15
+        },
+        {
+          "player": "GP Balderson",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 2.4
+        },
+        {
+          "player": "WSA Williams",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 2.3
+        },
+        {
+          "player": "LWP Wells",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 37,
+          "wickets": 4,
+          "economy": 2.85
+        }
+      ]
+    }
+  ]
+}

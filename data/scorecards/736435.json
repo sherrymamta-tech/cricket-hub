@@ -1,0 +1,543 @@
+{
+  "id": "736435",
+  "teams": [
+    "Zimbabwe",
+    "South Africa"
+  ],
+  "date": "2014-08-09",
+  "format": "Test",
+  "competition": "Cricket",
+  "venue": "Harare Sports Club",
+  "result": "South Africa won by 9 wickets",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Zimbabwe",
+      "runs": 256,
+      "extras": 8,
+      "balls": 560,
+      "batting": [
+        {
+          "player": "V Sibanda",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "H Masakadza",
+          "runs": 45,
+          "balls": 94,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 47.87,
+          "out": true
+        },
+        {
+          "player": "MA Vermeulen",
+          "runs": 14,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 93,
+          "balls": 159,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 58.49,
+          "out": true
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SC Williams",
+          "runs": 24,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 70.59,
+          "out": true
+        },
+        {
+          "player": "R Mutumbami",
+          "runs": 21,
+          "balls": 79,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 26.58,
+          "out": true
+        },
+        {
+          "player": "T Panyangara",
+          "runs": 12,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "DT Tiripano",
+          "runs": 15,
+          "balls": 80,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 18.75,
+          "out": false
+        },
+        {
+          "player": "TL Chatara",
+          "runs": 22,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 84.62,
+          "out": true
+        },
+        {
+          "player": "J Nyumbu",
+          "runs": 2,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.9,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DW Steyn",
+          "overs": "22.4",
+          "balls": 136,
+          "runs": 46,
+          "wickets": 5,
+          "economy": 2.03
+        },
+        {
+          "player": "VD Philander",
+          "overs": "18.2",
+          "balls": 110,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 2.78
+        },
+        {
+          "player": "M Morkel",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 2.17
+        },
+        {
+          "player": "DL Piedt",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 90,
+          "wickets": 4,
+          "economy": 3.75
+        },
+        {
+          "player": "JP Duminy",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 397,
+      "extras": 8,
+      "balls": 952,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 61,
+          "balls": 146,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 41.78,
+          "out": true
+        },
+        {
+          "player": "AN Petersen",
+          "runs": 32,
+          "balls": 58,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 55.17,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 98,
+          "balls": 264,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 37.12,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 4,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.81,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 7,
+          "balls": 34,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.59,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 81,
+          "balls": 152,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 53.29,
+          "out": true
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 55,
+          "balls": 134,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.04,
+          "out": true
+        },
+        {
+          "player": "VD Philander",
+          "runs": 17,
+          "balls": 87,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.54,
+          "out": true
+        },
+        {
+          "player": "DW Steyn",
+          "runs": 19,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 105.56,
+          "out": true
+        },
+        {
+          "player": "DL Piedt",
+          "runs": 13,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.43,
+          "out": true
+        },
+        {
+          "player": "M Morkel",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "T Panyangara",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 1.33
+        },
+        {
+          "player": "DT Tiripano",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 65,
+          "wickets": 2,
+          "economy": 2.48
+        },
+        {
+          "player": "J Nyumbu",
+          "overs": "49.3",
+          "balls": 297,
+          "runs": 160,
+          "wickets": 5,
+          "economy": 3.23
+        },
+        {
+          "player": "TL Chatara",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 1.26
+        },
+        {
+          "player": "SC Williams",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 98,
+          "wickets": 2,
+          "economy": 3.77
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Zimbabwe",
+      "runs": 181,
+      "extras": 10,
+      "balls": 459,
+      "batting": [
+        {
+          "player": "H Masakadza",
+          "runs": 19,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 54.29,
+          "out": true
+        },
+        {
+          "player": "V Sibanda",
+          "runs": 45,
+          "balls": 111,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 40.54,
+          "out": true
+        },
+        {
+          "player": "DT Tiripano",
+          "runs": 5,
+          "balls": 63,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.94,
+          "out": true
+        },
+        {
+          "player": "MA Vermeulen",
+          "runs": 21,
+          "balls": 68,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.88,
+          "out": true
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 15,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 65.22,
+          "out": true
+        },
+        {
+          "player": "SC Williams",
+          "runs": 3,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.79,
+          "out": true
+        },
+        {
+          "player": "R Mutumbami",
+          "runs": 43,
+          "balls": 69,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 62.32,
+          "out": true
+        },
+        {
+          "player": "J Nyumbu",
+          "runs": 13,
+          "balls": 52,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "TL Chatara",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "T Panyangara",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DW Steyn",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 39,
+          "wickets": 3,
+          "economy": 1.83
+        },
+        {
+          "player": "VD Philander",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 2.46
+        },
+        {
+          "player": "M Morkel",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 17,
+          "wickets": 3,
+          "economy": 1.13
+        },
+        {
+          "player": "DL Piedt",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 68,
+          "wickets": 4,
+          "economy": 2.72
+        },
+        {
+          "player": "JP Duminy",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "D Elgar",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.67
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "South Africa",
+      "runs": 44,
+      "extras": 1,
+      "balls": 64,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 21,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "AN Petersen",
+          "runs": 17,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.67,
+          "out": false
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Nyumbu",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 6.25
+        },
+        {
+          "player": "T Panyangara",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 1.67
+        },
+        {
+          "player": "TL Chatara",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 2.5
+        },
+        {
+          "player": "SC Williams",
+          "overs": "1.4",
+          "balls": 10,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 5.4
+        }
+      ]
+    }
+  ]
+}

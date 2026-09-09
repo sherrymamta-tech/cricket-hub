@@ -1,0 +1,118 @@
+{
+  "id": "1244299",
+  "teams": [
+    "Lancashire",
+    "Yorkshire"
+  ],
+  "date": "2021-07-11",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Headingley, Leeds",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Lancashire",
+      "runs": 411,
+      "extras": 24,
+      "balls": 717,
+      "batting": [
+        {
+          "player": "KK Jennings",
+          "runs": 132,
+          "balls": 254,
+          "fours": 15,
+          "sixes": 1,
+          "strike_rate": 51.97,
+          "out": true
+        },
+        {
+          "player": "AL Davies",
+          "runs": 84,
+          "balls": 173,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 48.55,
+          "out": true
+        },
+        {
+          "player": "LWP Wells",
+          "runs": 97,
+          "balls": 188,
+          "fours": 9,
+          "sixes": 3,
+          "strike_rate": 51.6,
+          "out": false
+        },
+        {
+          "player": "JJ Bohannon",
+          "runs": 74,
+          "balls": 102,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 72.55,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 58,
+          "wickets": 0,
+          "economy": 2.42
+        },
+        {
+          "player": "DJ Leech",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 82,
+          "wickets": 0,
+          "economy": 4.78
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 82,
+          "wickets": 2,
+          "economy": 4.1
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 95,
+          "wickets": 0,
+          "economy": 3.8
+        },
+        {
+          "player": "HC Brook",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 1.17
+        },
+        {
+          "player": "DM Bess",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 84,
+          "wickets": 0,
+          "economy": 3.6
+        },
+        {
+          "player": "GCH Hill",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 0.75
+        }
+      ]
+    }
+  ]
+}

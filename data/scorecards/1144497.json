@@ -1,0 +1,86 @@
+{
+  "id": "1144497",
+  "teams": [
+    "South Africa",
+    "West Indies"
+  ],
+  "date": "2019-06-10",
+  "format": "ODI",
+  "competition": "World Cup",
+  "venue": "The Rose Bowl",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 29,
+      "extras": 1,
+      "balls": 46,
+      "batting": [
+        {
+          "player": "Q de Kock",
+          "runs": 17,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.27,
+          "out": false
+        },
+        {
+          "player": "HM Amla",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SS Cottrell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 4.5
+        },
+        {
+          "player": "KAJ Roach",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 3.16
+        },
+        {
+          "player": "O Thomas",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    }
+  ]
+}

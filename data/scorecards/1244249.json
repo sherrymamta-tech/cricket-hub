@@ -1,0 +1,606 @@
+{
+  "id": "1244249",
+  "teams": [
+    "Yorkshire",
+    "Northamptonshire"
+  ],
+  "date": "2021-04-29",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Headingley, Leeds",
+  "result": "Yorkshire won by 1 runs",
+  "winner": "Yorkshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Yorkshire",
+      "runs": 206,
+      "extras": 29,
+      "balls": 382,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WAR Fraine",
+          "runs": 11,
+          "balls": 66,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 42,
+          "balls": 77,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 4,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 26,
+          "balls": 63,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 41.27,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 56,
+          "balls": 95,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 58.95,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 17,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 54.84,
+          "out": true
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 12,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 9,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BW Sanderson",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 2.43
+        },
+        {
+          "player": "TAI Taylor",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 2.86
+        },
+        {
+          "player": "WD Parnell",
+          "overs": "15.4",
+          "balls": 94,
+          "runs": 83,
+          "wickets": 5,
+          "economy": 5.3
+        },
+        {
+          "player": "GK Berg",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 32,
+          "wickets": 3,
+          "economy": 2.46
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Northamptonshire",
+      "runs": 234,
+      "extras": 10,
+      "balls": 533,
+      "batting": [
+        {
+          "player": "BJ Curran",
+          "runs": 15,
+          "balls": 45,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "R Vasconcelos",
+          "runs": 47,
+          "balls": 82,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 57.32,
+          "out": true
+        },
+        {
+          "player": "CO Thurston",
+          "runs": 13,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 86.67,
+          "out": true
+        },
+        {
+          "player": "RI Keogh",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "LA Procter",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 50,
+          "balls": 143,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 34.97,
+          "out": true
+        },
+        {
+          "player": "SA Zaib",
+          "runs": 55,
+          "balls": 134,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 41.04,
+          "out": true
+        },
+        {
+          "player": "WD Parnell",
+          "runs": 16,
+          "balls": 59,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 27.12,
+          "out": true
+        },
+        {
+          "player": "GK Berg",
+          "runs": 11,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.0,
+          "out": false
+        },
+        {
+          "player": "SC Kerrigan",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "BW Sanderson",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Willey",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 2.56
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "18.5",
+          "balls": 113,
+          "runs": 63,
+          "wickets": 3,
+          "economy": 3.35
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 2.0
+        },
+        {
+          "player": "D Olivier",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 56,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "HC Brook",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 2.67
+        },
+        {
+          "player": "DM Bess",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 1.67
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Yorkshire",
+      "runs": 247,
+      "extras": 19,
+      "balls": 473,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 27,
+          "balls": 59,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 45.76,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 0,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WAR Fraine",
+          "runs": 3,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 16,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 59.26,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 4,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 39,
+          "balls": 92,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 42.39,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 18,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 58.06,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 32,
+          "balls": 51,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 62.75,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 37,
+          "balls": 52,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 71.15,
+          "out": true
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 41,
+          "balls": 73,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 56.16,
+          "out": false
+        },
+        {
+          "player": "D Olivier",
+          "runs": 11,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BW Sanderson",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 1.75
+        },
+        {
+          "player": "TAI Taylor",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 3.27
+        },
+        {
+          "player": "WD Parnell",
+          "overs": "17.4",
+          "balls": 106,
+          "runs": 91,
+          "wickets": 5,
+          "economy": 5.15
+        },
+        {
+          "player": "GK Berg",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "SC Kerrigan",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 1.69
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Northamptonshire",
+      "runs": 218,
+      "extras": 45,
+      "balls": 445,
+      "batting": [
+        {
+          "player": "BJ Curran",
+          "runs": 9,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "R Vasconcelos",
+          "runs": 41,
+          "balls": 62,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 66.13,
+          "out": true
+        },
+        {
+          "player": "CO Thurston",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RI Keogh",
+          "runs": 5,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "LA Procter",
+          "runs": 27,
+          "balls": 72,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "SA Zaib",
+          "runs": 25,
+          "balls": 73,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 34.25,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 1,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.25,
+          "out": true
+        },
+        {
+          "player": "WD Parnell",
+          "runs": 33,
+          "balls": 102,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.35,
+          "out": true
+        },
+        {
+          "player": "GK Berg",
+          "runs": 16,
+          "balls": 52,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "SC Kerrigan",
+          "runs": 12,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 32.43,
+          "out": true
+        },
+        {
+          "player": "BW Sanderson",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SA Patterson",
+          "overs": "25.5",
+          "balls": 155,
+          "runs": 58,
+          "wickets": 2,
+          "economy": 2.25
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 61,
+          "wickets": 2,
+          "economy": 4.36
+        },
+        {
+          "player": "DJ Willey",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 61,
+          "wickets": 3,
+          "economy": 3.39
+        },
+        {
+          "player": "D Olivier",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 2.58
+        },
+        {
+          "player": "DM Bess",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 0.5
+        }
+      ]
+    }
+  ]
+}

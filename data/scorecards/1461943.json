@@ -1,0 +1,384 @@
+{
+  "id": "1461943",
+  "teams": [
+    "Middlesex",
+    "Lancashire"
+  ],
+  "date": "2025-09-15",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Old Trafford, Manchester",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Middlesex",
+      "runs": 211,
+      "extras": 22,
+      "balls": 311,
+      "batting": [
+        {
+          "player": "SD Robson",
+          "runs": 9,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "JM De Caires",
+          "runs": 52,
+          "balls": 68,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 76.47,
+          "out": true
+        },
+        {
+          "player": "LBK Hollman",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JL du Plooy",
+          "runs": 22,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 88.0,
+          "out": true
+        },
+        {
+          "player": "RF Higgins",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BBA Geddes",
+          "runs": 52,
+          "balls": 89,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 58.43,
+          "out": true
+        },
+        {
+          "player": "JB Cracknell",
+          "runs": 6,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "Zafar Gohar",
+          "runs": 25,
+          "balls": 62,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.32,
+          "out": true
+        },
+        {
+          "player": "SHB Morgan",
+          "runs": 10,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "TS Roland-Jones",
+          "runs": 11,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": false
+        },
+        {
+          "player": "HJH Brookes",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 2.64
+        },
+        {
+          "player": "TE Bailey",
+          "overs": "16.4",
+          "balls": 100,
+          "runs": 69,
+          "wickets": 4,
+          "economy": 4.14
+        },
+        {
+          "player": "TH Aspinwall",
+          "overs": "15.4",
+          "balls": 94,
+          "runs": 68,
+          "wickets": 4,
+          "economy": 4.34
+        },
+        {
+          "player": "GP Balderson",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 4.4
+        },
+        {
+          "player": "JJ Bohannon",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 3.56
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Lancashire",
+      "runs": 375,
+      "extras": 25,
+      "balls": 422,
+      "batting": [
+        {
+          "player": "LWP Wells",
+          "runs": 62,
+          "balls": 85,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 72.94,
+          "out": true
+        },
+        {
+          "player": "KK Jennings",
+          "runs": 61,
+          "balls": 125,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 48.8,
+          "out": true
+        },
+        {
+          "player": "JJ Bohannon",
+          "runs": 87,
+          "balls": 70,
+          "fours": 14,
+          "sixes": 2,
+          "strike_rate": 124.29,
+          "out": true
+        },
+        {
+          "player": "GJ Bell",
+          "runs": 17,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 62.96,
+          "out": true
+        },
+        {
+          "player": "MF Hurst",
+          "runs": 67,
+          "balls": 68,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 98.53,
+          "out": false
+        },
+        {
+          "player": "MA Jones",
+          "runs": 33,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 94.29,
+          "out": true
+        },
+        {
+          "player": "GP Balderson",
+          "runs": 23,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 191.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RF Higgins",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 84,
+          "wickets": 1,
+          "economy": 4.34
+        },
+        {
+          "player": "TS Roland-Jones",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 50,
+          "wickets": 2,
+          "economy": 3.57
+        },
+        {
+          "player": "HJH Brookes",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 6.42
+        },
+        {
+          "player": "SHB Morgan",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 83,
+          "wickets": 2,
+          "economy": 6.15
+        },
+        {
+          "player": "Zafar Gohar",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 68,
+          "wickets": 0,
+          "economy": 6.8
+        },
+        {
+          "player": "LBK Hollman",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 7.25
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Middlesex",
+      "runs": 99,
+      "extras": 10,
+      "balls": 234,
+      "batting": [
+        {
+          "player": "JM De Caires",
+          "runs": 15,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "SD Robson",
+          "runs": 21,
+          "balls": 60,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.0,
+          "out": true
+        },
+        {
+          "player": "LBK Hollman",
+          "runs": 33,
+          "balls": 92,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 35.87,
+          "out": true
+        },
+        {
+          "player": "JL du Plooy",
+          "runs": 5,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "RF Higgins",
+          "runs": 14,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 35.0,
+          "out": false
+        },
+        {
+          "player": "BBA Geddes",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TE Bailey",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 55,
+          "wickets": 3,
+          "economy": 3.06
+        },
+        {
+          "player": "TH Aspinwall",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "GP Balderson",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 1.33
+        },
+        {
+          "player": "AR Shetty",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 2.1
+        }
+      ]
+    }
+  ]
+}

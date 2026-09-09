@@ -1,0 +1,647 @@
+{
+  "id": "1339600",
+  "teams": [
+    "South Africa",
+    "West Indies"
+  ],
+  "date": "2023-03-08",
+  "format": "Test",
+  "competition": "West Indies tour of South Africa",
+  "venue": "The Wanderers Stadium, Johannesburg",
+  "result": "South Africa won by 284 runs",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 320,
+      "extras": 9,
+      "balls": 558,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 42,
+          "balls": 54,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 96,
+          "balls": 139,
+          "fours": 17,
+          "sixes": 0,
+          "strike_rate": 69.06,
+          "out": true
+        },
+        {
+          "player": "T de Zorzi",
+          "runs": 85,
+          "balls": 155,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 54.84,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 28,
+          "balls": 64,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true
+        },
+        {
+          "player": "RD Rickelton",
+          "runs": 22,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 44.9,
+          "out": true
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 17,
+          "balls": 45,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.78,
+          "out": true
+        },
+        {
+          "player": "PWA Mulder",
+          "runs": 12,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "SR Harmer",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "G Coetzee",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KAJ Roach",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 58,
+          "wickets": 0,
+          "economy": 3.55
+        },
+        {
+          "player": "AS Joseph",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 62,
+          "wickets": 3,
+          "economy": 3.35
+        },
+        {
+          "player": "KR Mayers",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 32,
+          "wickets": 3,
+          "economy": 3.56
+        },
+        {
+          "player": "JO Holder",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 2.41
+        },
+        {
+          "player": "G Motie",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 75,
+          "wickets": 3,
+          "economy": 3.95
+        },
+        {
+          "player": "RL Chase",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 54,
+          "wickets": 0,
+          "economy": 3.86
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "runs": 251,
+      "extras": 14,
+      "balls": 480,
+      "batting": [
+        {
+          "player": "KC Brathwaite",
+          "runs": 17,
+          "balls": 42,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 40.48,
+          "out": true
+        },
+        {
+          "player": "T Chanderpaul",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "RA Reifer",
+          "runs": 15,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 44.12,
+          "out": true
+        },
+        {
+          "player": "J Blackwood",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "RL Chase",
+          "runs": 28,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 52.83,
+          "out": true
+        },
+        {
+          "player": "KR Mayers",
+          "runs": 29,
+          "balls": 83,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 34.94,
+          "out": true
+        },
+        {
+          "player": "J Da Silva",
+          "runs": 26,
+          "balls": 63,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 41.27,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 81,
+          "balls": 117,
+          "fours": 8,
+          "sixes": 4,
+          "strike_rate": 69.23,
+          "out": false
+        },
+        {
+          "player": "AS Joseph",
+          "runs": 4,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 13,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 48.15,
+          "out": true
+        },
+        {
+          "player": "G Motie",
+          "runs": 17,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 42.5,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 1.58
+        },
+        {
+          "player": "PWA Mulder",
+          "overs": "15.3",
+          "balls": 93,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 3.03
+        },
+        {
+          "player": "G Coetzee",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 45,
+          "wickets": 3,
+          "economy": 3.21
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "17.3",
+          "balls": 105,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 3.6
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 77,
+          "wickets": 1,
+          "economy": 3.67
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "South Africa",
+      "runs": 321,
+      "extras": 5,
+      "balls": 609,
+      "batting": [
+        {
+          "player": "AK Markram",
+          "runs": 18,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.14,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 5,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "T de Zorzi",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 172,
+          "balls": 280,
+          "fours": 20,
+          "sixes": 0,
+          "strike_rate": 61.43,
+          "out": true
+        },
+        {
+          "player": "RD Rickelton",
+          "runs": 10,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.48,
+          "out": true
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 14,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "PWA Mulder",
+          "runs": 42,
+          "balls": 71,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 59.15,
+          "out": true
+        },
+        {
+          "player": "SR Harmer",
+          "runs": 19,
+          "balls": 59,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.2,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 10,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "G Coetzee",
+          "runs": 9,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.0,
+          "out": false
+        },
+        {
+          "player": "K Rabada",
+          "runs": 16,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 160.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KAJ Roach",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 3.86
+        },
+        {
+          "player": "AS Joseph",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 3.46
+        },
+        {
+          "player": "JO Holder",
+          "overs": "19.5",
+          "balls": 119,
+          "runs": 48,
+          "wickets": 3,
+          "economy": 2.42
+        },
+        {
+          "player": "KR Mayers",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 2.65
+        },
+        {
+          "player": "RA Reifer",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 3.22
+        },
+        {
+          "player": "G Motie",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "RL Chase",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 3.21
+        },
+        {
+          "player": "J Blackwood",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "West Indies",
+      "runs": 106,
+      "extras": 2,
+      "balls": 212,
+      "batting": [
+        {
+          "player": "KC Brathwaite",
+          "runs": 18,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 47.37,
+          "out": true
+        },
+        {
+          "player": "T Chanderpaul",
+          "runs": 2,
+          "balls": 36,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.56,
+          "out": true
+        },
+        {
+          "player": "RA Reifer",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "J Blackwood",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "RL Chase",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KR Mayers",
+          "runs": 7,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "J Da Silva",
+          "runs": 34,
+          "balls": 52,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 65.38,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 19,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 2,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.7,
+          "out": true
+        },
+        {
+          "player": "AS Joseph",
+          "runs": 18,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 138.46,
+          "out": true
+        },
+        {
+          "player": "G Motie",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 2.65
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 45,
+          "wickets": 3,
+          "economy": 2.62
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "2.5",
+          "balls": 17,
+          "runs": 5,
+          "wickets": 2,
+          "economy": 1.76
+        },
+        {
+          "player": "AK Markram",
+          "overs": "0.1",
+          "balls": 1,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        },
+        {
+          "player": "G Coetzee",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 37,
+          "wickets": 3,
+          "economy": 4.62
+        }
+      ]
+    }
+  ]
+}

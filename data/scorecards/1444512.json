@@ -1,0 +1,554 @@
+{
+  "id": "1444512",
+  "teams": [
+    "Western Australia",
+    "South Australia"
+  ],
+  "date": "2025-02-08",
+  "format": "MDM",
+  "competition": "Sheffield Shield",
+  "venue": "Western Australia Cricket Association Ground, Perth",
+  "result": "South Australia won by 6 wickets",
+  "winner": "South Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Western Australia",
+      "runs": 120,
+      "extras": 11,
+      "balls": 259,
+      "batting": [
+        {
+          "player": "S Fanning",
+          "runs": 49,
+          "balls": 94,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 52.13,
+          "out": true
+        },
+        {
+          "player": "T Wyllie",
+          "runs": 8,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.59,
+          "out": true
+        },
+        {
+          "player": "J Goodwin",
+          "runs": 7,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.0,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 4,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 19.05,
+          "out": true
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 12,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "JL Curtis",
+          "runs": 15,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 48.39,
+          "out": true
+        },
+        {
+          "player": "KG Critchell",
+          "runs": 1,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.33,
+          "out": true
+        },
+        {
+          "player": "JS Paris",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CJ Gannon",
+          "runs": 9,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "BL Couch",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "N McAndrew",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 3.64
+        },
+        {
+          "player": "JS Buckingham",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 35,
+          "wickets": 3,
+          "economy": 2.88
+        },
+        {
+          "player": "B Doggett",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 2.62
+        },
+        {
+          "player": "L Scott",
+          "overs": "8.5",
+          "balls": 53,
+          "runs": 10,
+          "wickets": 3,
+          "economy": 1.13
+        },
+        {
+          "player": "BAD Manenti",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 5.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Australia",
+      "runs": 124,
+      "extras": 6,
+      "balls": 243,
+      "batting": [
+        {
+          "player": "CJ McInerney",
+          "runs": 4,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "HJ Hunt",
+          "runs": 15,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.57,
+          "out": true
+        },
+        {
+          "player": "JJS Sangha",
+          "runs": 45,
+          "balls": 81,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "L Scott",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DR Drew",
+          "runs": 26,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 83.87,
+          "out": true
+        },
+        {
+          "player": "BAD Manenti",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "HPA Matthias",
+          "runs": 8,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.51,
+          "out": true
+        },
+        {
+          "player": "N McAndrew",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "B Doggett",
+          "runs": 1,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 4.35,
+          "out": false
+        },
+        {
+          "player": "JS Buckingham",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JS Paris",
+          "overs": "14.3",
+          "balls": 87,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 2.41
+        },
+        {
+          "player": "CJ Gannon",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 3.56
+        },
+        {
+          "player": "BL Couch",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 37,
+          "wickets": 4,
+          "economy": 4.11
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 10,
+          "wickets": 3,
+          "economy": 1.67
+        },
+        {
+          "player": "KG Critchell",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Western Australia",
+      "runs": 66,
+      "extras": 7,
+      "balls": 161,
+      "batting": [
+        {
+          "player": "S Fanning",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "J Goodwin",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "T Wyllie",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 2,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 30,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "JL Curtis",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "KG Critchell",
+          "runs": 11,
+          "balls": 52,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.15,
+          "out": true
+        },
+        {
+          "player": "JS Paris",
+          "runs": 6,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "runs": 6,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": false
+        },
+        {
+          "player": "CJ Gannon",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BL Couch",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "N McAndrew",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 15,
+          "wickets": 7,
+          "economy": 1.58
+        },
+        {
+          "player": "JS Buckingham",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 27,
+          "wickets": 3,
+          "economy": 3.24
+        },
+        {
+          "player": "B Doggett",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 2.8
+        },
+        {
+          "player": "L Scott",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 2.5
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "South Australia",
+      "runs": 66,
+      "extras": 1,
+      "balls": 106,
+      "batting": [
+        {
+          "player": "CJ McInerney",
+          "runs": 23,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 63.89,
+          "out": true
+        },
+        {
+          "player": "HJ Hunt",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JJS Sangha",
+          "runs": 24,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 55.81,
+          "out": false
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 7,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "L Scott",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "DR Drew",
+          "runs": 10,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JS Paris",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "CJ Gannon",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 2.5
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 7.12
+        },
+        {
+          "player": "BL Couch",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 4,
+          "wickets": 1,
+          "economy": 2.0
+        }
+      ]
+    }
+  ]
+}

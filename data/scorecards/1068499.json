@@ -1,0 +1,226 @@
+{
+  "id": "1068499",
+  "teams": [
+    "Essex",
+    "Kent"
+  ],
+  "date": "2017-05-17",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "St Lawrence Ground, Canterbury",
+  "result": "Essex won by 57 runs",
+  "winner": "Essex",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Essex",
+      "runs": 307,
+      "extras": 12,
+      "balls": 308,
+      "batting": [
+        {
+          "player": "V Chopra",
+          "runs": 83,
+          "balls": 101,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 82.18,
+          "out": true
+        },
+        {
+          "player": "AN Cook",
+          "runs": 54,
+          "balls": 58,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 93.1,
+          "out": true
+        },
+        {
+          "player": "T Westley",
+          "runs": 35,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 94.59,
+          "out": true
+        },
+        {
+          "player": "DW Lawrence",
+          "runs": 32,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 91.43,
+          "out": true
+        },
+        {
+          "player": "RS Bopara",
+          "runs": 49,
+          "balls": 42,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "Ashar Zaidi",
+          "runs": 22,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 115.79,
+          "out": true
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 14,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 155.56,
+          "out": false
+        },
+        {
+          "player": "JS Foster",
+          "runs": 6,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJ Haggett",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 60,
+          "wickets": 2,
+          "economy": 5.62
+        },
+        {
+          "player": "IAA Thomas",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 4.65
+        },
+        {
+          "player": "CF Hartley",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 6.1
+        },
+        {
+          "player": "AJ Ball",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 57,
+          "wickets": 0,
+          "economy": 5.7
+        },
+        {
+          "player": "Imran Qayyum",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 79,
+          "wickets": 2,
+          "economy": 7.9
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 50,
+      "extras": 4,
+      "balls": 69,
+      "batting": [
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 25,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 3,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "AJ Blake",
+          "runs": 13,
+          "balls": 5,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 260.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "N Wagner",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 2.77
+        },
+        {
+          "player": "JA Porter",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 3.79
+        },
+        {
+          "player": "Ashar Zaidi",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

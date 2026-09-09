@@ -1,0 +1,86 @@
+{
+  "id": "1423440",
+  "teams": [
+    "Hong Kong",
+    "Nepal"
+  ],
+  "date": "2024-03-10",
+  "format": "T20",
+  "competition": "Nepal tour of Hong Kong",
+  "venue": "Mission Road Ground, Mong Kok, Hong Kong",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Hong Kong",
+      "runs": 65,
+      "extras": 1,
+      "balls": 49,
+      "batting": [
+        {
+          "player": "M Coetzee",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Anshuman Rath",
+          "runs": 36,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 144.0,
+          "out": false
+        },
+        {
+          "player": "Nizakat Khan",
+          "runs": 25,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "Babar Hayat",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Karan KC",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 6.33
+        },
+        {
+          "player": "Pratis GC",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 8.84
+        },
+        {
+          "player": "Gulsan Jha",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 9.0
+        }
+      ]
+    }
+  ]
+}

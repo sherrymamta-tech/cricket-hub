@@ -1,0 +1,277 @@
+{
+  "id": "1387179",
+  "teams": [
+    "Melbourne Stars",
+    "Adelaide Strikers"
+  ],
+  "date": "2023-10-24",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Junction Oval, Melbourne",
+  "result": "Adelaide Strikers won by 4 wickets",
+  "winner": "Adelaide Strikers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Melbourne Stars",
+      "runs": 133,
+      "extras": 4,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "MM Lanning",
+          "runs": 13,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.25,
+          "out": true
+        },
+        {
+          "player": "SIR Dunkley",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "A Capsey",
+          "runs": 25,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 92.59,
+          "out": true
+        },
+        {
+          "player": "A Sutherland",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "ME Bouchier",
+          "runs": 48,
+          "balls": 38,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 126.32,
+          "out": true
+        },
+        {
+          "player": "R McKenna",
+          "runs": 14,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 280.0,
+          "out": true
+        },
+        {
+          "player": "N Faltum",
+          "runs": 15,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 107.14,
+          "out": false
+        },
+        {
+          "player": "KJ Garth",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ML Schutt",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.23
+        },
+        {
+          "player": "AC Mushangwe",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 7.25
+        },
+        {
+          "player": "GL Adams",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "A Wellington",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 4.08
+        },
+        {
+          "player": "JL Barsby",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 9.33
+        },
+        {
+          "player": "TM McGrath",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Adelaide Strikers",
+      "runs": 134,
+      "extras": 6,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "KM Mack",
+          "runs": 48,
+          "balls": 41,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 117.07,
+          "out": true
+        },
+        {
+          "player": "L Wolvaardt",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "TM McGrath",
+          "runs": 10,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "BE Patterson",
+          "runs": 27,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "M Penna",
+          "runs": 28,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 96.55,
+          "out": false
+        },
+        {
+          "player": "GL Adams",
+          "runs": 12,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "A O'Neil",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Wellington",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "S Day",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "KJ Garth",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "player": "A Capsey",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 4.75
+        },
+        {
+          "player": "SK Moloney",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.23
+        },
+        {
+          "player": "A Sutherland",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 10.0
+        },
+        {
+          "player": "SIR Dunkley",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 6.92
+        }
+      ]
+    }
+  ]
+}

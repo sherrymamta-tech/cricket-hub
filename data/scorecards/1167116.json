@@ -1,0 +1,110 @@
+{
+  "id": "1167116",
+  "teams": [
+    "Durham",
+    "Yorkshire"
+  ],
+  "date": "2019-05-06",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "Headingley, Leeds",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 182,
+      "extras": 13,
+      "balls": 213,
+      "batting": [
+        {
+          "player": "BA Raine",
+          "runs": 32,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 106.67,
+          "out": true
+        },
+        {
+          "player": "S Steel",
+          "runs": 68,
+          "balls": 90,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 75.56,
+          "out": true
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 51,
+          "balls": 71,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 71.83,
+          "out": false
+        },
+        {
+          "player": "CT Bancroft",
+          "runs": 18,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 81.82,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TT Bresnan",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 3.52
+        },
+        {
+          "player": "JD Warner",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 6.58
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 8.25
+        },
+        {
+          "player": "JA Leaning",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "MW Pillans",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 5.54
+        },
+        {
+          "player": "JE Poysden",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 4.38
+        }
+      ]
+    }
+  ]
+}

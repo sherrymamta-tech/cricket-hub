@@ -1,0 +1,120 @@
+{
+  "id": "1115799",
+  "teams": [
+    "New Zealand",
+    "West Indies"
+  ],
+  "date": "2018-01-01",
+  "format": "T20",
+  "competition": "West Indies tour of New Zealand",
+  "venue": "Bay Oval",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 102,
+      "extras": 3,
+      "balls": 57,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 17,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 113.33,
+          "out": false
+        },
+        {
+          "player": "C Munro",
+          "runs": 66,
+          "balls": 24,
+          "fours": 11,
+          "sixes": 3,
+          "strike_rate": 275.0,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 10,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SS Cottrell",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 9.69
+        },
+        {
+          "player": "S Badree",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 7.67
+        },
+        {
+          "player": "CR Brathwaite",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 18.0
+        },
+        {
+          "player": "KOK Williams",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 20.57
+        },
+        {
+          "player": "AR Nurse",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 6.5
+        }
+      ]
+    }
+  ]
+}

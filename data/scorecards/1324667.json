@@ -1,0 +1,286 @@
+{
+  "id": "1324667",
+  "teams": [
+    "Melbourne Stars",
+    "Brisbane Heat"
+  ],
+  "date": "2023-01-16",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Melbourne Cricket Ground",
+  "result": "Brisbane Heat won by 3 wickets",
+  "winner": "Brisbane Heat",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Melbourne Stars",
+      "runs": 159,
+      "extras": 9,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "JM Clarke",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "TF Rogers",
+          "runs": 26,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "BJ Webster",
+          "runs": 36,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 105.88,
+          "out": true
+        },
+        {
+          "player": "NCR Larkin",
+          "runs": 58,
+          "balls": 38,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 152.63,
+          "out": true
+        },
+        {
+          "player": "NM Coulter-Nile",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "J Seymour",
+          "runs": 13,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 185.71,
+          "out": true
+        },
+        {
+          "player": "CD Hinchliffe",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Neser",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 25,
+          "wickets": 4,
+          "economy": 6.0
+        },
+        {
+          "player": "SH Johnson",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 9.33
+        },
+        {
+          "player": "JJ Bazley",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 8.08
+        },
+        {
+          "player": "MP Kuhnemann",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 7.75
+        },
+        {
+          "player": "MJ Swepson",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 6.63
+        },
+        {
+          "player": "MT Renshaw",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Brisbane Heat",
+      "runs": 160,
+      "extras": 7,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "J Brown",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 14,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "MT Renshaw",
+          "runs": 90,
+          "balls": 58,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 155.17,
+          "out": false
+        },
+        {
+          "player": "SR Hain",
+          "runs": 5,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JJ Peirson",
+          "runs": 22,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": true
+        },
+        {
+          "player": "JJ Bazley",
+          "runs": 9,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "MG Neser",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "MP Kuhnemann",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Wood",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 8.53
+        },
+        {
+          "player": "LC Hatcher",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 6.96
+        },
+        {
+          "player": "NM Coulter-Nile",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.31
+        },
+        {
+          "player": "BJ Webster",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 10.15
+        },
+        {
+          "player": "CD Hinchliffe",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "player": "A Zampa",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

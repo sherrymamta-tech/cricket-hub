@@ -1,0 +1,163 @@
+{
+  "id": "1127401",
+  "teams": [
+    "Western Storm",
+    "Loughborough Lightning"
+  ],
+  "date": "2018-07-29",
+  "format": "T20",
+  "competition": "Women's Cricket Super League",
+  "venue": "The Cooper Associates County Ground, Taunton",
+  "result": "Western Storm won by 18 runs",
+  "winner": "Western Storm",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Western Storm",
+      "runs": 85,
+      "extras": 1,
+      "balls": 37,
+      "batting": [
+        {
+          "player": "RH Priest",
+          "runs": 25,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 192.31,
+          "out": true
+        },
+        {
+          "player": "S Mandhana",
+          "runs": 52,
+          "balls": 20,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 260.0,
+          "out": false
+        },
+        {
+          "player": "HC Knight",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SR Taylor",
+          "runs": 7,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 350.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LCN Smith",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 11.5
+        },
+        {
+          "player": "SFM Devine",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 19.0
+        },
+        {
+          "player": "JL Gunn",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "KL Gordon",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 16.0
+        },
+        {
+          "player": "GA Elwiss",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 14.57
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Loughborough Lightning",
+      "runs": 67,
+      "extras": 3,
+      "balls": 38,
+      "batting": [
+        {
+          "player": "RL Haynes",
+          "runs": 18,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": false
+        },
+        {
+          "player": "SFM Devine",
+          "runs": 46,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 209.09,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "A Shrubsole",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "FR Davies",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 9.43
+        },
+        {
+          "player": "HC Knight",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 16.0
+        },
+        {
+          "player": "SR Taylor",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "1369561",
+  "teams": [
+    "Guyana Amazon Warriors",
+    "St Lucia Kings"
+  ],
+  "date": "2023-08-19",
+  "format": "T20",
+  "competition": "Caribbean Premier League",
+  "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Guyana Amazon Warriors",
+      "runs": 56,
+      "extras": 7,
+      "balls": 35,
+      "batting": [
+        {
+          "player": "Saim Ayub",
+          "runs": 24,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 126.32,
+          "out": false
+        },
+        {
+          "player": "C Hemraj",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Azam Khan",
+          "runs": 21,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 175.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CB Sole",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 10.62
+        },
+        {
+          "player": "AS Joseph",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 11.14
+        },
+        {
+          "player": "J McAllister",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 5.25
+        }
+      ]
+    }
+  ]
+}

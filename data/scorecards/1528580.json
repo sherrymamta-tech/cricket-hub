@@ -1,0 +1,305 @@
+{
+  "id": "1528580",
+  "teams": [
+    "Los Angeles Knight Riders",
+    "Washington Freedom"
+  ],
+  "date": "2026-07-09",
+  "format": "T20",
+  "competition": "Major League Cricket",
+  "venue": "Grand Prairie Stadium, Dallas",
+  "result": "Los Angeles Knight Riders won by 18 runs",
+  "winner": "Los Angeles Knight Riders",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Los Angeles Knight Riders",
+      "runs": 192,
+      "extras": 8,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "C Munro",
+          "runs": 6,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "AD Russell",
+          "runs": 11,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 220.0,
+          "out": true
+        },
+        {
+          "player": "MW Tromp",
+          "runs": 50,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 4,
+          "strike_rate": 147.06,
+          "out": true
+        },
+        {
+          "player": "ADS Fletcher",
+          "runs": 59,
+          "balls": 43,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 137.21,
+          "out": true
+        },
+        {
+          "player": "R Powell",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "Saif Badar",
+          "runs": 24,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "JN Hamilton",
+          "runs": 22,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 183.33,
+          "out": false
+        },
+        {
+          "player": "SC van Schalkwyk",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "SP Narine",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SN Netravalkar",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 33,
+          "wickets": 3,
+          "economy": 7.92
+        },
+        {
+          "player": "J Edwards",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 11.5
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 9.25
+        },
+        {
+          "player": "Nikhil Chaudhary",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 8.08
+        },
+        {
+          "player": "MJ Owen",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 8.57
+        },
+        {
+          "player": "IG Holland",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 10.74
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Washington Freedom",
+      "runs": 174,
+      "extras": 9,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "SPD Smith",
+          "runs": 8,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true
+        },
+        {
+          "player": "MJ Owen",
+          "runs": 17,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 130.77,
+          "out": true
+        },
+        {
+          "player": "AGS Gous",
+          "runs": 37,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 154.17,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "BKEL Milantha",
+          "runs": 40,
+          "balls": 25,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 160.0,
+          "out": true
+        },
+        {
+          "player": "Nikhil Chaudhary",
+          "runs": 17,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 141.67,
+          "out": true
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "runs": 19,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 190.0,
+          "out": true
+        },
+        {
+          "player": "AJ Pienaar",
+          "runs": 18,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 112.5,
+          "out": false
+        },
+        {
+          "player": "J Edwards",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "IG Holland",
+          "runs": 5,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SP Narine",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "JO Holder",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 10.67
+        },
+        {
+          "player": "AD Russell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 34,
+          "wickets": 3,
+          "economy": 8.5
+        },
+        {
+          "player": "Ali Khan",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 4.32
+        },
+        {
+          "player": "SC van Schalkwyk",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 60,
+          "wickets": 2,
+          "economy": 14.4
+        }
+      ]
+    }
+  ]
+}

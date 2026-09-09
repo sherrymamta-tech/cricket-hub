@@ -1,0 +1,286 @@
+{
+  "id": "426429",
+  "teams": [
+    "England",
+    "Pakistan"
+  ],
+  "date": "2010-09-12",
+  "format": "ODI",
+  "competition": "NatWest Series",
+  "venue": "Headingley",
+  "result": "England won by 4 wickets",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 294,
+      "extras": 17,
+      "balls": 305,
+      "batting": [
+        {
+          "player": "Kamran Akmal",
+          "runs": 74,
+          "balls": 75,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 98.67,
+          "out": true
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 43,
+          "balls": 70,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 61.43,
+          "out": true
+        },
+        {
+          "player": "Mohammad Yousuf",
+          "runs": 46,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 95.83,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 50,
+          "balls": 58,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 86.21,
+          "out": true
+        },
+        {
+          "player": "Umar Akmal",
+          "runs": 28,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 121.74,
+          "out": true
+        },
+        {
+          "player": "Fawad Alam",
+          "runs": 20,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": false
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 9,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "Umar Gul",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "Saeed Ajmal",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TT Bresnan",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 6.33
+        },
+        {
+          "player": "JM Anderson",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 3.9
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 82,
+          "wickets": 4,
+          "economy": 8.2
+        },
+        {
+          "player": "MH Yardy",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 7.33
+        },
+        {
+          "player": "GP Swann",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 4.23
+        },
+        {
+          "player": "PD Collingwood",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 5.2
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 295,
+      "extras": 16,
+      "balls": 305,
+      "batting": [
+        {
+          "player": "AJ Strauss",
+          "runs": 126,
+          "balls": 137,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 91.97,
+          "out": true
+        },
+        {
+          "player": "SM Davies",
+          "runs": 26,
+          "balls": 21,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 123.81,
+          "out": true
+        },
+        {
+          "player": "IJL Trott",
+          "runs": 53,
+          "balls": 72,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 73.61,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 19,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 76.0,
+          "out": true
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 16,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.21,
+          "out": true
+        },
+        {
+          "player": "RS Bopara",
+          "runs": 16,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "MH Yardy",
+          "runs": 13,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 144.44,
+          "out": false
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 10,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shoaib Akhtar",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 6.24
+        },
+        {
+          "player": "Mohammad Irfan",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 5.72
+        },
+        {
+          "player": "Umar Gul",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 59,
+          "wickets": 1,
+          "economy": 5.9
+        },
+        {
+          "player": "Saeed Ajmal",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 52,
+          "wickets": 2,
+          "economy": 5.03
+        },
+        {
+          "player": "Shahid Afridi",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 59,
+          "wickets": 1,
+          "economy": 6.44
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 5.5
+        }
+      ]
+    }
+  ]
+}

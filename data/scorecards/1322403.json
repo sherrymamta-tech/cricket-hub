@@ -1,0 +1,515 @@
+{
+  "id": "1322403",
+  "teams": [
+    "New South Wales",
+    "South Australia"
+  ],
+  "date": "2022-10-31",
+  "format": "MDM",
+  "competition": "Sheffield Shield",
+  "venue": "North Dalton Park, Wollongong",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New South Wales",
+      "runs": 389,
+      "extras": 22,
+      "balls": 732,
+      "batting": [
+        {
+          "player": "DP Hughes",
+          "runs": 91,
+          "balls": 279,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 32.62,
+          "out": true
+        },
+        {
+          "player": "B Nikitaras",
+          "runs": 32,
+          "balls": 61,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 52.46,
+          "out": true
+        },
+        {
+          "player": "KR Patterson",
+          "runs": 122,
+          "balls": 179,
+          "fours": 15,
+          "sixes": 2,
+          "strike_rate": 68.16,
+          "out": false
+        },
+        {
+          "player": "JJS Sangha",
+          "runs": 52,
+          "balls": 115,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 45.22,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 0,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SA Abbott",
+          "runs": 47,
+          "balls": 68,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 69.12,
+          "out": true
+        },
+        {
+          "player": "BJ Holt",
+          "runs": 23,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 176.92,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Doggett",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 99,
+          "wickets": 1,
+          "economy": 4.12
+        },
+        {
+          "player": "JS Buckingham",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 2.59
+        },
+        {
+          "player": "BAD Manenti",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 77,
+          "wickets": 1,
+          "economy": 2.75
+        },
+        {
+          "player": "WA Agar",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 74,
+          "wickets": 2,
+          "economy": 2.96
+        },
+        {
+          "player": "N McAndrew",
+          "overs": "24.4",
+          "balls": 148,
+          "runs": 85,
+          "wickets": 0,
+          "economy": 3.45
+        },
+        {
+          "player": "TM Head",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Australia",
+      "runs": 311,
+      "extras": 32,
+      "balls": 570,
+      "batting": [
+        {
+          "player": "HJ Hunt",
+          "runs": 24,
+          "balls": 61,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 39.34,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 5,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.74,
+          "out": true
+        },
+        {
+          "player": "WA Agar",
+          "runs": 57,
+          "balls": 62,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 91.94,
+          "out": true
+        },
+        {
+          "player": "DR Drew",
+          "runs": 20,
+          "balls": 81,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 24.69,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 8,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 20,
+          "balls": 60,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "AT Carey",
+          "runs": 64,
+          "balls": 74,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 86.49,
+          "out": true
+        },
+        {
+          "player": "N McAndrew",
+          "runs": 12,
+          "balls": 68,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.65,
+          "out": true
+        },
+        {
+          "player": "B Doggett",
+          "runs": 49,
+          "balls": 76,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 64.47,
+          "out": true
+        },
+        {
+          "player": "BAD Manenti",
+          "runs": 20,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.78,
+          "out": true
+        },
+        {
+          "player": "JS Buckingham",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SA Abbott",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 3.02
+        },
+        {
+          "player": "CP Tremain",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 3.18
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 69,
+          "wickets": 3,
+          "economy": 3.0
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 45,
+          "wickets": 3,
+          "economy": 2.6
+        },
+        {
+          "player": "LC Hatcher",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 84,
+          "wickets": 3,
+          "economy": 4.62
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New South Wales",
+      "runs": 193,
+      "extras": 13,
+      "balls": 365,
+      "batting": [
+        {
+          "player": "DP Hughes",
+          "runs": 11,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.89,
+          "out": true
+        },
+        {
+          "player": "B Nikitaras",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "KR Patterson",
+          "runs": 7,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.33,
+          "out": true
+        },
+        {
+          "player": "JJS Sangha",
+          "runs": 41,
+          "balls": 106,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 38.68,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 19,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.19,
+          "out": true
+        },
+        {
+          "player": "SA Abbott",
+          "runs": 18,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "BJ Holt",
+          "runs": 49,
+          "balls": 63,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 77.78,
+          "out": false
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "runs": 23,
+          "balls": 66,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.85,
+          "out": true
+        },
+        {
+          "player": "CP Tremain",
+          "runs": 10,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WA Agar",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 43,
+          "wickets": 3,
+          "economy": 2.69
+        },
+        {
+          "player": "BAD Manenti",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 58,
+          "wickets": 2,
+          "economy": 4.46
+        },
+        {
+          "player": "B Doggett",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 3.14
+        },
+        {
+          "player": "N McAndrew",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 1.67
+        },
+        {
+          "player": "JS Buckingham",
+          "overs": "14.3",
+          "balls": 87,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 2.9
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "South Australia",
+      "runs": 82,
+      "extras": 5,
+      "balls": 186,
+      "batting": [
+        {
+          "player": "HJ Hunt",
+          "runs": 25,
+          "balls": 61,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.98,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 18,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 48.65,
+          "out": true
+        },
+        {
+          "player": "DR Drew",
+          "runs": 22,
+          "balls": 63,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 34.92,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 12,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 48.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SA Abbott",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 1.86
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "4.5",
+          "balls": 29,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 4.55
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 2.0
+        },
+        {
+          "player": "CP Tremain",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 1.75
+        },
+        {
+          "player": "LC Hatcher",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 4.32
+        }
+      ]
+    }
+  ]
+}

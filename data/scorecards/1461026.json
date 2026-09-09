@@ -1,0 +1,77 @@
+{
+  "id": "1461026",
+  "teams": [
+    "Durham",
+    "The Blaze"
+  ],
+  "date": "2025-07-06",
+  "format": "T20",
+  "competition": "Vitality Blast Women",
+  "venue": "Trent Bridge, Nottingham",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 16,
+      "extras": 0,
+      "balls": 25,
+      "batting": [
+        {
+          "player": "SW Bates",
+          "runs": 7,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "EK Marlow",
+          "runs": 9,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": false
+        },
+        {
+          "player": "MK Villiers",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CM McCarthy",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 1.5
+        },
+        {
+          "player": "KL Gordon",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "G Ballinger",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 3,
+          "wickets": 1,
+          "economy": 2.57
+        }
+      ]
+    }
+  ]
+}

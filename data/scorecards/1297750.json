@@ -1,0 +1,631 @@
+{
+  "id": "1297750",
+  "teams": [
+    "Kent",
+    "Warwickshire"
+  ],
+  "date": "2022-07-19",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Edgbaston, Birmingham",
+  "result": "Kent won by 177 runs",
+  "winner": "Kent",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Kent",
+      "runs": 165,
+      "extras": 14,
+      "balls": 243,
+      "batting": [
+        {
+          "player": "BG Compton",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 10,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 17,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 60.71,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JM Cox",
+          "runs": 48,
+          "balls": 69,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 69.57,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 33,
+          "balls": 72,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 45.83,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 34,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 147.83,
+          "out": true
+        },
+        {
+          "player": "ME Milnes",
+          "runs": 4,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.05,
+          "out": false
+        },
+        {
+          "player": "Navdeep Saini",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MR Quinn",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OJ Hannon-Dalby",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 41,
+          "wickets": 6,
+          "economy": 3.15
+        },
+        {
+          "player": "HJH Brookes",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 57,
+          "wickets": 3,
+          "economy": 5.18
+        },
+        {
+          "player": "WMH Rhodes",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.65
+        },
+        {
+          "player": "CN Miles",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 4.65
+        },
+        {
+          "player": "DR Briggs",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 1.58
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Warwickshire",
+      "runs": 225,
+      "extras": 42,
+      "balls": 525,
+      "batting": [
+        {
+          "player": "AL Davies",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "DP Sibley",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "CG Benjamin",
+          "runs": 7,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "SR Hain",
+          "runs": 99,
+          "balls": 215,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 46.05,
+          "out": true
+        },
+        {
+          "player": "WMH Rhodes",
+          "runs": 32,
+          "balls": 99,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.32,
+          "out": true
+        },
+        {
+          "player": "DR Mousley",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MGK Burgess",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DR Briggs",
+          "runs": 20,
+          "balls": 71,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 28.17,
+          "out": true
+        },
+        {
+          "player": "HJH Brookes",
+          "runs": 6,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.69,
+          "out": true
+        },
+        {
+          "player": "CN Miles",
+          "runs": 5,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": true
+        },
+        {
+          "player": "OJ Hannon-Dalby",
+          "runs": 4,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 11.76,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 64,
+          "wickets": 2,
+          "economy": 2.46
+        },
+        {
+          "player": "ME Milnes",
+          "overs": "22.1",
+          "balls": 133,
+          "runs": 49,
+          "wickets": 3,
+          "economy": 2.21
+        },
+        {
+          "player": "Navdeep Saini",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 77,
+          "wickets": 5,
+          "economy": 3.79
+        },
+        {
+          "player": "MR Quinn",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 1.94
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        },
+        {
+          "player": "JA Leaning",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Kent",
+      "runs": 384,
+      "extras": 38,
+      "balls": 664,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 25,
+          "balls": 51,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 49.02,
+          "out": true
+        },
+        {
+          "player": "BG Compton",
+          "runs": 5,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 27,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 61.36,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 141,
+          "balls": 269,
+          "fours": 18,
+          "sixes": 2,
+          "strike_rate": 52.42,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 5,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 19.23,
+          "out": true
+        },
+        {
+          "player": "JM Cox",
+          "runs": 79,
+          "balls": 159,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 49.69,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 7,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.0,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 26,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 123.81,
+          "out": true
+        },
+        {
+          "player": "ME Milnes",
+          "runs": 20,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "Navdeep Saini",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": false
+        },
+        {
+          "player": "MR Quinn",
+          "runs": 6,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 600.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OJ Hannon-Dalby",
+          "overs": "28.1",
+          "balls": 169,
+          "runs": 106,
+          "wickets": 2,
+          "economy": 3.76
+        },
+        {
+          "player": "HJH Brookes",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 73,
+          "wickets": 0,
+          "economy": 2.79
+        },
+        {
+          "player": "WMH Rhodes",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 3.76
+        },
+        {
+          "player": "CN Miles",
+          "overs": "30.1",
+          "balls": 181,
+          "runs": 107,
+          "wickets": 3,
+          "economy": 3.55
+        },
+        {
+          "player": "DR Briggs",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 56,
+          "wickets": 3,
+          "economy": 3.73
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Warwickshire",
+      "runs": 147,
+      "extras": 11,
+      "balls": 242,
+      "batting": [
+        {
+          "player": "AL Davies",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "DP Sibley",
+          "runs": 33,
+          "balls": 74,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 44.59,
+          "out": true
+        },
+        {
+          "player": "CG Benjamin",
+          "runs": 9,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.0,
+          "out": true
+        },
+        {
+          "player": "SR Hain",
+          "runs": 16,
+          "balls": 7,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 228.57,
+          "out": true
+        },
+        {
+          "player": "WMH Rhodes",
+          "runs": 15,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.61,
+          "out": true
+        },
+        {
+          "player": "DR Mousley",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "MGK Burgess",
+          "runs": 7,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "DR Briggs",
+          "runs": 10,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "CN Miles",
+          "runs": 9,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "HJH Brookes",
+          "runs": 27,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "OJ Hannon-Dalby",
+          "runs": 4,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 3.37
+        },
+        {
+          "player": "Navdeep Saini",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 4.18
+        },
+        {
+          "player": "ME Milnes",
+          "overs": "6.5",
+          "balls": 41,
+          "runs": 11,
+          "wickets": 4,
+          "economy": 1.61
+        },
+        {
+          "player": "MR Quinn",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 6.67
+        },
+        {
+          "player": "JL Denly",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 4.4
+        },
+        {
+          "player": "JA Leaning",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 3.5
+        }
+      ]
+    }
+  ]
+}

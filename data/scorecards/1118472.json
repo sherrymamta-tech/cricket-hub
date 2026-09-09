@@ -1,0 +1,268 @@
+{
+  "id": "1118472",
+  "teams": [
+    "Sydney Thunder",
+    "Melbourne Renegades"
+  ],
+  "date": "2017-12-09",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "North Sydney Oval",
+  "result": "Sydney Thunder won by 11 runs",
+  "winner": "Sydney Thunder",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Thunder",
+      "runs": 200,
+      "extras": 13,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "RL Haynes",
+          "runs": 55,
+          "balls": 42,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 130.95,
+          "out": true
+        },
+        {
+          "player": "RH Priest",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "AJ Blackwell",
+          "runs": 8,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "SR Taylor",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "H Kaur",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "NE Stalenberg",
+          "runs": 38,
+          "balls": 25,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 152.0,
+          "out": true
+        },
+        {
+          "player": "NJ Carey",
+          "runs": 47,
+          "balls": 19,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 247.37,
+          "out": false
+        },
+        {
+          "player": "RM Farrell",
+          "runs": 25,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 178.57,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LMM Tahuhu",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 11.28
+        },
+        {
+          "player": "M Strano",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 8.88
+        },
+        {
+          "player": "HNK Jensen",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 11.33
+        },
+        {
+          "player": "M Brown",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 6.96
+        },
+        {
+          "player": "AC Jayangani",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 10.5
+        },
+        {
+          "player": "AE Satterthwaite",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Renegades",
+      "runs": 189,
+      "extras": 4,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "S Molineux",
+          "runs": 25,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 178.57,
+          "out": true
+        },
+        {
+          "player": "AC Jayangani",
+          "runs": 42,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "JE Duffin",
+          "runs": 81,
+          "balls": 48,
+          "fours": 12,
+          "sixes": 1,
+          "strike_rate": 168.75,
+          "out": true
+        },
+        {
+          "player": "EJ Inglis",
+          "runs": 20,
+          "balls": 13,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 153.85,
+          "out": true
+        },
+        {
+          "player": "AE Satterthwaite",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "CJ Koski",
+          "runs": 9,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 180.0,
+          "out": true
+        },
+        {
+          "player": "KL Britt",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SL Bates",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 11.0
+        },
+        {
+          "player": "RM Farrell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 11.0
+        },
+        {
+          "player": "SR Taylor",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 7.2
+        },
+        {
+          "player": "L Griffith",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 8.4
+        },
+        {
+          "player": "NJ Carey",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 7.25
+        },
+        {
+          "player": "H Kaur",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 18.0
+        }
+      ]
+    }
+  ]
+}

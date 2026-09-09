@@ -1,0 +1,524 @@
+{
+  "id": "1280008",
+  "teams": [
+    "Auckland Aces",
+    "Wellington Firebirds"
+  ],
+  "date": "2022-03-28",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Eden Park Outer Oval, Auckland",
+  "result": "Auckland Aces won by 10 wickets",
+  "winner": "Auckland Aces",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland Aces",
+      "runs": 469,
+      "extras": 32,
+      "balls": 723,
+      "batting": [
+        {
+          "player": "WT O'Donnell",
+          "runs": 36,
+          "balls": 62,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 58.06,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 135,
+          "balls": 302,
+          "fours": 19,
+          "sixes": 2,
+          "strike_rate": 44.7,
+          "out": true
+        },
+        {
+          "player": "CJ Briggs",
+          "runs": 20,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 130,
+          "balls": 175,
+          "fours": 17,
+          "sixes": 4,
+          "strike_rate": 74.29,
+          "out": true
+        },
+        {
+          "player": "L Delport",
+          "runs": 16,
+          "balls": 34,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true
+        },
+        {
+          "player": "RD Harrison",
+          "runs": 46,
+          "balls": 55,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 83.64,
+          "out": true
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 38,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 79.17,
+          "out": true
+        },
+        {
+          "player": "WER Somerville",
+          "runs": 15,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "SB Keene",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "NG Smith",
+          "overs": "22.3",
+          "balls": 135,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 2.98
+        },
+        {
+          "player": "OR Newton",
+          "overs": "21.3",
+          "balls": 129,
+          "runs": 77,
+          "wickets": 0,
+          "economy": 3.58
+        },
+        {
+          "player": "MW Snedden",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 57,
+          "wickets": 2,
+          "economy": 2.71
+        },
+        {
+          "player": "IG McPeake",
+          "overs": "17.4",
+          "balls": 106,
+          "runs": 76,
+          "wickets": 1,
+          "economy": 4.3
+        },
+        {
+          "player": "R Ravindra",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 102,
+          "wickets": 0,
+          "economy": 4.43
+        },
+        {
+          "player": "PF Younghusband",
+          "overs": "12.5",
+          "balls": 77,
+          "runs": 79,
+          "wickets": 2,
+          "economy": 6.16
+        },
+        {
+          "player": "JJNP Bhula",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Wellington Firebirds",
+      "runs": 195,
+      "extras": 1,
+      "balls": 311,
+      "batting": [
+        {
+          "player": "KLD Vishvaka",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 23,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 62.16,
+          "out": true
+        },
+        {
+          "player": "TM Johnson",
+          "runs": 19,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 59.38,
+          "out": true
+        },
+        {
+          "player": "JJNP Bhula",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TB Robinson",
+          "runs": 103,
+          "balls": 116,
+          "fours": 14,
+          "sixes": 3,
+          "strike_rate": 88.79,
+          "out": false
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 20,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.78,
+          "out": true
+        },
+        {
+          "player": "NG Smith",
+          "runs": 6,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "PF Younghusband",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "OR Newton",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "IG McPeake",
+          "runs": 15,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "MW Snedden",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BG Lister",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 3.75
+        },
+        {
+          "player": "OMR Pringle",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 2.67
+        },
+        {
+          "player": "SB Keene",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 51,
+          "wickets": 6,
+          "economy": 3.92
+        },
+        {
+          "player": "SM Solia",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 4.6
+        },
+        {
+          "player": "WER Somerville",
+          "overs": "12.4",
+          "balls": 76,
+          "runs": 48,
+          "wickets": 2,
+          "economy": 3.79
+        },
+        {
+          "player": "L Delport",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 3.4
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Wellington Firebirds",
+      "runs": 281,
+      "extras": 33,
+      "balls": 573,
+      "batting": [
+        {
+          "player": "KLD Vishvaka",
+          "runs": 14,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 58,
+          "balls": 161,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 36.02,
+          "out": true
+        },
+        {
+          "player": "TM Johnson",
+          "runs": 12,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "JJNP Bhula",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "TB Robinson",
+          "runs": 28,
+          "balls": 55,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 50.91,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 33,
+          "balls": 75,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 44.0,
+          "out": true
+        },
+        {
+          "player": "NG Smith",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        },
+        {
+          "player": "PF Younghusband",
+          "runs": 36,
+          "balls": 95,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 37.89,
+          "out": false
+        },
+        {
+          "player": "OR Newton",
+          "runs": 40,
+          "balls": 51,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 78.43,
+          "out": true
+        },
+        {
+          "player": "IG McPeake",
+          "runs": 6,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.58,
+          "out": true
+        },
+        {
+          "player": "MW Snedden",
+          "runs": 19,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 61.29,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BG Lister",
+          "overs": "18.5",
+          "balls": 113,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 3.4
+        },
+        {
+          "player": "OMR Pringle",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 4.33
+        },
+        {
+          "player": "SM Solia",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 3.32
+        },
+        {
+          "player": "SB Keene",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 46,
+          "wickets": 2,
+          "economy": 2.3
+        },
+        {
+          "player": "WER Somerville",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 2.14
+        },
+        {
+          "player": "L Delport",
+          "overs": "19.3",
+          "balls": 117,
+          "runs": 55,
+          "wickets": 3,
+          "economy": 2.82
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Auckland Aces",
+      "runs": 9,
+      "extras": 0,
+      "balls": 9,
+      "batting": [
+        {
+          "player": "WT O'Donnell",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": false
+        },
+        {
+          "player": "SM Solia",
+          "runs": 4,
+          "balls": 1,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 400.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "NG Smith",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "MW Snedden",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

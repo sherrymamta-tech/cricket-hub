@@ -1,0 +1,276 @@
+{
+  "id": "1233977",
+  "teams": [
+    "Bangladesh",
+    "New Zealand"
+  ],
+  "date": "2021-03-23",
+  "format": "ODI",
+  "competition": "Bangladesh tour of New Zealand",
+  "venue": "Hagley Oval",
+  "result": "New Zealand won by 5 wickets",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Bangladesh",
+      "runs": 271,
+      "extras": 24,
+      "balls": 313,
+      "batting": [
+        {
+          "player": "Tamim Iqbal",
+          "runs": 78,
+          "balls": 112,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 69.64,
+          "out": true
+        },
+        {
+          "player": "Liton Das",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Soumya Sarkar",
+          "runs": 32,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 65.31,
+          "out": true
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 34,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.67,
+          "out": true
+        },
+        {
+          "player": "Mohammad Mithun",
+          "runs": 73,
+          "balls": 59,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 123.73,
+          "out": false
+        },
+        {
+          "player": "Mahmudullah",
+          "runs": 16,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.21,
+          "out": true
+        },
+        {
+          "player": "Mahedi Hasan",
+          "runs": 7,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "Mohammad Saifuddin",
+          "runs": 7,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 175.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 5.14
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 4.72
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 3.48
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "9.4",
+          "balls": 58,
+          "runs": 73,
+          "wickets": 0,
+          "economy": 7.55
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 52,
+          "wickets": 2,
+          "economy": 4.95
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 275,
+      "extras": 17,
+      "balls": 298,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 20,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 13,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.22,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 72,
+          "balls": 96,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 110,
+          "balls": 112,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 98.21,
+          "out": false
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 30,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 12,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mustafizur Rahman",
+          "overs": "8.5",
+          "balls": 53,
+          "runs": 62,
+          "wickets": 2,
+          "economy": 7.02
+        },
+        {
+          "player": "Taskin Ahmed",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 71,
+          "wickets": 0,
+          "economy": 6.76
+        },
+        {
+          "player": "Mahedi Hasan",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 4.13
+        },
+        {
+          "player": "Mohammad Saifuddin",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 5.73
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 3.8
+        },
+        {
+          "player": "Mohammad Mithun",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 5.54
+        },
+        {
+          "player": "Soumya Sarkar",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 14.0
+        }
+      ]
+    }
+  ]
+}

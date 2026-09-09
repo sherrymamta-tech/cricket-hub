@@ -1,0 +1,602 @@
+{
+  "id": "1244297",
+  "teams": [
+    "Nottinghamshire",
+    "Durham"
+  ],
+  "date": "2021-07-11",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Nottinghamshire",
+      "runs": 328,
+      "extras": 22,
+      "balls": 608,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 60,
+          "balls": 125,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 48.0,
+          "out": true
+        },
+        {
+          "player": "H Hameed",
+          "runs": 12,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "BG Compton",
+          "runs": 16,
+          "balls": 54,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 29.63,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 48,
+          "balls": 88,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 16,
+          "balls": 50,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.0,
+          "out": true
+        },
+        {
+          "player": "SJ Mullaney",
+          "runs": 39,
+          "balls": 67,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 58.21,
+          "out": true
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 73,
+          "balls": 116,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 62.93,
+          "out": true
+        },
+        {
+          "player": "JDM Evison",
+          "runs": 8,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "BA Hutton",
+          "runs": 8,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 32.0,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 9,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "LJ Fletcher",
+          "runs": 17,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.71,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 81,
+          "wickets": 4,
+          "economy": 3.0
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 84,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "MET Salisbury",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 71,
+          "wickets": 2,
+          "economy": 3.33
+        },
+        {
+          "player": "BA Raine",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 63,
+          "wickets": 3,
+          "economy": 2.52
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 7.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Durham",
+      "runs": 165,
+      "extras": 21,
+      "balls": 328,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 38,
+          "balls": 89,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 42.7,
+          "out": true
+        },
+        {
+          "player": "MA Jones",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 30,
+          "balls": 62,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 48.39,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JTA Burnham",
+          "runs": 23,
+          "balls": 51,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 45.1,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 12,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 27,
+          "balls": 56,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 48.21,
+          "out": false
+        },
+        {
+          "player": "MET Salisbury",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SCJ Broad",
+          "overs": "12.3",
+          "balls": 75,
+          "runs": 41,
+          "wickets": 3,
+          "economy": 3.28
+        },
+        {
+          "player": "LJ Fletcher",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 2.66
+        },
+        {
+          "player": "LW James",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 2.5
+        },
+        {
+          "player": "BA Hutton",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 3.08
+        },
+        {
+          "player": "JDM Evison",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 21,
+          "wickets": 5,
+          "economy": 2.62
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 6.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Nottinghamshire",
+      "runs": 217,
+      "extras": 12,
+      "balls": 390,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 19,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 54.29,
+          "out": true
+        },
+        {
+          "player": "H Hameed",
+          "runs": 58,
+          "balls": 117,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 49.57,
+          "out": true
+        },
+        {
+          "player": "BG Compton",
+          "runs": 20,
+          "balls": 43,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 46.51,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 16,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JDM Evison",
+          "runs": 13,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 28.89,
+          "out": true
+        },
+        {
+          "player": "SJ Mullaney",
+          "runs": 21,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 55.26,
+          "out": true
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 19,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 59.38,
+          "out": true
+        },
+        {
+          "player": "BA Hutton",
+          "runs": 22,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 88.0,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 9,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "LJ Fletcher",
+          "runs": 8,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 54,
+          "wickets": 0,
+          "economy": 3.52
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 55,
+          "wickets": 3,
+          "economy": 3.06
+        },
+        {
+          "player": "BA Raine",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 2.31
+        },
+        {
+          "player": "MET Salisbury",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 3.49
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "5.3",
+          "balls": 33,
+          "runs": 32,
+          "wickets": 4,
+          "economy": 5.82
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Durham",
+      "runs": 188,
+      "extras": 26,
+      "balls": 331,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 22,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 45.83,
+          "out": true
+        },
+        {
+          "player": "MA Jones",
+          "runs": 46,
+          "balls": 95,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 48.42,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 25,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 60.98,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 36,
+          "balls": 58,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 62.07,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 28,
+          "balls": 75,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 37.33,
+          "out": false
+        },
+        {
+          "player": "JTA Burnham",
+          "runs": 5,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SCJ Broad",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 4.74
+        },
+        {
+          "player": "LJ Fletcher",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 1.33
+        },
+        {
+          "player": "BA Hutton",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "JDM Evison",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 3.25
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 3.35
+        },
+        {
+          "player": "LW James",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "SJ Mullaney",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 1.78
+        },
+        {
+          "player": "BT Slater",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

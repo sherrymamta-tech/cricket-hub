@@ -1,0 +1,591 @@
+{
+  "id": "423778",
+  "teams": [
+    "New Zealand",
+    "Pakistan"
+  ],
+  "date": "2009-11-24",
+  "format": "Test",
+  "competition": "Pakistan in New Zealand Test Series",
+  "venue": "University Oval",
+  "result": "New Zealand won by 32 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 429,
+      "extras": 18,
+      "balls": 795,
+      "batting": [
+        {
+          "player": "TG McIntosh",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DR Flynn",
+          "runs": 8,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 60,
+          "balls": 142,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 42.25,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 94,
+          "balls": 174,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 54.02,
+          "out": true
+        },
+        {
+          "player": "PG Fulton",
+          "runs": 29,
+          "balls": 73,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.73,
+          "out": true
+        },
+        {
+          "player": "GD Elliott",
+          "runs": 8,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 24.24,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 78,
+          "balls": 154,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 50.65,
+          "out": true
+        },
+        {
+          "player": "DL Vettori",
+          "runs": 99,
+          "balls": 133,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 74.44,
+          "out": true
+        },
+        {
+          "player": "SE Bond",
+          "runs": 22,
+          "balls": 49,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 44.9,
+          "out": true
+        },
+        {
+          "player": "IE O'Brien",
+          "runs": 13,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.47,
+          "out": false
+        },
+        {
+          "player": "CS Martin",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Amir",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 92,
+          "wickets": 2,
+          "economy": 3.83
+        },
+        {
+          "player": "Mohammad Asif",
+          "overs": "34.0",
+          "balls": 204,
+          "runs": 110,
+          "wickets": 4,
+          "economy": 3.24
+        },
+        {
+          "player": "Umar Gul",
+          "overs": "36.4",
+          "balls": 220,
+          "runs": 135,
+          "wickets": 2,
+          "economy": 3.68
+        },
+        {
+          "player": "Saeed Ajmal",
+          "overs": "37.5",
+          "balls": 227,
+          "runs": 92,
+          "wickets": 2,
+          "economy": 2.43
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 332,
+      "extras": 2,
+      "balls": 583,
+      "batting": [
+        {
+          "player": "Khurram Manzoor",
+          "runs": 6,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "Imran Farhat",
+          "runs": 22,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 45.83,
+          "out": true
+        },
+        {
+          "player": "Fawad Alam",
+          "runs": 29,
+          "balls": 66,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 43.94,
+          "out": true
+        },
+        {
+          "player": "Mohammad Yousuf",
+          "runs": 17,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 35.42,
+          "out": true
+        },
+        {
+          "player": "Umar Akmal",
+          "runs": 129,
+          "balls": 160,
+          "fours": 21,
+          "sixes": 2,
+          "strike_rate": 80.62,
+          "out": true
+        },
+        {
+          "player": "Shoaib Malik",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "Kamran Akmal",
+          "runs": 82,
+          "balls": 136,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 60.29,
+          "out": true
+        },
+        {
+          "player": "Mohammad Amir",
+          "runs": 26,
+          "balls": 65,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "Umar Gul",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "Mohammad Asif",
+          "runs": 10,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.62,
+          "out": true
+        },
+        {
+          "player": "Saeed Ajmal",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SE Bond",
+          "overs": "27.5",
+          "balls": 167,
+          "runs": 107,
+          "wickets": 5,
+          "economy": 3.84
+        },
+        {
+          "player": "CS Martin",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 63,
+          "wickets": 3,
+          "economy": 2.95
+        },
+        {
+          "player": "IE O'Brien",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 98,
+          "wickets": 0,
+          "economy": 4.67
+        },
+        {
+          "player": "DL Vettori",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 64,
+          "wickets": 2,
+          "economy": 2.37
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New Zealand",
+      "runs": 153,
+      "extras": 18,
+      "balls": 406,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DR Flynn",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TG McIntosh",
+          "runs": 31,
+          "balls": 136,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 22.79,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 59,
+          "balls": 83,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 71.08,
+          "out": true
+        },
+        {
+          "player": "PG Fulton",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GD Elliott",
+          "runs": 25,
+          "balls": 101,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 24.75,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DL Vettori",
+          "runs": 8,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "SE Bond",
+          "runs": 7,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "IE O'Brien",
+          "runs": 4,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "CS Martin",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Amir",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 2.06
+        },
+        {
+          "player": "Mohammad Asif",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 43,
+          "wickets": 4,
+          "economy": 2.11
+        },
+        {
+          "player": "Umar Gul",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 50,
+          "wickets": 3,
+          "economy": 3.49
+        },
+        {
+          "player": "Saeed Ajmal",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 1.59
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Pakistan",
+      "runs": 218,
+      "extras": 13,
+      "balls": 459,
+      "batting": [
+        {
+          "player": "Khurram Manzoor",
+          "runs": 4,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "Imran Farhat",
+          "runs": 1,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.88,
+          "out": true
+        },
+        {
+          "player": "Fawad Alam",
+          "runs": 5,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.78,
+          "out": true
+        },
+        {
+          "player": "Mohammad Yousuf",
+          "runs": 41,
+          "balls": 70,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 58.57,
+          "out": true
+        },
+        {
+          "player": "Umar Akmal",
+          "runs": 75,
+          "balls": 175,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "Shoaib Malik",
+          "runs": 32,
+          "balls": 59,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 54.24,
+          "out": true
+        },
+        {
+          "player": "Kamran Akmal",
+          "runs": 27,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 84.38,
+          "out": true
+        },
+        {
+          "player": "Mohammad Amir",
+          "runs": 15,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "Umar Gul",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Asif",
+          "runs": 0,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Saeed Ajmal",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SE Bond",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 47,
+          "wickets": 3,
+          "economy": 2.24
+        },
+        {
+          "player": "CS Martin",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 2.78
+        },
+        {
+          "player": "IE O'Brien",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 64,
+          "wickets": 3,
+          "economy": 2.74
+        },
+        {
+          "player": "DL Vettori",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 3.64
+        },
+        {
+          "player": "GD Elliott",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.5
+        }
+      ]
+    }
+  ]
+}

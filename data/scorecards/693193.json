@@ -1,0 +1,277 @@
+{
+  "id": "693193",
+  "teams": [
+    "Somerset",
+    "Gloucestershire"
+  ],
+  "date": "2014-07-11",
+  "format": "T20",
+  "competition": "NatWest T20 Blast",
+  "venue": "The Cooper Associates County Ground",
+  "result": "Somerset won by 7 runs",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Somerset",
+      "runs": 175,
+      "extras": 14,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "NRD Compton",
+          "runs": 46,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 148.39,
+          "out": true
+        },
+        {
+          "player": "C Kieswetter",
+          "runs": 39,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 108.33,
+          "out": true
+        },
+        {
+          "player": "PD Trego",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 24,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 160.0,
+          "out": true
+        },
+        {
+          "player": "CAJ Meschede",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "JC Hildreth",
+          "runs": 12,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "AC Thomas",
+          "runs": 12,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        },
+        {
+          "player": "TD Groenewald",
+          "runs": 17,
+          "balls": 9,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 188.89,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DA Payne",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 10.08
+        },
+        {
+          "player": "WRS Gidman",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 8.21
+        },
+        {
+          "player": "GJ McCarter",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 9.5
+        },
+        {
+          "player": "TMJ Smith",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 7.58
+        },
+        {
+          "player": "BAC Howell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.75
+        },
+        {
+          "player": "JMR Taylor",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 9.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Gloucestershire",
+      "runs": 168,
+      "extras": 13,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "APR Gidman",
+          "runs": 55,
+          "balls": 40,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 137.5,
+          "out": true
+        },
+        {
+          "player": "M Klinger",
+          "runs": 35,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 129.63,
+          "out": true
+        },
+        {
+          "player": "IA Cockbain",
+          "runs": 29,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 116.0,
+          "out": true
+        },
+        {
+          "player": "HJH Marshall",
+          "runs": 13,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 130.0,
+          "out": true
+        },
+        {
+          "player": "BAC Howell",
+          "runs": 19,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 146.15,
+          "out": true
+        },
+        {
+          "player": "WRS Gidman",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "AP Rouse",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TD Groenewald",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 8.88
+        },
+        {
+          "player": "DP Nannes",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 8.5
+        },
+        {
+          "player": "AC Thomas",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 34,
+          "wickets": 3,
+          "economy": 8.5
+        },
+        {
+          "player": "CAJ Meschede",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 8.84
+        },
+        {
+          "player": "C Overton",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "MTC Waller",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.48
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "id": "1410246",
+  "teams": [
+    "Somerset",
+    "Durham"
+  ],
+  "date": "2024-08-29",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "The Cooper Associates County Ground, Taunton",
+  "result": "Somerset won by 293 runs",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Somerset",
+      "runs": 492,
+      "extras": 21,
+      "balls": 703,
+      "batting": [
+        {
+          "player": "ARI Umeed",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TA Lammonby",
+          "runs": 9,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "LP Goldsworthy",
+          "runs": 38,
+          "balls": 51,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 74.51,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 124,
+          "balls": 181,
+          "fours": 18,
+          "sixes": 0,
+          "strike_rate": 68.51,
+          "out": true
+        },
+        {
+          "player": "T Banton",
+          "runs": 73,
+          "balls": 129,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 56.59,
+          "out": true
+        },
+        {
+          "player": "JEK Rew",
+          "runs": 103,
+          "balls": 114,
+          "fours": 12,
+          "sixes": 1,
+          "strike_rate": 90.35,
+          "out": true
+        },
+        {
+          "player": "AM Vaughan",
+          "runs": 30,
+          "balls": 55,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "Kasey Aldridge",
+          "runs": 44,
+          "balls": 98,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 44.9,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 31,
+          "balls": 39,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 79.49,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 19,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 126.67,
+          "out": true
+        },
+        {
+          "player": "MJ Leach",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 85,
+          "wickets": 1,
+          "economy": 3.86
+        },
+        {
+          "player": "DM Hogg",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 48,
+          "wickets": 2,
+          "economy": 3.69
+        },
+        {
+          "player": "BFW de Leede",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 5.05
+        },
+        {
+          "player": "BA Carse",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 102,
+          "wickets": 2,
+          "economy": 4.57
+        },
+        {
+          "player": "CF Parkinson",
+          "overs": "35.3",
+          "balls": 213,
+          "runs": 144,
+          "wickets": 4,
+          "economy": 4.06
+        },
+        {
+          "player": "GS Drissell",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 76,
+          "wickets": 1,
+          "economy": 4.47
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Durham",
+      "runs": 336,
+      "extras": 5,
+      "balls": 603,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 59,
+          "balls": 128,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 46.09,
+          "out": true
+        },
+        {
+          "player": "BS McKinney",
+          "runs": 15,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 65.22,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 35,
+          "balls": 55,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 26,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 92.86,
+          "out": true
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 6,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.58,
+          "out": true
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 16,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true
+        },
+        {
+          "player": "BA Carse",
+          "runs": 104,
+          "balls": 161,
+          "fours": 11,
+          "sixes": 4,
+          "strike_rate": 64.6,
+          "out": false
+        },
+        {
+          "player": "BA Raine",
+          "runs": 62,
+          "balls": 107,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 57.94,
+          "out": true
+        },
+        {
+          "player": "GS Drissell",
+          "runs": 8,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "DM Hogg",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CF Parkinson",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Overton",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 3.23
+        },
+        {
+          "player": "L Gregory",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 0.5
+        },
+        {
+          "player": "MJ Leach",
+          "overs": "41.1",
+          "balls": 247,
+          "runs": 124,
+          "wickets": 5,
+          "economy": 3.01
+        },
+        {
+          "player": "AM Vaughan",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 2.88
+        },
+        {
+          "player": "ARI Umeed",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "Kasey Aldridge",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 3.7
+        },
+        {
+          "player": "LP Goldsworthy",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 6.32
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Somerset",
+      "runs": 263,
+      "extras": 10,
+      "balls": 316,
+      "batting": [
+        {
+          "player": "ARI Umeed",
+          "runs": 28,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 90.32,
+          "out": true
+        },
+        {
+          "player": "LP Goldsworthy",
+          "runs": 38,
+          "balls": 99,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.38,
+          "out": true
+        },
+        {
+          "player": "TA Lammonby",
+          "runs": 36,
+          "balls": 34,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 105.88,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 56,
+          "balls": 75,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 74.67,
+          "out": true
+        },
+        {
+          "player": "T Banton",
+          "runs": 46,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 164.29,
+          "out": true
+        },
+        {
+          "player": "JEK Rew",
+          "runs": 33,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 132.0,
+          "out": false
+        },
+        {
+          "player": "AM Vaughan",
+          "runs": 16,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 3.69
+        },
+        {
+          "player": "CF Parkinson",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 144,
+          "wickets": 2,
+          "economy": 5.54
+        },
+        {
+          "player": "GS Drissell",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 5.1
+        },
+        {
+          "player": "BA Carse",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 3.6
+        },
+        {
+          "player": "BFW de Leede",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.5
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Durham",
+      "runs": 126,
+      "extras": 13,
+      "balls": 364,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 6,
+          "balls": 31,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 19.35,
+          "out": true
+        },
+        {
+          "player": "BS McKinney",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 4,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "CF Parkinson",
+          "runs": 18,
+          "balls": 53,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 33.96,
+          "out": true
+        },
+        {
+          "player": "GS Drissell",
+          "runs": 33,
+          "balls": 70,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 47.14,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 18,
+          "balls": 70,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 25.71,
+          "out": true
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 16,
+          "balls": 83,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 19.28,
+          "out": false
+        },
+        {
+          "player": "BA Carse",
+          "runs": 12,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "DM Hogg",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Leach",
+          "overs": "30.3",
+          "balls": 183,
+          "runs": 56,
+          "wickets": 7,
+          "economy": 1.84
+        },
+        {
+          "player": "AM Vaughan",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 1.95
+        },
+        {
+          "player": "C Overton",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 1.26
+        },
+        {
+          "player": "Kasey Aldridge",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 10.0
+        }
+      ]
+    }
+  ]
+}

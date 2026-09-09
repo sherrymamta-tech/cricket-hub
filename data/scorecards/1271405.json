@@ -1,0 +1,568 @@
+{
+  "id": "1271405",
+  "teams": [
+    "Kent",
+    "Derbyshire"
+  ],
+  "date": "2021-09-12",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "County Ground, Derby",
+  "result": "Kent won by 130 runs",
+  "winner": "Kent",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Kent",
+      "runs": 285,
+      "extras": 6,
+      "balls": 552,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 53,
+          "balls": 101,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 52.48,
+          "out": true
+        },
+        {
+          "player": "JM Cox",
+          "runs": 10,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 69,
+          "balls": 95,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 72.63,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 82,
+          "balls": 167,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 49.1,
+          "out": false
+        },
+        {
+          "player": "SW Billings",
+          "runs": 36,
+          "balls": 74,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 48.65,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "G Stewart",
+          "runs": 16,
+          "balls": 57,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 28.07,
+          "out": true
+        },
+        {
+          "player": "HW Podmore",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "NN Gilchrist",
+          "runs": 10,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.48,
+          "out": true
+        },
+        {
+          "player": "JEG Logan",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Jaskaran Singh",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "S Conners",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 67,
+          "wickets": 2,
+          "economy": 3.53
+        },
+        {
+          "player": "BW Aitchison",
+          "overs": "20.5",
+          "balls": 125,
+          "runs": 84,
+          "wickets": 4,
+          "economy": 4.03
+        },
+        {
+          "player": "DR Melton",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 3.93
+        },
+        {
+          "player": "Anuj Dal",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 1.61
+        },
+        {
+          "player": "MJJ Critchley",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 2.53
+        },
+        {
+          "player": "JL du Plooy",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 2.32
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Derbyshire",
+      "runs": 156,
+      "extras": 15,
+      "balls": 267,
+      "batting": [
+        {
+          "player": "HRC Came",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "BA Godleman",
+          "runs": 31,
+          "balls": 109,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 28.44,
+          "out": true
+        },
+        {
+          "player": "JL du Plooy",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WL Madsen",
+          "runs": 14,
+          "balls": 42,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "MJJ Critchley",
+          "runs": 27,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "TA Wood",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BD Guest",
+          "runs": 5,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "Anuj Dal",
+          "runs": 7,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 43.75,
+          "out": true
+        },
+        {
+          "player": "S Conners",
+          "runs": 39,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 139.29,
+          "out": true
+        },
+        {
+          "player": "BW Aitchison",
+          "runs": 13,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 108.33,
+          "out": true
+        },
+        {
+          "player": "DR Melton",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HW Podmore",
+          "overs": "16.4",
+          "balls": 100,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 3.06
+        },
+        {
+          "player": "G Stewart",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 25,
+          "wickets": 5,
+          "economy": 1.9
+        },
+        {
+          "player": "NN Gilchrist",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 65,
+          "wickets": 3,
+          "economy": 7.65
+        },
+        {
+          "player": "Jaskaran Singh",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 2.43
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Kent",
+      "runs": 211,
+      "extras": 7,
+      "balls": 303,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 68,
+          "balls": 90,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 75.56,
+          "out": true
+        },
+        {
+          "player": "JM Cox",
+          "runs": 81,
+          "balls": 139,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 58.27,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 51,
+          "balls": 69,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 73.91,
+          "out": false
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BW Aitchison",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 3.46
+        },
+        {
+          "player": "Anuj Dal",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 3.69
+        },
+        {
+          "player": "DR Melton",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 64,
+          "wickets": 0,
+          "economy": 4.47
+        },
+        {
+          "player": "MJJ Critchley",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 5.67
+        },
+        {
+          "player": "JL du Plooy",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Derbyshire",
+      "runs": 210,
+      "extras": 18,
+      "balls": 362,
+      "batting": [
+        {
+          "player": "HRC Came",
+          "runs": 11,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.83,
+          "out": true
+        },
+        {
+          "player": "BA Godleman",
+          "runs": 27,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 65.85,
+          "out": true
+        },
+        {
+          "player": "JL du Plooy",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WL Madsen",
+          "runs": 13,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 61.9,
+          "out": true
+        },
+        {
+          "player": "MJJ Critchley",
+          "runs": 13,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.83,
+          "out": true
+        },
+        {
+          "player": "TA Wood",
+          "runs": 14,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.84,
+          "out": true
+        },
+        {
+          "player": "BD Guest",
+          "runs": 12,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "Anuj Dal",
+          "runs": 58,
+          "balls": 98,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 59.18,
+          "out": false
+        },
+        {
+          "player": "BW Aitchison",
+          "runs": 36,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 78.26,
+          "out": true
+        },
+        {
+          "player": "DR Melton",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "S Conners",
+          "runs": 7,
+          "balls": 45,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 15.56,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HW Podmore",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 48,
+          "wickets": 2,
+          "economy": 3.35
+        },
+        {
+          "player": "G Stewart",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 4.74
+        },
+        {
+          "player": "NN Gilchrist",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 30,
+          "wickets": 4,
+          "economy": 2.69
+        },
+        {
+          "player": "Jaskaran Singh",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 43,
+          "wickets": 2,
+          "economy": 4.23
+        },
+        {
+          "player": "JEG Logan",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 2.84
+        },
+        {
+          "player": "JA Leaning",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 3.2
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    }
+  ]
+}

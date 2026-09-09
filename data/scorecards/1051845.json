@@ -1,0 +1,603 @@
+{
+  "id": "1051845",
+  "teams": [
+    "Northern Districts",
+    "Otago Volts"
+  ],
+  "date": "2017-02-25",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Cobham Oval",
+  "result": "Otago Volts won by 5 wickets",
+  "winner": "Otago Volts",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northern Districts",
+      "runs": 278,
+      "extras": 10,
+      "balls": 584,
+      "batting": [
+        {
+          "player": "DR Flynn",
+          "runs": 19,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 46.34,
+          "out": true
+        },
+        {
+          "player": "TL Seifert",
+          "runs": 97,
+          "balls": 199,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 48.74,
+          "out": true
+        },
+        {
+          "player": "B Popli",
+          "runs": 61,
+          "balls": 121,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.41,
+          "out": true
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 11,
+          "balls": 41,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.83,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 42,
+          "balls": 101,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 41.58,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 19,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.34,
+          "out": true
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "runs": 11,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.89,
+          "out": true
+        },
+        {
+          "player": "JG Walker",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JD Baker",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "ZN Gibson",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Duffy",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 2.2
+        },
+        {
+          "player": "C Viljoen",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 2.09
+        },
+        {
+          "player": "SR Wells",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 3.57
+        },
+        {
+          "player": "NG Smith",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 57,
+          "wickets": 5,
+          "economy": 2.85
+        },
+        {
+          "player": "MD Rae",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 58,
+          "wickets": 2,
+          "economy": 3.95
+        },
+        {
+          "player": "MJG Rippon",
+          "overs": "24.4",
+          "balls": 148,
+          "runs": 71,
+          "wickets": 3,
+          "economy": 2.88
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Otago Volts",
+      "runs": 276,
+      "extras": 12,
+      "balls": 561,
+      "batting": [
+        {
+          "player": "BS Wilson",
+          "runs": 3,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 9,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 45,
+          "balls": 109,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 41.28,
+          "out": true
+        },
+        {
+          "player": "SW Eathorne",
+          "runs": 12,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "DC de Boorder",
+          "runs": 89,
+          "balls": 203,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 43.84,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 76,
+          "balls": 104,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 73.08,
+          "out": true
+        },
+        {
+          "player": "SR Wells",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Viljoen",
+          "runs": 21,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.65,
+          "out": false
+        },
+        {
+          "player": "NG Smith",
+          "runs": 8,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "MD Rae",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SC Kuggeleijn",
+          "overs": "20.4",
+          "balls": 124,
+          "runs": 69,
+          "wickets": 5,
+          "economy": 3.34
+        },
+        {
+          "player": "JD Baker",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 1.27
+        },
+        {
+          "player": "ZN Gibson",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 66,
+          "wickets": 0,
+          "economy": 3.57
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 42,
+          "wickets": 3,
+          "economy": 2.93
+        },
+        {
+          "player": "JG Walker",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 71,
+          "wickets": 1,
+          "economy": 3.94
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Northern Districts",
+      "runs": 286,
+      "extras": 16,
+      "balls": 561,
+      "batting": [
+        {
+          "player": "DR Flynn",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "B Popli",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TL Seifert",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 14,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 96,
+          "balls": 216,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 18,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 29,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 60.42,
+          "out": true
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "runs": 12,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.0,
+          "out": true
+        },
+        {
+          "player": "JG Walker",
+          "runs": 87,
+          "balls": 153,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 56.86,
+          "out": true
+        },
+        {
+          "player": "JD Baker",
+          "runs": 14,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "ZN Gibson",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Duffy",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 56,
+          "wickets": 3,
+          "economy": 3.29
+        },
+        {
+          "player": "SR Wells",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 3.49
+        },
+        {
+          "player": "NG Smith",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 2.25
+        },
+        {
+          "player": "MD Rae",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 61,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "MJG Rippon",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 66,
+          "wickets": 1,
+          "economy": 4.4
+        },
+        {
+          "player": "C Viljoen",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 1.93
+        },
+        {
+          "player": "AK Kitchen",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 4.33
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Otago Volts",
+      "runs": 289,
+      "extras": 14,
+      "balls": 448,
+      "batting": [
+        {
+          "player": "BS Wilson",
+          "runs": 74,
+          "balls": 143,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 51.75,
+          "out": true
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 43,
+          "balls": 75,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 57.33,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "DC de Boorder",
+          "runs": 3,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 120,
+          "balls": 149,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 80.54,
+          "out": false
+        },
+        {
+          "player": "SW Eathorne",
+          "runs": 28,
+          "balls": 45,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 62.22,
+          "out": true
+        },
+        {
+          "player": "SR Wells",
+          "runs": 5,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.78,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SC Kuggeleijn",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 57,
+          "wickets": 0,
+          "economy": 3.08
+        },
+        {
+          "player": "JD Baker",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 72,
+          "wickets": 1,
+          "economy": 3.96
+        },
+        {
+          "player": "ZN Gibson",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 2.94
+        },
+        {
+          "player": "JG Walker",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 99,
+          "wickets": 2,
+          "economy": 4.43
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 4.93
+        }
+      ]
+    }
+  ]
+}

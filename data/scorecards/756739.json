@@ -1,0 +1,295 @@
+{
+  "id": "756739",
+  "teams": [
+    "Melbourne Stars",
+    "Hobart Hurricanes"
+  ],
+  "date": "2014-12-20",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Melbourne Cricket Ground",
+  "result": "Hobart Hurricanes won by 52 runs",
+  "winner": "Hobart Hurricanes",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Hobart Hurricanes",
+      "runs": 190,
+      "extras": 6,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "BR Dunk",
+          "runs": 43,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 102.38,
+          "out": true
+        },
+        {
+          "player": "AD Hales",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TD Paine",
+          "runs": 19,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 158.33,
+          "out": true
+        },
+        {
+          "player": "GJ Bailey",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JW Wells",
+          "runs": 68,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 154.55,
+          "out": true
+        },
+        {
+          "player": "DJG Sammy",
+          "runs": 38,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 271.43,
+          "out": false
+        },
+        {
+          "player": "EP Gulbis",
+          "runs": 14,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 280.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Bird",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.44
+        },
+        {
+          "player": "DJ Worrall",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 14.08
+        },
+        {
+          "player": "JW Hastings",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 24,
+          "wickets": 3,
+          "economy": 5.76
+        },
+        {
+          "player": "MA Beer",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "player": "GJ Maxwell",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "player": "JP Faulkner",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 10.08
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Stars",
+      "runs": 138,
+      "extras": 3,
+      "balls": 121,
+      "batting": [
+        {
+          "player": "CL White",
+          "runs": 62,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 126.53,
+          "out": true
+        },
+        {
+          "player": "LJ Wright",
+          "runs": 13,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 118.18,
+          "out": true
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 12,
+          "balls": 6,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "DJ Hussey",
+          "runs": 11,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 91.67,
+          "out": true
+        },
+        {
+          "player": "JP Faulkner",
+          "runs": 20,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "TIF Triffitt",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "JW Hastings",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DJ Worrall",
+          "runs": 6,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "JM Bird",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MA Beer",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "XJ Doherty",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.48
+        },
+        {
+          "player": "JM Mennie",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 3,
+          "economy": 5.5
+        },
+        {
+          "player": "EP Gulbis",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "BW Hilfenhaus",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 4,
+          "economy": 6.75
+        },
+        {
+          "player": "CJ Boyce",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 7.0
+        },
+        {
+          "player": "DJG Sammy",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

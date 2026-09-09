@@ -1,0 +1,331 @@
+{
+  "id": "1347593",
+  "teams": [
+    "Somerset",
+    "Kent"
+  ],
+  "date": "2023-05-30",
+  "format": "T20",
+  "competition": "Vitality Blast",
+  "venue": "St Lawrence Ground, Canterbury",
+  "result": "Somerset won by 13 runs",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Somerset",
+      "runs": 154,
+      "extras": 9,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "T Banton",
+          "runs": 12,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "WCF Smeed",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 23,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 209.09,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 11,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true
+        },
+        {
+          "player": "TA Lammonby",
+          "runs": 34,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 106.25,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 13,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 86.67,
+          "out": true
+        },
+        {
+          "player": "BGF Green",
+          "runs": 22,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 169.23,
+          "out": true
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 17,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 170.0,
+          "out": true
+        },
+        {
+          "player": "JH Davey",
+          "runs": 8,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": false
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "PM Siddle",
+          "runs": 5,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JL Denly",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 14.5
+        },
+        {
+          "player": "MG Hogan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 35,
+          "wickets": 3,
+          "economy": 8.75
+        },
+        {
+          "player": "WA Agar",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 18,
+          "wickets": 3,
+          "economy": 4.15
+        },
+        {
+          "player": "G Stewart",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 5.04
+        },
+        {
+          "player": "JDM Evison",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 8.4
+        },
+        {
+          "player": "GF Linde",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 112,
+      "extras": 9,
+      "balls": 91,
+      "batting": [
+        {
+          "player": "TS Muyeye",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 13,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 29,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 107.41,
+          "out": true
+        },
+        {
+          "player": "JM Cox",
+          "runs": 8,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 10,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "GF Linde",
+          "runs": 13,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 118.18,
+          "out": true
+        },
+        {
+          "player": "G Stewart",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "JDM Evison",
+          "runs": 11,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 137.5,
+          "out": true
+        },
+        {
+          "player": "WA Agar",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JH Davey",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 9.33
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 3.33
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 8.84
+        },
+        {
+          "player": "L Gregory",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "RE van der Merwe",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "BGF Green",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 23,
+          "wickets": 3,
+          "economy": 11.5
+        }
+      ]
+    }
+  ]
+}

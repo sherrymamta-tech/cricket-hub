@@ -1,0 +1,593 @@
+{
+  "id": "1270456",
+  "teams": [
+    "Queensland",
+    "Western Australia"
+  ],
+  "date": "2021-11-10",
+  "format": "MDM",
+  "competition": "Sheffield Shield",
+  "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+  "result": "Western Australia won by 7 wickets",
+  "winner": "Western Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Queensland",
+      "runs": 129,
+      "extras": 2,
+      "balls": 321,
+      "batting": [
+        {
+          "player": "BE Street",
+          "runs": 0,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JA Burns",
+          "runs": 8,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 70,
+          "balls": 139,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 50.36,
+          "out": true
+        },
+        {
+          "player": "MT Renshaw",
+          "runs": 9,
+          "balls": 50,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.0,
+          "out": true
+        },
+        {
+          "player": "JJ Peirson",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "JD Wildermuth",
+          "runs": 8,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "MG Neser",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GS Sandhu",
+          "runs": 13,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.14,
+          "out": true
+        },
+        {
+          "player": "MT Steketee",
+          "runs": 10,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "MP Kuhnemann",
+          "runs": 5,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.73,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JS Paris",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 2.11
+        },
+        {
+          "player": "JA Richardson",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 38,
+          "wickets": 3,
+          "economy": 2.68
+        },
+        {
+          "player": "CJ Gannon",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 2.17
+        },
+        {
+          "player": "C Green",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 3.12
+        },
+        {
+          "player": "LR Morris",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 21,
+          "wickets": 4,
+          "economy": 2.03
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Western Australia",
+      "runs": 281,
+      "extras": 19,
+      "balls": 508,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SE Marsh",
+          "runs": 10,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": false
+        },
+        {
+          "player": "J Goodwin",
+          "runs": 10,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "C Green",
+          "runs": 53,
+          "balls": 117,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 45.3,
+          "out": true
+        },
+        {
+          "player": "JR Philippe",
+          "runs": 129,
+          "balls": 224,
+          "fours": 14,
+          "sixes": 3,
+          "strike_rate": 57.59,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DJM Short",
+          "runs": 15,
+          "balls": 41,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.59,
+          "out": true
+        },
+        {
+          "player": "JA Richardson",
+          "runs": 35,
+          "balls": 48,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 72.92,
+          "out": true
+        },
+        {
+          "player": "JS Paris",
+          "runs": 5,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": true
+        },
+        {
+          "player": "CJ Gannon",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LR Morris",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Neser",
+          "overs": "8.4",
+          "balls": 52,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 3.35
+        },
+        {
+          "player": "JD Wildermuth",
+          "overs": "12.4",
+          "balls": 76,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 2.68
+        },
+        {
+          "player": "GS Sandhu",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 3.06
+        },
+        {
+          "player": "MT Steketee",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 74,
+          "wickets": 4,
+          "economy": 3.22
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 2.61
+        },
+        {
+          "player": "MP Kuhnemann",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 4.7
+        },
+        {
+          "player": "BE Street",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 5.25
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Queensland",
+      "runs": 246,
+      "extras": 22,
+      "balls": 502,
+      "batting": [
+        {
+          "player": "BE Street",
+          "runs": 6,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.35,
+          "out": true
+        },
+        {
+          "player": "JA Burns",
+          "runs": 49,
+          "balls": 99,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 49.49,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 36,
+          "balls": 90,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 8,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "MT Renshaw",
+          "runs": 43,
+          "balls": 118,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 36.44,
+          "out": true
+        },
+        {
+          "player": "JJ Peirson",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JD Wildermuth",
+          "runs": 34,
+          "balls": 45,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 75.56,
+          "out": true
+        },
+        {
+          "player": "GS Sandhu",
+          "runs": 39,
+          "balls": 70,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 55.71,
+          "out": true
+        },
+        {
+          "player": "MP Kuhnemann",
+          "runs": 4,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": false
+        },
+        {
+          "player": "MT Steketee",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MG Neser",
+          "runs": 5,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Richardson",
+          "overs": "22.4",
+          "balls": 136,
+          "runs": 23,
+          "wickets": 5,
+          "economy": 1.01
+        },
+        {
+          "player": "CJ Gannon",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 60,
+          "wickets": 2,
+          "economy": 2.81
+        },
+        {
+          "player": "C Green",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "LR Morris",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 68,
+          "wickets": 0,
+          "economy": 4.64
+        },
+        {
+          "player": "HWR Cartwright",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 3.33
+        },
+        {
+          "player": "DJM Short",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 5.71
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Western Australia",
+      "runs": 95,
+      "extras": 3,
+      "balls": 204,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 47,
+          "balls": 108,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.52,
+          "out": false
+        },
+        {
+          "player": "J Goodwin",
+          "runs": 6,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "C Green",
+          "runs": 15,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 51.72,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 7,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "JR Philippe",
+          "runs": 17,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 62.96,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MT Steketee",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 2.25
+        },
+        {
+          "player": "JD Wildermuth",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 3.31
+        },
+        {
+          "player": "GS Sandhu",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 2.1
+        },
+        {
+          "player": "MP Kuhnemann",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "BE Street",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 16.0
+        }
+      ]
+    }
+  ]
+}

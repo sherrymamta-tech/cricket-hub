@@ -1,0 +1,574 @@
+{
+  "id": "1410228",
+  "teams": [
+    "Durham",
+    "Essex"
+  ],
+  "date": "2024-06-23",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "County Ground, Chelmsford",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 587,
+      "extras": 25,
+      "balls": 736,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 113,
+          "balls": 220,
+          "fours": 15,
+          "sixes": 1,
+          "strike_rate": 51.36,
+          "out": true
+        },
+        {
+          "player": "MA Jones",
+          "runs": 38,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 131.03,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 5,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 65,
+          "balls": 72,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 90.28,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 198,
+          "balls": 209,
+          "fours": 21,
+          "sixes": 7,
+          "strike_rate": 94.74,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 73,
+          "balls": 104,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 70.19,
+          "out": true
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 37,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 82.22,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 17,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 85.0,
+          "out": true
+        },
+        {
+          "player": "CF Parkinson",
+          "runs": 10,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": false
+        },
+        {
+          "player": "PM Siddle",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Porter",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 74,
+          "wickets": 0,
+          "economy": 4.11
+        },
+        {
+          "player": "S Snater",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 65,
+          "wickets": 0,
+          "economy": 4.29
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "45.0",
+          "balls": 270,
+          "runs": 193,
+          "wickets": 4,
+          "economy": 4.29
+        },
+        {
+          "player": "E Bosch",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 74,
+          "wickets": 2,
+          "economy": 5.48
+        },
+        {
+          "player": "PI Walter",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "MJJ Critchley",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 163,
+          "wickets": 4,
+          "economy": 6.27
+        },
+        {
+          "player": "T Westley",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Essex",
+      "runs": 339,
+      "extras": 8,
+      "balls": 595,
+      "batting": [
+        {
+          "player": "NLJ Browne",
+          "runs": 18,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 105.88,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 40,
+          "balls": 65,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "T Westley",
+          "runs": 24,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "JM Cox",
+          "runs": 32,
+          "balls": 40,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "MJJ Critchley",
+          "runs": 53,
+          "balls": 131,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 40.46,
+          "out": true
+        },
+        {
+          "player": "PI Walter",
+          "runs": 134,
+          "balls": 181,
+          "fours": 16,
+          "sixes": 2,
+          "strike_rate": 74.03,
+          "out": true
+        },
+        {
+          "player": "MS Pepper",
+          "runs": 4,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "SR Harmer",
+          "runs": 9,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "S Snater",
+          "runs": 11,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.83,
+          "out": true
+        },
+        {
+          "player": "E Bosch",
+          "runs": 4,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "JA Porter",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CF Parkinson",
+          "overs": "33.0",
+          "balls": 198,
+          "runs": 104,
+          "wickets": 2,
+          "economy": 3.15
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 73,
+          "wickets": 4,
+          "economy": 3.48
+        },
+        {
+          "player": "BA Raine",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 4.12
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 47,
+          "wickets": 3,
+          "economy": 2.74
+        },
+        {
+          "player": "CN Ackermann",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 4.43
+        },
+        {
+          "player": "BFW de Leede",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 3.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Durham",
+      "runs": 184,
+      "extras": 5,
+      "balls": 312,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 71,
+          "balls": 146,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 48.63,
+          "out": true
+        },
+        {
+          "player": "MA Jones",
+          "runs": 9,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.37,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 28,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 71.79,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 14,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 31,
+          "balls": 54,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 57.41,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 22,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 146.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Porter",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 18,
+          "wickets": 3,
+          "economy": 1.8
+        },
+        {
+          "player": "S Snater",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "E Bosch",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 79,
+          "wickets": 4,
+          "economy": 3.76
+        },
+        {
+          "player": "MJJ Critchley",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 4.78
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Essex",
+      "runs": 208,
+      "extras": 16,
+      "balls": 514,
+      "batting": [
+        {
+          "player": "NLJ Browne",
+          "runs": 6,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 120,
+          "balls": 232,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 51.72,
+          "out": false
+        },
+        {
+          "player": "JA Porter",
+          "runs": 3,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.0,
+          "out": true
+        },
+        {
+          "player": "T Westley",
+          "runs": 63,
+          "balls": 229,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 27.51,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 2.3
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 46,
+          "wickets": 2,
+          "economy": 2.42
+        },
+        {
+          "player": "CF Parkinson",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 50,
+          "wickets": 0,
+          "economy": 2.38
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 1.4
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 3.91
+        },
+        {
+          "player": "CN Ackermann",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 1.75
+        },
+        {
+          "player": "BFW de Leede",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 4.31
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "id": "892519",
+  "teams": [
+    "Australia",
+    "West Indies"
+  ],
+  "date": "2016-01-03",
+  "format": "Test",
+  "competition": "The Frank Worrell Trophy",
+  "venue": "Sydney Cricket Ground",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "runs": 330,
+      "extras": 8,
+      "balls": 674,
+      "batting": [
+        {
+          "player": "KC Brathwaite",
+          "runs": 85,
+          "balls": 174,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 48.85,
+          "out": true
+        },
+        {
+          "player": "SD Hope",
+          "runs": 9,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 33,
+          "balls": 95,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 34.74,
+          "out": true
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 4,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "J Blackwood",
+          "runs": 10,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 34.48,
+          "out": true
+        },
+        {
+          "player": "D Ramdin",
+          "runs": 62,
+          "balls": 151,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 41.06,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "CR Brathwaite",
+          "runs": 69,
+          "balls": 71,
+          "fours": 7,
+          "sixes": 4,
+          "strike_rate": 97.18,
+          "out": true
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 15,
+          "balls": 52,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.85,
+          "out": true
+        },
+        {
+          "player": "JE Taylor",
+          "runs": 13,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 48.15,
+          "out": true
+        },
+        {
+          "player": "JA Warrican",
+          "runs": 21,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 72.41,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JR Hazlewood",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 2.72
+        },
+        {
+          "player": "JL Pattinson",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 77,
+          "wickets": 2,
+          "economy": 4.24
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "46.0",
+          "balls": 276,
+          "runs": 125,
+          "wickets": 3,
+          "economy": 2.72
+        },
+        {
+          "player": "MR Marsh",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 3.75
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 64,
+          "wickets": 3,
+          "economy": 2.45
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 176,
+      "extras": 0,
+      "balls": 228,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 122,
+          "balls": 103,
+          "fours": 12,
+          "sixes": 2,
+          "strike_rate": 118.45,
+          "out": false
+        },
+        {
+          "player": "JA Burns",
+          "runs": 26,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 63.41,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 21,
+          "balls": 63,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "PM Nevill",
+          "runs": 7,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JE Taylor",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.75
+        },
+        {
+          "player": "JO Holder",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 3.75
+        },
+        {
+          "player": "KAJ Roach",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 7.25
+        },
+        {
+          "player": "JA Warrican",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 62,
+          "wickets": 2,
+          "economy": 4.13
+        },
+        {
+          "player": "CR Brathwaite",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 3.29
+        },
+        {
+          "player": "KC Brathwaite",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

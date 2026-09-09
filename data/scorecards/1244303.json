@@ -1,0 +1,423 @@
+{
+  "id": "1244303",
+  "teams": [
+    "Northamptonshire",
+    "Glamorgan"
+  ],
+  "date": "2021-07-11",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Sophia Gardens, Cardiff",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northamptonshire",
+      "runs": 215,
+      "extras": 23,
+      "balls": 466,
+      "batting": [
+        {
+          "player": "R Vasconcelos",
+          "runs": 25,
+          "balls": 60,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 22,
+          "balls": 42,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 52.38,
+          "out": true
+        },
+        {
+          "player": "CO Thurston",
+          "runs": 48,
+          "balls": 127,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 37.8,
+          "out": true
+        },
+        {
+          "player": "RI Keogh",
+          "runs": 12,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "LA Procter",
+          "runs": 3,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "SA Zaib",
+          "runs": 50,
+          "balls": 95,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 52.63,
+          "out": true
+        },
+        {
+          "player": "SC Kerrigan",
+          "runs": 0,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HOM Gouldstone",
+          "runs": 17,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.96,
+          "out": false
+        },
+        {
+          "player": "BW Sanderson",
+          "runs": 5,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.78,
+          "out": true
+        },
+        {
+          "player": "CJ White",
+          "runs": 10,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Neser",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 3.3
+        },
+        {
+          "player": "MG Hogan",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 2.19
+        },
+        {
+          "player": "T van der Gugten",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 52,
+          "wickets": 3,
+          "economy": 2.74
+        },
+        {
+          "player": "DA Douthwaite",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "DL Lloyd",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 2.8
+        },
+        {
+          "player": "AG Salter",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 18,
+          "wickets": 4,
+          "economy": 1.71
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Glamorgan",
+      "runs": 462,
+      "extras": 8,
+      "balls": 679,
+      "batting": [
+        {
+          "player": "JM Cooke",
+          "runs": 16,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 55.17,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 13,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 77,
+          "balls": 103,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 74.76,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 45,
+          "balls": 85,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 170,
+          "balls": 228,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 74.56,
+          "out": false
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 133,
+          "balls": 208,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 63.94,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BW Sanderson",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 86,
+          "wickets": 1,
+          "economy": 3.44
+        },
+        {
+          "player": "CJ White",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 125,
+          "wickets": 0,
+          "economy": 4.81
+        },
+        {
+          "player": "LA Procter",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 79,
+          "wickets": 3,
+          "economy": 3.95
+        },
+        {
+          "player": "SC Kerrigan",
+          "overs": "29.1",
+          "balls": 175,
+          "runs": 107,
+          "wickets": 0,
+          "economy": 3.67
+        },
+        {
+          "player": "RI Keogh",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 3.56
+        },
+        {
+          "player": "SA Zaib",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "player": "EN Gay",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Northamptonshire",
+      "runs": 250,
+      "extras": 9,
+      "balls": 558,
+      "batting": [
+        {
+          "player": "R Vasconcelos",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CO Thurston",
+          "runs": 29,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 76.32,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 19,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "RI Keogh",
+          "runs": 71,
+          "balls": 137,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 51.82,
+          "out": false
+        },
+        {
+          "player": "SA Zaib",
+          "runs": 19,
+          "balls": 56,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.93,
+          "out": true
+        },
+        {
+          "player": "HOM Gouldstone",
+          "runs": 67,
+          "balls": 200,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 33.5,
+          "out": false
+        },
+        {
+          "player": "SC Kerrigan",
+          "runs": 36,
+          "balls": 106,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 33.96,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Neser",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 53,
+          "wickets": 3,
+          "economy": 2.65
+        },
+        {
+          "player": "MG Hogan",
+          "overs": "13.4",
+          "balls": 82,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 3.37
+        },
+        {
+          "player": "T van der Gugten",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 2.75
+        },
+        {
+          "player": "AG Salter",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 1.9
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 2.91
+        },
+        {
+          "player": "WT Root",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "DA Douthwaite",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 2.32
+        },
+        {
+          "player": "DL Lloyd",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 3.33
+        }
+      ]
+    }
+  ]
+}

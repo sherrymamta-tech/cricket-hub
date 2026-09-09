@@ -1,0 +1,269 @@
+{
+  "id": "654041",
+  "teams": [
+    "Sydney Thunder",
+    "Adelaide Strikers"
+  ],
+  "date": "2013-12-27",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Stadium Australia",
+  "result": "Adelaide Strikers won by 6 runs",
+  "winner": "Adelaide Strikers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Adelaide Strikers",
+      "runs": 153,
+      "extras": 5,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "M Klinger",
+          "runs": 44,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 129.41,
+          "out": true
+        },
+        {
+          "player": "AD Hales",
+          "runs": 16,
+          "balls": 11,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 145.45,
+          "out": true
+        },
+        {
+          "player": "PJ Hughes",
+          "runs": 16,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 22,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 91.67,
+          "out": true
+        },
+        {
+          "player": "NJ Reardon",
+          "runs": 32,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 145.45,
+          "out": false
+        },
+        {
+          "player": "J Botha",
+          "runs": 5,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "MG Neser",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "TP Ludeman",
+          "runs": 11,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 157.14,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LW Feldman",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 11.0
+        },
+        {
+          "player": "DP Nannes",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.52
+        },
+        {
+          "player": "GS Sandhu",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 5.28
+        },
+        {
+          "player": "CR Woakes",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.75
+        },
+        {
+          "player": "CS Sandri",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 8.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Thunder",
+      "runs": 147,
+      "extras": 6,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "DP Hughes",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CS Sandri",
+          "runs": 13,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "RGL Carters",
+          "runs": 6,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 35,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 106.06,
+          "out": true
+        },
+        {
+          "player": "MEK Hussey",
+          "runs": 85,
+          "balls": 58,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 146.55,
+          "out": true
+        },
+        {
+          "player": "KR Patterson",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JS Floros",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Botha",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.28
+        },
+        {
+          "player": "KW Richardson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 5.25
+        },
+        {
+          "player": "SW Tait",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 8.22
+        },
+        {
+          "player": "MG Neser",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 3,
+          "economy": 6.0
+        },
+        {
+          "player": "A Zampa",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 10.33
+        },
+        {
+          "player": "NJ Reardon",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        }
+      ]
+    }
+  ]
+}

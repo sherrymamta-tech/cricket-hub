@@ -1,0 +1,595 @@
+{
+  "id": "1339610",
+  "teams": [
+    "New Zealand",
+    "Pakistan"
+  ],
+  "date": "2023-01-02",
+  "format": "Test",
+  "competition": "New Zealand tour of Pakistan",
+  "venue": "National Stadium, Karachi",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 449,
+      "extras": 16,
+      "balls": 792,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 71,
+          "balls": 100,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 71.0,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 122,
+          "balls": 191,
+          "fours": 16,
+          "sixes": 1,
+          "strike_rate": 63.87,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 36,
+          "balls": 91,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 39.56,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 26,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 46.43,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 3,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 51,
+          "balls": 108,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 47.22,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 11,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 10,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 68,
+          "balls": 81,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 83.95,
+          "out": false
+        },
+        {
+          "player": "AY Patel",
+          "runs": 35,
+          "balls": 78,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 44.87,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mir Hamza",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 73,
+          "wickets": 0,
+          "economy": 3.42
+        },
+        {
+          "player": "Naseem Shah",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 75,
+          "wickets": 3,
+          "economy": 3.12
+        },
+        {
+          "player": "Hasan Ali",
+          "overs": "23.4",
+          "balls": 142,
+          "runs": 72,
+          "wickets": 0,
+          "economy": 3.04
+        },
+        {
+          "player": "Abrar Ahmed",
+          "overs": "37.0",
+          "balls": 222,
+          "runs": 152,
+          "wickets": 4,
+          "economy": 4.11
+        },
+        {
+          "player": "Agha Salman",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 77,
+          "wickets": 3,
+          "economy": 2.96
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 408,
+      "extras": 10,
+      "balls": 801,
+      "batting": [
+        {
+          "player": "Abdullah Shafique",
+          "runs": 19,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 59.38,
+          "out": true
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 83,
+          "balls": 165,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 50.3,
+          "out": true
+        },
+        {
+          "player": "Shan Masood",
+          "runs": 20,
+          "balls": 11,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 181.82,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 24,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 58.54,
+          "out": true
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 125,
+          "balls": 341,
+          "fours": 17,
+          "sixes": 0,
+          "strike_rate": 36.66,
+          "out": false
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 78,
+          "balls": 109,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 71.56,
+          "out": true
+        },
+        {
+          "player": "Agha Salman",
+          "runs": 41,
+          "balls": 78,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 52.56,
+          "out": true
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "Naseem Shah",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Mir Hamza",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Abrar Ahmed",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 2.52
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "28.1",
+          "balls": 169,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 2.24
+        },
+        {
+          "player": "AY Patel",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 88,
+          "wickets": 3,
+          "economy": 5.18
+        },
+        {
+          "player": "MG Bracewell",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 87,
+          "wickets": 0,
+          "economy": 3.35
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "27.2",
+          "balls": 164,
+          "runs": 96,
+          "wickets": 3,
+          "economy": 3.51
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 1.1
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New Zealand",
+      "runs": 277,
+      "extras": 15,
+      "balls": 495,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 62,
+          "balls": 104,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 59.62,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 41,
+          "balls": 107,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 38.32,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 5,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.81,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 74,
+          "balls": 135,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 54.81,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 74,
+          "balls": 119,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 62.18,
+          "out": false
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 6,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Naseem Shah",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 3.68
+        },
+        {
+          "player": "Mir Hamza",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 3.76
+        },
+        {
+          "player": "Abrar Ahmed",
+          "overs": "33.0",
+          "balls": 198,
+          "runs": 105,
+          "wickets": 1,
+          "economy": 3.18
+        },
+        {
+          "player": "Hasan Ali",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 3.55
+        },
+        {
+          "player": "Agha Salman",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Pakistan",
+      "runs": 304,
+      "extras": 23,
+      "balls": 542,
+      "batting": [
+        {
+          "player": "Abdullah Shafique",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mir Hamza",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 12,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "Shan Masood",
+          "runs": 35,
+          "balls": 66,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 53.03,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 27,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 65.85,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 118,
+          "balls": 177,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 32,
+          "balls": 146,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 21.92,
+          "out": true
+        },
+        {
+          "player": "Agha Salman",
+          "runs": 30,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 73.17,
+          "out": true
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Naseem Shah",
+          "runs": 15,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 136.36,
+          "out": false
+        },
+        {
+          "player": "Abrar Ahmed",
+          "runs": 7,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 43,
+          "wickets": 2,
+          "economy": 2.15
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 78,
+          "wickets": 1,
+          "economy": 3.71
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 66,
+          "wickets": 2,
+          "economy": 3.67
+        },
+        {
+          "player": "MG Bracewell",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 77,
+          "wickets": 4,
+          "economy": 3.85
+        },
+        {
+          "player": "AY Patel",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 4.77
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 1.25
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "224044",
+  "teams": [
+    "South Africa",
+    "New Zealand"
+  ],
+  "date": "2005-11-04",
+  "format": "ODI",
+  "competition": "New Zealand tour of South Africa",
+  "venue": "Kingsmead",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 79,
+      "extras": 10,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "AB de Villiers",
+          "runs": 6,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "GC Smith",
+          "runs": 22,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 55.0,
+          "out": true
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 24,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": false
+        },
+        {
+          "player": "AG Prince",
+          "runs": 17,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 73.91,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KD Mills",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 4.47
+        },
+        {
+          "player": "SE Bond",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 3.56
+        },
+        {
+          "player": "JEC Franklin",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 3.48
+        },
+        {
+          "player": "SB Styris",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    }
+  ]
+}

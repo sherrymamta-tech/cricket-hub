@@ -1,0 +1,574 @@
+{
+  "id": "1075502",
+  "teams": [
+    "South Africa",
+    "Bangladesh"
+  ],
+  "date": "2017-09-28",
+  "format": "Test",
+  "competition": "Bangladesh tour of South Africa",
+  "venue": "Senwes Park",
+  "result": "South Africa won by 333 runs",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 496,
+      "extras": 6,
+      "balls": 878,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 199,
+          "balls": 389,
+          "fours": 15,
+          "sixes": 3,
+          "strike_rate": 51.16,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 97,
+          "balls": 152,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 63.82,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 137,
+          "balls": 200,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 68.5,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 31,
+          "balls": 88,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 35.23,
+          "out": false
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 26,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 53.06,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mustafizur Rahman",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 98,
+          "wickets": 1,
+          "economy": 3.61
+        },
+        {
+          "player": "Shafiul Islam",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 74,
+          "wickets": 1,
+          "economy": 2.94
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "overs": "56.0",
+          "balls": 336,
+          "runs": 178,
+          "wickets": 0,
+          "economy": 3.18
+        },
+        {
+          "player": "Taskin Ahmed",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 91,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "Mahmudullah",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.8
+        },
+        {
+          "player": "Mominul Haque",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "Sabbir Rahman",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 3.2
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Bangladesh",
+      "runs": 320,
+      "extras": 11,
+      "balls": 536,
+      "batting": [
+        {
+          "player": "Liton Das",
+          "runs": 25,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 86.21,
+          "out": true
+        },
+        {
+          "player": "Imrul Kayes",
+          "runs": 7,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.0,
+          "out": true
+        },
+        {
+          "player": "Mominul Haque",
+          "runs": 77,
+          "balls": 150,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 51.33,
+          "out": true
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 44,
+          "balls": 57,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 77.19,
+          "out": true
+        },
+        {
+          "player": "Tamim Iqbal",
+          "runs": 39,
+          "balls": 67,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 58.21,
+          "out": true
+        },
+        {
+          "player": "Mahmudullah",
+          "runs": 66,
+          "balls": 124,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 53.23,
+          "out": true
+        },
+        {
+          "player": "Sabbir Rahman",
+          "runs": 30,
+          "balls": 46,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 65.22,
+          "out": true
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "runs": 8,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Taskin Ahmed",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Shafiul Islam",
+          "runs": 2,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "Mustafizur Rahman",
+          "runs": 10,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Morkel",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 2.68
+        },
+        {
+          "player": "K Rabada",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 88,
+          "wickets": 2,
+          "economy": 3.64
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 92,
+          "wickets": 3,
+          "economy": 3.39
+        },
+        {
+          "player": "D Olivier",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 5.27
+        },
+        {
+          "player": "AL Phehlukwayo",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "AK Markram",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "South Africa",
+      "runs": 247,
+      "extras": 1,
+      "balls": 337,
+      "batting": [
+        {
+          "player": "AK Markram",
+          "runs": 15,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.69,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 18,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 72.0,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 28,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 65.12,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 71,
+          "balls": 107,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 66.36,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 81,
+          "balls": 101,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 80.2,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 8,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "AL Phehlukwayo",
+          "runs": 6,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": false
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 19,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 172.73,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mehedi Hasan Miraz",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 69,
+          "wickets": 0,
+          "economy": 6.27
+        },
+        {
+          "player": "Shafiul Islam",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 3.54
+        },
+        {
+          "player": "Mustafizur Rahman",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 2.73
+        },
+        {
+          "player": "Taskin Ahmed",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 4.7
+        },
+        {
+          "player": "Sabbir Rahman",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "Mahmudullah",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 5.25
+        },
+        {
+          "player": "Mominul Haque",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 27,
+          "wickets": 3,
+          "economy": 4.5
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Bangladesh",
+      "runs": 90,
+      "extras": 3,
+      "balls": 198,
+      "batting": [
+        {
+          "player": "Tamim Iqbal",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mominul Haque",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Imrul Kayes",
+          "runs": 32,
+          "balls": 42,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 76.19,
+          "out": true
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 16,
+          "balls": 55,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.09,
+          "out": true
+        },
+        {
+          "player": "Mahmudullah",
+          "runs": 9,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Liton Das",
+          "runs": 4,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Sabbir Rahman",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "runs": 15,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 46.88,
+          "out": false
+        },
+        {
+          "player": "Taskin Ahmed",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "Shafiul Islam",
+          "runs": 2,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "Mustafizur Rahman",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Morkel",
+          "overs": "5.3",
+          "balls": 33,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 3.45
+        },
+        {
+          "player": "K Rabada",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 33,
+          "wickets": 3,
+          "economy": 3.25
+        },
+        {
+          "player": "D Olivier",
+          "overs": "5.4",
+          "balls": 34,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 2.12
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 26,
+          "wickets": 4,
+          "economy": 2.44
+        },
+        {
+          "player": "AL Phehlukwayo",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        }
+      ]
+    }
+  ]
+}

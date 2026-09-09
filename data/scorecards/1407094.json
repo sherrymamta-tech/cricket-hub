@@ -1,0 +1,78 @@
+{
+  "id": "1407094",
+  "teams": [
+    "Nigeria",
+    "Rwanda"
+  ],
+  "date": "2023-11-24",
+  "format": "T20",
+  "competition": "ICC Men's T20 World Cup Africa Region Qualifier",
+  "venue": "Wanderers Cricket Ground, Windhoek",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Nigeria",
+      "runs": 33,
+      "extras": 9,
+      "balls": 39,
+      "batting": [
+        {
+          "player": "Sulaimon Runsewe",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "D Ajekun",
+          "runs": 13,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.52,
+          "out": false
+        },
+        {
+          "player": "AA Onikoyi",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JO Adedeji",
+          "runs": 8,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Z Bimenyimana",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 4.8
+        },
+        {
+          "player": "Muhammad Nadir",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 5.37
+        }
+      ]
+    }
+  ]
+}

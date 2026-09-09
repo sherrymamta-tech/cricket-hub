@@ -1,0 +1,615 @@
+{
+  "id": "592401",
+  "teams": [
+    "Australia",
+    "England"
+  ],
+  "date": "2014-01-03",
+  "format": "Test",
+  "competition": "The Ashes",
+  "venue": "Sydney Cricket Ground",
+  "result": "Australia won by 281 runs",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 326,
+      "extras": 20,
+      "balls": 464,
+      "batting": [
+        {
+          "player": "CJL Rogers",
+          "runs": 11,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.21,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 16,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "SR Watson",
+          "runs": 43,
+          "balls": 59,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 72.88,
+          "out": true
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 10,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.48,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 115,
+          "balls": 154,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 74.68,
+          "out": true
+        },
+        {
+          "player": "GJ Bailey",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "BJ Haddin",
+          "runs": 75,
+          "balls": 91,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 82.42,
+          "out": true
+        },
+        {
+          "player": "MG Johnson",
+          "runs": 12,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "RJ Harris",
+          "runs": 22,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "PM Siddle",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 3.19
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 72,
+          "wickets": 2,
+          "economy": 3.57
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "20.4",
+          "balls": 124,
+          "runs": 100,
+          "wickets": 6,
+          "economy": 4.84
+        },
+        {
+          "player": "WB Rankin",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 4.47
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 7.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 155,
+      "extras": 9,
+      "balls": 357,
+      "batting": [
+        {
+          "player": "AN Cook",
+          "runs": 7,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "MA Carberry",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 7,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.17,
+          "out": true
+        },
+        {
+          "player": "IR Bell",
+          "runs": 2,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.25,
+          "out": true
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 18,
+          "balls": 51,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 47,
+          "balls": 102,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 46.08,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 18,
+          "balls": 50,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.0,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 1,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.88,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 30,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 136.36,
+          "out": false
+        },
+        {
+          "player": "WB Rankin",
+          "runs": 13,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 59.09,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RJ Harris",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 2.57
+        },
+        {
+          "player": "MG Johnson",
+          "overs": "14.3",
+          "balls": 87,
+          "runs": 33,
+          "wickets": 3,
+          "economy": 2.28
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 23,
+          "wickets": 3,
+          "economy": 1.77
+        },
+        {
+          "player": "SR Watson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 1.67
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 3.87
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Australia",
+      "runs": 276,
+      "extras": 18,
+      "balls": 373,
+      "batting": [
+        {
+          "player": "CJL Rogers",
+          "runs": 119,
+          "balls": 169,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 70.41,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 16,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "SR Watson",
+          "runs": 9,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 6,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 7,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "GJ Bailey",
+          "runs": 46,
+          "balls": 74,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 62.16,
+          "out": true
+        },
+        {
+          "player": "BJ Haddin",
+          "runs": 28,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 68.29,
+          "out": true
+        },
+        {
+          "player": "MG Johnson",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "RJ Harris",
+          "runs": 13,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 118.18,
+          "out": true
+        },
+        {
+          "player": "PM Siddle",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 6,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 48,
+          "wickets": 2,
+          "economy": 3.2
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "14.3",
+          "balls": 87,
+          "runs": 58,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "player": "WB Rankin",
+          "overs": "12.3",
+          "balls": 75,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 4.48
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 64,
+          "wickets": 2,
+          "economy": 6.3
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 33,
+          "wickets": 3,
+          "economy": 5.5
+        },
+        {
+          "player": "KP Pietersen",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.25
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "England",
+      "runs": 166,
+      "extras": 8,
+      "balls": 191,
+      "batting": [
+        {
+          "player": "AN Cook",
+          "runs": 7,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "MA Carberry",
+          "runs": 43,
+          "balls": 63,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 68.25,
+          "out": true
+        },
+        {
+          "player": "IR Bell",
+          "runs": 16,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 84.21,
+          "out": true
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 6,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 7,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.93,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 32,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 42,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "WB Rankin",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RJ Harris",
+          "overs": "9.4",
+          "balls": 58,
+          "runs": 30,
+          "wickets": 5,
+          "economy": 3.1
+        },
+        {
+          "player": "MG Johnson",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 42,
+          "wickets": 3,
+          "economy": 4.58
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 70,
+          "wickets": 2,
+          "economy": 7.78
+        }
+      ]
+    }
+  ]
+}

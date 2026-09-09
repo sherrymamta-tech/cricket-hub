@@ -1,0 +1,637 @@
+{
+  "id": "1051841",
+  "teams": [
+    "Canterbury",
+    "Auckland Aces"
+  ],
+  "date": "2016-11-22",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Mainpower Oval",
+  "result": "Canterbury won by 10 runs",
+  "winner": "Canterbury",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Canterbury",
+      "runs": 245,
+      "extras": 19,
+      "balls": 449,
+      "batting": [
+        {
+          "player": "CJ Bowes",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "JCT Boyle",
+          "runs": 2,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.7,
+          "out": true
+        },
+        {
+          "player": "PG Fulton",
+          "runs": 9,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "KJ McClure",
+          "runs": 47,
+          "balls": 97,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.45,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 23,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.89,
+          "out": true
+        },
+        {
+          "player": "AM Ellis",
+          "runs": 53,
+          "balls": 97,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 54.64,
+          "out": true
+        },
+        {
+          "player": "CD Fletcher",
+          "runs": 45,
+          "balls": 78,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.69,
+          "out": true
+        },
+        {
+          "player": "TG Johnston",
+          "runs": 16,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.17,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 8,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 4,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "EJ Nuttall",
+          "runs": 16,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Grobbelaar",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 3.92
+        },
+        {
+          "player": "LH Ferguson",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 55,
+          "wickets": 3,
+          "economy": 3.24
+        },
+        {
+          "player": "CW Andrews",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 48,
+          "wickets": 2,
+          "economy": 3.43
+        },
+        {
+          "player": "SM Solia",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 2.81
+        },
+        {
+          "player": "RR O'Donnell",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "TS Nethula",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 2.92
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Auckland Aces",
+      "runs": 285,
+      "extras": 7,
+      "balls": 518,
+      "batting": [
+        {
+          "player": "RR O'Donnell",
+          "runs": 11,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.93,
+          "out": true
+        },
+        {
+          "player": "ML Guptill-Bunce",
+          "runs": 6,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "RJ Nicol",
+          "runs": 10,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.04,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 49,
+          "balls": 124,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 39.52,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 10,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.04,
+          "out": true
+        },
+        {
+          "player": "B Cachopa",
+          "runs": 23,
+          "balls": 63,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 36.51,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 108,
+          "balls": 87,
+          "fours": 9,
+          "sixes": 5,
+          "strike_rate": 124.14,
+          "out": false
+        },
+        {
+          "player": "DJ Grobbelaar",
+          "runs": 2,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "LH Ferguson",
+          "runs": 41,
+          "balls": 82,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "CW Andrews",
+          "runs": 16,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "TS Nethula",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 2.5
+        },
+        {
+          "player": "EJ Nuttall",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 74,
+          "wickets": 0,
+          "economy": 4.62
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 75,
+          "wickets": 8,
+          "economy": 4.37
+        },
+        {
+          "player": "AM Ellis",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 1.73
+        },
+        {
+          "player": "TG Johnston",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 2.25
+        },
+        {
+          "player": "LV van Beek",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 4.33
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Canterbury",
+      "runs": 400,
+      "extras": 11,
+      "balls": 579,
+      "batting": [
+        {
+          "player": "JCT Boyle",
+          "runs": 81,
+          "balls": 148,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 54.73,
+          "out": true
+        },
+        {
+          "player": "CJ Bowes",
+          "runs": 155,
+          "balls": 207,
+          "fours": 19,
+          "sixes": 2,
+          "strike_rate": 74.88,
+          "out": true
+        },
+        {
+          "player": "PG Fulton",
+          "runs": 72,
+          "balls": 131,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 54.96,
+          "out": true
+        },
+        {
+          "player": "KJ McClure",
+          "runs": 21,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 25,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 86.21,
+          "out": true
+        },
+        {
+          "player": "AM Ellis",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CD Fletcher",
+          "runs": 8,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "TG Johnston",
+          "runs": 21,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 123.53,
+          "out": false
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 6,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Grobbelaar",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 2.62
+        },
+        {
+          "player": "LH Ferguson",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 58,
+          "wickets": 0,
+          "economy": 4.14
+        },
+        {
+          "player": "CW Andrews",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 4.93
+        },
+        {
+          "player": "TS Nethula",
+          "overs": "35.1",
+          "balls": 211,
+          "runs": 130,
+          "wickets": 5,
+          "economy": 3.7
+        },
+        {
+          "player": "SM Solia",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 5.13
+        },
+        {
+          "player": "MS Chapman",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 2.4
+        },
+        {
+          "player": "RJ Nicol",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 59,
+          "wickets": 1,
+          "economy": 7.38
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Auckland Aces",
+      "runs": 350,
+      "extras": 12,
+      "balls": 491,
+      "batting": [
+        {
+          "player": "ML Guptill-Bunce",
+          "runs": 67,
+          "balls": 78,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 85.9,
+          "out": true
+        },
+        {
+          "player": "RJ Nicol",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 48,
+          "balls": 105,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 45.71,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 29,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 107.41,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 81,
+          "balls": 106,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 76.42,
+          "out": true
+        },
+        {
+          "player": "B Cachopa",
+          "runs": 75,
+          "balls": 121,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 61.98,
+          "out": false
+        },
+        {
+          "player": "DJ Grobbelaar",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TS Nethula",
+          "runs": 33,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 117.86,
+          "out": true
+        },
+        {
+          "player": "LH Ferguson",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CW Andrews",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KA Jamieson",
+          "overs": "19.4",
+          "balls": 118,
+          "runs": 87,
+          "wickets": 3,
+          "economy": 4.42
+        },
+        {
+          "player": "EJ Nuttall",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 68,
+          "wickets": 5,
+          "economy": 3.96
+        },
+        {
+          "player": "LV van Beek",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 5.4
+        },
+        {
+          "player": "TG Johnston",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 85,
+          "wickets": 1,
+          "economy": 5.2
+        },
+        {
+          "player": "AM Ellis",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 3.61
+        },
+        {
+          "player": "CE McConchie",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 3.33
+        }
+      ]
+    }
+  ]
+}

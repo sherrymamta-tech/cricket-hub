@@ -1,0 +1,631 @@
+{
+  "id": "1167028",
+  "teams": [
+    "Worcestershire",
+    "Glamorgan"
+  ],
+  "date": "2019-09-10",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "County Ground, New Road, Worcester",
+  "result": "Worcestershire won by 155 runs",
+  "winner": "Worcestershire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Worcestershire",
+      "runs": 205,
+      "extras": 1,
+      "balls": 420,
+      "batting": [
+        {
+          "player": "DKH Mitchell",
+          "runs": 36,
+          "balls": 103,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 34.95,
+          "out": true
+        },
+        {
+          "player": "HD Rutherford",
+          "runs": 19,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 63.33,
+          "out": true
+        },
+        {
+          "player": "MM Ali",
+          "runs": 18,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.65,
+          "out": true
+        },
+        {
+          "player": "JA Haynes",
+          "runs": 17,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 31.48,
+          "out": true
+        },
+        {
+          "player": "AG Milton",
+          "runs": 12,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "MH Wessels",
+          "runs": 45,
+          "balls": 35,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "OB Cox",
+          "runs": 7,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "EG Barnard",
+          "runs": 29,
+          "balls": 54,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 53.7,
+          "out": false
+        },
+        {
+          "player": "J Leach",
+          "runs": 7,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "CAJ Morris",
+          "runs": 9,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "AW Finch",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Hogan",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 53,
+          "wickets": 4,
+          "economy": 3.31
+        },
+        {
+          "player": "LJ Carey",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 2.92
+        },
+        {
+          "player": "T van der Gugten",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 3.67
+        },
+        {
+          "player": "RAJ Smith",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 2.79
+        },
+        {
+          "player": "DL Lloyd",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 3.33
+        },
+        {
+          "player": "SR Patel",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 1.75
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Glamorgan",
+      "runs": 193,
+      "extras": 8,
+      "balls": 396,
+      "batting": [
+        {
+          "player": "NJ Selman",
+          "runs": 6,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "KC Brathwaite",
+          "runs": 19,
+          "balls": 97,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.59,
+          "out": true
+        },
+        {
+          "player": "TN Cullen",
+          "runs": 10,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 34.48,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 35,
+          "balls": 101,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 34.65,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 8,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "SR Patel",
+          "runs": 5,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 24,
+          "balls": 40,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "RAJ Smith",
+          "runs": 18,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 78.26,
+          "out": true
+        },
+        {
+          "player": "T van der Gugten",
+          "runs": 29,
+          "balls": 43,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 67.44,
+          "out": false
+        },
+        {
+          "player": "LJ Carey",
+          "runs": 16,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 15,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 214.29,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Leach",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 2.7
+        },
+        {
+          "player": "CAJ Morris",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 73,
+          "wickets": 5,
+          "economy": 4.09
+        },
+        {
+          "player": "AW Finch",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 3.14
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 0.58
+        },
+        {
+          "player": "MM Ali",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Worcestershire",
+      "runs": 299,
+      "extras": 3,
+      "balls": 572,
+      "batting": [
+        {
+          "player": "DKH Mitchell",
+          "runs": 139,
+          "balls": 282,
+          "fours": 17,
+          "sixes": 0,
+          "strike_rate": 49.29,
+          "out": true
+        },
+        {
+          "player": "HD Rutherford",
+          "runs": 52,
+          "balls": 52,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MM Ali",
+          "runs": 26,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 72.22,
+          "out": true
+        },
+        {
+          "player": "JA Haynes",
+          "runs": 31,
+          "balls": 111,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 27.93,
+          "out": true
+        },
+        {
+          "player": "AG Milton",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "MH Wessels",
+          "runs": 32,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 84.21,
+          "out": true
+        },
+        {
+          "player": "OB Cox",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "EG Barnard",
+          "runs": 6,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "J Leach",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "CAJ Morris",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "AW Finch",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Hogan",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 75,
+          "wickets": 2,
+          "economy": 3.57
+        },
+        {
+          "player": "LJ Carey",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 2.93
+        },
+        {
+          "player": "RAJ Smith",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 3.54
+        },
+        {
+          "player": "T van der Gugten",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 68,
+          "wickets": 2,
+          "economy": 4.86
+        },
+        {
+          "player": "SR Patel",
+          "overs": "31.0",
+          "balls": 186,
+          "runs": 59,
+          "wickets": 4,
+          "economy": 1.9
+        },
+        {
+          "player": "WT Root",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Glamorgan",
+      "runs": 156,
+      "extras": 5,
+      "balls": 231,
+      "batting": [
+        {
+          "player": "NJ Selman",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TN Cullen",
+          "runs": 5,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.73,
+          "out": true
+        },
+        {
+          "player": "KC Brathwaite",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 29,
+          "balls": 32,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 90.62,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 26,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 49.06,
+          "out": true
+        },
+        {
+          "player": "SR Patel",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 45,
+          "balls": 74,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 60.81,
+          "out": true
+        },
+        {
+          "player": "RAJ Smith",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "T van der Gugten",
+          "runs": 13,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 72.22,
+          "out": true
+        },
+        {
+          "player": "LJ Carey",
+          "runs": 12,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 10,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 166.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Leach",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 2.4
+        },
+        {
+          "player": "CAJ Morris",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 3.49
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 5.4
+        },
+        {
+          "player": "AW Finch",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 5.14
+        },
+        {
+          "player": "MM Ali",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 5.05
+        }
+      ]
+    }
+  ]
+}

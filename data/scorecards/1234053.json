@@ -1,0 +1,277 @@
+{
+  "id": "1234053",
+  "teams": [
+    "Canterbury",
+    "Otago"
+  ],
+  "date": "2021-01-30",
+  "format": "T20",
+  "competition": "New Zealand Cricket Women's Twenty20",
+  "venue": "Hagley Oval",
+  "result": "Canterbury won by 3 runs",
+  "winner": "Canterbury",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Canterbury",
+      "runs": 132,
+      "extras": 9,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "JL Savage",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KE Ebrahim",
+          "runs": 22,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 59.46,
+          "out": true
+        },
+        {
+          "player": "NB Cox",
+          "runs": 8,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 160.0,
+          "out": true
+        },
+        {
+          "player": "AE Satterthwaite",
+          "runs": 36,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "KFG Nation",
+          "runs": 13,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.25,
+          "out": true
+        },
+        {
+          "player": "FL Mackay",
+          "runs": 26,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 130.0,
+          "out": false
+        },
+        {
+          "player": "LEV Hughes",
+          "runs": 9,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "LMM Tahuhu",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "GES Sullivan",
+          "runs": 6,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ME Loe",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "EJ Black",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 8.54
+        },
+        {
+          "player": "GR Adams",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 4.8
+        },
+        {
+          "player": "EJ Carson",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 6.67
+        },
+        {
+          "player": "SA Oldershaw",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Otago",
+      "runs": 129,
+      "extras": 18,
+      "balls": 131,
+      "batting": [
+        {
+          "player": "IR James",
+          "runs": 7,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.43,
+          "out": true
+        },
+        {
+          "player": "PM Inglis",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "KJ Martin",
+          "runs": 42,
+          "balls": 40,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 105.0,
+          "out": true
+        },
+        {
+          "player": "MR Cowan",
+          "runs": 50,
+          "balls": 37,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 135.14,
+          "out": true
+        },
+        {
+          "player": "CG Blakely",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "ON Gain",
+          "runs": 7,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "GR Adams",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LMM Tahuhu",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 2.88
+        },
+        {
+          "player": "KM Sims",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 7.33
+        },
+        {
+          "player": "GES Sullivan",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 5.08
+        },
+        {
+          "player": "JL Savage",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 6.69
+        },
+        {
+          "player": "FL Mackay",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "SR Asmussen",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "KE Ebrahim",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

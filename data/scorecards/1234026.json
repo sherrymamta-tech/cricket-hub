@@ -1,0 +1,276 @@
+{
+  "id": "1234026",
+  "teams": [
+    "Wellington",
+    "Auckland"
+  ],
+  "date": "2021-02-07",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "Eden Park Outer Oval",
+  "result": "Wellington won by 39 runs",
+  "winner": "Wellington",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Wellington",
+      "runs": 230,
+      "extras": 14,
+      "balls": 129,
+      "batting": [
+        {
+          "player": "FH Allen",
+          "runs": 73,
+          "balls": 37,
+          "fours": 8,
+          "sixes": 4,
+          "strike_rate": 197.3,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 91,
+          "balls": 63,
+          "fours": 7,
+          "sixes": 4,
+          "strike_rate": 144.44,
+          "out": false
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 46,
+          "balls": 24,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 191.67,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KA Jamieson",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 9.56
+        },
+        {
+          "player": "RM ter Braak",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 11.04
+        },
+        {
+          "player": "L Delport",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 10.42
+        },
+        {
+          "player": "WER Somerville",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 14.31
+        },
+        {
+          "player": "DK Ferns",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 18.0
+        },
+        {
+          "player": "SM Solia",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.24
+        },
+        {
+          "player": "GD Phillips",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Auckland",
+      "runs": 191,
+      "extras": 9,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "SM Solia",
+          "runs": 17,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 170.0,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 15,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 214.29,
+          "out": true
+        },
+        {
+          "player": "WT O'Donnell",
+          "runs": 38,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 158.33,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 16,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 106.67,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 20,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 17,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 89.47,
+          "out": true
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 17,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 121.43,
+          "out": true
+        },
+        {
+          "player": "WER Somerville",
+          "runs": 26,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 288.89,
+          "out": true
+        },
+        {
+          "player": "RM ter Braak",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DK Ferns",
+          "runs": 13,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 130.0,
+          "out": true
+        },
+        {
+          "player": "L Delport",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HK Bennett",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 7.2
+        },
+        {
+          "player": "LV van Beek",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 10.15
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 41,
+          "wickets": 3,
+          "economy": 9.84
+        },
+        {
+          "player": "MG Bracewell",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 24.0
+        },
+        {
+          "player": "PF Younghusband",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 8.25
+        },
+        {
+          "player": "JD Gibson",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

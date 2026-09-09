@@ -1,0 +1,464 @@
+{
+  "id": "1271393",
+  "teams": [
+    "Glamorgan",
+    "Durham"
+  ],
+  "date": "2021-09-05",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Durham won by 42 runs",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Glamorgan",
+      "runs": 97,
+      "extras": 3,
+      "balls": 192,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 43,
+          "balls": 43,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "NJ Selman",
+          "runs": 15,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "EJ Byrom",
+          "runs": 3,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.64,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 17,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.84,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 3,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "DA Douthwaite",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AG Salter",
+          "runs": 2,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "T van der Gugten",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "LJ Carey",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 28,
+          "wickets": 3,
+          "economy": 2.8
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 3.67
+        },
+        {
+          "player": "BA Raine",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 25,
+          "wickets": 3,
+          "economy": 3.12
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 11,
+          "wickets": 4,
+          "economy": 2.2
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Durham",
+      "runs": 503,
+      "extras": 13,
+      "balls": 790,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 55,
+          "balls": 88,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "MA Jones",
+          "runs": 81,
+          "balls": 158,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 51.27,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 29,
+          "balls": 60,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 48.33,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 47,
+          "balls": 56,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 83.93,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 46,
+          "balls": 93,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 49.46,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 57,
+          "balls": 73,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 78.08,
+          "out": true
+        },
+        {
+          "player": "P Coughlin",
+          "runs": 20,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 74,
+          "balls": 100,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 74.0,
+          "out": true
+        },
+        {
+          "player": "L Trevaskis",
+          "runs": 55,
+          "balls": 90,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": false
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 26,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 72.22,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Hogan",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 86,
+          "wickets": 3,
+          "economy": 3.07
+        },
+        {
+          "player": "LJ Carey",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 75,
+          "wickets": 1,
+          "economy": 3.75
+        },
+        {
+          "player": "T van der Gugten",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 84,
+          "wickets": 3,
+          "economy": 3.09
+        },
+        {
+          "player": "DA Douthwaite",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 95,
+          "wickets": 0,
+          "economy": 5.82
+        },
+        {
+          "player": "DL Lloyd",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 62,
+          "wickets": 0,
+          "economy": 3.41
+        },
+        {
+          "player": "AG Salter",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 101,
+          "wickets": 1,
+          "economy": 4.59
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Glamorgan",
+      "runs": 364,
+      "extras": 31,
+      "balls": 782,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 71,
+          "balls": 141,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 50.35,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 6,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "NJ Selman",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "EJ Byrom",
+          "runs": 17,
+          "balls": 80,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 21.25,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 14,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.0,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 5,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.81,
+          "out": true
+        },
+        {
+          "player": "DA Douthwaite",
+          "runs": 96,
+          "balls": 185,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 51.89,
+          "out": true
+        },
+        {
+          "player": "AG Salter",
+          "runs": 90,
+          "balls": 226,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 39.82,
+          "out": true
+        },
+        {
+          "player": "T van der Gugten",
+          "runs": 26,
+          "balls": 51,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 50.98,
+          "out": false
+        },
+        {
+          "player": "LJ Carey",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 4,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "30.1",
+          "balls": 181,
+          "runs": 96,
+          "wickets": 2,
+          "economy": 3.18
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 91,
+          "wickets": 1,
+          "economy": 3.35
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 68,
+          "wickets": 5,
+          "economy": 2.96
+        },
+        {
+          "player": "BA Raine",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 2.76
+        },
+        {
+          "player": "L Trevaskis",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 1.67
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 1.5
+        }
+      ]
+    }
+  ]
+}

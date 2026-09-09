@@ -1,0 +1,242 @@
+{
+  "id": "1114888",
+  "teams": [
+    "Melbourne Stars",
+    "Sydney Thunder"
+  ],
+  "date": "2018-01-20",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Melbourne Cricket Ground",
+  "result": "Sydney Thunder won by 7 wickets",
+  "winner": "Sydney Thunder",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Melbourne Stars",
+      "runs": 147,
+      "extras": 7,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "PSP Handscomb",
+          "runs": 57,
+          "balls": 45,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 126.67,
+          "out": true
+        },
+        {
+          "player": "BR Dunk",
+          "runs": 12,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 109.09,
+          "out": true
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 12,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "SE Gotch",
+          "runs": 31,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 119.23,
+          "out": true
+        },
+        {
+          "player": "JP Faulkner",
+          "runs": 5,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JW Hastings",
+          "runs": 9,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": false
+        },
+        {
+          "player": "EP Gulbis",
+          "runs": 13,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 144.44,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ McClenaghan",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.2
+        },
+        {
+          "player": "GS Sandhu",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 5.78
+        },
+        {
+          "player": "CJ Green",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 6.72
+        },
+        {
+          "player": "SR Watson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 8.5
+        },
+        {
+          "player": "Fawad Ahmed",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 6.96
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Thunder",
+      "runs": 149,
+      "extras": 12,
+      "balls": 100,
+      "batting": [
+        {
+          "player": "UT Khawaja",
+          "runs": 44,
+          "balls": 26,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 169.23,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 40,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "SR Watson",
+          "runs": 49,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 175.0,
+          "out": false
+        },
+        {
+          "player": "CJ Green",
+          "runs": 4,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "BJ Rohrer",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Worrall",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 10.8
+        },
+        {
+          "player": "JR Coleman",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 11.14
+        },
+        {
+          "player": "JP Faulkner",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "JW Hastings",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "player": "L Bowe",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 7.75
+        },
+        {
+          "player": "EP Gulbis",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        }
+      ]
+    }
+  ]
+}

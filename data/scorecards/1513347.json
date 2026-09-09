@@ -1,0 +1,596 @@
+{
+  "id": "1513347",
+  "teams": [
+    "Warwickshire",
+    "Yorkshire"
+  ],
+  "date": "2026-05-08",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Edgbaston, Birmingham",
+  "result": "Warwickshire won by 377 runs",
+  "winner": "Warwickshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Warwickshire",
+      "runs": 147,
+      "extras": 5,
+      "balls": 330,
+      "batting": [
+        {
+          "player": "RM Yates",
+          "runs": 7,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "AL Davies",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "DR Mousley",
+          "runs": 9,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.13,
+          "out": true
+        },
+        {
+          "player": "SR Hain",
+          "runs": 57,
+          "balls": 97,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 58.76,
+          "out": true
+        },
+        {
+          "player": "BJ Webster",
+          "runs": 4,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 17.39,
+          "out": true
+        },
+        {
+          "player": "EG Barnard",
+          "runs": 3,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.75,
+          "out": true
+        },
+        {
+          "player": "Z Malik",
+          "runs": 10,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 27.03,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 8,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 24.24,
+          "out": true
+        },
+        {
+          "player": "MG Booth",
+          "runs": 3,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.0,
+          "out": true
+        },
+        {
+          "player": "ER Bamber",
+          "runs": 28,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "OJ Hannon-Dalby",
+          "runs": 9,
+          "balls": 36,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJ White",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 49,
+          "wickets": 4,
+          "economy": 3.06
+        },
+        {
+          "player": "BM Cliff",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 2.36
+        },
+        {
+          "player": "GCH Hill",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 2.08
+        },
+        {
+          "player": "LV van Beek",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 3.17
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Yorkshire",
+      "runs": 152,
+      "extras": 16,
+      "balls": 273,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 2,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.33,
+          "out": true
+        },
+        {
+          "player": "FJ Bean",
+          "runs": 13,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 118.18,
+          "out": true
+        },
+        {
+          "player": "JH Wharton",
+          "runs": 40,
+          "balls": 58,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 68.97,
+          "out": true
+        },
+        {
+          "player": "ML Revis",
+          "runs": 5,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 40,
+          "balls": 58,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 68.97,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 25,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "GCH Hill",
+          "runs": 7,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 18.42,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 2,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.7,
+          "out": true
+        },
+        {
+          "player": "BM Cliff",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "CJ White",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ER Bamber",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 46,
+          "wickets": 2,
+          "economy": 3.49
+        },
+        {
+          "player": "OJ Hannon-Dalby",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 40,
+          "wickets": 4,
+          "economy": 2.67
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 2.7
+        },
+        {
+          "player": "MG Booth",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 8.33
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 14,
+          "wickets": 3,
+          "economy": 3.23
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Warwickshire",
+      "runs": 553,
+      "extras": 28,
+      "balls": 851,
+      "batting": [
+        {
+          "player": "RM Yates",
+          "runs": 81,
+          "balls": 104,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 77.88,
+          "out": true
+        },
+        {
+          "player": "AL Davies",
+          "runs": 38,
+          "balls": 81,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 46.91,
+          "out": true
+        },
+        {
+          "player": "DR Mousley",
+          "runs": 70,
+          "balls": 123,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 56.91,
+          "out": true
+        },
+        {
+          "player": "SR Hain",
+          "runs": 164,
+          "balls": 319,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 51.41,
+          "out": false
+        },
+        {
+          "player": "BJ Webster",
+          "runs": 32,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "EG Barnard",
+          "runs": 60,
+          "balls": 46,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 130.43,
+          "out": true
+        },
+        {
+          "player": "Z Malik",
+          "runs": 57,
+          "balls": 90,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 63.33,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 23,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 82.14,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJ White",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 1.81
+        },
+        {
+          "player": "BM Cliff",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 112,
+          "wickets": 0,
+          "economy": 5.01
+        },
+        {
+          "player": "GCH Hill",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 2.71
+        },
+        {
+          "player": "LV van Beek",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 108,
+          "wickets": 2,
+          "economy": 5.59
+        },
+        {
+          "player": "ML Revis",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 71,
+          "wickets": 1,
+          "economy": 3.74
+        },
+        {
+          "player": "DM Bess",
+          "overs": "33.0",
+          "balls": 198,
+          "runs": 128,
+          "wickets": 1,
+          "economy": 3.88
+        },
+        {
+          "player": "HC Brook",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 67,
+          "wickets": 0,
+          "economy": 3.69
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Yorkshire",
+      "runs": 171,
+      "extras": 19,
+      "balls": 321,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 4,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "FJ Bean",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "JH Wharton",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "ML Revis",
+          "runs": 41,
+          "balls": 93,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 44.09,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 26,
+          "balls": 39,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GCH Hill",
+          "runs": 27,
+          "balls": 60,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 45.0,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 39,
+          "balls": 50,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 78.0,
+          "out": false
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "BM Cliff",
+          "runs": 8,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.1,
+          "out": true
+        },
+        {
+          "player": "CJ White",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ER Bamber",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 60,
+          "wickets": 4,
+          "economy": 3.13
+        },
+        {
+          "player": "OJ Hannon-Dalby",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 33,
+          "wickets": 3,
+          "economy": 1.94
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 4.88
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 2.6
+        },
+        {
+          "player": "BJ Webster",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 5.81
+        }
+      ]
+    }
+  ]
+}

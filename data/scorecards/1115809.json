@@ -1,0 +1,261 @@
+{
+  "id": "1115809",
+  "teams": [
+    "Pakistan",
+    "New Zealand"
+  ],
+  "date": "2018-01-28",
+  "format": "T20",
+  "competition": "Pakistan tour of New Zealand",
+  "venue": "Bay Oval",
+  "result": "Pakistan won by 18 runs",
+  "winner": "Pakistan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 181,
+      "extras": 5,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "Fakhar Zaman",
+          "runs": 46,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 127.78,
+          "out": true
+        },
+        {
+          "player": "Ahmed Shehzad",
+          "runs": 19,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 105.56,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 18,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 105.88,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 29,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 131.82,
+          "out": true
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 20,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 153.85,
+          "out": false
+        },
+        {
+          "player": "Umar Amin",
+          "runs": 21,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 300.0,
+          "out": true
+        },
+        {
+          "player": "Faheem Ashraf",
+          "runs": 8,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "Aamer Yamin",
+          "runs": 15,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 250.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 10.25
+        },
+        {
+          "player": "TA Boult",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 7.92
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 8.64
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 11.28
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 163,
+      "extras": 4,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 59,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 4,
+          "strike_rate": 134.09,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 9,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 16,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 84.21,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 22,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 146.67,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 25,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 227.27,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 24,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 184.62,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Aamer Yamin",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "Rumman Raees",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 9.84
+        },
+        {
+          "player": "Mohammad Amir",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.52
+        },
+        {
+          "player": "Faheem Ashraf",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 13.2
+        },
+        {
+          "player": "Shadab Khan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 4.75
+        }
+      ]
+    }
+  ]
+}

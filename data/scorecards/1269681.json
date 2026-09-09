@@ -1,0 +1,232 @@
+{
+  "id": "1269681",
+  "teams": [
+    "Hobart Hurricanes",
+    "Sydney Thunder"
+  ],
+  "date": "2022-01-10",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Melbourne Cricket Ground",
+  "result": "Sydney Thunder won by 9 wickets",
+  "winner": "Sydney Thunder",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Hobart Hurricanes",
+      "runs": 139,
+      "extras": 12,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "CP Jewell",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "BR McDermott",
+          "runs": 38,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 111.76,
+          "out": true
+        },
+        {
+          "player": "PSP Handscomb",
+          "runs": 21,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.0,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "DJM Short",
+          "runs": 29,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 116.0,
+          "out": true
+        },
+        {
+          "player": "TH David",
+          "runs": 15,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 93.75,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 15,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 150.0,
+          "out": false
+        },
+        {
+          "player": "MJ Owen",
+          "runs": 3,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 300.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Hasnain",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 4.29
+        },
+        {
+          "player": "GS Sandhu",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 7.92
+        },
+        {
+          "player": "N McAndrew",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 8.75
+        },
+        {
+          "player": "DR Sams",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.2
+        },
+        {
+          "player": "T Sangha",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "player": "JJS Sangha",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Thunder",
+      "runs": 140,
+      "extras": 6,
+      "balls": 105,
+      "batting": [
+        {
+          "player": "M Gilkes",
+          "runs": 19,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 111.76,
+          "out": true
+        },
+        {
+          "player": "AD Hales",
+          "runs": 80,
+          "balls": 57,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 140.35,
+          "out": false
+        },
+        {
+          "player": "JJS Sangha",
+          "runs": 35,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 112.9,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RP Meredith",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 9.79
+        },
+        {
+          "player": "TS Rogers",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "DJM Short",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 3.67
+        },
+        {
+          "player": "S Lamichhane",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 6.6
+        },
+        {
+          "player": "MJ Owen",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 8.33
+        },
+        {
+          "player": "TH David",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ]
+    }
+  ]
+}

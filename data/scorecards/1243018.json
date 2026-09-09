@@ -1,0 +1,631 @@
+{
+  "id": "1243018",
+  "teams": [
+    "Pakistan",
+    "South Africa"
+  ],
+  "date": "2021-02-04",
+  "format": "Test",
+  "competition": "South Africa tour of Pakistan",
+  "venue": "Rawalpindi Cricket Stadium",
+  "result": "Pakistan won by 95 runs",
+  "winner": "Pakistan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 272,
+      "extras": 9,
+      "balls": 692,
+      "batting": [
+        {
+          "player": "Imran Butt",
+          "runs": 15,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "Abid Ali",
+          "runs": 6,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 13.95,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 77,
+          "balls": 127,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 60.63,
+          "out": true
+        },
+        {
+          "player": "Fawad Alam",
+          "runs": 45,
+          "balls": 155,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 29.03,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 18,
+          "balls": 68,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 26.47,
+          "out": true
+        },
+        {
+          "player": "Faheem Ashraf",
+          "runs": 78,
+          "balls": 160,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 48.75,
+          "out": false
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 8,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.59,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 8,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.63,
+          "out": true
+        },
+        {
+          "player": "Nauman Ali",
+          "runs": 8,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 72,
+          "wickets": 0,
+          "economy": 3.43
+        },
+        {
+          "player": "A Nortje",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 56,
+          "wickets": 5,
+          "economy": 2.24
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "45.0",
+          "balls": 270,
+          "runs": 92,
+          "wickets": 3,
+          "economy": 2.04
+        },
+        {
+          "player": "GF Linde",
+          "overs": "5.5",
+          "balls": 35,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 0.69
+        },
+        {
+          "player": "D Elgar",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 5.14
+        },
+        {
+          "player": "PWA Mulder",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 2.42
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 201,
+      "extras": 9,
+      "balls": 403,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 15,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 32,
+          "balls": 60,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 17,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 51.52,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 44,
+          "balls": 138,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 31.88,
+          "out": false
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 29,
+          "balls": 20,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 145.0,
+          "out": true
+        },
+        {
+          "player": "PWA Mulder",
+          "runs": 33,
+          "balls": 83,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 39.76,
+          "out": true
+        },
+        {
+          "player": "GF Linde",
+          "runs": 21,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 1,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Nortje",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 2.74
+        },
+        {
+          "player": "Hasan Ali",
+          "overs": "16.4",
+          "balls": 100,
+          "runs": 54,
+          "wickets": 5,
+          "economy": 3.24
+        },
+        {
+          "player": "Faheem Ashraf",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 2.5
+        },
+        {
+          "player": "Nauman Ali",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 2.12
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 54,
+          "wickets": 0,
+          "economy": 4.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Pakistan",
+      "runs": 298,
+      "extras": 11,
+      "balls": 614,
+      "batting": [
+        {
+          "player": "Imran Butt",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Abid Ali",
+          "runs": 13,
+          "balls": 53,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 24.53,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 33,
+          "balls": 82,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 40.24,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 8,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true
+        },
+        {
+          "player": "Fawad Alam",
+          "runs": 12,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 115,
+          "balls": 204,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 56.37,
+          "out": false
+        },
+        {
+          "player": "Faheem Ashraf",
+          "runs": 29,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 59.18,
+          "out": true
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 5,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.78,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 23,
+          "balls": 57,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 40.35,
+          "out": true
+        },
+        {
+          "player": "Nauman Ali",
+          "runs": 45,
+          "balls": 78,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 57.69,
+          "out": true
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 2.43
+        },
+        {
+          "player": "A Nortje",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 57,
+          "wickets": 0,
+          "economy": 3.35
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "38.0",
+          "balls": 228,
+          "runs": 119,
+          "wickets": 3,
+          "economy": 3.13
+        },
+        {
+          "player": "PWA Mulder",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 2.18
+        },
+        {
+          "player": "GF Linde",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 72,
+          "wickets": 5,
+          "economy": 2.77
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "South Africa",
+      "runs": 274,
+      "extras": 9,
+      "balls": 557,
+      "batting": [
+        {
+          "player": "AK Markram",
+          "runs": 108,
+          "balls": 243,
+          "fours": 13,
+          "sixes": 3,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 17,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 70.83,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 48,
+          "balls": 97,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 49.48,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 5,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 61,
+          "balls": 125,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 48.8,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "PWA Mulder",
+          "runs": 20,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "GF Linde",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Nortje",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "21.4",
+          "balls": 130,
+          "runs": 51,
+          "wickets": 4,
+          "economy": 2.35
+        },
+        {
+          "player": "Hasan Ali",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 61,
+          "wickets": 5,
+          "economy": 3.7
+        },
+        {
+          "player": "Nauman Ali",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 64,
+          "wickets": 0,
+          "economy": 3.2
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "23.4",
+          "balls": 142,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 2.37
+        },
+        {
+          "player": "Faheem Ashraf",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 3.7
+        },
+        {
+          "player": "Fawad Alam",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

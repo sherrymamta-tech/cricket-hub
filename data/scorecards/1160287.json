@@ -1,0 +1,614 @@
+{
+  "id": "1160287",
+  "teams": [
+    "Northern Districts",
+    "Wellington Firebirds"
+  ],
+  "date": "2018-12-06",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Seddon Park",
+  "result": "Northern Districts won by 98 runs",
+  "winner": "Northern Districts",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northern Districts",
+      "runs": 251,
+      "extras": 8,
+      "balls": 355,
+      "batting": [
+        {
+          "player": "DR Flynn",
+          "runs": 15,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "HR Cooper",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "B Popli",
+          "runs": 31,
+          "balls": 44,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 70.45,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 7,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true
+        },
+        {
+          "player": "JF Carter",
+          "runs": 109,
+          "balls": 129,
+          "fours": 10,
+          "sixes": 5,
+          "strike_rate": 84.5,
+          "out": true
+        },
+        {
+          "player": "AP Devcich",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "runs": 21,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "PD Bocock",
+          "runs": 20,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 86.96,
+          "out": true
+        },
+        {
+          "player": "JG Walker",
+          "runs": 31,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 63.27,
+          "out": true
+        },
+        {
+          "player": "BG Randell",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JD Baker",
+          "runs": 7,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.43,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OR Newton",
+          "overs": "15.4",
+          "balls": 94,
+          "runs": 59,
+          "wickets": 4,
+          "economy": 3.77
+        },
+        {
+          "player": "IG McPeake",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 73,
+          "wickets": 2,
+          "economy": 5.47
+        },
+        {
+          "player": "BV Sears",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 3.53
+        },
+        {
+          "player": "JS Patel",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 3.43
+        },
+        {
+          "player": "MJ Nofal",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 7.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Wellington Firebirds",
+      "runs": 287,
+      "extras": 22,
+      "balls": 554,
+      "batting": [
+        {
+          "player": "AT Fletcher",
+          "runs": 5,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "LJ Woodcock",
+          "runs": 25,
+          "balls": 66,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 37.88,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 74,
+          "balls": 158,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 46.84,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 46,
+          "balls": 95,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 48.42,
+          "out": true
+        },
+        {
+          "player": "MJ Nofal",
+          "runs": 35,
+          "balls": 77,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "JJNP Bhula",
+          "runs": 2,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "LR Johns",
+          "runs": 25,
+          "balls": 50,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "OR Newton",
+          "runs": 8,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "JS Patel",
+          "runs": 34,
+          "balls": 25,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 136.0,
+          "out": true
+        },
+        {
+          "player": "IG McPeake",
+          "runs": 11,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 68.75,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SC Kuggeleijn",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 50,
+          "wickets": 2,
+          "economy": 2.24
+        },
+        {
+          "player": "JD Baker",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 71,
+          "wickets": 4,
+          "economy": 2.84
+        },
+        {
+          "player": "BG Randell",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 76,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "player": "JG Walker",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 85,
+          "wickets": 0,
+          "economy": 3.7
+        },
+        {
+          "player": "AP Devcich",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 1.67
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Northern Districts",
+      "runs": 276,
+      "extras": 16,
+      "balls": 517,
+      "batting": [
+        {
+          "player": "HR Cooper",
+          "runs": 48,
+          "balls": 103,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 46.6,
+          "out": true
+        },
+        {
+          "player": "DR Flynn",
+          "runs": 46,
+          "balls": 62,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 74.19,
+          "out": true
+        },
+        {
+          "player": "B Popli",
+          "runs": 24,
+          "balls": 54,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 36,
+          "balls": 87,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 41.38,
+          "out": true
+        },
+        {
+          "player": "JF Carter",
+          "runs": 10,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "AP Devcich",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "runs": 12,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 48.0,
+          "out": true
+        },
+        {
+          "player": "JG Walker",
+          "runs": 23,
+          "balls": 66,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 34.85,
+          "out": true
+        },
+        {
+          "player": "PD Bocock",
+          "runs": 56,
+          "balls": 72,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "BG Randell",
+          "runs": 5,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.78,
+          "out": true
+        },
+        {
+          "player": "JD Baker",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OR Newton",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 3.29
+        },
+        {
+          "player": "BV Sears",
+          "overs": "11.4",
+          "balls": 70,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 3.77
+        },
+        {
+          "player": "JS Patel",
+          "overs": "28.2",
+          "balls": 170,
+          "runs": 92,
+          "wickets": 4,
+          "economy": 3.25
+        },
+        {
+          "player": "IG McPeake",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 2.73
+        },
+        {
+          "player": "MJ Nofal",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 3.33
+        },
+        {
+          "player": "LJ Woodcock",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 2.57
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Wellington Firebirds",
+      "runs": 142,
+      "extras": 16,
+      "balls": 257,
+      "batting": [
+        {
+          "player": "LJ Woodcock",
+          "runs": 7,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "AT Fletcher",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 62,
+          "balls": 99,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 62.63,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 19,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 63.33,
+          "out": true
+        },
+        {
+          "player": "MJ Nofal",
+          "runs": 5,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "JJNP Bhula",
+          "runs": 18,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "LR Johns",
+          "runs": 6,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        },
+        {
+          "player": "OR Newton",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "JS Patel",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "IG McPeake",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": false
+        },
+        {
+          "player": "BV Sears",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SC Kuggeleijn",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 3.67
+        },
+        {
+          "player": "JD Baker",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "player": "JG Walker",
+          "overs": "11.4",
+          "balls": 70,
+          "runs": 29,
+          "wickets": 5,
+          "economy": 2.49
+        },
+        {
+          "player": "BG Randell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "AP Devcich",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 2.8
+        }
+      ]
+    }
+  ]
+}

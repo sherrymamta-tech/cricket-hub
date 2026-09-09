@@ -1,0 +1,233 @@
+{
+  "id": "1195617",
+  "teams": [
+    "Sydney Sixers",
+    "Melbourne Stars"
+  ],
+  "date": "2020-01-20",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Sydney Cricket Ground",
+  "result": "Sydney Sixers won by 21 runs",
+  "winner": "Sydney Sixers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Sixers",
+      "runs": 143,
+      "extras": 4,
+      "balls": 87,
+      "batting": [
+        {
+          "player": "JR Philippe",
+          "runs": 10,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "DP Hughes",
+          "runs": 14,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 93.33,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 41,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 178.26,
+          "out": false
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 72,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 8,
+          "strike_rate": 225.0,
+          "out": true
+        },
+        {
+          "player": "TK Curran",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Worrall",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 5.33
+        },
+        {
+          "player": "GJ Maxwell",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "player": "S Lamichhane",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 12.67
+        },
+        {
+          "player": "CD Hinchliffe",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "player": "J Merlo",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 10.5
+        },
+        {
+          "player": "LR Morris",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 15.2
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Stars",
+      "runs": 125,
+      "extras": 6,
+      "balls": 88,
+      "batting": [
+        {
+          "player": "MP Stoinis",
+          "runs": 62,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 158.97,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 21,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 210.0,
+          "out": true
+        },
+        {
+          "player": "NJ Maddinson",
+          "runs": 16,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 84.21,
+          "out": true
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 12,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 92.31,
+          "out": true
+        },
+        {
+          "player": "NCR Larkin",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SE Gotch",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "J Merlo",
+          "runs": 2,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Bird",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 13.38
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.26
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 6.32
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 10.0
+        },
+        {
+          "player": "TK Curran",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 7.26
+        }
+      ]
+    }
+  ]
+}

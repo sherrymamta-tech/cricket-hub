@@ -1,0 +1,620 @@
+{
+  "id": "1234926",
+  "teams": [
+    "Otago Volts",
+    "Central Stags"
+  ],
+  "date": "2021-03-26",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "University Oval, Dunedin",
+  "result": "Otago Volts won by 44 runs",
+  "winner": "Otago Volts",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Otago Volts",
+      "runs": 393,
+      "extras": 8,
+      "balls": 725,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 3,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 4,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "M Renwick",
+          "runs": 16,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 57,
+          "balls": 88,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 64.77,
+          "out": true
+        },
+        {
+          "player": "DN Phillips",
+          "runs": 149,
+          "balls": 259,
+          "fours": 22,
+          "sixes": 1,
+          "strike_rate": 57.53,
+          "out": true
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 79,
+          "balls": 162,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 48.77,
+          "out": true
+        },
+        {
+          "player": "MW Chu",
+          "runs": 53,
+          "balls": 83,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 63.86,
+          "out": true
+        },
+        {
+          "player": "AW McKenzie",
+          "runs": 15,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "MB Bacon",
+          "runs": 7,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "MD Rae",
+          "runs": 2,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "JD McKay",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DAJ Bracewell",
+          "overs": "29.1",
+          "balls": 175,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 2.16
+        },
+        {
+          "player": "BM Tickner",
+          "overs": "29.1",
+          "balls": 175,
+          "runs": 104,
+          "wickets": 2,
+          "economy": 3.57
+        },
+        {
+          "player": "RL Toole",
+          "overs": "23.3",
+          "balls": 141,
+          "runs": 77,
+          "wickets": 3,
+          "economy": 3.28
+        },
+        {
+          "player": "JA Clarkson",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 78,
+          "wickets": 1,
+          "economy": 7.8
+        },
+        {
+          "player": "JR Lennox",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 56,
+          "wickets": 2,
+          "economy": 2.33
+        },
+        {
+          "player": "BD Schmulian",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Central Stags",
+      "runs": 353,
+      "extras": 11,
+      "balls": 583,
+      "batting": [
+        {
+          "player": "GH Worker",
+          "runs": 13,
+          "balls": 40,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 32.5,
+          "out": true
+        },
+        {
+          "player": "GR Hay",
+          "runs": 5,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "BS Smith",
+          "runs": 14,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "BD Schmulian",
+          "runs": 127,
+          "balls": 214,
+          "fours": 15,
+          "sixes": 1,
+          "strike_rate": 59.35,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 49,
+          "balls": 58,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 84.48,
+          "out": true
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 99,
+          "balls": 169,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 58.58,
+          "out": true
+        },
+        {
+          "player": "DAJ Bracewell",
+          "runs": 29,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 96.67,
+          "out": false
+        },
+        {
+          "player": "JA Clarkson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BM Tickner",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JR Lennox",
+          "runs": 6,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MD Rae",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 63,
+          "wickets": 5,
+          "economy": 2.74
+        },
+        {
+          "player": "AW McKenzie",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 77,
+          "wickets": 3,
+          "economy": 3.67
+        },
+        {
+          "player": "MB Bacon",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 3.77
+        },
+        {
+          "player": "JD McKay",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 75,
+          "wickets": 0,
+          "economy": 5.29
+        },
+        {
+          "player": "AK Kitchen",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 3.07
+        },
+        {
+          "player": "MJG Rippon",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 3.91
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Otago Volts",
+      "runs": 292,
+      "extras": 9,
+      "balls": 425,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 111,
+          "balls": 129,
+          "fours": 14,
+          "sixes": 2,
+          "strike_rate": 86.05,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 15,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "M Renwick",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 74,
+          "balls": 142,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 52.11,
+          "out": true
+        },
+        {
+          "player": "DN Phillips",
+          "runs": 8,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 43,
+          "balls": 52,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 82.69,
+          "out": false
+        },
+        {
+          "player": "MW Chu",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AW McKenzie",
+          "runs": 8,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "MB Bacon",
+          "runs": 20,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DAJ Bracewell",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "BM Tickner",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 64,
+          "wickets": 3,
+          "economy": 3.17
+        },
+        {
+          "player": "RL Toole",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 88,
+          "wickets": 2,
+          "economy": 3.8
+        },
+        {
+          "player": "JR Lennox",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 4.7
+        },
+        {
+          "player": "JA Clarkson",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 5.37
+        },
+        {
+          "player": "BD Schmulian",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 5.67
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Central Stags",
+      "runs": 288,
+      "extras": 12,
+      "balls": 403,
+      "batting": [
+        {
+          "player": "GH Worker",
+          "runs": 21,
+          "balls": 62,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 33.87,
+          "out": true
+        },
+        {
+          "player": "GR Hay",
+          "runs": 58,
+          "balls": 112,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 51.79,
+          "out": true
+        },
+        {
+          "player": "BS Smith",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "BD Schmulian",
+          "runs": 64,
+          "balls": 83,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 77.11,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 81,
+          "balls": 78,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 103.85,
+          "out": false
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 10,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "JA Clarkson",
+          "runs": 22,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.0,
+          "out": true
+        },
+        {
+          "player": "DAJ Bracewell",
+          "runs": 16,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 160.0,
+          "out": true
+        },
+        {
+          "player": "BM Tickner",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JR Lennox",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "RL Toole",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AW McKenzie",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 2.86
+        },
+        {
+          "player": "MD Rae",
+          "overs": "14.3",
+          "balls": 87,
+          "runs": 77,
+          "wickets": 3,
+          "economy": 5.31
+        },
+        {
+          "player": "MB Bacon",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 68,
+          "wickets": 0,
+          "economy": 4.86
+        },
+        {
+          "player": "JD McKay",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 5.51
+        },
+        {
+          "player": "MJG Rippon",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 67,
+          "wickets": 6,
+          "economy": 4.06
+        },
+        {
+          "player": "AK Kitchen",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "1279995",
+  "teams": [
+    "Otago Volts",
+    "Northern Districts"
+  ],
+  "date": "2021-11-22",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Molyneux Park, Alexandra",
+  "result": "Northern Districts won by 74 runs",
+  "winner": "Northern Districts",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Otago Volts",
+      "runs": 342,
+      "extras": 21,
+      "balls": 721,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 37,
+          "balls": 59,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 62.71,
+          "out": true
+        },
+        {
+          "player": "M Renwick",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DN Phillips",
+          "runs": 7,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.88,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 57,
+          "balls": 78,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 73.08,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 8,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 32.0,
+          "out": true
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 7,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.93,
+          "out": true
+        },
+        {
+          "player": "MW Chu",
+          "runs": 103,
+          "balls": 248,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 41.53,
+          "out": false
+        },
+        {
+          "player": "T Muller",
+          "runs": 30,
+          "balls": 103,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 29.13,
+          "out": true
+        },
+        {
+          "player": "AW McKenzie",
+          "runs": 10,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "JM Gibson",
+          "runs": 50,
+          "balls": 97,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 51.55,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 12,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BG Randell",
+          "overs": "26.5",
+          "balls": 161,
+          "runs": 56,
+          "wickets": 5,
+          "economy": 2.09
+        },
+        {
+          "player": "ZN Gibson",
+          "overs": "29.2",
+          "balls": 176,
+          "runs": 109,
+          "wickets": 2,
+          "economy": 3.72
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 3.07
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "18.2",
+          "balls": 110,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 2.89
+        },
+        {
+          "player": "BR Hampton",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 3.25
+        },
+        {
+          "player": "JG Walker",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 2.11
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Northern Districts",
+      "runs": 553,
+      "extras": 37,
+      "balls": 913,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 89,
+          "balls": 159,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 55.97,
+          "out": true
+        },
+        {
+          "player": "HR Cooper",
+          "runs": 200,
+          "balls": 387,
+          "fours": 23,
+          "sixes": 4,
+          "strike_rate": 51.68,
+          "out": true
+        },
+        {
+          "player": "BG Randell",
+          "runs": 50,
+          "balls": 157,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 31.85,
+          "out": true
+        },
+        {
+          "player": "B Popli",
+          "runs": 86,
+          "balls": 119,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 72.27,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 21,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 105.0,
+          "out": true
+        },
+        {
+          "player": "JF Carter",
+          "runs": 20,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "PD Bocock",
+          "runs": 28,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 103.7,
+          "out": true
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "runs": 11,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 122.22,
+          "out": true
+        },
+        {
+          "player": "JG Walker",
+          "runs": 11,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Duffy",
+          "overs": "31.3",
+          "balls": 189,
+          "runs": 96,
+          "wickets": 1,
+          "economy": 3.05
+        },
+        {
+          "player": "T Muller",
+          "overs": "30.1",
+          "balls": 181,
+          "runs": 130,
+          "wickets": 2,
+          "economy": 4.31
+        },
+        {
+          "player": "AW McKenzie",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 1.96
+        },
+        {
+          "player": "JM Gibson",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 84,
+          "wickets": 0,
+          "economy": 4.38
+        },
+        {
+          "player": "MJG Rippon",
+          "overs": "37.2",
+          "balls": 224,
+          "runs": 146,
+          "wickets": 5,
+          "economy": 3.91
+        },
+        {
+          "player": "AK Kitchen",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 4.73
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Otago Volts",
+      "runs": 137,
+      "extras": 9,
+      "balls": 399,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "M Renwick",
+          "runs": 11,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.58,
+          "out": true
+        },
+        {
+          "player": "DN Phillips",
+          "runs": 68,
+          "balls": 180,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 37.78,
+          "out": false
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 16,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 4,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "MW Chu",
+          "runs": 10,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.03,
+          "out": true
+        },
+        {
+          "player": "T Muller",
+          "runs": 11,
+          "balls": 39,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.21,
+          "out": true
+        },
+        {
+          "player": "AW McKenzie",
+          "runs": 4,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.81,
+          "out": true
+        },
+        {
+          "player": "JM Gibson",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BG Randell",
+          "overs": "17.3",
+          "balls": 105,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 2.29
+        },
+        {
+          "player": "ZN Gibson",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 33,
+          "wickets": 3,
+          "economy": 1.94
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "JG Walker",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 48,
+          "wickets": 4,
+          "economy": 1.78
+        },
+        {
+          "player": "JA Raval",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

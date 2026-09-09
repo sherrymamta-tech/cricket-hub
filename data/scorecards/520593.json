@@ -1,0 +1,294 @@
+{
+  "id": "520593",
+  "teams": [
+    "New Zealand",
+    "Zimbabwe"
+  ],
+  "date": "2012-02-06",
+  "format": "ODI",
+  "competition": "Zimbabwe in New Zealand ODI Series",
+  "venue": "Cobham Oval (New)",
+  "result": "New Zealand won by 141 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 372,
+      "extras": 9,
+      "balls": 307,
+      "batting": [
+        {
+          "player": "RJ Nicol",
+          "runs": 146,
+          "balls": 139,
+          "fours": 10,
+          "sixes": 6,
+          "strike_rate": 105.04,
+          "out": true
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 77,
+          "balls": 80,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 96.25,
+          "out": true
+        },
+        {
+          "player": "JDP Oram",
+          "runs": 59,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 203.45,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 20,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 105.26,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 48,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 171.43,
+          "out": true
+        },
+        {
+          "player": "DG Brownlie",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "AM Ellis",
+          "runs": 7,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 350.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SW Masakadza",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 68,
+          "wickets": 1,
+          "economy": 8.16
+        },
+        {
+          "player": "KM Jarvis",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 73,
+          "wickets": 0,
+          "economy": 8.11
+        },
+        {
+          "player": "P Utseya",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 71,
+          "wickets": 3,
+          "economy": 7.1
+        },
+        {
+          "player": "E Chigumbura",
+          "overs": "8.4",
+          "balls": 52,
+          "runs": 56,
+          "wickets": 0,
+          "economy": 6.46
+        },
+        {
+          "player": "RW Price",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 6.59
+        },
+        {
+          "player": "H Masakadza",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 7.4
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Zimbabwe",
+      "runs": 231,
+      "extras": 12,
+      "balls": 308,
+      "batting": [
+        {
+          "player": "H Masakadza",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "S Matsikenyeri",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 11,
+          "balls": 34,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 32.35,
+          "out": true
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "T Taibu",
+          "runs": 50,
+          "balls": 78,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 64.1,
+          "out": true
+        },
+        {
+          "player": "MN Waller",
+          "runs": 18,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "E Chigumbura",
+          "runs": 63,
+          "balls": 71,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 88.73,
+          "out": true
+        },
+        {
+          "player": "P Utseya",
+          "runs": 27,
+          "balls": 43,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 62.79,
+          "out": false
+        },
+        {
+          "player": "SW Masakadza",
+          "runs": 38,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 115.15,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KD Mills",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 3.62
+        },
+        {
+          "player": "TG Southee",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 4.78
+        },
+        {
+          "player": "JDP Oram",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 2.9
+        },
+        {
+          "player": "TS Nethula",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 55,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "player": "RJ Nicol",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 6.25
+        },
+        {
+          "player": "AM Ellis",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 4.69
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 5.33
+        }
+      ]
+    }
+  ]
+}

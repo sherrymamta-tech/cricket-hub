@@ -1,0 +1,297 @@
+{
+  "id": "722339",
+  "teams": [
+    "South Africa",
+    "West Indies"
+  ],
+  "date": "2015-01-16",
+  "format": "ODI",
+  "competition": "West Indies in South Africa ODI Series",
+  "venue": "Kingsmead",
+  "result": "South Africa won by 61 runs",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 279,
+      "extras": 26,
+      "balls": 299,
+      "batting": [
+        {
+          "player": "HM Amla",
+          "runs": 66,
+          "balls": 69,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 95.65,
+          "out": true
+        },
+        {
+          "player": "RR Rossouw",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 81,
+          "balls": 96,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 84.38,
+          "out": true
+        },
+        {
+          "player": "DA Miller",
+          "runs": 70,
+          "balls": 70,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 12,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "F Behardien",
+          "runs": 12,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "VD Philander",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "DW Steyn",
+          "runs": 6,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": false
+        },
+        {
+          "player": "M Morkel",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JE Taylor",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 5.46
+        },
+        {
+          "player": "JO Holder",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 5.89
+        },
+        {
+          "player": "AD Russell",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 56,
+          "wickets": 2,
+          "economy": 5.42
+        },
+        {
+          "player": "DJG Sammy",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 56,
+          "wickets": 0,
+          "economy": 5.51
+        },
+        {
+          "player": "SJ Benn",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 5.71
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "runs": 164,
+      "extras": 7,
+      "balls": 174,
+      "batting": [
+        {
+          "player": "DR Smith",
+          "runs": 29,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 74.36,
+          "out": true
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 41,
+          "balls": 24,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 170.83,
+          "out": true
+        },
+        {
+          "player": "LR Johnson",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 12,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 70.59,
+          "out": true
+        },
+        {
+          "player": "D Ramdin",
+          "runs": 31,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 96.88,
+          "out": true
+        },
+        {
+          "player": "JL Carter",
+          "runs": 17,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 62.96,
+          "out": true
+        },
+        {
+          "player": "DJG Sammy",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "AD Russell",
+          "runs": 19,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 237.5,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JE Taylor",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "VD Philander",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 7.33
+        },
+        {
+          "player": "M Morkel",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 7.16
+        },
+        {
+          "player": "DW Steyn",
+          "overs": "5.3",
+          "balls": 33,
+          "runs": 27,
+          "wickets": 3,
+          "economy": 4.91
+        },
+        {
+          "player": "JP Duminy",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 4.22
+        },
+        {
+          "player": "Imran Tahir",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 4.86
+        }
+      ]
+    }
+  ]
+}

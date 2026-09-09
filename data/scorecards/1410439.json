@@ -1,0 +1,277 @@
+{
+  "id": "1410439",
+  "teams": [
+    "Nottinghamshire",
+    "Derbyshire"
+  ],
+  "date": "2024-06-21",
+  "format": "T20",
+  "competition": "Vitality Blast",
+  "venue": "Trent Bridge, Nottingham",
+  "result": "Nottinghamshire won by 8 runs",
+  "winner": "Nottinghamshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Nottinghamshire",
+      "runs": 173,
+      "extras": 6,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "BJR Martindale",
+          "runs": 16,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 47,
+          "balls": 29,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 162.07,
+          "out": true
+        },
+        {
+          "player": "AD Hales",
+          "runs": 26,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 113.04,
+          "out": true
+        },
+        {
+          "player": "JA Haynes",
+          "runs": 18,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 31,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 106.9,
+          "out": true
+        },
+        {
+          "player": "M Montgomery",
+          "runs": 28,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 200.0,
+          "out": false
+        },
+        {
+          "player": "LW James",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AT Thomson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 8.25
+        },
+        {
+          "player": "DM Dupavillon",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 9.3
+        },
+        {
+          "player": "ZJ Chappell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "player": "PR Brown",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 9.6
+        },
+        {
+          "player": "SR Patel",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 6.5
+        },
+        {
+          "player": "RA Whiteley",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Derbyshire",
+      "runs": 165,
+      "extras": 7,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "DL Lloyd",
+          "runs": 7,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "AHT Donald",
+          "runs": 52,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 5,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "CD Fletcher",
+          "runs": 29,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 120.83,
+          "out": true
+        },
+        {
+          "player": "ZJ Chappell",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WL Madsen",
+          "runs": 40,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "RA Whiteley",
+          "runs": 10,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "SR Patel",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BD Guest",
+          "runs": 7,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "AT Thomson",
+          "runs": 9,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 180.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BG Lister",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 6.25
+        },
+        {
+          "player": "M Montgomery",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "player": "OP Stone",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 9.75
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 10.25
+        },
+        {
+          "player": "CG Harrison",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 6.72
+        },
+        {
+          "player": "LW James",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 8.77
+        }
+      ]
+    }
+  ]
+}

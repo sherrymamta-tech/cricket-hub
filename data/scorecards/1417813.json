@@ -1,0 +1,296 @@
+{
+  "id": "1417813",
+  "teams": [
+    "Trent Rockets",
+    "Southern Brave"
+  ],
+  "date": "2024-08-10",
+  "format": "T20",
+  "competition": "The Hundred Men's Competition",
+  "venue": "The Rose Bowl, Southampton",
+  "result": "Southern Brave won by 2 wickets",
+  "winner": "Southern Brave",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Trent Rockets",
+      "runs": 126,
+      "extras": 3,
+      "balls": 103,
+      "batting": [
+        {
+          "player": "T Banton",
+          "runs": 30,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 176.47,
+          "out": true
+        },
+        {
+          "player": "A Lyth",
+          "runs": 16,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "AD Hales",
+          "runs": 15,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 115.38,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 16,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 123.08,
+          "out": true
+        },
+        {
+          "player": "R Powell",
+          "runs": 16,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 106.67,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 19,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 111.76,
+          "out": true
+        },
+        {
+          "player": "Rashid Khan",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "Imad Wasim",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "L Wood",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SJ Cook",
+          "runs": 4,
+          "balls": 1,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 400.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AJ Hosein",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 9.3
+        },
+        {
+          "player": "JC Archer",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 5.4
+        },
+        {
+          "player": "TS Mills",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 11.14
+        },
+        {
+          "player": "DR Briggs",
+          "overs": "3.4",
+          "balls": 22,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 4.36
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 22,
+          "wickets": 3,
+          "economy": 6.6
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Southern Brave",
+      "runs": 127,
+      "extras": 3,
+      "balls": 101,
+      "batting": [
+        {
+          "player": "AL Davies",
+          "runs": 28,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 28,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 107.69,
+          "out": true
+        },
+        {
+          "player": "ADS Fletcher",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "JL du Plooy",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "LJ Evans",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "KA Pollard",
+          "runs": 45,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 5,
+          "strike_rate": 195.65,
+          "out": true
+        },
+        {
+          "player": "AJ Hosein",
+          "runs": 5,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "CJ Jordan",
+          "runs": 8,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": false
+        },
+        {
+          "player": "JC Archer",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Wood",
+          "overs": "1.5",
+          "balls": 11,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.82
+        },
+        {
+          "player": "Imad Wasim",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 6.6
+        },
+        {
+          "player": "SJ Cook",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 4.29
+        },
+        {
+          "player": "Rashid Khan",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 12.0
+        },
+        {
+          "player": "JA Turner",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 24,
+          "wickets": 3,
+          "economy": 7.2
+        },
+        {
+          "player": "L Gregory",
+          "overs": "1.3",
+          "balls": 9,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 5.33
+        }
+      ]
+    }
+  ]
+}

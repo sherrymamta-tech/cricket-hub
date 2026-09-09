@@ -1,0 +1,320 @@
+{
+  "id": "1250251",
+  "teams": [
+    "Derbyshire",
+    "Leicestershire"
+  ],
+  "date": "2021-06-11",
+  "format": "T20",
+  "competition": "Vitality Blast",
+  "venue": "Grace Road, Leicester",
+  "result": "Derbyshire won by 23 runs",
+  "winner": "Derbyshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Derbyshire",
+      "runs": 209,
+      "extras": 13,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "LM Reece",
+          "runs": 51,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 175.86,
+          "out": true
+        },
+        {
+          "player": "HRC Came",
+          "runs": 10,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "BA Godleman",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JL du Plooy",
+          "runs": 8,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "MJJ Critchley",
+          "runs": 80,
+          "balls": 47,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 170.21,
+          "out": false
+        },
+        {
+          "player": "AL Hughes",
+          "runs": 38,
+          "balls": 22,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 172.73,
+          "out": true
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "runs": 7,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "BD Guest",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CF Parkinson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.75
+        },
+        {
+          "player": "CN Ackermann",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 11.33
+        },
+        {
+          "player": "Naveen-ul-Haq",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 3,
+          "economy": 6.75
+        },
+        {
+          "player": "GT Griffiths",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 14.7
+        },
+        {
+          "player": "AM Lilley",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 7.0
+        },
+        {
+          "player": "WS Davis",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 12.46
+        },
+        {
+          "player": "BWM Mike",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 13.29
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Leicestershire",
+      "runs": 186,
+      "extras": 14,
+      "balls": 118,
+      "batting": [
+        {
+          "player": "S Steel",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 24,
+          "balls": 15,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 160.0,
+          "out": true
+        },
+        {
+          "player": "AM Lilley",
+          "runs": 29,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 145.0,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 19,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 111.76,
+          "out": true
+        },
+        {
+          "player": "LJ Hill",
+          "runs": 17,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 113.33,
+          "out": true
+        },
+        {
+          "player": "RK Patel",
+          "runs": 35,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 184.21,
+          "out": true
+        },
+        {
+          "player": "BWM Mike",
+          "runs": 22,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 137.5,
+          "out": true
+        },
+        {
+          "player": "CF Parkinson",
+          "runs": 14,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        },
+        {
+          "player": "Naveen-ul-Haq",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WS Davis",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GT Griffiths",
+          "runs": 12,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 240.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LV van Beek",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 37,
+          "wickets": 3,
+          "economy": 8.54
+        },
+        {
+          "player": "AT Thomson",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 16.0
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 13.85
+        },
+        {
+          "player": "MA Cohen",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "AL Hughes",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 10.08
+        },
+        {
+          "player": "MJJ Critchley",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 7.75
+        },
+        {
+          "player": "LM Reece",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

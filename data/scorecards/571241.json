@@ -1,0 +1,198 @@
+{
+  "id": "571241",
+  "teams": [
+    "Brisbane Heat",
+    "Perth Scorchers"
+  ],
+  "date": "2012-12-18",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Brisbane Cricket Ground, Woolloongabba",
+  "result": "Perth Scorchers won by 9 wickets",
+  "winner": "Perth Scorchers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Brisbane Heat",
+      "runs": 109,
+      "extras": 3,
+      "balls": 80,
+      "batting": [
+        {
+          "player": "JR Hopes",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "LA Pomersbach",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JA Burns",
+          "runs": 10,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "DT Christian",
+          "runs": 37,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 119.35,
+          "out": false
+        },
+        {
+          "player": "CA Lynn",
+          "runs": 51,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 170.0,
+          "out": true
+        },
+        {
+          "player": "PJ Forrest",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AC Thomas",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "player": "MA Beer",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 4.5
+        },
+        {
+          "player": "NM Coulter-Nile",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 13.33
+        },
+        {
+          "player": "GB Hogg",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "HWR Cartwright",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 13.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Perth Scorchers",
+      "runs": 51,
+      "extras": 0,
+      "balls": 26,
+      "batting": [
+        {
+          "player": "SE Marsh",
+          "runs": 19,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 172.73,
+          "out": false
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 9,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "NM Coulter-Nile",
+          "runs": 23,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 383.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KAJ Roach",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "BCJ Cutting",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "JR Hopes",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "DT Christian",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 21.0
+        },
+        {
+          "player": "NLTC Perera",
+          "overs": "0.2",
+          "balls": 2,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 24.0
+        }
+      ]
+    }
+  ]
+}

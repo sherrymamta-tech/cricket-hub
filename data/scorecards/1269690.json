@@ -1,0 +1,268 @@
+{
+  "id": "1269690",
+  "teams": [
+    "Brisbane Heat",
+    "Perth Scorchers"
+  ],
+  "date": "2022-01-17",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Docklands Stadium, Melbourne",
+  "result": "Perth Scorchers won by 6 wickets",
+  "winner": "Perth Scorchers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Brisbane Heat",
+      "runs": 155,
+      "extras": 5,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "M Bryant",
+          "runs": 81,
+          "balls": 57,
+          "fours": 7,
+          "sixes": 4,
+          "strike_rate": 142.11,
+          "out": true
+        },
+        {
+          "player": "CA Lynn",
+          "runs": 7,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 6,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "SD Heazlett",
+          "runs": 10,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "NA McSweeney",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JJ Peirson",
+          "runs": 31,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 155.0,
+          "out": false
+        },
+        {
+          "player": "JJ Bazley",
+          "runs": 9,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 180.0,
+          "out": true
+        },
+        {
+          "player": "MG Neser",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MT Steketee",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JP Behrendorff",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 6.24
+        },
+        {
+          "player": "LR Morris",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 10.5
+        },
+        {
+          "player": "AC Agar",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "P Hatzoglou",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 4.5
+        },
+        {
+          "player": "MR Marsh",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 8.53
+        },
+        {
+          "player": "AJ Tye",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 12.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Perth Scorchers",
+      "runs": 156,
+      "extras": 5,
+      "balls": 115,
+      "batting": [
+        {
+          "player": "KR Patterson",
+          "runs": 26,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 130.0,
+          "out": true
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 18,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 59,
+          "balls": 35,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 168.57,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 24,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 82.76,
+          "out": true
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 18,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 128.57,
+          "out": false
+        },
+        {
+          "player": "AM Hardie",
+          "runs": 6,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 600.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Neser",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 6.95
+        },
+        {
+          "player": "MT Steketee",
+          "overs": "3.5",
+          "balls": 23,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 10.43
+        },
+        {
+          "player": "JJ Bazley",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 12.32
+        },
+        {
+          "player": "MJ Swepson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 4.75
+        },
+        {
+          "player": "MP Kuhnemann",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 7.25
+        },
+        {
+          "player": "NA McSweeney",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    }
+  ]
+}

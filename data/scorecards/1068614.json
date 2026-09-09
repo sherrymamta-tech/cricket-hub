@@ -1,0 +1,567 @@
+{
+  "id": "1068614",
+  "teams": [
+    "Glamorgan",
+    "Durham"
+  ],
+  "date": "2017-06-19",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Durham won by 9 wickets",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Glamorgan",
+      "runs": 295,
+      "extras": 15,
+      "balls": 695,
+      "batting": [
+        {
+          "player": "JA Rudolph",
+          "runs": 13,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.15,
+          "out": true
+        },
+        {
+          "player": "NJ Selman",
+          "runs": 103,
+          "balls": 252,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 40.87,
+          "out": true
+        },
+        {
+          "player": "AG Salter",
+          "runs": 25,
+          "balls": 94,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 26.6,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 33,
+          "balls": 93,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 35.48,
+          "out": true
+        },
+        {
+          "player": "AHT Donald",
+          "runs": 12,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 7,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.43,
+          "out": true
+        },
+        {
+          "player": "GG Wagg",
+          "runs": 33,
+          "balls": 94,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 35.11,
+          "out": false
+        },
+        {
+          "player": "TN Cullen",
+          "runs": 7,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true
+        },
+        {
+          "player": "M de Lange",
+          "runs": 37,
+          "balls": 50,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 74.0,
+          "out": true
+        },
+        {
+          "player": "LJ Carey",
+          "runs": 10,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 52.63,
+          "out": true
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 56,
+          "wickets": 5,
+          "economy": 2.24
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 84,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 2.74
+        },
+        {
+          "player": "BJ McCarthy",
+          "overs": "19.5",
+          "balls": 119,
+          "runs": 55,
+          "wickets": 3,
+          "economy": 2.77
+        },
+        {
+          "player": "RD Pringle",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 1.21
+        },
+        {
+          "player": "PD Collingwood",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 1.75
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Durham",
+      "runs": 402,
+      "extras": 30,
+      "balls": 666,
+      "batting": [
+        {
+          "player": "SC Cook",
+          "runs": 14,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "CT Steel",
+          "runs": 32,
+          "balls": 76,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "JTA Burnham",
+          "runs": 25,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 51.02,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 109,
+          "balls": 135,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 80.74,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 92,
+          "balls": 178,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 51.69,
+          "out": true
+        },
+        {
+          "player": "RD Pringle",
+          "runs": 28,
+          "balls": 60,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "P Coughlin",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SW Poynter",
+          "runs": 4,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BJ McCarthy",
+          "runs": 30,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 53.57,
+          "out": false
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 38,
+          "balls": 55,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 69.09,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M de Lange",
+          "overs": "31.1",
+          "balls": 187,
+          "runs": 104,
+          "wickets": 5,
+          "economy": 3.34
+        },
+        {
+          "player": "LJ Carey",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 85,
+          "wickets": 1,
+          "economy": 4.9
+        },
+        {
+          "player": "GG Wagg",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 77,
+          "wickets": 2,
+          "economy": 3.3
+        },
+        {
+          "player": "MG Hogan",
+          "overs": "28.1",
+          "balls": 169,
+          "runs": 77,
+          "wickets": 2,
+          "economy": 2.73
+        },
+        {
+          "player": "AG Salter",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 6.29
+        },
+        {
+          "player": "CA Ingram",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 3.75
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Glamorgan",
+      "runs": 263,
+      "extras": 17,
+      "balls": 570,
+      "batting": [
+        {
+          "player": "JA Rudolph",
+          "runs": 43,
+          "balls": 118,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 36.44,
+          "out": true
+        },
+        {
+          "player": "NJ Selman",
+          "runs": 16,
+          "balls": 63,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 25.4,
+          "out": true
+        },
+        {
+          "player": "AG Salter",
+          "runs": 26,
+          "balls": 87,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 29.89,
+          "out": true
+        },
+        {
+          "player": "LJ Carey",
+          "runs": 49,
+          "balls": 58,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 84.48,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 70,
+          "balls": 137,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 51.09,
+          "out": false
+        },
+        {
+          "player": "AHT Donald",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GG Wagg",
+          "runs": 5,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.74,
+          "out": true
+        },
+        {
+          "player": "TN Cullen",
+          "runs": 13,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.71,
+          "out": true
+        },
+        {
+          "player": "M de Lange",
+          "runs": 20,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 65,
+          "wickets": 3,
+          "economy": 2.83
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 50,
+          "wickets": 0,
+          "economy": 3.57
+        },
+        {
+          "player": "BJ McCarthy",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 71,
+          "wickets": 4,
+          "economy": 2.84
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 49,
+          "wickets": 3,
+          "economy": 2.45
+        },
+        {
+          "player": "PD Collingwood",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 1.33
+        },
+        {
+          "player": "RD Pringle",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 2.4
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Durham",
+      "runs": 158,
+      "extras": 4,
+      "balls": 147,
+      "batting": [
+        {
+          "player": "SC Cook",
+          "runs": 89,
+          "balls": 78,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 114.1,
+          "out": false
+        },
+        {
+          "player": "CT Steel",
+          "runs": 51,
+          "balls": 58,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 87.93,
+          "out": true
+        },
+        {
+          "player": "JTA Burnham",
+          "runs": 14,
+          "balls": 11,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 127.27,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M de Lange",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 4.44
+        },
+        {
+          "player": "LJ Carey",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 6.33
+        },
+        {
+          "player": "MG Hogan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.75
+        },
+        {
+          "player": "AG Salter",
+          "overs": "5.3",
+          "balls": 33,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 8.91
+        },
+        {
+          "player": "GG Wagg",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.67
+        }
+      ]
+    }
+  ]
+}

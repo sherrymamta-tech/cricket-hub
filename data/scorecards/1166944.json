@@ -1,0 +1,639 @@
+{
+  "id": "1166944",
+  "teams": [
+    "Yorkshire",
+    "Surrey"
+  ],
+  "date": "2019-06-30",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "North Marine Road Ground, Scarborough",
+  "result": "Yorkshire won by 123 runs",
+  "winner": "Yorkshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Yorkshire",
+      "runs": 327,
+      "extras": 26,
+      "balls": 485,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 55,
+          "balls": 76,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 72.37,
+          "out": true
+        },
+        {
+          "player": "WAR Fraine",
+          "runs": 106,
+          "balls": 149,
+          "fours": 19,
+          "sixes": 1,
+          "strike_rate": 71.14,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 23,
+          "balls": 56,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 41.07,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 0,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 19,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 59.38,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 11,
+          "balls": 43,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 25.58,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 46,
+          "balls": 55,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 83.64,
+          "out": true
+        },
+        {
+          "player": "BO Coad",
+          "runs": 25,
+          "balls": 20,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 11,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.74,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Morkel",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 78,
+          "wickets": 2,
+          "economy": 3.55
+        },
+        {
+          "player": "SM Curran",
+          "overs": "18.4",
+          "balls": 112,
+          "runs": 90,
+          "wickets": 2,
+          "economy": 4.82
+        },
+        {
+          "player": "R Clarke",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 3.43
+        },
+        {
+          "player": "J Clark",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 78,
+          "wickets": 5,
+          "economy": 4.37
+        },
+        {
+          "player": "GJ Batty",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 4.17
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Surrey",
+      "runs": 362,
+      "extras": 17,
+      "balls": 654,
+      "batting": [
+        {
+          "player": "MD Stoneman",
+          "runs": 100,
+          "balls": 167,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 59.88,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 24,
+          "balls": 59,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 40.68,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 24,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 77.42,
+          "out": true
+        },
+        {
+          "player": "RS Patel",
+          "runs": 26,
+          "balls": 86,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 30.23,
+          "out": true
+        },
+        {
+          "player": "BT Foakes",
+          "runs": 40,
+          "balls": 99,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.4,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 43,
+          "balls": 69,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 62.32,
+          "out": true
+        },
+        {
+          "player": "JL Smith",
+          "runs": 28,
+          "balls": 45,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 62.22,
+          "out": true
+        },
+        {
+          "player": "R Clarke",
+          "runs": 26,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 61.9,
+          "out": true
+        },
+        {
+          "player": "J Clark",
+          "runs": 25,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 60.98,
+          "out": true
+        },
+        {
+          "player": "M Morkel",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GJ Batty",
+          "runs": 9,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 60,
+          "wickets": 3,
+          "economy": 2.86
+        },
+        {
+          "player": "D Olivier",
+          "overs": "26.2",
+          "balls": 158,
+          "runs": 111,
+          "wickets": 2,
+          "economy": 4.22
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 58,
+          "wickets": 0,
+          "economy": 2.52
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "23.4",
+          "balls": 142,
+          "runs": 76,
+          "wickets": 3,
+          "economy": 3.21
+        },
+        {
+          "player": "DJ Willey",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 3.93
+        },
+        {
+          "player": "JA Leaning",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Yorkshire",
+      "runs": 352,
+      "extras": 24,
+      "balls": 641,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 68,
+          "balls": 171,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 39.77,
+          "out": true
+        },
+        {
+          "player": "WAR Fraine",
+          "runs": 43,
+          "balls": 70,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 61.43,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 23,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.33,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 42,
+          "balls": 81,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 51.85,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 38,
+          "balls": 108,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 35.19,
+          "out": true
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 43,
+          "balls": 35,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 122.86,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 10,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "BO Coad",
+          "runs": 48,
+          "balls": 42,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 11,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.73,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Morkel",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 75,
+          "wickets": 2,
+          "economy": 3.54
+        },
+        {
+          "player": "SM Curran",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 91,
+          "wickets": 3,
+          "economy": 3.5
+        },
+        {
+          "player": "J Clark",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 7.33
+        },
+        {
+          "player": "R Clarke",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 2.73
+        },
+        {
+          "player": "GJ Batty",
+          "overs": "32.1",
+          "balls": 193,
+          "runs": 88,
+          "wickets": 2,
+          "economy": 2.74
+        },
+        {
+          "player": "RS Patel",
+          "overs": "11.2",
+          "balls": 68,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 3.53
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Surrey",
+      "runs": 194,
+      "extras": 15,
+      "balls": 488,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 71,
+          "balls": 154,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 46.1,
+          "out": true
+        },
+        {
+          "player": "MD Stoneman",
+          "runs": 46,
+          "balls": 79,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 58.23,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 24,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 77.42,
+          "out": true
+        },
+        {
+          "player": "RS Patel",
+          "runs": 9,
+          "balls": 42,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        },
+        {
+          "player": "BT Foakes",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JL Smith",
+          "runs": 24,
+          "balls": 93,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.81,
+          "out": false
+        },
+        {
+          "player": "R Clarke",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "J Clark",
+          "runs": 1,
+          "balls": 58,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 1.72,
+          "out": true
+        },
+        {
+          "player": "M Morkel",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "GJ Batty",
+          "runs": 4,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 16.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 2.14
+        },
+        {
+          "player": "D Olivier",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 2.7
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "33.0",
+          "balls": 198,
+          "runs": 73,
+          "wickets": 3,
+          "economy": 2.21
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 2.91
+        },
+        {
+          "player": "DJ Willey",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 2.67
+        },
+        {
+          "player": "JA Leaning",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 1.75
+        }
+      ]
+    }
+  ]
+}

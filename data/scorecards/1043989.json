@@ -1,0 +1,260 @@
+{
+  "id": "1043989",
+  "teams": [
+    "Australia",
+    "New Zealand"
+  ],
+  "date": "2017-02-17",
+  "format": "T20",
+  "competition": "New Zealand Women in Australia T20I Series",
+  "venue": "Melbourne Cricket Ground",
+  "result": "Australia won by 40 runs",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 151,
+      "extras": 9,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "MM Lanning",
+          "runs": 60,
+          "balls": 53,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 113.21,
+          "out": true
+        },
+        {
+          "player": "BL Mooney",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "A Gardner",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "EJ Villani",
+          "runs": 73,
+          "balls": 47,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 155.32,
+          "out": false
+        },
+        {
+          "player": "AJ Blackwell",
+          "runs": 8,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LMM Tahuhu",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "HR Huddleston",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 6.46
+        },
+        {
+          "player": "EM Bermingham",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 8.33
+        },
+        {
+          "player": "SW Bates",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 6.25
+        },
+        {
+          "player": "AE Satterthwaite",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 10.5
+        },
+        {
+          "player": "LM Kasperek",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 10.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 111,
+      "extras": 12,
+      "balls": 121,
+      "batting": [
+        {
+          "player": "SW Bates",
+          "runs": 26,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 78.79,
+          "out": true
+        },
+        {
+          "player": "RH Priest",
+          "runs": 7,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "AM Peterson",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "AE Satterthwaite",
+          "runs": 40,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 105.26,
+          "out": false
+        },
+        {
+          "player": "KJ Martin",
+          "runs": 4,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "EM Bermingham",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "KT Perkins",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "EC Perry",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "HR Huddleston",
+          "runs": 5,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "LMM Tahuhu",
+          "runs": 10,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ML Schutt",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "player": "JL Jonassen",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.75
+        },
+        {
+          "player": "M Strano",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "KM Beams",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 6.72
+        },
+        {
+          "player": "A Wellington",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 3.75
+        }
+      ]
+    }
+  ]
+}

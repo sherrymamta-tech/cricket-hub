@@ -1,0 +1,110 @@
+{
+  "id": "1250186",
+  "teams": [
+    "Nottinghamshire",
+    "Somerset"
+  ],
+  "date": "2021-07-30",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "Welbeck Abbey Cricket Ground",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Nottinghamshire",
+      "runs": 92,
+      "extras": 4,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 42,
+          "balls": 57,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 73.68,
+          "out": false
+        },
+        {
+          "player": "SG Budinger",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "PD Trego",
+          "runs": 13,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 56.52,
+          "out": true
+        },
+        {
+          "player": "M Montgomery",
+          "runs": 31,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.89,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "S Baker",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 5.2
+        },
+        {
+          "player": "BGF Green",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "player": "Kasey Aldridge",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 6.63
+        },
+        {
+          "player": "LP Goldsworthy",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "GS Drissell",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "EO Leonard",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

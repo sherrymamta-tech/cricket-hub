@@ -1,0 +1,268 @@
+{
+  "id": "1152564",
+  "teams": [
+    "Adelaide Strikers",
+    "Perth Scorchers"
+  ],
+  "date": "2019-02-09",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Adelaide Oval",
+  "result": "Adelaide Strikers won by 5 wickets",
+  "winner": "Adelaide Strikers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Perth Scorchers",
+      "runs": 174,
+      "extras": 6,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "JP Inglis",
+          "runs": 55,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 148.65,
+          "out": true
+        },
+        {
+          "player": "NR Hobson",
+          "runs": 9,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "CT Bancroft",
+          "runs": 22,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 169.23,
+          "out": true
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 50,
+          "balls": 43,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 116.28,
+          "out": false
+        },
+        {
+          "player": "NM Coulter-Nile",
+          "runs": 25,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 312.5,
+          "out": true
+        },
+        {
+          "player": "SP Terry",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "CD Hinchliffe",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LN O'Connor",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 9.33
+        },
+        {
+          "player": "B Stanlake",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 8.33
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "Rashid Khan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.5
+        },
+        {
+          "player": "B Laughlin",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 6.69
+        },
+        {
+          "player": "C Valente",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 15.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Adelaide Strikers",
+      "runs": 175,
+      "extras": 9,
+      "balls": 120,
+      "batting": [
+        {
+          "player": "AT Carey",
+          "runs": 27,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 9,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 10,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JW Wells",
+          "runs": 69,
+          "balls": 43,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 160.47,
+          "out": true
+        },
+        {
+          "player": "HJ Nielsen",
+          "runs": 44,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 151.72,
+          "out": false
+        },
+        {
+          "player": "C Valente",
+          "runs": 5,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Rashid Khan",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JP Behrendorff",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 10.86
+        },
+        {
+          "player": "NM Coulter-Nile",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 7.5
+        },
+        {
+          "player": "M Kelly",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.23
+        },
+        {
+          "player": "AJ Tye",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 9.6
+        },
+        {
+          "player": "CD Hinchliffe",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "MR Marsh",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 13.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "id": "1347257",
+  "teams": [
+    "Nottinghamshire",
+    "Kent"
+  ],
+  "date": "2023-07-25",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Trent Bridge, Nottingham",
+  "result": "Nottinghamshire won by 321 runs",
+  "winner": "Nottinghamshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Nottinghamshire",
+      "runs": 350,
+      "extras": 7,
+      "balls": 644,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 100,
+          "balls": 155,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 64.52,
+          "out": true
+        },
+        {
+          "player": "H Hameed",
+          "runs": 18,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.13,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 21,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 22,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 55.0,
+          "out": true
+        },
+        {
+          "player": "SJ Mullaney",
+          "runs": 28,
+          "balls": 88,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 31.82,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 94,
+          "balls": 129,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 72.87,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 36,
+          "balls": 90,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "CG Harrison",
+          "runs": 8,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.1,
+          "out": true
+        },
+        {
+          "player": "BA Hutton",
+          "runs": 5,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.78,
+          "out": true
+        },
+        {
+          "player": "LJ Fletcher",
+          "runs": 11,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 64.71,
+          "out": false
+        },
+        {
+          "player": "D Paterson",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MR Quinn",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 52,
+          "wickets": 2,
+          "economy": 2.08
+        },
+        {
+          "player": "Arshdeep Singh",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 65,
+          "wickets": 1,
+          "economy": 2.81
+        },
+        {
+          "player": "Jaskaran Singh",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 88,
+          "wickets": 4,
+          "economy": 4.89
+        },
+        {
+          "player": "JDM Evison",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 70,
+          "wickets": 2,
+          "economy": 3.65
+        },
+        {
+          "player": "Arafat Bhuiyan",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 3.16
+        },
+        {
+          "player": "JA Leaning",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 316,
+      "extras": 18,
+      "balls": 625,
+      "batting": [
+        {
+          "player": "TE Albert",
+          "runs": 37,
+          "balls": 93,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 39.78,
+          "out": true
+        },
+        {
+          "player": "BG Compton",
+          "runs": 14,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 37.84,
+          "out": true
+        },
+        {
+          "player": "BBA Geddes",
+          "runs": 36,
+          "balls": 102,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 38,
+          "balls": 100,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 38.0,
+          "out": true
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 73,
+          "balls": 156,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 46.79,
+          "out": true
+        },
+        {
+          "player": "AJ Blake",
+          "runs": 30,
+          "balls": 35,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "JDM Evison",
+          "runs": 49,
+          "balls": 69,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 71.01,
+          "out": true
+        },
+        {
+          "player": "MR Quinn",
+          "runs": 9,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "Jaskaran Singh",
+          "runs": 7,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": false
+        },
+        {
+          "player": "Arshdeep Singh",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Arafat Bhuiyan",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Hutton",
+          "overs": "24.4",
+          "balls": 148,
+          "runs": 79,
+          "wickets": 3,
+          "economy": 3.2
+        },
+        {
+          "player": "LJ Fletcher",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 0.95
+        },
+        {
+          "player": "D Paterson",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 96,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "player": "LW James",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 2.77
+        },
+        {
+          "player": "SJ Mullaney",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 2.47
+        },
+        {
+          "player": "CG Harrison",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 29,
+          "wickets": 4,
+          "economy": 4.14
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Nottinghamshire",
+      "runs": 372,
+      "extras": 26,
+      "balls": 386,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 87,
+          "balls": 139,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 62.59,
+          "out": true
+        },
+        {
+          "player": "H Hameed",
+          "runs": 45,
+          "balls": 92,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 48.91,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 87,
+          "balls": 81,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 107.41,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 73,
+          "balls": 40,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 182.5,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 9,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SJ Mullaney",
+          "runs": 23,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 143.75,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 22,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 244.44,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Arshdeep Singh",
+          "overs": "13.4",
+          "balls": 82,
+          "runs": 92,
+          "wickets": 1,
+          "economy": 6.73
+        },
+        {
+          "player": "MR Quinn",
+          "overs": "14.3",
+          "balls": 87,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 3.79
+        },
+        {
+          "player": "JDM Evison",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 4.55
+        },
+        {
+          "player": "Jaskaran Singh",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 72,
+          "wickets": 2,
+          "economy": 5.92
+        },
+        {
+          "player": "Arafat Bhuiyan",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 8.4
+        },
+        {
+          "player": "JA Leaning",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 6.83
+        },
+        {
+          "player": "AJ Blake",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 10.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Kent",
+      "runs": 85,
+      "extras": 0,
+      "balls": 129,
+      "batting": [
+        {
+          "player": "BG Compton",
+          "runs": 8,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "TE Albert",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BBA Geddes",
+          "runs": 1,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.14,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 21,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 12,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "AJ Blake",
+          "runs": 19,
+          "balls": 15,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 126.67,
+          "out": true
+        },
+        {
+          "player": "JDM Evison",
+          "runs": 5,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "MR Quinn",
+          "runs": 12,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "Jaskaran Singh",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "Arshdeep Singh",
+          "runs": 7,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "Arafat Bhuiyan",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Hutton",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 44,
+          "wickets": 4,
+          "economy": 4.4
+        },
+        {
+          "player": "D Paterson",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 41,
+          "wickets": 5,
+          "economy": 4.1
+        },
+        {
+          "player": "CG Harrison",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        },
+        {
+          "player": "H Hameed",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 0,
+          "wickets": 1,
+          "economy": 0.0
+        }
+      ]
+    }
+  ]
+}

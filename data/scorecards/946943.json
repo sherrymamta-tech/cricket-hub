@@ -1,0 +1,603 @@
+{
+  "id": "946943",
+  "teams": [
+    "Somerset",
+    "Nottinghamshire"
+  ],
+  "date": "2016-09-20",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "County Ground, Taunton",
+  "result": "Somerset won by 325 runs",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Somerset",
+      "runs": 365,
+      "extras": 11,
+      "balls": 666,
+      "batting": [
+        {
+          "player": "ME Trescothick",
+          "runs": 25,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 67.57,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 8,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.62,
+          "out": true
+        },
+        {
+          "player": "CJL Rogers",
+          "runs": 132,
+          "balls": 204,
+          "fours": 18,
+          "sixes": 0,
+          "strike_rate": 64.71,
+          "out": true
+        },
+        {
+          "player": "JC Hildreth",
+          "runs": 135,
+          "balls": 234,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 57.69,
+          "out": true
+        },
+        {
+          "player": "PD Trego",
+          "runs": 9,
+          "balls": 39,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RC Davies",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 41,
+          "balls": 62,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 66.13,
+          "out": true
+        },
+        {
+          "player": "MJ Leach",
+          "runs": 2,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.14,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JT Ball",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 59,
+          "wickets": 6,
+          "economy": 2.27
+        },
+        {
+          "player": "BA Hutton",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 3.2
+        },
+        {
+          "player": "Imran Tahir",
+          "overs": "22.1",
+          "balls": 133,
+          "runs": 94,
+          "wickets": 2,
+          "economy": 4.24
+        },
+        {
+          "player": "M Carter",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 63,
+          "wickets": 0,
+          "economy": 3.71
+        },
+        {
+          "player": "SR Patel",
+          "overs": "20.5",
+          "balls": 125,
+          "runs": 62,
+          "wickets": 1,
+          "economy": 2.98
+        },
+        {
+          "player": "SJ Mullaney",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 4.6
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Nottinghamshire",
+      "runs": 138,
+      "extras": 6,
+      "balls": 390,
+      "batting": [
+        {
+          "player": "SJ Mullaney",
+          "runs": 5,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 42,
+          "balls": 151,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 27.81,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 10,
+          "balls": 75,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 13.33,
+          "out": true
+        },
+        {
+          "player": "MJ Lumb",
+          "runs": 29,
+          "balls": 60,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 48.33,
+          "out": true
+        },
+        {
+          "player": "SR Patel",
+          "runs": 12,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 10,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 27.03,
+          "out": true
+        },
+        {
+          "player": "CMW Read",
+          "runs": 4,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "BA Hutton",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "M Carter",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JT Ball",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Imran Tahir",
+          "runs": 16,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 266.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Overton",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 3.05
+        },
+        {
+          "player": "L Gregory",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 1.67
+        },
+        {
+          "player": "DM Bess",
+          "overs": "22.5",
+          "balls": 137,
+          "runs": 43,
+          "wickets": 5,
+          "economy": 1.88
+        },
+        {
+          "player": "MJ Leach",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 42,
+          "wickets": 3,
+          "economy": 2.0
+        },
+        {
+          "player": "RE van der Merwe",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 2.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Somerset",
+      "runs": 313,
+      "extras": 9,
+      "balls": 344,
+      "batting": [
+        {
+          "player": "ME Trescothick",
+          "runs": 39,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 79.59,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 10,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 43.48,
+          "out": true
+        },
+        {
+          "player": "CJL Rogers",
+          "runs": 100,
+          "balls": 139,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 71.94,
+          "out": false
+        },
+        {
+          "player": "RC Davies",
+          "runs": 59,
+          "balls": 61,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 96.72,
+          "out": true
+        },
+        {
+          "player": "PD Trego",
+          "runs": 55,
+          "balls": 36,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 152.78,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 21,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 20,
+          "balls": 12,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JT Ball",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 71,
+          "wickets": 0,
+          "economy": 5.01
+        },
+        {
+          "player": "BA Hutton",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 4.78
+        },
+        {
+          "player": "SR Patel",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 95,
+          "wickets": 3,
+          "economy": 6.33
+        },
+        {
+          "player": "M Carter",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 92,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "player": "Imran Tahir",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "player": "WT Root",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 2.5
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Nottinghamshire",
+      "runs": 215,
+      "extras": 11,
+      "balls": 381,
+      "batting": [
+        {
+          "player": "SJ Mullaney",
+          "runs": 18,
+          "balls": 51,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 26,
+          "balls": 58,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 44.83,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 4,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "MJ Lumb",
+          "runs": 31,
+          "balls": 45,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 68.89,
+          "out": true
+        },
+        {
+          "player": "SR Patel",
+          "runs": 37,
+          "balls": 72,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 51.39,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 66,
+          "balls": 71,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 92.96,
+          "out": false
+        },
+        {
+          "player": "CMW Read",
+          "runs": 0,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BA Hutton",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Carter",
+          "runs": 5,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": true
+        },
+        {
+          "player": "JT Ball",
+          "runs": 11,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "Imran Tahir",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Overton",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 3.34
+        },
+        {
+          "player": "L Gregory",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "PD Trego",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 0.5
+        },
+        {
+          "player": "DM Bess",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 3.4
+        },
+        {
+          "player": "MJ Leach",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 73,
+          "wickets": 4,
+          "economy": 3.42
+        },
+        {
+          "player": "RE van der Merwe",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 59,
+          "wickets": 3,
+          "economy": 3.28
+        }
+      ]
+    }
+  ]
+}

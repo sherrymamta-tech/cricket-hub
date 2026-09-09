@@ -1,0 +1,579 @@
+{
+  "id": "692801",
+  "teams": [
+    "Durham",
+    "Sussex"
+  ],
+  "date": "2014-06-22",
+  "format": "MDM",
+  "competition": "LV= County Championship",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Durham won by 309 runs",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 337,
+      "extras": 12,
+      "balls": 527,
+      "batting": [
+        {
+          "player": "MD Stoneman",
+          "runs": 113,
+          "balls": 152,
+          "fours": 16,
+          "sixes": 1,
+          "strike_rate": 74.34,
+          "out": true
+        },
+        {
+          "player": "KK Jennings",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 10,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MJ Richardson",
+          "runs": 5,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 36,
+          "balls": 75,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 48.0,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 7,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.93,
+          "out": true
+        },
+        {
+          "player": "GJ Muchall",
+          "runs": 19,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 76.0,
+          "out": true
+        },
+        {
+          "player": "P Mustard",
+          "runs": 25,
+          "balls": 70,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "JW Hastings",
+          "runs": 51,
+          "balls": 96,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 53.12,
+          "out": true
+        },
+        {
+          "player": "P Coughlin",
+          "runs": 22,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 95.65,
+          "out": false
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 32,
+          "balls": 18,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 177.78,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SJ Magoffin",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 2.92
+        },
+        {
+          "player": "LJ Hatchett",
+          "overs": "23.5",
+          "balls": 143,
+          "runs": 115,
+          "wickets": 5,
+          "economy": 4.83
+        },
+        {
+          "player": "J Lewis",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 67,
+          "wickets": 4,
+          "economy": 3.05
+        },
+        {
+          "player": "SA Piolet",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "JC Tredwell",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sussex",
+      "runs": 205,
+      "extras": 22,
+      "balls": 402,
+      "batting": [
+        {
+          "player": "CD Nash",
+          "runs": 36,
+          "balls": 72,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "LWP Wells",
+          "runs": 20,
+          "balls": 64,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 31.25,
+          "out": true
+        },
+        {
+          "player": "RJ Hamilton-Brown",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "EC Joyce",
+          "runs": 2,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "LJ Wright",
+          "runs": 66,
+          "balls": 97,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 68.04,
+          "out": false
+        },
+        {
+          "player": "BC Brown",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "SA Piolet",
+          "runs": 25,
+          "balls": 45,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "JC Tredwell",
+          "runs": 16,
+          "balls": 42,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.1,
+          "out": true
+        },
+        {
+          "player": "SJ Magoffin",
+          "runs": 5,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": true
+        },
+        {
+          "player": "J Lewis",
+          "runs": 4,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "LJ Hatchett",
+          "runs": 4,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 2.56
+        },
+        {
+          "player": "JW Hastings",
+          "overs": "18.4",
+          "balls": 112,
+          "runs": 52,
+          "wickets": 2,
+          "economy": 2.79
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 69,
+          "wickets": 7,
+          "economy": 3.83
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 3.2
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Durham",
+      "runs": 359,
+      "extras": 29,
+      "balls": 565,
+      "batting": [
+        {
+          "player": "MD Stoneman",
+          "runs": 22,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 88.0,
+          "out": true
+        },
+        {
+          "player": "KK Jennings",
+          "runs": 103,
+          "balls": 219,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 47.03,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 95,
+          "balls": 175,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 54.29,
+          "out": true
+        },
+        {
+          "player": "MJ Richardson",
+          "runs": 37,
+          "balls": 65,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.92,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 31,
+          "balls": 25,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 124.0,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "GJ Muchall",
+          "runs": 37,
+          "balls": 47,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 78.72,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SJ Magoffin",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 86,
+          "wickets": 1,
+          "economy": 3.44
+        },
+        {
+          "player": "LJ Hatchett",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 83,
+          "wickets": 1,
+          "economy": 4.12
+        },
+        {
+          "player": "J Lewis",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 3.17
+        },
+        {
+          "player": "JC Tredwell",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 79,
+          "wickets": 2,
+          "economy": 4.16
+        },
+        {
+          "player": "SA Piolet",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 3.94
+        },
+        {
+          "player": "RJ Hamilton-Brown",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "CD Nash",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Sussex",
+      "runs": 182,
+      "extras": 15,
+      "balls": 296,
+      "batting": [
+        {
+          "player": "LWP Wells",
+          "runs": 17,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 43.59,
+          "out": true
+        },
+        {
+          "player": "CD Nash",
+          "runs": 18,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RJ Hamilton-Brown",
+          "runs": 7,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.43,
+          "out": true
+        },
+        {
+          "player": "EC Joyce",
+          "runs": 23,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 71.88,
+          "out": true
+        },
+        {
+          "player": "LJ Wright",
+          "runs": 30,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "BC Brown",
+          "runs": 14,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "SA Piolet",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JC Tredwell",
+          "runs": 50,
+          "balls": 60,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false
+        },
+        {
+          "player": "SJ Magoffin",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "J Lewis",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "LJ Hatchett",
+          "runs": 4,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "10.5",
+          "balls": 65,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 3.42
+        },
+        {
+          "player": "JW Hastings",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 48,
+          "wickets": 4,
+          "economy": 2.82
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 63,
+          "wickets": 3,
+          "economy": 4.4
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 4.74
+        }
+      ]
+    }
+  ]
+}

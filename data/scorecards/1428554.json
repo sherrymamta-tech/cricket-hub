@@ -1,0 +1,552 @@
+{
+  "id": "1428554",
+  "teams": [
+    "New Zealand",
+    "England"
+  ],
+  "date": "2024-11-28",
+  "format": "Test",
+  "competition": "England tour of New Zealand",
+  "venue": "Hagley Oval, Christchurch",
+  "result": "England won by 8 wickets",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 348,
+      "extras": 42,
+      "balls": 564,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 47,
+          "balls": 55,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 85.45,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 93,
+          "balls": 200,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 46.5,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 34,
+          "balls": 50,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 68.0,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 19,
+          "balls": 48,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 39.58,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 17,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.12,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 58,
+          "balls": 88,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 65.91,
+          "out": false
+        },
+        {
+          "player": "NG Smith",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 18,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 15,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "W O'Rourke",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CR Woakes",
+          "overs": "20.3",
+          "balls": 123,
+          "runs": 76,
+          "wickets": 0,
+          "economy": 3.71
+        },
+        {
+          "player": "AAP Atkinson",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 62,
+          "wickets": 2,
+          "economy": 3.23
+        },
+        {
+          "player": "BA Carse",
+          "overs": "19.5",
+          "balls": 119,
+          "runs": 76,
+          "wickets": 4,
+          "economy": 3.83
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 4.44
+        },
+        {
+          "player": "Shoaib Bashir",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 69,
+          "wickets": 4,
+          "economy": 3.45
+        },
+        {
+          "player": "JG Bethell",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 499,
+      "extras": 28,
+      "balls": 626,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 0,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 46,
+          "balls": 62,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 74.19,
+          "out": true
+        },
+        {
+          "player": "JG Bethell",
+          "runs": 10,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 171,
+          "balls": 197,
+          "fours": 15,
+          "sixes": 3,
+          "strike_rate": 86.8,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 77,
+          "balls": 98,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 80,
+          "balls": 148,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 54.05,
+          "out": true
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "AAP Atkinson",
+          "runs": 48,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "BA Carse",
+          "runs": 33,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 137.5,
+          "out": false
+        },
+        {
+          "player": "Shoaib Bashir",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 85,
+          "wickets": 2,
+          "economy": 4.25
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 85,
+          "wickets": 4,
+          "economy": 3.67
+        },
+        {
+          "player": "NG Smith",
+          "overs": "26.5",
+          "balls": 161,
+          "runs": 149,
+          "wickets": 3,
+          "economy": 5.55
+        },
+        {
+          "player": "W O'Rourke",
+          "overs": "25.2",
+          "balls": 152,
+          "runs": 145,
+          "wickets": 1,
+          "economy": 5.72
+        },
+        {
+          "player": "GD Phillips",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 3.89
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New Zealand",
+      "runs": 254,
+      "extras": 18,
+      "balls": 462,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 8,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 61,
+          "balls": 88,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 69.32,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 24,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 84,
+          "balls": 169,
+          "fours": 12,
+          "sixes": 1,
+          "strike_rate": 49.7,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 19,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 59.38,
+          "out": true
+        },
+        {
+          "player": "NG Smith",
+          "runs": 21,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 12,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 92.31,
+          "out": true
+        },
+        {
+          "player": "W O'Rourke",
+          "runs": 5,
+          "balls": 40,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CR Woakes",
+          "overs": "19.3",
+          "balls": 117,
+          "runs": 59,
+          "wickets": 3,
+          "economy": 3.03
+        },
+        {
+          "player": "AAP Atkinson",
+          "overs": "18.4",
+          "balls": 112,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 3.05
+        },
+        {
+          "player": "BA Carse",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 43,
+          "wickets": 6,
+          "economy": 2.15
+        },
+        {
+          "player": "Shoaib Bashir",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 65,
+          "wickets": 0,
+          "economy": 5.42
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "6.5",
+          "balls": 41,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 4.39
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "England",
+      "runs": 104,
+      "extras": 3,
+      "balls": 79,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 27,
+          "balls": 18,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "JG Bethell",
+          "runs": 50,
+          "balls": 38,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 131.58,
+          "out": false
+        },
+        {
+          "player": "JE Root",
+          "runs": 23,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 153.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 3.79
+        },
+        {
+          "player": "NG Smith",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "player": "W O'Rourke",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 9.0
+        }
+      ]
+    }
+  ]
+}

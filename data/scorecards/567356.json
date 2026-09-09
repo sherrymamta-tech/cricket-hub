@@ -1,0 +1,431 @@
+{
+  "id": "567356",
+  "teams": [
+    "South Africa",
+    "New Zealand"
+  ],
+  "date": "2013-01-02",
+  "format": "Test",
+  "competition": "New Zealand in South Africa Test Series",
+  "venue": "Newlands",
+  "result": "South Africa won by 27 runs",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 45,
+      "extras": 7,
+      "balls": 117,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 7,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 13,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.42,
+          "out": true
+        },
+        {
+          "player": "DG Brownlie",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DR Flynn",
+          "runs": 8,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JEC Franklin",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "DAJ Bracewell",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "JS Patel",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "CS Martin",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DW Steyn",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 2.45
+        },
+        {
+          "player": "VD Philander",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 13,
+          "wickets": 5,
+          "economy": 2.17
+        },
+        {
+          "player": "M Morkel",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 14,
+          "wickets": 3,
+          "economy": 2.27
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 347,
+      "extras": 6,
+      "balls": 575,
+      "batting": [
+        {
+          "player": "GC Smith",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "AN Petersen",
+          "runs": 106,
+          "balls": 176,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 60.23,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 66,
+          "balls": 74,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 89.19,
+          "out": true
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 60,
+          "balls": 89,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 67.42,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 67,
+          "balls": 130,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 51.54,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 15,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.57,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 21,
+          "balls": 53,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.62,
+          "out": true
+        },
+        {
+          "player": "RJ Peterson",
+          "runs": 5,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "VD Philander",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 78,
+          "wickets": 3,
+          "economy": 3.69
+        },
+        {
+          "player": "DAJ Bracewell",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 93,
+          "wickets": 1,
+          "economy": 3.88
+        },
+        {
+          "player": "CS Martin",
+          "overs": "19.4",
+          "balls": 118,
+          "runs": 65,
+          "wickets": 3,
+          "economy": 3.31
+        },
+        {
+          "player": "JEC Franklin",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 3.57
+        },
+        {
+          "player": "JS Patel",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 3.59
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New Zealand",
+      "runs": 275,
+      "extras": 12,
+      "balls": 616,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 51,
+          "balls": 103,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 49.51,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 15,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.61,
+          "out": true
+        },
+        {
+          "player": "DG Brownlie",
+          "runs": 109,
+          "balls": 186,
+          "fours": 13,
+          "sixes": 2,
+          "strike_rate": 58.6,
+          "out": true
+        },
+        {
+          "player": "DR Flynn",
+          "runs": 14,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 37.84,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 42,
+          "balls": 153,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 27.45,
+          "out": true
+        },
+        {
+          "player": "JEC Franklin",
+          "runs": 22,
+          "balls": 59,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.29,
+          "out": true
+        },
+        {
+          "player": "DAJ Bracewell",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JS Patel",
+          "runs": 8,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": false
+        },
+        {
+          "player": "CS Martin",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DW Steyn",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 74,
+          "wickets": 3,
+          "economy": 2.47
+        },
+        {
+          "player": "VD Philander",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 77,
+          "wickets": 2,
+          "economy": 3.19
+        },
+        {
+          "player": "M Morkel",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 2.41
+        },
+        {
+          "player": "JH Kallis",
+          "overs": "11.2",
+          "balls": 68,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 2.74
+        },
+        {
+          "player": "RJ Peterson",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 2.62
+        }
+      ]
+    }
+  ]
+}

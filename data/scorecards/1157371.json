@@ -1,0 +1,614 @@
+{
+  "id": "1157371",
+  "teams": [
+    "Pakistan",
+    "Australia"
+  ],
+  "date": "2018-10-16",
+  "format": "Test",
+  "competition": "Australia tour of United Arab Emirates",
+  "venue": "Sheikh Zayed Stadium",
+  "result": "Pakistan won by 373 runs",
+  "winner": "Pakistan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 282,
+      "extras": 21,
+      "balls": 490,
+      "batting": [
+        {
+          "player": "Fakhar Zaman",
+          "runs": 94,
+          "balls": 198,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 47.47,
+          "out": true
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 15,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 31.25,
+          "out": true
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 94,
+          "balls": 129,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 72.87,
+          "out": true
+        },
+        {
+          "player": "Bilal Asif",
+          "runs": 12,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 28,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 82.35,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 10,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "Mir Hamza",
+          "runs": 4,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "12.2",
+          "balls": 74,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 3.65
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 3.84
+        },
+        {
+          "player": "MR Marsh",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 3.49
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 79,
+          "wickets": 4,
+          "economy": 2.93
+        },
+        {
+          "player": "JM Holland",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 3.54
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 48,
+          "wickets": 3,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 145,
+      "extras": 3,
+      "balls": 304,
+      "batting": [
+        {
+          "player": "UT Khawaja",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 39,
+          "balls": 83,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 46.99,
+          "out": true
+        },
+        {
+          "player": "PM Siddle",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "SE Marsh",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 14,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 13,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.14,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 25,
+          "balls": 49,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 51.02,
+          "out": true
+        },
+        {
+          "player": "TD Paine",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 34,
+          "balls": 45,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 75.56,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "JM Holland",
+          "runs": 2,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Abbas",
+          "overs": "12.4",
+          "balls": 76,
+          "runs": 33,
+          "wickets": 5,
+          "economy": 2.61
+        },
+        {
+          "player": "Mir Hamza",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 3.22
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 3.16
+        },
+        {
+          "player": "Bilal Asif",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 23,
+          "wickets": 3,
+          "economy": 2.3
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Pakistan",
+      "runs": 400,
+      "extras": 4,
+      "balls": 722,
+      "batting": [
+        {
+          "player": "Fakhar Zaman",
+          "runs": 66,
+          "balls": 83,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 79.52,
+          "out": true
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 6,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 64,
+          "balls": 141,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 45.39,
+          "out": true
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 17,
+          "balls": 63,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.98,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 44,
+          "balls": 90,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.89,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 99,
+          "balls": 171,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 57.89,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 81,
+          "balls": 123,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 65.85,
+          "out": true
+        },
+        {
+          "player": "Bilal Asif",
+          "runs": 15,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "Mir Hamza",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 4.47
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 68,
+          "wickets": 0,
+          "economy": 2.96
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "43.0",
+          "balls": 258,
+          "runs": 136,
+          "wickets": 4,
+          "economy": 3.16
+        },
+        {
+          "player": "JM Holland",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 2.88
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 74,
+          "wickets": 2,
+          "economy": 4.62
+        },
+        {
+          "player": "MR Marsh",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 3.04
+        },
+        {
+          "player": "TM Head",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Australia",
+      "runs": 164,
+      "extras": 5,
+      "balls": 298,
+      "batting": [
+        {
+          "player": "AJ Finch",
+          "runs": 31,
+          "balls": 61,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.82,
+          "out": true
+        },
+        {
+          "player": "SE Marsh",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 36,
+          "balls": 53,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 67.92,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 43,
+          "balls": 78,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 55.13,
+          "out": true
+        },
+        {
+          "player": "TD Paine",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 28,
+          "balls": 53,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 52.83,
+          "out": true
+        },
+        {
+          "player": "PM Siddle",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 6,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": false
+        },
+        {
+          "player": "JM Holland",
+          "runs": 3,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Abbas",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 63,
+          "wickets": 5,
+          "economy": 3.71
+        },
+        {
+          "player": "Mir Hamza",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 7.0
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "21.4",
+          "balls": 130,
+          "runs": 47,
+          "wickets": 3,
+          "economy": 2.17
+        },
+        {
+          "player": "Bilal Asif",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 2.4
+        }
+      ]
+    }
+  ]
+}

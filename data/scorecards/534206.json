@@ -1,0 +1,535 @@
+{
+  "id": "534206",
+  "teams": [
+    "England",
+    "West Indies"
+  ],
+  "date": "2012-05-25",
+  "format": "Test",
+  "competition": "The Wisden Trophy",
+  "venue": "Trent Bridge",
+  "result": "England won by 9 wickets",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "runs": 370,
+      "extras": 28,
+      "balls": 658,
+      "batting": [
+        {
+          "player": "AB Barath",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KOA Powell",
+          "runs": 33,
+          "balls": 49,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 67.35,
+          "out": true
+        },
+        {
+          "player": "KA Edwards",
+          "runs": 7,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 3,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 46,
+          "balls": 86,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 53.49,
+          "out": true
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 117,
+          "balls": 262,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 44.66,
+          "out": true
+        },
+        {
+          "player": "D Ramdin",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "DJG Sammy",
+          "runs": 106,
+          "balls": 156,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 67.95,
+          "out": true
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 7,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "S Shillingford",
+          "runs": 16,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.19,
+          "out": true
+        },
+        {
+          "player": "R Rampaul",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 83,
+          "wickets": 2,
+          "economy": 2.77
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 89,
+          "wickets": 2,
+          "economy": 3.28
+        },
+        {
+          "player": "TT Bresnan",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 112,
+          "wickets": 4,
+          "economy": 4.12
+        },
+        {
+          "player": "GP Swann",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 62,
+          "wickets": 2,
+          "economy": 3.05
+        },
+        {
+          "player": "IJL Trott",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.8
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 428,
+      "extras": 41,
+      "balls": 760,
+      "batting": [
+        {
+          "player": "AJ Strauss",
+          "runs": 141,
+          "balls": 305,
+          "fours": 22,
+          "sixes": 0,
+          "strike_rate": 46.23,
+          "out": true
+        },
+        {
+          "player": "AN Cook",
+          "runs": 24,
+          "balls": 59,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.68,
+          "out": true
+        },
+        {
+          "player": "IJL Trott",
+          "runs": 35,
+          "balls": 54,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 64.81,
+          "out": true
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 80,
+          "balls": 115,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 69.57,
+          "out": true
+        },
+        {
+          "player": "IR Bell",
+          "runs": 22,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 4,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": true
+        },
+        {
+          "player": "MJ Prior",
+          "runs": 16,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 39,
+          "balls": 93,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 41.94,
+          "out": false
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 25,
+          "balls": 47,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 53.19,
+          "out": true
+        },
+        {
+          "player": "GP Swann",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 0,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KAJ Roach",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 99,
+          "wickets": 2,
+          "economy": 3.67
+        },
+        {
+          "player": "R Rampaul",
+          "overs": "32.4",
+          "balls": 196,
+          "runs": 81,
+          "wickets": 3,
+          "economy": 2.48
+        },
+        {
+          "player": "DJG Sammy",
+          "overs": "34.2",
+          "balls": 206,
+          "runs": 124,
+          "wickets": 2,
+          "economy": 3.61
+        },
+        {
+          "player": "S Shillingford",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 110,
+          "wickets": 1,
+          "economy": 4.23
+        },
+        {
+          "player": "MN Samuels",
+          "overs": "6.4",
+          "balls": 40,
+          "runs": 14,
+          "wickets": 2,
+          "economy": 2.1
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "West Indies",
+      "runs": 165,
+      "extras": 3,
+      "balls": 361,
+      "batting": [
+        {
+          "player": "AB Barath",
+          "runs": 7,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true
+        },
+        {
+          "player": "KOA Powell",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 22,
+          "balls": 43,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 51.16,
+          "out": true
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 11,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 76,
+          "balls": 160,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 47.5,
+          "out": false
+        },
+        {
+          "player": "D Ramdin",
+          "runs": 6,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.09,
+          "out": true
+        },
+        {
+          "player": "KA Edwards",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DJG Sammy",
+          "runs": 25,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 51.02,
+          "out": true
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 14,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "S Shillingford",
+          "runs": 0,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "R Rampaul",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 43,
+          "wickets": 4,
+          "economy": 2.13
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 3.53
+        },
+        {
+          "player": "GP Swann",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "TT Bresnan",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 38,
+          "wickets": 4,
+          "economy": 2.24
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "England",
+      "runs": 111,
+      "extras": 6,
+      "balls": 185,
+      "batting": [
+        {
+          "player": "AJ Strauss",
+          "runs": 45,
+          "balls": 72,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "AN Cook",
+          "runs": 43,
+          "balls": 86,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "IJL Trott",
+          "runs": 17,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 62.96,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KAJ Roach",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 3.2
+        },
+        {
+          "player": "R Rampaul",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "DJG Sammy",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 5.33
+        },
+        {
+          "player": "MN Samuels",
+          "overs": "5.4",
+          "balls": 34,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 3.18
+        },
+        {
+          "player": "S Shillingford",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 4.04
+        }
+      ]
+    }
+  ]
+}

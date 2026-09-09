@@ -1,0 +1,285 @@
+{
+  "id": "571238",
+  "teams": [
+    "Sydney Thunder",
+    "Melbourne Renegades"
+  ],
+  "date": "2012-12-14",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Stadium Australia",
+  "result": "Melbourne Renegades won by 5 wickets",
+  "winner": "Melbourne Renegades",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Thunder",
+      "runs": 116,
+      "extras": 5,
+      "balls": 121,
+      "batting": [
+        {
+          "player": "UT Khawaja",
+          "runs": 19,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 73.08,
+          "out": true
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 12,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 92.31,
+          "out": true
+        },
+        {
+          "player": "MJ Cosgrove",
+          "runs": 12,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "CJL Rogers",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Azhar Mahmood",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "SA Abbott",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "CJ Borgas",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "RGL Carters",
+          "runs": 18,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 94.74,
+          "out": false
+        },
+        {
+          "player": "CP Tremain",
+          "runs": 37,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 154.17,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WD Sheridan",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "DJ Pattinson",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 4.74
+        },
+        {
+          "player": "NJ Rimmington",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "MN Samuels",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "M Muralitharan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 4.25
+        },
+        {
+          "player": "AW O'Brien",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 5.0
+        },
+        {
+          "player": "AJ Finch",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Renegades",
+      "runs": 117,
+      "extras": 15,
+      "balls": 118,
+      "batting": [
+        {
+          "player": "DJ Harris",
+          "runs": 8,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 31,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.57,
+          "out": true
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "BJ Rohrer",
+          "runs": 27,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 122.73,
+          "out": true
+        },
+        {
+          "player": "TLW Cooper",
+          "runs": 11,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 220.0,
+          "out": true
+        },
+        {
+          "player": "PM Nevill",
+          "runs": 9,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": false
+        },
+        {
+          "player": "WD Sheridan",
+          "runs": 12,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.59,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DP Nannes",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 4.67
+        },
+        {
+          "player": "CP Tremain",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 5.56
+        },
+        {
+          "player": "Azhar Mahmood",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 4.75
+        },
+        {
+          "player": "LA Doran",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 8.86
+        },
+        {
+          "player": "CH Gayle",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 7.71
+        }
+      ]
+    }
+  ]
+}

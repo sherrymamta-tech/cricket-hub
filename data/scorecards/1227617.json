@@ -1,0 +1,119 @@
+{
+  "id": "1227617",
+  "teams": [
+    "Essex",
+    "Hampshire"
+  ],
+  "date": "2020-08-22",
+  "format": "MDM",
+  "competition": "Bob Willis Trophy",
+  "venue": "Arundel Castle Cricket Club Ground",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Essex",
+      "runs": 249,
+      "extras": 14,
+      "balls": 469,
+      "batting": [
+        {
+          "player": "PI Walter",
+          "runs": 43,
+          "balls": 82,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 52.44,
+          "out": true
+        },
+        {
+          "player": "AN Cook",
+          "runs": 129,
+          "balls": 215,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": false
+        },
+        {
+          "player": "T Westley",
+          "runs": 18,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JA Porter",
+          "runs": 8,
+          "balls": 54,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.81,
+          "out": true
+        },
+        {
+          "player": "DW Lawrence",
+          "runs": 37,
+          "balls": 64,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 57.81,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BTJ Wheal",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 63,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "IG Holland",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 1.94
+        },
+        {
+          "player": "RA Stevenson",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 2.62
+        },
+        {
+          "player": "JK Fuller",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 65,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "MS Crane",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 2.56
+        },
+        {
+          "player": "FS Organ",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 2.5
+        }
+      ]
+    }
+  ]
+}

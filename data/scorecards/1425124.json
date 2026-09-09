@@ -1,0 +1,285 @@
+{
+  "id": "1425124",
+  "teams": [
+    "United States of America",
+    "Canada"
+  ],
+  "date": "2024-04-12",
+  "format": "T20",
+  "competition": "Canada tour of United States of America",
+  "venue": "Prairie View Cricket Complex",
+  "result": "United States of America won by 14 runs",
+  "winner": "United States of America",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "United States of America",
+      "runs": 159,
+      "extras": 9,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "SR Taylor",
+          "runs": 39,
+          "balls": 25,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 156.0,
+          "out": true
+        },
+        {
+          "player": "MD Patel",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Aaron Jones",
+          "runs": 15,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Milind Kumar",
+          "runs": 16,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 28,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 93.33,
+          "out": true
+        },
+        {
+          "player": "Jasdeep Singh",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "SC van Schalkwyk",
+          "runs": 15,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": false
+        },
+        {
+          "player": "Harmeet Singh",
+          "runs": 34,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RR Joshi",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 11.67
+        },
+        {
+          "player": "U Bhagwan",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 7.2
+        },
+        {
+          "player": "H Thaker",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 12.32
+        },
+        {
+          "player": "Saad Bin Zafar",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 6.63
+        },
+        {
+          "player": "D Heyliger",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.5
+        },
+        {
+          "player": "N Dutta",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 4.32
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Canada",
+      "runs": 145,
+      "extras": 12,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "A Johnson",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "DS Bajwa",
+          "runs": 52,
+          "balls": 42,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 123.81,
+          "out": true
+        },
+        {
+          "player": "Pargat Singh",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NR Kirton",
+          "runs": 28,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 84.85,
+          "out": true
+        },
+        {
+          "player": "H Thaker",
+          "runs": 11,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "S Movva",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Saad Bin Zafar",
+          "runs": 29,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 138.1,
+          "out": false
+        },
+        {
+          "player": "D Heyliger",
+          "runs": 12,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 240.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SN Netravalkar",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "NP Kenjige",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.67
+        },
+        {
+          "player": "Harmeet Singh",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 4,
+          "economy": 4.5
+        },
+        {
+          "player": "Jasdeep Singh",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 7.58
+        },
+        {
+          "player": "SR Taylor",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.75
+        },
+        {
+          "player": "NK Patel",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 8.14
+        },
+        {
+          "player": "SC van Schalkwyk",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 11.08
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "1278691",
+  "teams": [
+    "India",
+    "South Africa"
+  ],
+  "date": "2022-06-19",
+  "format": "T20",
+  "competition": "South Africa tour of India",
+  "venue": "M Chinnaswamy Stadium, Bangalore",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 28,
+      "extras": 2,
+      "balls": 22,
+      "batting": [
+        {
+          "player": "Ishan Kishan",
+          "runs": 15,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 187.5,
+          "out": true
+        },
+        {
+          "player": "RD Gaikwad",
+          "runs": 10,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "RR Pant",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KA Maharaj",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 16.0
+        },
+        {
+          "player": "L Ngidi",
+          "overs": "1.4",
+          "balls": 10,
+          "runs": 7,
+          "wickets": 2,
+          "economy": 4.2
+        },
+        {
+          "player": "K Rabada",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

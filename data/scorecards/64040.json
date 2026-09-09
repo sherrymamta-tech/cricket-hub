@@ -1,0 +1,607 @@
+{
+  "id": "64040",
+  "teams": [
+    "England",
+    "South Africa"
+  ],
+  "date": "2003-08-14",
+  "format": "Test",
+  "competition": "South Africa tour of England and Ireland",
+  "venue": "Trent Bridge, Nottingham",
+  "result": "England won by 70 runs",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 445,
+      "extras": 25,
+      "balls": 887,
+      "batting": [
+        {
+          "player": "ME Trescothick",
+          "runs": 24,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 58.54,
+          "out": true
+        },
+        {
+          "player": "MP Vaughan",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        },
+        {
+          "player": "MA Butcher",
+          "runs": 106,
+          "balls": 182,
+          "fours": 21,
+          "sixes": 0,
+          "strike_rate": 58.24,
+          "out": true
+        },
+        {
+          "player": "N Hussain",
+          "runs": 116,
+          "balls": 253,
+          "fours": 18,
+          "sixes": 0,
+          "strike_rate": 45.85,
+          "out": true
+        },
+        {
+          "player": "ET Smith",
+          "runs": 64,
+          "balls": 116,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 55.17,
+          "out": true
+        },
+        {
+          "player": "AJ Stewart",
+          "runs": 72,
+          "balls": 133,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 54.14,
+          "out": true
+        },
+        {
+          "player": "A Flintoff",
+          "runs": 0,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AF Giles",
+          "runs": 22,
+          "balls": 64,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 34.38,
+          "out": true
+        },
+        {
+          "player": "RJ Kirtley",
+          "runs": 1,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 3.45,
+          "out": true
+        },
+        {
+          "player": "SJ Harmison",
+          "runs": 14,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 45.16,
+          "out": true
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SM Pollock",
+          "overs": "36.5",
+          "balls": 221,
+          "runs": 65,
+          "wickets": 2,
+          "economy": 1.76
+        },
+        {
+          "player": "M Ntini",
+          "overs": "33.0",
+          "balls": 198,
+          "runs": 143,
+          "wickets": 2,
+          "economy": 4.33
+        },
+        {
+          "player": "AJ Hall",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 90,
+          "wickets": 3,
+          "economy": 3.72
+        },
+        {
+          "player": "JH Kallis",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 92,
+          "wickets": 1,
+          "economy": 3.39
+        },
+        {
+          "player": "PR Adams",
+          "overs": "26.4",
+          "balls": 160,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 2.06
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 362,
+      "extras": 34,
+      "balls": 729,
+      "batting": [
+        {
+          "player": "GC Smith",
+          "runs": 35,
+          "balls": 67,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 52.24,
+          "out": true
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 19,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 35.85,
+          "out": true
+        },
+        {
+          "player": "JA Rudolph",
+          "runs": 15,
+          "balls": 45,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 27,
+          "balls": 91,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 29.67,
+          "out": true
+        },
+        {
+          "player": "HH Dippenaar",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "ND McKenzie",
+          "runs": 90,
+          "balls": 169,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 53.25,
+          "out": true
+        },
+        {
+          "player": "MV Boucher",
+          "runs": 48,
+          "balls": 150,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 32.0,
+          "out": true
+        },
+        {
+          "player": "SM Pollock",
+          "runs": 62,
+          "balls": 84,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 73.81,
+          "out": true
+        },
+        {
+          "player": "AJ Hall",
+          "runs": 15,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "PR Adams",
+          "runs": 13,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.15,
+          "out": true
+        },
+        {
+          "player": "M Ntini",
+          "runs": 4,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "28.1",
+          "balls": 169,
+          "runs": 108,
+          "wickets": 5,
+          "economy": 3.83
+        },
+        {
+          "player": "RJ Kirtley",
+          "overs": "31.4",
+          "balls": 190,
+          "runs": 85,
+          "wickets": 2,
+          "economy": 2.68
+        },
+        {
+          "player": "A Flintoff",
+          "overs": "33.3",
+          "balls": 201,
+          "runs": 97,
+          "wickets": 2,
+          "economy": 2.9
+        },
+        {
+          "player": "SJ Harmison",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 2.8
+        },
+        {
+          "player": "AF Giles",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 2.4
+        },
+        {
+          "player": "MP Vaughan",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "England",
+      "runs": 118,
+      "extras": 12,
+      "balls": 283,
+      "batting": [
+        {
+          "player": "ME Trescothick",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MA Butcher",
+          "runs": 8,
+          "balls": 44,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "MP Vaughan",
+          "runs": 5,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.74,
+          "out": true
+        },
+        {
+          "player": "N Hussain",
+          "runs": 30,
+          "balls": 79,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.97,
+          "out": true
+        },
+        {
+          "player": "ET Smith",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AJ Stewart",
+          "runs": 5,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "A Flintoff",
+          "runs": 30,
+          "balls": 46,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 65.22,
+          "out": true
+        },
+        {
+          "player": "AF Giles",
+          "runs": 21,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "RJ Kirtley",
+          "runs": 3,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.0,
+          "out": true
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "SJ Harmison",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SM Pollock",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 40,
+          "wickets": 6,
+          "economy": 2.2
+        },
+        {
+          "player": "M Ntini",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 2.69
+        },
+        {
+          "player": "JH Kallis",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 3.6
+        },
+        {
+          "player": "AJ Hall",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 7,
+          "wickets": 2,
+          "economy": 1.17
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "South Africa",
+      "runs": 131,
+      "extras": 3,
+      "balls": 339,
+      "batting": [
+        {
+          "player": "GC Smith",
+          "runs": 5,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 15.62,
+          "out": true
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 28,
+          "balls": 45,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 62.22,
+          "out": true
+        },
+        {
+          "player": "JA Rudolph",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 13,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.15,
+          "out": true
+        },
+        {
+          "player": "HH Dippenaar",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "ND McKenzie",
+          "runs": 11,
+          "balls": 73,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.07,
+          "out": true
+        },
+        {
+          "player": "MV Boucher",
+          "runs": 52,
+          "balls": 91,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "SM Pollock",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AJ Hall",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "PR Adams",
+          "runs": 15,
+          "balls": 51,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": true
+        },
+        {
+          "player": "M Ntini",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RJ Kirtley",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 35,
+          "wickets": 6,
+          "economy": 2.14
+        },
+        {
+          "player": "A Flintoff",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 3.15
+        },
+        {
+          "player": "SJ Harmison",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 2.27
+        },
+        {
+          "player": "JM Anderson",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 1.42
+        }
+      ]
+    }
+  ]
+}

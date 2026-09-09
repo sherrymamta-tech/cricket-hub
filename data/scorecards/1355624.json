@@ -1,0 +1,322 @@
+{
+  "id": "1355624",
+  "teams": [
+    "Birmingham Phoenix",
+    "Oval Invincibles"
+  ],
+  "date": "2023-08-13",
+  "format": "T20",
+  "competition": "The Hundred Men's Competition",
+  "venue": "Edgbaston, Birmingham",
+  "result": "Birmingham Phoenix won by 41 runs",
+  "winner": "Birmingham Phoenix",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Birmingham Phoenix",
+      "runs": 160,
+      "extras": 6,
+      "balls": 104,
+      "batting": [
+        {
+          "player": "WCF Smeed",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 23,
+          "balls": 15,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 153.33,
+          "out": true
+        },
+        {
+          "player": "JL Smith",
+          "runs": 60,
+          "balls": 35,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 171.43,
+          "out": true
+        },
+        {
+          "player": "LS Livingstone",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "MM Ali",
+          "runs": 33,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 126.92,
+          "out": true
+        },
+        {
+          "player": "DR Mousley",
+          "runs": 15,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "CG Benjamin",
+          "runs": 7,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 350.0,
+          "out": true
+        },
+        {
+          "player": "BAC Howell",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AF Milne",
+          "runs": 6,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 600.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SH Johnson",
+          "overs": "3.5",
+          "balls": 23,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 8.61
+        },
+        {
+          "player": "SM Curran",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 11.4
+        },
+        {
+          "player": "ZJ Chappell",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 33,
+          "wickets": 4,
+          "economy": 12.38
+        },
+        {
+          "player": "NA Sowter",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 6.4
+        },
+        {
+          "player": "SP Narine",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 9.6
+        },
+        {
+          "player": "WG Jacks",
+          "overs": "1.4",
+          "balls": 10,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.8
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Oval Invincibles",
+      "runs": 119,
+      "extras": 8,
+      "balls": 104,
+      "batting": [
+        {
+          "player": "JJ Roy",
+          "runs": 17,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 113.33,
+          "out": true
+        },
+        {
+          "player": "WG Jacks",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JM Cox",
+          "runs": 5,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 11,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 14,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "RA Whiteley",
+          "runs": 35,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 112.9,
+          "out": true
+        },
+        {
+          "player": "SP Narine",
+          "runs": 20,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 181.82,
+          "out": true
+        },
+        {
+          "player": "ZJ Chappell",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NA Sowter",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "SH Johnson",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CR Woakes",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "AF Milne",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 5.4
+        },
+        {
+          "player": "KW Richardson",
+          "overs": "3.4",
+          "balls": 22,
+          "runs": 32,
+          "wickets": 4,
+          "economy": 8.73
+        },
+        {
+          "player": "BAC Howell",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 4.86
+        },
+        {
+          "player": "MM Ali",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 9.2
+        },
+        {
+          "player": "LS Livingstone",
+          "overs": "0.5",
+          "balls": 5,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 9.6
+        }
+      ]
+    }
+  ]
+}

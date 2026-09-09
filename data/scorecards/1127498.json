@@ -1,0 +1,102 @@
+{
+  "id": "1127498",
+  "teams": [
+    "Kent",
+    "Sussex"
+  ],
+  "date": "2018-07-27",
+  "format": "T20",
+  "competition": "Vitality Blast",
+  "venue": "St Lawrence Ground",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Kent",
+      "runs": 99,
+      "extras": 4,
+      "balls": 71,
+      "batting": [
+        {
+          "player": "JL Denly",
+          "runs": 52,
+          "balls": 38,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 136.84,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 22,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 137.5,
+          "out": true
+        },
+        {
+          "player": "HG Kuhn",
+          "runs": 18,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 138.46,
+          "out": false
+        },
+        {
+          "player": "SW Billings",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DR Briggs",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.32
+        },
+        {
+          "player": "TS Mills",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 10.62
+        },
+        {
+          "player": "JC Archer",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 13.38
+        },
+        {
+          "player": "Rashid Khan",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 6.43
+        }
+      ]
+    }
+  ]
+}

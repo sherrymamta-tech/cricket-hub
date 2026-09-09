@@ -1,0 +1,435 @@
+{
+  "id": "1153838",
+  "teams": [
+    "Sri Lanka",
+    "New Zealand"
+  ],
+  "date": "2018-12-15",
+  "format": "Test",
+  "competition": "Sri Lanka tour of New Zealand",
+  "venue": "Basin Reserve, Wellington",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "runs": 282,
+      "extras": 9,
+      "balls": 542,
+      "batting": [
+        {
+          "player": "MD Gunathilaka",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "FDM Karunaratne",
+          "runs": 79,
+          "balls": 144,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 54.86,
+          "out": true
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 83,
+          "balls": 153,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 54.25,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 6,
+          "balls": 34,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 17.65,
+          "out": true
+        },
+        {
+          "player": "N Dickwella",
+          "runs": 80,
+          "balls": 101,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 79.21,
+          "out": false
+        },
+        {
+          "player": "MDK Perera",
+          "runs": 16,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "RAS Lakmal",
+          "runs": 3,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "CAK Rajitha",
+          "runs": 2,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.25,
+          "out": true
+        },
+        {
+          "player": "CBRLS Kumara",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 83,
+          "wickets": 1,
+          "economy": 3.07
+        },
+        {
+          "player": "TG Southee",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 73,
+          "wickets": 6,
+          "economy": 2.7
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 2.73
+        },
+        {
+          "player": "N Wagner",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 76,
+          "wickets": 2,
+          "economy": 3.77
+        },
+        {
+          "player": "AY Patel",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 4.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 578,
+      "extras": 8,
+      "balls": 948,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 43,
+          "balls": 70,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 61.43,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 264,
+          "balls": 490,
+          "fours": 21,
+          "sixes": 1,
+          "strike_rate": 53.88,
+          "out": false
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 91,
+          "balls": 93,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 97.85,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 50,
+          "balls": 88,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 56.82,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 50,
+          "balls": 101,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 49.5,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 49,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 92.45,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 6,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AY Patel",
+          "runs": 6,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 11,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 183.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RAS Lakmal",
+          "overs": "31.1",
+          "balls": 187,
+          "runs": 88,
+          "wickets": 1,
+          "economy": 2.82
+        },
+        {
+          "player": "CAK Rajitha",
+          "overs": "34.2",
+          "balls": 206,
+          "runs": 147,
+          "wickets": 0,
+          "economy": 4.28
+        },
+        {
+          "player": "AD Mathews",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 0.25
+        },
+        {
+          "player": "MDK Perera",
+          "overs": "40.0",
+          "balls": 240,
+          "runs": 156,
+          "wickets": 2,
+          "economy": 3.9
+        },
+        {
+          "player": "CBRLS Kumara",
+          "overs": "31.3",
+          "balls": 189,
+          "runs": 129,
+          "wickets": 4,
+          "economy": 4.1
+        },
+        {
+          "player": "DM de Silva",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 54,
+          "wickets": 2,
+          "economy": 3.6
+        },
+        {
+          "player": "MD Gunathilaka",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 1.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Sri Lanka",
+      "runs": 287,
+      "extras": 13,
+      "balls": 697,
+      "batting": [
+        {
+          "player": "MD Gunathilaka",
+          "runs": 3,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 17.65,
+          "out": true
+        },
+        {
+          "player": "FDM Karunaratne",
+          "runs": 10,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 141,
+          "balls": 339,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 41.59,
+          "out": false
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 120,
+          "balls": 323,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 37.15,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 53,
+          "wickets": 2,
+          "economy": 2.12
+        },
+        {
+          "player": "TA Boult",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 62,
+          "wickets": 1,
+          "economy": 2.48
+        },
+        {
+          "player": "N Wagner",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 100,
+          "wickets": 0,
+          "economy": 4.17
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 1.9
+        },
+        {
+          "player": "AY Patel",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 1.64
+        },
+        {
+          "player": "JA Raval",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    }
+  ]
+}

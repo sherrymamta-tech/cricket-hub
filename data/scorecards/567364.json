@@ -1,0 +1,596 @@
+{
+  "id": "567364",
+  "teams": [
+    "South Africa",
+    "Pakistan"
+  ],
+  "date": "2013-02-14",
+  "format": "Test",
+  "competition": "Pakistan in South Africa Test Series",
+  "venue": "Newlands",
+  "result": "South Africa won by 4 wickets",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 338,
+      "extras": 8,
+      "balls": 701,
+      "batting": [
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 17,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 48.57,
+          "out": true
+        },
+        {
+          "player": "Nasir Jamshed",
+          "runs": 3,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.04,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 4,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 19.05,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 111,
+          "balls": 226,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 49.12,
+          "out": true
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 111,
+          "balls": 230,
+          "fours": 14,
+          "sixes": 1,
+          "strike_rate": 48.26,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 13,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.47,
+          "out": true
+        },
+        {
+          "player": "Tanvir Ahmed",
+          "runs": 44,
+          "balls": 59,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 74.58,
+          "out": true
+        },
+        {
+          "player": "Umar Gul",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Saeed Ajmal",
+          "runs": 21,
+          "balls": 65,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.31,
+          "out": false
+        },
+        {
+          "player": "Mohammad Irfan",
+          "runs": 6,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DW Steyn",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 2.2
+        },
+        {
+          "player": "VD Philander",
+          "overs": "26.2",
+          "balls": 158,
+          "runs": 59,
+          "wickets": 5,
+          "economy": 2.24
+        },
+        {
+          "player": "M Morkel",
+          "overs": "20.4",
+          "balls": 124,
+          "runs": 61,
+          "wickets": 2,
+          "economy": 2.95
+        },
+        {
+          "player": "JH Kallis",
+          "overs": "19.3",
+          "balls": 117,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 2.67
+        },
+        {
+          "player": "RJ Peterson",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 97,
+          "wickets": 2,
+          "economy": 4.16
+        },
+        {
+          "player": "D Elgar",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 326,
+      "extras": 27,
+      "balls": 620,
+      "batting": [
+        {
+          "player": "GC Smith",
+          "runs": 19,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "AN Petersen",
+          "runs": 17,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 31.48,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 25,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 28,
+          "balls": 83,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 33.73,
+          "out": true
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 2,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.53,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 61,
+          "balls": 113,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 53.98,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 23,
+          "balls": 83,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 27.71,
+          "out": true
+        },
+        {
+          "player": "RJ Peterson",
+          "runs": 84,
+          "balls": 106,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 79.25,
+          "out": true
+        },
+        {
+          "player": "VD Philander",
+          "runs": 22,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 51.16,
+          "out": true
+        },
+        {
+          "player": "DW Steyn",
+          "runs": 10,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "M Morkel",
+          "runs": 8,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Umar Gul",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 78,
+          "wickets": 0,
+          "economy": 3.9
+        },
+        {
+          "player": "Tanvir Ahmed",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 2.61
+        },
+        {
+          "player": "Mohammad Irfan",
+          "overs": "21.5",
+          "balls": 131,
+          "runs": 89,
+          "wickets": 3,
+          "economy": 4.08
+        },
+        {
+          "player": "Saeed Ajmal",
+          "overs": "42.0",
+          "balls": 252,
+          "runs": 106,
+          "wickets": 6,
+          "economy": 2.52
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 2.84
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Pakistan",
+      "runs": 169,
+      "extras": 6,
+      "balls": 457,
+      "batting": [
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 65,
+          "balls": 194,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 33.51,
+          "out": true
+        },
+        {
+          "player": "Nasir Jamshed",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 14,
+          "balls": 44,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 31.82,
+          "out": true
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 44,
+          "balls": 111,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 39.64,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 19,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 65.52,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "Umar Gul",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Saeed Ajmal",
+          "runs": 4,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "Tanvir Ahmed",
+          "runs": 10,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": false
+        },
+        {
+          "player": "Mohammad Irfan",
+          "runs": 2,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DW Steyn",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 38,
+          "wickets": 3,
+          "economy": 2.0
+        },
+        {
+          "player": "VD Philander",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 40,
+          "wickets": 4,
+          "economy": 2.11
+        },
+        {
+          "player": "M Morkel",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 2.53
+        },
+        {
+          "player": "RJ Peterson",
+          "overs": "29.1",
+          "balls": 175,
+          "runs": 75,
+          "wickets": 3,
+          "economy": 2.57
+        },
+        {
+          "player": "JH Kallis",
+          "overs": "5.5",
+          "balls": 35,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 1.37
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "South Africa",
+      "runs": 182,
+      "extras": 10,
+      "balls": 264,
+      "batting": [
+        {
+          "player": "AN Petersen",
+          "runs": 1,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.25,
+          "out": true
+        },
+        {
+          "player": "GC Smith",
+          "runs": 29,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 74.36,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 58,
+          "balls": 96,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 60.42,
+          "out": true
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 21,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 36,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 15,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 93.75,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 11,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.62,
+          "out": false
+        },
+        {
+          "player": "RJ Peterson",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Irfan",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 3.71
+        },
+        {
+          "player": "Umar Gul",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "player": "Saeed Ajmal",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 52,
+          "wickets": 4,
+          "economy": 2.86
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "player": "Tanvir Ahmed",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 6.38
+        }
+      ]
+    }
+  ]
+}

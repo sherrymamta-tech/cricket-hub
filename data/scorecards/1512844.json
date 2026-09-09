@@ -1,0 +1,331 @@
+{
+  "id": "1512844",
+  "teams": [
+    "Lancashire",
+    "Derbyshire"
+  ],
+  "date": "2026-07-01",
+  "format": "T20",
+  "competition": "Vitality Blast Men",
+  "venue": "County Ground, Derby",
+  "result": "Lancashire won by 4 runs",
+  "winner": "Lancashire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Lancashire",
+      "runs": 205,
+      "extras": 4,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "MA Jones",
+          "runs": 29,
+          "balls": 15,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 193.33,
+          "out": true
+        },
+        {
+          "player": "KK Jennings",
+          "runs": 9,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "LS Livingstone",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "MF Hurst",
+          "runs": 29,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 145.0,
+          "out": true
+        },
+        {
+          "player": "BR McDermott",
+          "runs": 68,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 6,
+          "strike_rate": 170.0,
+          "out": true
+        },
+        {
+          "player": "Shadab Khan",
+          "runs": 58,
+          "balls": 24,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 241.67,
+          "out": true
+        },
+        {
+          "player": "J Moores",
+          "runs": 5,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JM Blatherwick",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TW Hartley",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TH Aspinwall",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Montgomery",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "BW Aitchison",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 17.0
+        },
+        {
+          "player": "N Potts",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 29,
+          "wickets": 3,
+          "economy": 8.7
+        },
+        {
+          "player": "Akif Javed",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 37,
+          "wickets": 4,
+          "economy": 9.25
+        },
+        {
+          "player": "Sufiyan Muqeem",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 10.75
+        },
+        {
+          "player": "MK Andersson",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 15.23
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Derbyshire",
+      "runs": 201,
+      "extras": 11,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "AHT Donald",
+          "runs": 88,
+          "balls": 39,
+          "fours": 9,
+          "sixes": 6,
+          "strike_rate": 225.64,
+          "out": true
+        },
+        {
+          "player": "MK Andersson",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MYB Naeem",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "WL Madsen",
+          "runs": 8,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "M Montgomery",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RA Whiteley",
+          "runs": 46,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 153.33,
+          "out": true
+        },
+        {
+          "player": "AS Basra",
+          "runs": 7,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "N Potts",
+          "runs": 32,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 128.0,
+          "out": true
+        },
+        {
+          "player": "BW Aitchison",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "Sufiyan Muqeem",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "Akif Javed",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.75
+        },
+        {
+          "player": "TW Hartley",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 23.0
+        },
+        {
+          "player": "TH Aspinwall",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 9.84
+        },
+        {
+          "player": "JM Blatherwick",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 10.2
+        },
+        {
+          "player": "LS Livingstone",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 9.12
+        },
+        {
+          "player": "Shadab Khan",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 42,
+          "wickets": 3,
+          "economy": 10.08
+        }
+      ]
+    }
+  ]
+}

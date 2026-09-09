@@ -1,0 +1,555 @@
+{
+  "id": "1328692",
+  "teams": [
+    "Auckland Aces",
+    "Wellington Firebirds"
+  ],
+  "date": "2023-03-05",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Colin Maiden Park",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland Aces",
+      "runs": 508,
+      "extras": 29,
+      "balls": 822,
+      "batting": [
+        {
+          "player": "WT O'Donnell",
+          "runs": 42,
+          "balls": 101,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 41.58,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 151,
+          "balls": 374,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 40.37,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 145,
+          "balls": 213,
+          "fours": 16,
+          "sixes": 2,
+          "strike_rate": 68.08,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 29,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 107.41,
+          "out": true
+        },
+        {
+          "player": "GH Worker",
+          "runs": 13,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 65.0,
+          "out": true
+        },
+        {
+          "player": "QLM Sunde",
+          "runs": 52,
+          "balls": 48,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 108.33,
+          "out": false
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 24,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "WER Somerville",
+          "runs": 23,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 121.05,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LV van Beek",
+          "overs": "27.3",
+          "balls": 165,
+          "runs": 88,
+          "wickets": 1,
+          "economy": 3.2
+        },
+        {
+          "player": "IG McPeake",
+          "overs": "22.4",
+          "balls": 136,
+          "runs": 83,
+          "wickets": 1,
+          "economy": 3.66
+        },
+        {
+          "player": "MW Snedden",
+          "overs": "23.4",
+          "balls": 142,
+          "runs": 66,
+          "wickets": 2,
+          "economy": 2.79
+        },
+        {
+          "player": "LI Georgeson",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 55,
+          "wickets": 0,
+          "economy": 3.4
+        },
+        {
+          "player": "KJ McComb",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 4.08
+        },
+        {
+          "player": "MA Abbas",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 3.82
+        },
+        {
+          "player": "R Ravindra",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 121,
+          "wickets": 0,
+          "economy": 5.26
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Wellington Firebirds",
+      "runs": 267,
+      "extras": 16,
+      "balls": 562,
+      "batting": [
+        {
+          "player": "LI Georgeson",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 24,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "GR Severin",
+          "runs": 80,
+          "balls": 215,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 37.21,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "MA Abbas",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        },
+        {
+          "player": "NG Smith",
+          "runs": 13,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.43,
+          "out": true
+        },
+        {
+          "player": "CR McLachlan",
+          "runs": 73,
+          "balls": 118,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 61.86,
+          "out": true
+        },
+        {
+          "player": "IG McPeake",
+          "runs": 36,
+          "balls": 60,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 19,
+          "balls": 47,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.43,
+          "out": true
+        },
+        {
+          "player": "MW Snedden",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "KJ McComb",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LH Ferguson",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 2.42
+        },
+        {
+          "player": "DK Ferns",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 4.62
+        },
+        {
+          "player": "WER Somerville",
+          "overs": "28.1",
+          "balls": 169,
+          "runs": 45,
+          "wickets": 4,
+          "economy": 1.6
+        },
+        {
+          "player": "SM Solia",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 3.27
+        },
+        {
+          "player": "A Ashok",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 74,
+          "wickets": 2,
+          "economy": 3.22
+        },
+        {
+          "player": "RR O'Donnell",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        },
+        {
+          "player": "MS Chapman",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Auckland Aces",
+      "runs": 143,
+      "extras": 7,
+      "balls": 118,
+      "batting": [
+        {
+          "player": "WT O'Donnell",
+          "runs": 75,
+          "balls": 64,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 117.19,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 56,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 114.29,
+          "out": false
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 5,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LV van Beek",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.75
+        },
+        {
+          "player": "IG McPeake",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "R Ravindra",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "MA Abbas",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 10.08
+        },
+        {
+          "player": "KJ McComb",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 8.33
+        },
+        {
+          "player": "MW Snedden",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Wellington Firebirds",
+      "runs": 299,
+      "extras": 2,
+      "balls": 666,
+      "batting": [
+        {
+          "player": "LI Georgeson",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 22,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 91.67,
+          "out": true
+        },
+        {
+          "player": "GR Severin",
+          "runs": 5,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 110,
+          "balls": 252,
+          "fours": 12,
+          "sixes": 1,
+          "strike_rate": 43.65,
+          "out": true
+        },
+        {
+          "player": "MW Snedden",
+          "runs": 7,
+          "balls": 46,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 15.22,
+          "out": true
+        },
+        {
+          "player": "MA Abbas",
+          "runs": 130,
+          "balls": 215,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 60.47,
+          "out": true
+        },
+        {
+          "player": "NG Smith",
+          "runs": 6,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "CR McLachlan",
+          "runs": 3,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.34,
+          "out": true
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 14,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 29.17,
+          "out": false
+        },
+        {
+          "player": "IG McPeake",
+          "runs": 0,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LH Ferguson",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 2.75
+        },
+        {
+          "player": "WER Somerville",
+          "overs": "48.0",
+          "balls": 288,
+          "runs": 109,
+          "wickets": 1,
+          "economy": 2.27
+        },
+        {
+          "player": "A Ashok",
+          "overs": "35.0",
+          "balls": 210,
+          "runs": 96,
+          "wickets": 5,
+          "economy": 2.74
+        },
+        {
+          "player": "DK Ferns",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 3.44
+        },
+        {
+          "player": "SM Solia",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "player": "RR O'Donnell",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 2.67
+        }
+      ]
+    }
+  ]
+}

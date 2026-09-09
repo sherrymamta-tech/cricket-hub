@@ -1,0 +1,576 @@
+{
+  "id": "1050231",
+  "teams": [
+    "Pakistan",
+    "West Indies"
+  ],
+  "date": "2016-10-21",
+  "format": "Test",
+  "competition": "Pakistan v West Indies Test Series",
+  "venue": "Sheikh Zayed Stadium",
+  "result": "Pakistan won by 133 runs",
+  "winner": "Pakistan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 452,
+      "extras": 25,
+      "balls": 724,
+      "batting": [
+        {
+          "player": "Sami Aslam",
+          "runs": 6,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 68,
+          "balls": 121,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 56.2,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 127,
+          "balls": 205,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 61.95,
+          "out": true
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 96,
+          "balls": 162,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 59.26,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 23,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 74.19,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 56,
+          "balls": 59,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 94.92,
+          "out": true
+        },
+        {
+          "player": "Mohammad Nawaz (3)",
+          "runs": 25,
+          "balls": 71,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.21,
+          "out": true
+        },
+        {
+          "player": "Sohail Khan",
+          "runs": 26,
+          "balls": 26,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Zulfiqar Babar",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Rahat Ali",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ST Gabriel",
+          "overs": "24.4",
+          "balls": 148,
+          "runs": 103,
+          "wickets": 5,
+          "economy": 4.18
+        },
+        {
+          "player": "ML Cummins",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 70,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "JO Holder",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 48,
+          "wickets": 3,
+          "economy": 2.18
+        },
+        {
+          "player": "D Bishoo",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 115,
+          "wickets": 1,
+          "economy": 4.42
+        },
+        {
+          "player": "RL Chase",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 80,
+          "wickets": 0,
+          "economy": 4.21
+        },
+        {
+          "player": "KC Brathwaite",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "runs": 224,
+      "extras": 10,
+      "balls": 569,
+      "batting": [
+        {
+          "player": "LR Johnson",
+          "runs": 12,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.58,
+          "out": true
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 43,
+          "balls": 85,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 50.59,
+          "out": true
+        },
+        {
+          "player": "KC Brathwaite",
+          "runs": 21,
+          "balls": 82,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.61,
+          "out": true
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 30,
+          "balls": 61,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 49.18,
+          "out": true
+        },
+        {
+          "player": "J Blackwood",
+          "runs": 8,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "D Bishoo",
+          "runs": 20,
+          "balls": 66,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.3,
+          "out": true
+        },
+        {
+          "player": "RL Chase",
+          "runs": 22,
+          "balls": 80,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 27.5,
+          "out": true
+        },
+        {
+          "player": "SD Hope",
+          "runs": 11,
+          "balls": 60,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 18.33,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 31,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 86.11,
+          "out": false
+        },
+        {
+          "player": "ML Cummins",
+          "runs": 3,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.79,
+          "out": true
+        },
+        {
+          "player": "ST Gabriel",
+          "runs": 13,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 59.09,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Rahat Ali",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 47,
+          "wickets": 3,
+          "economy": 2.24
+        },
+        {
+          "player": "Sohail Khan",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 2.11
+        },
+        {
+          "player": "Zulfiqar Babar",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 1.86
+        },
+        {
+          "player": "Asad Shafiq",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "28.4",
+          "balls": 172,
+          "runs": 88,
+          "wickets": 4,
+          "economy": 3.07
+        },
+        {
+          "player": "Mohammad Nawaz (3)",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 1.92
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Pakistan",
+      "runs": 227,
+      "extras": 11,
+      "balls": 406,
+      "batting": [
+        {
+          "player": "Sami Aslam",
+          "runs": 50,
+          "balls": 111,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 45.05,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 79,
+          "balls": 138,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 57.25,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 58,
+          "balls": 103,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.31,
+          "out": false
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 29,
+          "balls": 54,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.7,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ST Gabriel",
+          "overs": "12.2",
+          "balls": 74,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 3.49
+        },
+        {
+          "player": "ML Cummins",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 3.55
+        },
+        {
+          "player": "KC Brathwaite",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 2.2
+        },
+        {
+          "player": "D Bishoo",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 77,
+          "wickets": 0,
+          "economy": 3.85
+        },
+        {
+          "player": "JO Holder",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 3.14
+        },
+        {
+          "player": "RL Chase",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 4.33
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "West Indies",
+      "runs": 322,
+      "extras": 5,
+      "balls": 648,
+      "batting": [
+        {
+          "player": "KC Brathwaite",
+          "runs": 67,
+          "balls": 133,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 50.38,
+          "out": true
+        },
+        {
+          "player": "LR Johnson",
+          "runs": 9,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.62,
+          "out": true
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 13,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.24,
+          "out": true
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 23,
+          "balls": 61,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.7,
+          "out": true
+        },
+        {
+          "player": "J Blackwood",
+          "runs": 95,
+          "balls": 127,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 74.8,
+          "out": true
+        },
+        {
+          "player": "RL Chase",
+          "runs": 20,
+          "balls": 86,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 23.26,
+          "out": true
+        },
+        {
+          "player": "SD Hope",
+          "runs": 41,
+          "balls": 93,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 44.09,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 16,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "D Bishoo",
+          "runs": 26,
+          "balls": 54,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 48.15,
+          "out": true
+        },
+        {
+          "player": "ML Cummins",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "ST Gabriel",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Sohail Khan",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 3.21
+        },
+        {
+          "player": "Rahat Ali",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "39.0",
+          "balls": 234,
+          "runs": 128,
+          "wickets": 6,
+          "economy": 3.28
+        },
+        {
+          "player": "Zulfiqar Babar",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 2.32
+        },
+        {
+          "player": "Mohammad Nawaz (3)",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 2.9
+        }
+      ]
+    }
+  ]
+}

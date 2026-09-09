@@ -1,0 +1,601 @@
+{
+  "id": "1271389",
+  "teams": [
+    "Sussex",
+    "Worcestershire"
+  ],
+  "date": "2021-08-30",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "County Ground, New Road, Worcester",
+  "result": "Worcestershire won by 6 wickets",
+  "winner": "Worcestershire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sussex",
+      "runs": 264,
+      "extras": 15,
+      "balls": 498,
+      "batting": [
+        {
+          "player": "AGH Orr",
+          "runs": 52,
+          "balls": 123,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 42.28,
+          "out": true
+        },
+        {
+          "player": "TJ Haines",
+          "runs": 20,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "HD Ward",
+          "runs": 1,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 4.55,
+          "out": true
+        },
+        {
+          "player": "JM Coles",
+          "runs": 12,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.71,
+          "out": true
+        },
+        {
+          "player": "OJ Carter",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "D Ibrahim",
+          "runs": 48,
+          "balls": 90,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "AC Lenham",
+          "runs": 20,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JJ Carson",
+          "runs": 87,
+          "balls": 113,
+          "fours": 10,
+          "sixes": 4,
+          "strike_rate": 76.99,
+          "out": true
+        },
+        {
+          "player": "HT Crocombe",
+          "runs": 9,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.95,
+          "out": true
+        },
+        {
+          "player": "JP Sarro",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Leach",
+          "overs": "22.5",
+          "balls": 137,
+          "runs": 72,
+          "wickets": 5,
+          "economy": 3.15
+        },
+        {
+          "player": "DY Pennington",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 71,
+          "wickets": 1,
+          "economy": 3.74
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 2.66
+        },
+        {
+          "player": "AW Finch",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 2.2
+        },
+        {
+          "player": "JO Baker",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "BL D'Oliveira",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 11.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Worcestershire",
+      "runs": 213,
+      "extras": 24,
+      "balls": 395,
+      "batting": [
+        {
+          "player": "DKH Mitchell",
+          "runs": 16,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 29.63,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 28,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 68.29,
+          "out": true
+        },
+        {
+          "player": "TC Fell",
+          "runs": 11,
+          "balls": 43,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 25.58,
+          "out": true
+        },
+        {
+          "player": "JA Haynes",
+          "runs": 47,
+          "balls": 71,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 66.2,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 38,
+          "balls": 73,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 52.05,
+          "out": true
+        },
+        {
+          "player": "EG Barnard",
+          "runs": 17,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.71,
+          "out": true
+        },
+        {
+          "player": "OB Cox",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "J Leach",
+          "runs": 18,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "JO Baker",
+          "runs": 5,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.25,
+          "out": true
+        },
+        {
+          "player": "DY Pennington",
+          "runs": 6,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.58,
+          "out": true
+        },
+        {
+          "player": "AW Finch",
+          "runs": 3,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.75,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "FJ Hudson-Prentice",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 3.77
+        },
+        {
+          "player": "JP Sarro",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 53,
+          "wickets": 2,
+          "economy": 3.61
+        },
+        {
+          "player": "HT Crocombe",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 2.88
+        },
+        {
+          "player": "D Ibrahim",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 9,
+          "wickets": 2,
+          "economy": 1.0
+        },
+        {
+          "player": "JJ Carson",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 3.58
+        },
+        {
+          "player": "AC Lenham",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "JM Coles",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Sussex",
+      "runs": 263,
+      "extras": 15,
+      "balls": 511,
+      "batting": [
+        {
+          "player": "AGH Orr",
+          "runs": 57,
+          "balls": 113,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 50.44,
+          "out": true
+        },
+        {
+          "player": "TJ Haines",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HD Ward",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JM Coles",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        },
+        {
+          "player": "OJ Carter",
+          "runs": 20,
+          "balls": 67,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 29.85,
+          "out": true
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "runs": 46,
+          "balls": 80,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 57.5,
+          "out": true
+        },
+        {
+          "player": "D Ibrahim",
+          "runs": 94,
+          "balls": 172,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 54.65,
+          "out": true
+        },
+        {
+          "player": "AC Lenham",
+          "runs": 9,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "JJ Carson",
+          "runs": 15,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "HT Crocombe",
+          "runs": 6,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Leach",
+          "overs": "21.5",
+          "balls": 131,
+          "runs": 69,
+          "wickets": 4,
+          "economy": 3.16
+        },
+        {
+          "player": "DY Pennington",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 3.47
+        },
+        {
+          "player": "AW Finch",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 56,
+          "wickets": 2,
+          "economy": 3.26
+        },
+        {
+          "player": "JO Baker",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 49,
+          "wickets": 3,
+          "economy": 2.58
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 3.04
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Worcestershire",
+      "runs": 315,
+      "extras": 12,
+      "balls": 449,
+      "batting": [
+        {
+          "player": "DKH Mitchell",
+          "runs": 19,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 61.29,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 125,
+          "balls": 225,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 55.56,
+          "out": false
+        },
+        {
+          "player": "TC Fell",
+          "runs": 4,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JA Haynes",
+          "runs": 62,
+          "balls": 95,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 65.26,
+          "out": true
+        },
+        {
+          "player": "OB Cox",
+          "runs": 37,
+          "balls": 55,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 67.27,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 56,
+          "balls": 31,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 180.65,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "FJ Hudson-Prentice",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 62,
+          "wickets": 1,
+          "economy": 4.04
+        },
+        {
+          "player": "JP Sarro",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 4.27
+        },
+        {
+          "player": "HT Crocombe",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 4.44
+        },
+        {
+          "player": "JJ Carson",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 58,
+          "wickets": 0,
+          "economy": 3.62
+        },
+        {
+          "player": "D Ibrahim",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 2.4
+        },
+        {
+          "player": "AC Lenham",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "JM Coles",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 5.1
+        }
+      ]
+    }
+  ]
+}

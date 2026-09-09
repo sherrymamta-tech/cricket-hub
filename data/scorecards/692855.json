@@ -1,0 +1,440 @@
+{
+  "id": "692855",
+  "teams": [
+    "Durham",
+    "Northamptonshire"
+  ],
+  "date": "2014-09-15",
+  "format": "MDM",
+  "competition": "LV= County Championship",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Durham won by 219 runs",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 392,
+      "extras": 34,
+      "balls": 560,
+      "batting": [
+        {
+          "player": "MD Stoneman",
+          "runs": 27,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 93.1,
+          "out": true
+        },
+        {
+          "player": "KK Jennings",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 136,
+          "balls": 215,
+          "fours": 19,
+          "sixes": 0,
+          "strike_rate": 63.26,
+          "out": true
+        },
+        {
+          "player": "MJ Richardson",
+          "runs": 11,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.73,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 13,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 92.86,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 101,
+          "balls": 143,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 70.63,
+          "out": true
+        },
+        {
+          "player": "GJ Muchall",
+          "runs": 10,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "CS MacLeod",
+          "runs": 36,
+          "balls": 67,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 53.73,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 11,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 91.67,
+          "out": true
+        },
+        {
+          "player": "VR Aaron",
+          "runs": 13,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.47,
+          "out": true
+        },
+        {
+          "player": "PKD Chase",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "N Wagner",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 105,
+          "wickets": 5,
+          "economy": 5.16
+        },
+        {
+          "player": "Azharullah",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 101,
+          "wickets": 4,
+          "economy": 3.72
+        },
+        {
+          "player": "MA Chambers",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 82,
+          "wickets": 0,
+          "economy": 4.97
+        },
+        {
+          "player": "AJ Hall",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 71,
+          "wickets": 1,
+          "economy": 4.1
+        },
+        {
+          "player": "James Middlebrook",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 3.14
+        },
+        {
+          "player": "KJ Coetzer",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 2.2
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Northamptonshire",
+      "runs": 83,
+      "extras": 0,
+      "balls": 138,
+      "batting": [
+        {
+          "player": "JM Kettleborough",
+          "runs": 11,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.35,
+          "out": true
+        },
+        {
+          "player": "James Middlebrook",
+          "runs": 23,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 82.14,
+          "out": true
+        },
+        {
+          "player": "KJ Coetzer",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "RI Keogh",
+          "runs": 17,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 80.95,
+          "out": true
+        },
+        {
+          "player": "AM Rossington",
+          "runs": 9,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "RI Newton",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AJ Hall",
+          "runs": 13,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.25,
+          "out": false
+        },
+        {
+          "player": "N Wagner",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MA Chambers",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "Azharullah",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 52,
+          "wickets": 9,
+          "economy": 4.33
+        },
+        {
+          "player": "VR Aaron",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 1.4
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Northamptonshire",
+      "runs": 90,
+      "extras": 7,
+      "balls": 104,
+      "batting": [
+        {
+          "player": "JM Kettleborough",
+          "runs": 14,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 93.33,
+          "out": true
+        },
+        {
+          "player": "James Middlebrook",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "KJ Coetzer",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "RI Keogh",
+          "runs": 7,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "AM Rossington",
+          "runs": 22,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 129.41,
+          "out": true
+        },
+        {
+          "player": "RI Newton",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 13,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 144.44,
+          "out": true
+        },
+        {
+          "player": "AJ Hall",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 16,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 84.21,
+          "out": true
+        },
+        {
+          "player": "MA Chambers",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 44,
+          "wickets": 6,
+          "economy": 5.5
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 4.86
+        },
+        {
+          "player": "PKD Chase",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 8,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "VR Aaron",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

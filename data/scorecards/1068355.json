@@ -1,0 +1,323 @@
+{
+  "id": "1068355",
+  "teams": [
+    "Somerset",
+    "Hampshire"
+  ],
+  "date": "2017-07-26",
+  "format": "T20",
+  "competition": "NatWest T20 Blast",
+  "venue": "The Cooper Associates County Ground",
+  "result": "Somerset won by 14 runs",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Somerset",
+      "runs": 204,
+      "extras": 15,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "L Gregory",
+          "runs": 43,
+          "balls": 20,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 215.0,
+          "out": true
+        },
+        {
+          "player": "SM Davies",
+          "runs": 32,
+          "balls": 13,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 246.15,
+          "out": true
+        },
+        {
+          "player": "J Allenby",
+          "runs": 37,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 119.35,
+          "out": true
+        },
+        {
+          "player": "PD Trego",
+          "runs": 8,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JC Hildreth",
+          "runs": 25,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 138.89,
+          "out": true
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 15,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 187.5,
+          "out": true
+        },
+        {
+          "player": "MA Leask",
+          "runs": 13,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 162.5,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 11,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": false
+        },
+        {
+          "player": "TD Groenewald",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MTC Waller",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RJW Topley",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 7.68
+        },
+        {
+          "player": "KJ Abbott",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 9.46
+        },
+        {
+          "player": "GK Berg",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 35,
+          "wickets": 3,
+          "economy": 8.4
+        },
+        {
+          "player": "BTJ Wheal",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 12.5
+        },
+        {
+          "player": "Shahid Afridi",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 11.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Hampshire",
+      "runs": 190,
+      "extras": 6,
+      "balls": 121,
+      "batting": [
+        {
+          "player": "JM Vince",
+          "runs": 33,
+          "balls": 15,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 220.0,
+          "out": true
+        },
+        {
+          "player": "RR Rossouw",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MA Carberry",
+          "runs": 30,
+          "balls": 20,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "GJ Bailey",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "SM Ervine",
+          "runs": 19,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 105.56,
+          "out": true
+        },
+        {
+          "player": "LD McManus",
+          "runs": 34,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 188.89,
+          "out": true
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 18,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 163.64,
+          "out": true
+        },
+        {
+          "player": "GK Berg",
+          "runs": 31,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 147.62,
+          "out": true
+        },
+        {
+          "player": "KJ Abbott",
+          "runs": 9,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 180.0,
+          "out": true
+        },
+        {
+          "player": "RJW Topley",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BTJ Wheal",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Leask",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "C Overton",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 10.8
+        },
+        {
+          "player": "TD Groenewald",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 6.46
+        },
+        {
+          "player": "L Gregory",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 12.4
+        },
+        {
+          "player": "MTC Waller",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 8.0
+        },
+        {
+          "player": "RE van der Merwe",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 10.08
+        }
+      ]
+    }
+  ]
+}

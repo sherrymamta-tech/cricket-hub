@@ -1,0 +1,278 @@
+{
+  "id": "1250200",
+  "teams": [
+    "Worcestershire",
+    "Hampshire"
+  ],
+  "date": "2021-08-04",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "The Rose Bowl, Southampton",
+  "result": "Hampshire won by 6 wickets",
+  "winner": "Hampshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Worcestershire",
+      "runs": 176,
+      "extras": 17,
+      "balls": 242,
+      "batting": [
+        {
+          "player": "JA Haynes",
+          "runs": 14,
+          "balls": 8,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 40,
+          "balls": 42,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 95.24,
+          "out": true
+        },
+        {
+          "player": "TC Fell",
+          "runs": 7,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 12,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "GH Roderick",
+          "runs": 15,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "EG Barnard",
+          "runs": 29,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 65.91,
+          "out": true
+        },
+        {
+          "player": "JJ Dell",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "J Leach",
+          "runs": 34,
+          "balls": 36,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 94.44,
+          "out": false
+        },
+        {
+          "player": "JO Baker",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CAJ Morris",
+          "runs": 5,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 17.24,
+          "out": true
+        },
+        {
+          "player": "AW Finch",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Turner",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 4.19
+        },
+        {
+          "player": "KJ Abbott",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 44,
+          "wickets": 5,
+          "economy": 4.4
+        },
+        {
+          "player": "IG Holland",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 4.57
+        },
+        {
+          "player": "JK Fuller",
+          "overs": "7.4",
+          "balls": 46,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 3.91
+        },
+        {
+          "player": "FS Organ",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 5.03
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Hampshire",
+      "runs": 180,
+      "extras": 18,
+      "balls": 244,
+      "batting": [
+        {
+          "player": "TP Alsop",
+          "runs": 50,
+          "balls": 86,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 58.14,
+          "out": true
+        },
+        {
+          "player": "TJ Prest",
+          "runs": 12,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "NRT Gubbins",
+          "runs": 59,
+          "balls": 69,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 85.51,
+          "out": true
+        },
+        {
+          "player": "JJ Weatherley",
+          "runs": 33,
+          "balls": 58,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.9,
+          "out": true
+        },
+        {
+          "player": "IG Holland",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        },
+        {
+          "player": "LD McManus",
+          "runs": 6,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 600.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Leach",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 3.35
+        },
+        {
+          "player": "CAJ Morris",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 5.53
+        },
+        {
+          "player": "AW Finch",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 3.67
+        },
+        {
+          "player": "JO Baker",
+          "overs": "4.5",
+          "balls": 29,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 7.86
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 3.73
+        },
+        {
+          "player": "BL D'Oliveira",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 3.75
+        }
+      ]
+    }
+  ]
+}

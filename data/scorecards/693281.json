@@ -1,0 +1,285 @@
+{
+  "id": "693281",
+  "teams": [
+    "Durham",
+    "Somerset"
+  ],
+  "date": "2014-07-27",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "County Ground, Taunton",
+  "result": "Somerset won by 5 wickets",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 311,
+      "extras": 15,
+      "balls": 311,
+      "batting": [
+        {
+          "player": "MD Stoneman",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "P Mustard",
+          "runs": 40,
+          "balls": 83,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 48.19,
+          "out": true
+        },
+        {
+          "player": "CS MacLeod",
+          "runs": 10,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 113,
+          "balls": 94,
+          "fours": 12,
+          "sixes": 3,
+          "strike_rate": 120.21,
+          "out": true
+        },
+        {
+          "player": "KK Jennings",
+          "runs": 45,
+          "balls": 44,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 102.27,
+          "out": true
+        },
+        {
+          "player": "GJ Muchall",
+          "runs": 29,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "JW Hastings",
+          "runs": 16,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "GR Breese",
+          "runs": 34,
+          "balls": 19,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 178.95,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AC Thomas",
+          "overs": "10.5",
+          "balls": 65,
+          "runs": 78,
+          "wickets": 1,
+          "economy": 7.2
+        },
+        {
+          "player": "L Gregory",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 6.59
+        },
+        {
+          "player": "TD Groenewald",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 4.33
+        },
+        {
+          "player": "PD Trego",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "C Overton",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 4.13
+        },
+        {
+          "player": "GH Dockrell",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 65,
+          "wickets": 0,
+          "economy": 7.65
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Somerset",
+      "runs": 315,
+      "extras": 16,
+      "balls": 289,
+      "batting": [
+        {
+          "player": "NRD Compton",
+          "runs": 3,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "ME Trescothick",
+          "runs": 11,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 137.5,
+          "out": true
+        },
+        {
+          "player": "PD Trego",
+          "runs": 3,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 31,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 70.45,
+          "out": true
+        },
+        {
+          "player": "JC Hildreth",
+          "runs": 146,
+          "balls": 135,
+          "fours": 13,
+          "sixes": 3,
+          "strike_rate": 108.15,
+          "out": false
+        },
+        {
+          "player": "AWR Barrow",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 105,
+          "balls": 71,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 147.89,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 6.67
+        },
+        {
+          "player": "G Onions",
+          "overs": "8.5",
+          "balls": 53,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 6.68
+        },
+        {
+          "player": "PD Collingwood",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 5.32
+        },
+        {
+          "player": "JW Hastings",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 6.17
+        },
+        {
+          "player": "GR Breese",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 6.6
+        },
+        {
+          "player": "KK Jennings",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 10.4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "id": "692951",
+  "teams": [
+    "Gloucestershire",
+    "Essex"
+  ],
+  "date": "2014-06-29",
+  "format": "MDM",
+  "competition": "LV= County Championship",
+  "venue": "County Ground, Chelmsford",
+  "result": "Essex won by 10 wickets",
+  "winner": "Essex",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Gloucestershire",
+      "runs": 224,
+      "extras": 11,
+      "balls": 349,
+      "batting": [
+        {
+          "player": "WA Tavare",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "APR Gidman",
+          "runs": 22,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 62.86,
+          "out": true
+        },
+        {
+          "player": "CDJ Dent",
+          "runs": 8,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "HJH Marshall",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "IA Cockbain",
+          "runs": 6,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        },
+        {
+          "player": "WRS Gidman",
+          "runs": 13,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 59.09,
+          "out": true
+        },
+        {
+          "player": "AP Rouse",
+          "runs": 28,
+          "balls": 45,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 62.22,
+          "out": true
+        },
+        {
+          "player": "TMJ Smith",
+          "runs": 17,
+          "balls": 57,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.82,
+          "out": true
+        },
+        {
+          "player": "JMR Taylor",
+          "runs": 40,
+          "balls": 35,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "DA Payne",
+          "runs": 48,
+          "balls": 57,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 84.21,
+          "out": false
+        },
+        {
+          "player": "MD Taylor",
+          "runs": 26,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.78,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DD Masters",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 67,
+          "wickets": 4,
+          "economy": 3.53
+        },
+        {
+          "player": "RJW Topley",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 59,
+          "wickets": 5,
+          "economy": 3.65
+        },
+        {
+          "player": "GR Napier",
+          "overs": "13.4",
+          "balls": 82,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 3.07
+        },
+        {
+          "player": "JD Ryder",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 5.54
+        },
+        {
+          "player": "MS Panesar",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "RS Bopara",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Essex",
+      "runs": 541,
+      "extras": 14,
+      "balls": 875,
+      "batting": [
+        {
+          "player": "T Westley",
+          "runs": 71,
+          "balls": 104,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 68.27,
+          "out": true
+        },
+        {
+          "player": "NLJ Browne",
+          "runs": 65,
+          "balls": 122,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 53.28,
+          "out": true
+        },
+        {
+          "player": "RS Bopara",
+          "runs": 147,
+          "balls": 303,
+          "fours": 11,
+          "sixes": 3,
+          "strike_rate": 48.51,
+          "out": true
+        },
+        {
+          "player": "JD Ryder",
+          "runs": 133,
+          "balls": 164,
+          "fours": 15,
+          "sixes": 4,
+          "strike_rate": 81.1,
+          "out": true
+        },
+        {
+          "player": "JS Foster",
+          "runs": 54,
+          "balls": 64,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 84.38,
+          "out": true
+        },
+        {
+          "player": "BT Foakes",
+          "runs": 34,
+          "balls": 81,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.98,
+          "out": true
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 11,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "GR Napier",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "DD Masters",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MS Panesar",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "RJW Topley",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WRS Gidman",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 63,
+          "wickets": 0,
+          "economy": 2.74
+        },
+        {
+          "player": "DA Payne",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 96,
+          "wickets": 1,
+          "economy": 3.43
+        },
+        {
+          "player": "MD Taylor",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 121,
+          "wickets": 1,
+          "economy": 5.01
+        },
+        {
+          "player": "TMJ Smith",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 105,
+          "wickets": 3,
+          "economy": 4.01
+        },
+        {
+          "player": "JMR Taylor",
+          "overs": "30.3",
+          "balls": 183,
+          "runs": 129,
+          "wickets": 4,
+          "economy": 4.23
+        },
+        {
+          "player": "HJH Marshall",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 1.93
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Gloucestershire",
+      "runs": 325,
+      "extras": 18,
+      "balls": 728,
+      "batting": [
+        {
+          "player": "CDJ Dent",
+          "runs": 24,
+          "balls": 31,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 77.42,
+          "out": true
+        },
+        {
+          "player": "WA Tavare",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "APR Gidman",
+          "runs": 53,
+          "balls": 108,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 49.07,
+          "out": true
+        },
+        {
+          "player": "HJH Marshall",
+          "runs": 43,
+          "balls": 101,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 42.57,
+          "out": true
+        },
+        {
+          "player": "IA Cockbain",
+          "runs": 43,
+          "balls": 106,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 40.57,
+          "out": true
+        },
+        {
+          "player": "WRS Gidman",
+          "runs": 40,
+          "balls": 94,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 42.55,
+          "out": true
+        },
+        {
+          "player": "AP Rouse",
+          "runs": 49,
+          "balls": 142,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 34.51,
+          "out": true
+        },
+        {
+          "player": "TMJ Smith",
+          "runs": 16,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "JMR Taylor",
+          "runs": 6,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 18.75,
+          "out": true
+        },
+        {
+          "player": "DA Payne",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MD Taylor",
+          "runs": 32,
+          "balls": 79,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 40.51,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DD Masters",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 1.83
+        },
+        {
+          "player": "RJW Topley",
+          "overs": "22.3",
+          "balls": 135,
+          "runs": 91,
+          "wickets": 2,
+          "economy": 4.04
+        },
+        {
+          "player": "GR Napier",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 67,
+          "wickets": 0,
+          "economy": 2.79
+        },
+        {
+          "player": "JD Ryder",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 45,
+          "wickets": 3,
+          "economy": 1.96
+        },
+        {
+          "player": "MS Panesar",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 2.61
+        },
+        {
+          "player": "T Westley",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 2.27
+        },
+        {
+          "player": "RN ten Doeschate",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 2.57
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Essex",
+      "runs": 10,
+      "extras": 0,
+      "balls": 9,
+      "batting": [
+        {
+          "player": "T Westley",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": false
+        },
+        {
+          "player": "NLJ Browne",
+          "runs": 9,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 180.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DA Payne",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "JMR Taylor",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

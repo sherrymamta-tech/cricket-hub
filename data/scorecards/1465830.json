@@ -1,0 +1,465 @@
+{
+  "id": "1465830",
+  "teams": [
+    "Colombo Cricket Club",
+    "Moors Sports Club"
+  ],
+  "date": "2025-01-24",
+  "format": "MDM",
+  "competition": "Major League Tournament",
+  "venue": "Colts Cricket Club Ground, Colombo",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Colombo Cricket Club",
+      "runs": 301,
+      "extras": 11,
+      "balls": 488,
+      "batting": [
+        {
+          "player": "KNM Fernando",
+          "runs": 13,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 65.0,
+          "out": true
+        },
+        {
+          "player": "L Croospulle",
+          "runs": 32,
+          "balls": 64,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "M Bhanuka",
+          "runs": 83,
+          "balls": 124,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 66.94,
+          "out": true
+        },
+        {
+          "player": "P Rathnayake",
+          "runs": 19,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 86.36,
+          "out": true
+        },
+        {
+          "player": "P Pathiraja",
+          "runs": 18,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "C Wijesinghe",
+          "runs": 50,
+          "balls": 90,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "A Bandara",
+          "runs": 12,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "PC de Silva",
+          "runs": 18,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "I Udana",
+          "runs": 17,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "ST Mendis",
+          "runs": 19,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 65.52,
+          "out": false
+        },
+        {
+          "player": "PADLR Sandakan",
+          "runs": 9,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MD Dilshan",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 3.43
+        },
+        {
+          "player": "SA Fernando",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 64,
+          "wickets": 5,
+          "economy": 3.37
+        },
+        {
+          "player": "J Perera",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "HKT Udeshana",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 3.16
+        },
+        {
+          "player": "RTM Mendis",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 103,
+          "wickets": 3,
+          "economy": 3.96
+        },
+        {
+          "player": "HRC Dilshan",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 4.57
+        },
+        {
+          "player": "DPS Sooriyabandara",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Moors Sports Club",
+      "runs": 249,
+      "extras": 11,
+      "balls": 451,
+      "batting": [
+        {
+          "player": "J Perera",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "S de Livera",
+          "runs": 29,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.04,
+          "out": true
+        },
+        {
+          "player": "K Kulasekara",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "L Abeyratne",
+          "runs": 14,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true
+        },
+        {
+          "player": "DPS Sooriyabandara",
+          "runs": 21,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 56.76,
+          "out": true
+        },
+        {
+          "player": "S Gimhan",
+          "runs": 50,
+          "balls": 101,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 49.5,
+          "out": true
+        },
+        {
+          "player": "RTM Mendis",
+          "runs": 80,
+          "balls": 151,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 52.98,
+          "out": true
+        },
+        {
+          "player": "MD Dilshan",
+          "runs": 26,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 65.0,
+          "out": true
+        },
+        {
+          "player": "SA Fernando",
+          "runs": 11,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 45.83,
+          "out": true
+        },
+        {
+          "player": "HKT Udeshana",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "HRC Dilshan",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "I Udana",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 3.95
+        },
+        {
+          "player": "PC de Silva",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 88,
+          "wickets": 3,
+          "economy": 3.38
+        },
+        {
+          "player": "C Wijesinghe",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 2.4
+        },
+        {
+          "player": "ST Mendis",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "PADLR Sandakan",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 61,
+          "wickets": 3,
+          "economy": 3.42
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Colombo Cricket Club",
+      "runs": 100,
+      "extras": 3,
+      "balls": 192,
+      "batting": [
+        {
+          "player": "L Croospulle",
+          "runs": 19,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 105.56,
+          "out": true
+        },
+        {
+          "player": "KNM Fernando",
+          "runs": 4,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "P Pathiraja",
+          "runs": 15,
+          "balls": 36,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "P Rathnayake",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "A Bandara",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "M Bhanuka",
+          "runs": 11,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true
+        },
+        {
+          "player": "C Wijesinghe",
+          "runs": 21,
+          "balls": 43,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 48.84,
+          "out": false
+        },
+        {
+          "player": "ST Mendis",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "PC de Silva",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "I Udana",
+          "runs": 6,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "PADLR Sandakan",
+          "runs": 12,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HRC Dilshan",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 36,
+          "wickets": 6,
+          "economy": 2.25
+        },
+        {
+          "player": "SA Fernando",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "DPS Sooriyabandara",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 3.22
+        }
+      ]
+    }
+  ]
+}

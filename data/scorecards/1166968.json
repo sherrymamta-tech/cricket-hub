@@ -1,0 +1,101 @@
+{
+  "id": "1166968",
+  "teams": [
+    "Yorkshire",
+    "Warwickshire"
+  ],
+  "date": "2019-09-23",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "Edgbaston, Birmingham",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Yorkshire",
+      "runs": 261,
+      "extras": 12,
+      "balls": 385,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 26,
+          "balls": 55,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 47.27,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 165,
+          "balls": 175,
+          "fours": 26,
+          "sixes": 1,
+          "strike_rate": 94.29,
+          "out": false
+        },
+        {
+          "player": "TW Loten",
+          "runs": 58,
+          "balls": 155,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 37.42,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OJ Hannon-Dalby",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "HJH Brookes",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 56,
+          "wickets": 0,
+          "economy": 5.09
+        },
+        {
+          "player": "CN Miles",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 4.7
+        },
+        {
+          "player": "JS Patel",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 66,
+          "wickets": 0,
+          "economy": 3.27
+        },
+        {
+          "player": "AT Thomson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 6.25
+        },
+        {
+          "player": "WMH Rhodes",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 2.71
+        }
+      ]
+    }
+  ]
+}

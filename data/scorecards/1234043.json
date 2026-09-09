@@ -1,0 +1,215 @@
+{
+  "id": "1234043",
+  "teams": [
+    "Otago",
+    "Wellington"
+  ],
+  "date": "2021-01-14",
+  "format": "T20",
+  "competition": "New Zealand Cricket Women's Twenty20",
+  "venue": "University Oval",
+  "result": "Wellington won by 10 wickets",
+  "winner": "Wellington",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Otago",
+      "runs": 128,
+      "extras": 10,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "MR Cowan",
+          "runs": 29,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "PM Inglis",
+          "runs": 19,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.37,
+          "out": true
+        },
+        {
+          "player": "KJ Martin",
+          "runs": 27,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 87.1,
+          "out": true
+        },
+        {
+          "player": "HNK Jensen",
+          "runs": 35,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 129.63,
+          "out": true
+        },
+        {
+          "player": "CG Blakely",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "IR James",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "ON Gain",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "EJ Black",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MP Singh",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 4.67
+        },
+        {
+          "player": "JM Kerr",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "player": "LM Kasperek",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "player": "ML Green",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 10.2
+        },
+        {
+          "player": "AC Kerr",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "TMM Newton",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Wellington",
+      "runs": 131,
+      "extras": 3,
+      "balls": 55,
+      "batting": [
+        {
+          "player": "SFM Devine",
+          "runs": 108,
+          "balls": 40,
+          "fours": 9,
+          "sixes": 9,
+          "strike_rate": 270.0,
+          "out": false
+        },
+        {
+          "player": "ML Green",
+          "runs": 20,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HNK Jensen",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 15.43
+        },
+        {
+          "player": "EJ Black",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 13.5
+        },
+        {
+          "player": "SA Oldershaw",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 10.62
+        },
+        {
+          "player": "EJ Carson",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 16.0
+        },
+        {
+          "player": "MBA Lamplough",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 20.0
+        }
+      ]
+    }
+  ]
+}

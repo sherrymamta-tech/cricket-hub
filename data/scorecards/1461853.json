@@ -1,0 +1,615 @@
+{
+  "id": "1461853",
+  "teams": [
+    "Worcestershire",
+    "Essex"
+  ],
+  "date": "2025-05-16",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "County Ground, New Road, Worcester",
+  "result": "Worcestershire won by 225 runs",
+  "winner": "Worcestershire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Worcestershire",
+      "runs": 358,
+      "extras": 32,
+      "balls": 601,
+      "batting": [
+        {
+          "player": "GH Roderick",
+          "runs": 17,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 44.74,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 16,
+          "balls": 51,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 31.37,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Kashif Ali",
+          "runs": 46,
+          "balls": 81,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 56.79,
+          "out": true
+        },
+        {
+          "player": "RP Jones",
+          "runs": 54,
+          "balls": 117,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "EA Brookes",
+          "runs": 31,
+          "balls": 45,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 68.89,
+          "out": true
+        },
+        {
+          "player": "MJ Waite",
+          "runs": 73,
+          "balls": 91,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 80.22,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 43,
+          "balls": 70,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 61.43,
+          "out": true
+        },
+        {
+          "player": "BMJ Allison",
+          "runs": 38,
+          "balls": 67,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 56.72,
+          "out": true
+        },
+        {
+          "player": "Y Singh",
+          "runs": 5,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.23,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Porter",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 62,
+          "wickets": 1,
+          "economy": 2.48
+        },
+        {
+          "player": "S Snater",
+          "overs": "24.2",
+          "balls": 146,
+          "runs": 87,
+          "wickets": 4,
+          "economy": 3.58
+        },
+        {
+          "player": "CAK Rajitha",
+          "overs": "21.3",
+          "balls": 129,
+          "runs": 91,
+          "wickets": 1,
+          "economy": 4.23
+        },
+        {
+          "player": "NRM Thain",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 71,
+          "wickets": 2,
+          "economy": 5.32
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 3.4
+        },
+        {
+          "player": "MJJ Critchley",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 13,
+          "wickets": 2,
+          "economy": 2.17
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Essex",
+      "runs": 157,
+      "extras": 4,
+      "balls": 360,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 16,
+          "balls": 56,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "CWJ Allison",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T Westley",
+          "runs": 6,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "RJ Das",
+          "runs": 44,
+          "balls": 91,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 48.35,
+          "out": true
+        },
+        {
+          "player": "MJJ Critchley",
+          "runs": 15,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.39,
+          "out": true
+        },
+        {
+          "player": "MS Pepper",
+          "runs": 13,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 35.14,
+          "out": true
+        },
+        {
+          "player": "NRM Thain",
+          "runs": 15,
+          "balls": 61,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 24.59,
+          "out": true
+        },
+        {
+          "player": "SR Harmer",
+          "runs": 14,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "S Snater",
+          "runs": 20,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "CAK Rajitha",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": false
+        },
+        {
+          "player": "JA Porter",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TAI Taylor",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 24,
+          "wickets": 3,
+          "economy": 1.6
+        },
+        {
+          "player": "BMJ Allison",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 2.0
+        },
+        {
+          "player": "Y Singh",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 4.58
+        },
+        {
+          "player": "MJ Waite",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 34,
+          "wickets": 3,
+          "economy": 2.83
+        },
+        {
+          "player": "EA Brookes",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 2.33
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Worcestershire",
+      "runs": 134,
+      "extras": 10,
+      "balls": 345,
+      "batting": [
+        {
+          "player": "GH Roderick",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 10,
+          "balls": 40,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "Kashif Ali",
+          "runs": 31,
+          "balls": 66,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 46.97,
+          "out": true
+        },
+        {
+          "player": "RP Jones",
+          "runs": 19,
+          "balls": 59,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.2,
+          "out": true
+        },
+        {
+          "player": "BMJ Allison",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Y Singh",
+          "runs": 7,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 24.14,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "EA Brookes",
+          "runs": 38,
+          "balls": 70,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 54.29,
+          "out": true
+        },
+        {
+          "player": "MJ Waite",
+          "runs": 8,
+          "balls": 54,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.81,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Porter",
+          "overs": "15.3",
+          "balls": 93,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 1.94
+        },
+        {
+          "player": "S Snater",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 48,
+          "wickets": 3,
+          "economy": 2.67
+        },
+        {
+          "player": "CAK Rajitha",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 44,
+          "wickets": 4,
+          "economy": 2.1
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Essex",
+      "runs": 110,
+      "extras": 5,
+      "balls": 263,
+      "batting": [
+        {
+          "player": "CWJ Allison",
+          "runs": 23,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 52.27,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 9,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.03,
+          "out": true
+        },
+        {
+          "player": "T Westley",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "RJ Das",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MJJ Critchley",
+          "runs": 17,
+          "balls": 39,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 43.59,
+          "out": true
+        },
+        {
+          "player": "MS Pepper",
+          "runs": 2,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "NRM Thain",
+          "runs": 23,
+          "balls": 57,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.35,
+          "out": true
+        },
+        {
+          "player": "SR Harmer",
+          "runs": 9,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.47,
+          "out": true
+        },
+        {
+          "player": "S Snater",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "CAK Rajitha",
+          "runs": 13,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 76.47,
+          "out": false
+        },
+        {
+          "player": "JA Porter",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TAI Taylor",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 2.57
+        },
+        {
+          "player": "BMJ Allison",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 2.64
+        },
+        {
+          "player": "Y Singh",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 3.6
+        },
+        {
+          "player": "MJ Waite",
+          "overs": "10.5",
+          "balls": 65,
+          "runs": 21,
+          "wickets": 6,
+          "economy": 1.94
+        },
+        {
+          "player": "EA Brookes",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 2.0
+        }
+      ]
+    }
+  ]
+}

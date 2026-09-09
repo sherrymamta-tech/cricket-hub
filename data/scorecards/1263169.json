@@ -1,0 +1,630 @@
+{
+  "id": "1263169",
+  "teams": [
+    "Pakistan",
+    "West Indies"
+  ],
+  "date": "2021-08-12",
+  "format": "Test",
+  "competition": "Pakistan tour of West Indies",
+  "venue": "Sabina Park, Kingston, Jamaica",
+  "result": "West Indies won by 1 wickets",
+  "winner": "West Indies",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 217,
+      "extras": 13,
+      "balls": 427,
+      "batting": [
+        {
+          "player": "Imran Butt",
+          "runs": 11,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true
+        },
+        {
+          "player": "Abid Ali",
+          "runs": 9,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 17,
+          "balls": 79,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.52,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 30,
+          "balls": 64,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 46.88,
+          "out": true
+        },
+        {
+          "player": "Fawad Alam",
+          "runs": 56,
+          "balls": 117,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 47.86,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 23,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 76.67,
+          "out": true
+        },
+        {
+          "player": "Faheem Ashraf",
+          "runs": 44,
+          "balls": 66,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 14,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 93.33,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KAJ Roach",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 2.94
+        },
+        {
+          "player": "JNT Seales",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 75,
+          "wickets": 3,
+          "economy": 4.55
+        },
+        {
+          "player": "KR Mayers",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 1.98
+        },
+        {
+          "player": "JO Holder",
+          "overs": "15.3",
+          "balls": 93,
+          "runs": 26,
+          "wickets": 3,
+          "economy": 1.68
+        },
+        {
+          "player": "RL Chase",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 4.62
+        },
+        {
+          "player": "JA Warrican",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "runs": 253,
+      "extras": 20,
+      "balls": 544,
+      "batting": [
+        {
+          "player": "KC Brathwaite",
+          "runs": 97,
+          "balls": 221,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 43.89,
+          "out": true
+        },
+        {
+          "player": "KOA Powell",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NE Bonner",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RL Chase",
+          "runs": 21,
+          "balls": 51,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "J Blackwood",
+          "runs": 22,
+          "balls": 54,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.74,
+          "out": true
+        },
+        {
+          "player": "KR Mayers",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 58,
+          "balls": 108,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 53.7,
+          "out": true
+        },
+        {
+          "player": "J Da Silva",
+          "runs": 21,
+          "balls": 73,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 28.77,
+          "out": true
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 13,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.9,
+          "out": true
+        },
+        {
+          "player": "JA Warrican",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "JNT Seales",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Abbas",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 2.0
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "21.5",
+          "balls": 131,
+          "runs": 71,
+          "wickets": 4,
+          "economy": 3.25
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 3.54
+        },
+        {
+          "player": "Faheem Ashraf",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 2.64
+        },
+        {
+          "player": "Hasan Ali",
+          "overs": "19.5",
+          "balls": 119,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 2.77
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Pakistan",
+      "runs": 203,
+      "extras": 8,
+      "balls": 504,
+      "batting": [
+        {
+          "player": "Imran Butt",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Abid Ali",
+          "runs": 34,
+          "balls": 66,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 51.52,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 23,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.33,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 55,
+          "balls": 160,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 34.38,
+          "out": true
+        },
+        {
+          "player": "Fawad Alam",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 30,
+          "balls": 63,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 47.62,
+          "out": true
+        },
+        {
+          "player": "Faheem Ashraf",
+          "runs": 20,
+          "balls": 92,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.74,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 4,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 28,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 107.69,
+          "out": true
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KAJ Roach",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 31,
+          "wickets": 3,
+          "economy": 1.63
+        },
+        {
+          "player": "JNT Seales",
+          "overs": "15.5",
+          "balls": 95,
+          "runs": 56,
+          "wickets": 5,
+          "economy": 3.54
+        },
+        {
+          "player": "KR Mayers",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 2.47
+        },
+        {
+          "player": "JO Holder",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 1.98
+        },
+        {
+          "player": "JA Warrican",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "RL Chase",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "KC Brathwaite",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "West Indies",
+      "runs": 168,
+      "extras": 13,
+      "balls": 342,
+      "batting": [
+        {
+          "player": "KC Brathwaite",
+          "runs": 2,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.76,
+          "out": true
+        },
+        {
+          "player": "KOA Powell",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "NE Bonner",
+          "runs": 5,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.81,
+          "out": true
+        },
+        {
+          "player": "RL Chase",
+          "runs": 22,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.29,
+          "out": true
+        },
+        {
+          "player": "J Blackwood",
+          "runs": 55,
+          "balls": 78,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 70.51,
+          "out": true
+        },
+        {
+          "player": "KR Mayers",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 16,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.02,
+          "out": true
+        },
+        {
+          "player": "J Da Silva",
+          "runs": 13,
+          "balls": 42,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.95,
+          "out": true
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 30,
+          "balls": 52,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.69,
+          "out": false
+        },
+        {
+          "player": "JA Warrican",
+          "runs": 6,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "JNT Seales",
+          "runs": 2,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Abbas",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 2.42
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 56,
+          "wickets": 4,
+          "economy": 3.26
+        },
+        {
+          "player": "Hasan Ali",
+          "overs": "16.5",
+          "balls": 101,
+          "runs": 39,
+          "wickets": 3,
+          "economy": 2.32
+        },
+        {
+          "player": "Faheem Ashraf",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 3.88
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 4.33
+        }
+      ]
+    }
+  ]
+}

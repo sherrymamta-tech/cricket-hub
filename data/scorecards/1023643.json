@@ -1,0 +1,287 @@
+{
+  "id": "1023643",
+  "teams": [
+    "Melbourne Stars",
+    "Sydney Sixers"
+  ],
+  "date": "2017-01-21",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Melbourne Cricket Ground",
+  "result": "Sydney Sixers won by 3 wickets",
+  "winner": "Sydney Sixers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Melbourne Stars",
+      "runs": 156,
+      "extras": 4,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "RJ Quiney",
+          "runs": 35,
+          "balls": 19,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 184.21,
+          "out": true
+        },
+        {
+          "player": "LJ Wright",
+          "runs": 62,
+          "balls": 49,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 126.53,
+          "out": true
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 39,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 108.33,
+          "out": true
+        },
+        {
+          "player": "EP Gulbis",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SE Gotch",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "DJ Hussey",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "SB Harper",
+          "runs": 5,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 250.0,
+          "out": true
+        },
+        {
+          "player": "BW Hilfenhaus",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SM Boland",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Bird",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 9.25
+        },
+        {
+          "player": "J Botha",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 9.67
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 10.33
+        },
+        {
+          "player": "MC Henriques",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 25,
+          "wickets": 3,
+          "economy": 5.77
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 4.56
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Sixers",
+      "runs": 160,
+      "extras": 11,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "DP Hughes",
+          "runs": 34,
+          "balls": 34,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MJ Lumb",
+          "runs": 6,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 20,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 117.65,
+          "out": true
+        },
+        {
+          "player": "NJ Maddinson",
+          "runs": 14,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 107.69,
+          "out": true
+        },
+        {
+          "player": "BJ Haddin",
+          "runs": 10,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "J Botha",
+          "runs": 25,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 178.57,
+          "out": true
+        },
+        {
+          "player": "SA Abbott",
+          "runs": 33,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 173.68,
+          "out": false
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "runs": 4,
+          "balls": 1,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 400.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Beer",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "player": "BW Hilfenhaus",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 7.14
+        },
+        {
+          "player": "SM Boland",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 37,
+          "wickets": 3,
+          "economy": 7.93
+        },
+        {
+          "player": "EP Gulbis",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "L Bowe",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 8.4
+        }
+      ]
+    }
+  ]
+}

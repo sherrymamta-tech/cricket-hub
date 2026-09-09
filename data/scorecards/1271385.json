@@ -1,0 +1,464 @@
+{
+  "id": "1271385",
+  "teams": [
+    "Glamorgan",
+    "Essex"
+  ],
+  "date": "2021-08-30",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Sophia Gardens, Cardiff",
+  "result": "Essex won by 74 runs",
+  "winner": "Essex",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Glamorgan",
+      "runs": 134,
+      "extras": 2,
+      "balls": 269,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 31,
+          "balls": 62,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SJ Reingold",
+          "runs": 9,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.14,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 13,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DA Douthwaite",
+          "runs": 39,
+          "balls": 69,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 56.52,
+          "out": true
+        },
+        {
+          "player": "AG Salter",
+          "runs": 7,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 18.42,
+          "out": true
+        },
+        {
+          "player": "T van der Gugten",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "LJ Carey",
+          "runs": 29,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 120.83,
+          "out": true
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Porter",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 3.27
+        },
+        {
+          "player": "SJ Cook",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 1.57
+        },
+        {
+          "player": "S Snater",
+          "overs": "11.5",
+          "balls": 71,
+          "runs": 41,
+          "wickets": 6,
+          "economy": 3.46
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 3.07
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Essex",
+      "runs": 320,
+      "extras": 27,
+      "balls": 611,
+      "batting": [
+        {
+          "player": "NLJ Browne",
+          "runs": 102,
+          "balls": 223,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 45.74,
+          "out": true
+        },
+        {
+          "player": "AN Cook",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T Westley",
+          "runs": 8,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": true
+        },
+        {
+          "player": "DW Lawrence",
+          "runs": 34,
+          "balls": 96,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 35.42,
+          "out": true
+        },
+        {
+          "player": "MS Pepper",
+          "runs": 63,
+          "balls": 89,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 70.79,
+          "out": true
+        },
+        {
+          "player": "JS Rymell",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AJA Wheater",
+          "runs": 36,
+          "balls": 74,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 48.65,
+          "out": true
+        },
+        {
+          "player": "SR Harmer",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "S Snater",
+          "runs": 48,
+          "balls": 71,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 67.61,
+          "out": true
+        },
+        {
+          "player": "SJ Cook",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Hogan",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 2.47
+        },
+        {
+          "player": "LJ Carey",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 63,
+          "wickets": 3,
+          "economy": 3.5
+        },
+        {
+          "player": "T van der Gugten",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 61,
+          "wickets": 1,
+          "economy": 3.39
+        },
+        {
+          "player": "AG Salter",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 2.19
+        },
+        {
+          "player": "DL Lloyd",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 2.5
+        },
+        {
+          "player": "DA Douthwaite",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 72,
+          "wickets": 1,
+          "economy": 5.33
+        },
+        {
+          "player": "SJ Reingold",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 16,
+          "wickets": 3,
+          "economy": 2.67
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Glamorgan",
+      "runs": 112,
+      "extras": 4,
+      "balls": 203,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SJ Reingold",
+          "runs": 4,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.05,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 47,
+          "balls": 73,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 64.38,
+          "out": false
+        },
+        {
+          "player": "DA Douthwaite",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "AG Salter",
+          "runs": 11,
+          "balls": 56,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 19.64,
+          "out": true
+        },
+        {
+          "player": "T van der Gugten",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "LJ Carey",
+          "runs": 29,
+          "balls": 17,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 170.59,
+          "out": true
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Porter",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 35,
+          "wickets": 3,
+          "economy": 4.38
+        },
+        {
+          "player": "SJ Cook",
+          "overs": "10.5",
+          "balls": 65,
+          "runs": 37,
+          "wickets": 5,
+          "economy": 3.42
+        },
+        {
+          "player": "S Snater",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 2.83
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "T Westley",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    }
+  ]
+}

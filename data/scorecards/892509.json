@@ -1,0 +1,524 @@
+{
+  "id": "892509",
+  "teams": [
+    "Australia",
+    "New Zealand"
+  ],
+  "date": "2015-11-05",
+  "format": "Test",
+  "competition": "Trans-Tasman Trophy",
+  "venue": "Brisbane Cricket Ground, Woolloongabba",
+  "result": "Australia won by 208 runs",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 556,
+      "extras": 17,
+      "balls": 792,
+      "batting": [
+        {
+          "player": "JA Burns",
+          "runs": 71,
+          "balls": 120,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 59.17,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 163,
+          "balls": 226,
+          "fours": 21,
+          "sixes": 1,
+          "strike_rate": 72.12,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 174,
+          "balls": 241,
+          "fours": 18,
+          "sixes": 2,
+          "strike_rate": 72.2,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 48,
+          "balls": 78,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "AC Voges",
+          "runs": 83,
+          "balls": 127,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 65.35,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "24.2",
+          "balls": 146,
+          "runs": 75,
+          "wickets": 1,
+          "economy": 3.08
+        },
+        {
+          "player": "TA Boult",
+          "overs": "29.0",
+          "balls": 174,
+          "runs": 128,
+          "wickets": 1,
+          "economy": 4.41
+        },
+        {
+          "player": "DAJ Bracewell",
+          "overs": "27.4",
+          "balls": 166,
+          "runs": 107,
+          "wickets": 0,
+          "economy": 3.87
+        },
+        {
+          "player": "MD Craig",
+          "overs": "31.0",
+          "balls": 186,
+          "runs": 157,
+          "wickets": 0,
+          "economy": 5.06
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "11.4",
+          "balls": 70,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 4.29
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 4.68
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 317,
+      "extras": 12,
+      "balls": 502,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 23,
+          "balls": 58,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.66,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 47,
+          "balls": 94,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 140,
+          "balls": 178,
+          "fours": 24,
+          "sixes": 0,
+          "strike_rate": 78.65,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 32,
+          "balls": 59,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 54.24,
+          "out": true
+        },
+        {
+          "player": "MD Craig",
+          "runs": 24,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 77.42,
+          "out": true
+        },
+        {
+          "player": "DAJ Bracewell",
+          "runs": 16,
+          "balls": 46,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.78,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 14,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 59,
+          "wickets": 4,
+          "economy": 3.31
+        },
+        {
+          "player": "MG Johnson",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 105,
+          "wickets": 3,
+          "economy": 4.96
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 71,
+          "wickets": 1,
+          "economy": 3.35
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 2.76
+        },
+        {
+          "player": "MR Marsh",
+          "overs": "5.3",
+          "balls": 33,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 5.82
+        },
+        {
+          "player": "AC Voges",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Australia",
+      "runs": 264,
+      "extras": 6,
+      "balls": 257,
+      "batting": [
+        {
+          "player": "JA Burns",
+          "runs": 129,
+          "balls": 124,
+          "fours": 14,
+          "sixes": 4,
+          "strike_rate": 104.03,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 116,
+          "balls": 113,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 102.65,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 9,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": false
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "AC Voges",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 61,
+          "wickets": 1,
+          "economy": 7.62
+        },
+        {
+          "player": "DAJ Bracewell",
+          "overs": "11.4",
+          "balls": 70,
+          "runs": 63,
+          "wickets": 0,
+          "economy": 5.4
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 6.65
+        },
+        {
+          "player": "MD Craig",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 79,
+          "wickets": 3,
+          "economy": 5.64
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "New Zealand",
+      "runs": 295,
+      "extras": 15,
+      "balls": 534,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 29,
+          "balls": 71,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 40.85,
+          "out": true
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 23,
+          "balls": 133,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 17.29,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 59,
+          "balls": 75,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 78.67,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 26,
+          "balls": 47,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 55.32,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 80,
+          "balls": 81,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 98.77,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 3,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 14,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.16,
+          "out": true
+        },
+        {
+          "player": "MD Craig",
+          "runs": 26,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 92.86,
+          "out": false
+        },
+        {
+          "player": "DAJ Bracewell",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 15,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 57.69,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "20.4",
+          "balls": 124,
+          "runs": 71,
+          "wickets": 2,
+          "economy": 3.44
+        },
+        {
+          "player": "MG Johnson",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 3.03
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 73,
+          "wickets": 2,
+          "economy": 4.06
+        },
+        {
+          "player": "MR Marsh",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 2.46
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 68,
+          "wickets": 3,
+          "economy": 3.24
+        }
+      ]
+    }
+  ]
+}

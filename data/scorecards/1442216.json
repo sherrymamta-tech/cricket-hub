@@ -1,0 +1,607 @@
+{
+  "id": "1442216",
+  "teams": [
+    "Pakistan",
+    "England"
+  ],
+  "date": "2024-10-15",
+  "format": "Test",
+  "competition": "England tour of Pakistan",
+  "venue": "Multan Cricket Stadium",
+  "result": "Pakistan won by 152 runs",
+  "winner": "Pakistan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 366,
+      "extras": 12,
+      "balls": 746,
+      "batting": [
+        {
+          "player": "Abdullah Shafique",
+          "runs": 7,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Saim Ayub",
+          "runs": 77,
+          "balls": 160,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 48.12,
+          "out": true
+        },
+        {
+          "player": "Shan Masood",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "Kamran Ghulam",
+          "runs": 118,
+          "balls": 224,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 52.68,
+          "out": true
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 4,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 41,
+          "balls": 97,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 42.27,
+          "out": true
+        },
+        {
+          "player": "Agha Salman",
+          "runs": 31,
+          "balls": 53,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 58.49,
+          "out": true
+        },
+        {
+          "player": "Aamer Jamal",
+          "runs": 37,
+          "balls": 69,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 53.62,
+          "out": true
+        },
+        {
+          "player": "Sajid Khan",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "Nauman Ali",
+          "runs": 32,
+          "balls": 64,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Zahid Mahmood",
+          "runs": 2,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.52,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Potts",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 67,
+          "wickets": 2,
+          "economy": 2.58
+        },
+        {
+          "player": "BA Carse",
+          "overs": "20.5",
+          "balls": 125,
+          "runs": 54,
+          "wickets": 3,
+          "economy": 2.59
+        },
+        {
+          "player": "MJ Leach",
+          "overs": "38.3",
+          "balls": 231,
+          "runs": 115,
+          "wickets": 4,
+          "economy": 2.99
+        },
+        {
+          "player": "Shoaib Bashir",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 85,
+          "wickets": 1,
+          "economy": 3.04
+        },
+        {
+          "player": "JE Root",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 4.2
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 291,
+      "extras": 12,
+      "balls": 408,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 27,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 114,
+          "balls": 129,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 88.37,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 29,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 78.38,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 34,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 62.96,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 9,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "BA Carse",
+          "runs": 4,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.79,
+          "out": true
+        },
+        {
+          "player": "JL Smith",
+          "runs": 21,
+          "balls": 55,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.18,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "MJ Leach",
+          "runs": 25,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "Shoaib Bashir",
+          "runs": 9,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.37,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Aamer Jamal",
+          "overs": "6.3",
+          "balls": 39,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "Sajid Khan",
+          "overs": "26.2",
+          "balls": 158,
+          "runs": 112,
+          "wickets": 7,
+          "economy": 4.25
+        },
+        {
+          "player": "Nauman Ali",
+          "overs": "28.1",
+          "balls": 169,
+          "runs": 104,
+          "wickets": 3,
+          "economy": 3.69
+        },
+        {
+          "player": "Zahid Mahmood",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "Agha Salman",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Pakistan",
+      "runs": 221,
+      "extras": 17,
+      "balls": 359,
+      "batting": [
+        {
+          "player": "Abdullah Shafique",
+          "runs": 4,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.05,
+          "out": true
+        },
+        {
+          "player": "Saim Ayub",
+          "runs": 22,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.41,
+          "out": true
+        },
+        {
+          "player": "Shan Masood",
+          "runs": 11,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true
+        },
+        {
+          "player": "Kamran Ghulam",
+          "runs": 26,
+          "balls": 39,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 31,
+          "balls": 51,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.78,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 23,
+          "balls": 43,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.49,
+          "out": true
+        },
+        {
+          "player": "Agha Salman",
+          "runs": 63,
+          "balls": 89,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 70.79,
+          "out": true
+        },
+        {
+          "player": "Aamer Jamal",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "Nauman Ali",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Sajid Khan",
+          "runs": 22,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 51.16,
+          "out": true
+        },
+        {
+          "player": "Zahid Mahmood",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Leach",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 70,
+          "wickets": 3,
+          "economy": 4.04
+        },
+        {
+          "player": "Shoaib Bashir",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 71,
+          "wickets": 4,
+          "economy": 3.74
+        },
+        {
+          "player": "JE Root",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "BA Carse",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 3.27
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 3.56
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 3.4
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "England",
+      "runs": 144,
+      "extras": 5,
+      "balls": 201,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 22,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.89,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 18,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 16,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 76.19,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 37,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 102.78,
+          "out": true
+        },
+        {
+          "player": "JL Smith",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "BA Carse",
+          "runs": 27,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 84.38,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 9,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": false
+        },
+        {
+          "player": "MJ Leach",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "Shoaib Bashir",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Sajid Khan",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 95,
+          "wickets": 2,
+          "economy": 5.59
+        },
+        {
+          "player": "Nauman Ali",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 49,
+          "wickets": 8,
+          "economy": 2.97
+        }
+      ]
+    }
+  ]
+}

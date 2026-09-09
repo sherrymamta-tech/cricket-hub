@@ -1,0 +1,605 @@
+{
+  "id": "1119551",
+  "teams": [
+    "India",
+    "England"
+  ],
+  "date": "2018-08-18",
+  "format": "Test",
+  "competition": "India tour of Ireland and England",
+  "venue": "Trent Bridge",
+  "result": "India won by 203 runs",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 329,
+      "extras": 19,
+      "balls": 570,
+      "batting": [
+        {
+          "player": "S Dhawan",
+          "runs": 35,
+          "balls": 65,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 23,
+          "balls": 53,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 43.4,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 14,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.16,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 97,
+          "balls": 153,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 63.4,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 81,
+          "balls": 131,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 61.83,
+          "out": true
+        },
+        {
+          "player": "HH Pandya",
+          "runs": 18,
+          "balls": 58,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 31.03,
+          "out": true
+        },
+        {
+          "player": "RR Pant",
+          "runs": 24,
+          "balls": 51,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 47.06,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 14,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 82.35,
+          "out": true
+        },
+        {
+          "player": "I Sharma",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": false
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "JJ Bumrah",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "25.5",
+          "balls": 155,
+          "runs": 65,
+          "wickets": 3,
+          "economy": 2.52
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 78,
+          "wickets": 3,
+          "economy": 3.12
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 59,
+          "wickets": 0,
+          "economy": 3.89
+        },
+        {
+          "player": "CR Woakes",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 81,
+          "wickets": 3,
+          "economy": 4.05
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 5.11
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 161,
+      "extras": 8,
+      "balls": 233,
+      "batting": [
+        {
+          "player": "AN Cook",
+          "runs": 29,
+          "balls": 42,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 69.05,
+          "out": true
+        },
+        {
+          "player": "KK Jennings",
+          "runs": 20,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 10,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 16,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.17,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 15,
+          "balls": 42,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 10,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 39,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 121.88,
+          "out": true
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 8,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 160.0,
+          "out": true
+        },
+        {
+          "player": "AU Rashid",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Shami",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 61,
+          "wickets": 1,
+          "economy": 6.1
+        },
+        {
+          "player": "JJ Bumrah",
+          "overs": "12.4",
+          "balls": 76,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 2.92
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "I Sharma",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 3.56
+        },
+        {
+          "player": "HH Pandya",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 28,
+          "wickets": 5,
+          "economy": 4.54
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "India",
+      "runs": 352,
+      "extras": 11,
+      "balls": 661,
+      "batting": [
+        {
+          "player": "S Dhawan",
+          "runs": 44,
+          "balls": 63,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 69.84,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 36,
+          "balls": 33,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 109.09,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 72,
+          "balls": 208,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 34.62,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 103,
+          "balls": 197,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 52.28,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 29,
+          "balls": 94,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 30.85,
+          "out": true
+        },
+        {
+          "player": "RR Pant",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "HH Pandya",
+          "runs": 52,
+          "balls": 53,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 98.11,
+          "out": false
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 2.55
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 62,
+          "wickets": 0,
+          "economy": 3.88
+        },
+        {
+          "player": "CR Woakes",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 2.36
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 72,
+          "wickets": 2,
+          "economy": 3.57
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 101,
+          "wickets": 3,
+          "economy": 3.74
+        },
+        {
+          "player": "JE Root",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "England",
+      "runs": 317,
+      "extras": 22,
+      "balls": 633,
+      "batting": [
+        {
+          "player": "AN Cook",
+          "runs": 17,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 43.59,
+          "out": true
+        },
+        {
+          "player": "KK Jennings",
+          "runs": 13,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.94,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 13,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.5,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 16,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.03,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 62,
+          "balls": 187,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 33.16,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 106,
+          "balls": 176,
+          "fours": 21,
+          "sixes": 0,
+          "strike_rate": 60.23,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "AU Rashid",
+          "runs": 33,
+          "balls": 64,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 51.56,
+          "out": false
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 20,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 68.97,
+          "out": true
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 11,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.83,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JJ Bumrah",
+          "overs": "29.2",
+          "balls": 176,
+          "runs": 89,
+          "wickets": 5,
+          "economy": 3.03
+        },
+        {
+          "player": "I Sharma",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 72,
+          "wickets": 2,
+          "economy": 3.57
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "22.5",
+          "balls": 137,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 2.1
+        },
+        {
+          "player": "Mohammed Shami",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 81,
+          "wickets": 1,
+          "economy": 4.26
+        },
+        {
+          "player": "HH Pandya",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 1.91
+        }
+      ]
+    }
+  ]
+}

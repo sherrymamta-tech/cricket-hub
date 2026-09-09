@@ -1,0 +1,95 @@
+{
+  "id": "1409487",
+  "teams": [
+    "Central Districts",
+    "Canterbury"
+  ],
+  "date": "2024-01-05",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "Hagley Oval, Christchurch",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Central Districts",
+      "runs": 21,
+      "extras": 2,
+      "balls": 30,
+      "batting": [
+        {
+          "player": "WA Young",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "BL Wiggins",
+          "runs": 8,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        },
+        {
+          "player": "JA Clarkson",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "2.5",
+          "balls": 17,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 4.24
+        },
+        {
+          "player": "W O'Rourke",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "MD Rae",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 5.14
+        }
+      ]
+    }
+  ]
+}

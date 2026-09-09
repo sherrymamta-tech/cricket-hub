@@ -1,0 +1,639 @@
+{
+  "id": "1125471",
+  "teams": [
+    "Ireland",
+    "Scotland"
+  ],
+  "date": "2017-11-29",
+  "format": "MDM",
+  "competition": "ICC Intercontinental Cup",
+  "venue": "Dubai International Cricket Stadium",
+  "result": "Ireland won by 203 runs",
+  "winner": "Ireland",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Ireland",
+      "runs": 251,
+      "extras": 11,
+      "balls": 493,
+      "batting": [
+        {
+          "player": "WTS Porterfield",
+          "runs": 28,
+          "balls": 39,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 71.79,
+          "out": true
+        },
+        {
+          "player": "PR Stirling",
+          "runs": 9,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "A Balbirnie",
+          "runs": 36,
+          "balls": 59,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 61.02,
+          "out": true
+        },
+        {
+          "player": "J Anderson",
+          "runs": 5,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "GC Wilson",
+          "runs": 21,
+          "balls": 64,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.81,
+          "out": true
+        },
+        {
+          "player": "Simi Singh",
+          "runs": 17,
+          "balls": 49,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.69,
+          "out": true
+        },
+        {
+          "player": "KJ O'Brien",
+          "runs": 78,
+          "balls": 97,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 80.41,
+          "out": false
+        },
+        {
+          "player": "GH Dockrell",
+          "runs": 15,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "WB Rankin",
+          "runs": 2,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        },
+        {
+          "player": "TJ Murtagh",
+          "runs": 18,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 72.0,
+          "out": true
+        },
+        {
+          "player": "PKD Chase",
+          "runs": 11,
+          "balls": 51,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.57,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SM Sharif",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 2.94
+        },
+        {
+          "player": "CB Sole",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 80,
+          "wickets": 3,
+          "economy": 5.45
+        },
+        {
+          "player": "SG Whittingham",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 24,
+          "wickets": 3,
+          "economy": 1.58
+        },
+        {
+          "player": "MRJ Watt",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 61,
+          "wickets": 3,
+          "economy": 2.35
+        },
+        {
+          "player": "MD Rao",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 3.8
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Scotland",
+      "runs": 141,
+      "extras": 11,
+      "balls": 315,
+      "batting": [
+        {
+          "player": "HG Munsey",
+          "runs": 38,
+          "balls": 59,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 64.41,
+          "out": true
+        },
+        {
+          "player": "KJ Coetzer",
+          "runs": 22,
+          "balls": 63,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 34.92,
+          "out": true
+        },
+        {
+          "player": "CS MacLeod",
+          "runs": 8,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 29.63,
+          "out": true
+        },
+        {
+          "player": "CD Wallace",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MH Cross",
+          "runs": 7,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "MRJ Watt",
+          "runs": 4,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "SM Sharif",
+          "runs": 26,
+          "balls": 73,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.62,
+          "out": false
+        },
+        {
+          "player": "MA Leask",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "CB Sole",
+          "runs": 12,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.71,
+          "out": true
+        },
+        {
+          "player": "MD Rao",
+          "runs": 1,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.0,
+          "out": true
+        },
+        {
+          "player": "SG Whittingham",
+          "runs": 5,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TJ Murtagh",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 1.51
+        },
+        {
+          "player": "WB Rankin",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 53,
+          "wickets": 4,
+          "economy": 3.97
+        },
+        {
+          "player": "PKD Chase",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 2.9
+        },
+        {
+          "player": "KJ O'Brien",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 14,
+          "wickets": 3,
+          "economy": 2.8
+        },
+        {
+          "player": "GH Dockrell",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 2.71
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Ireland",
+      "runs": 271,
+      "extras": 10,
+      "balls": 415,
+      "batting": [
+        {
+          "player": "WTS Porterfield",
+          "runs": 29,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 72.5,
+          "out": true
+        },
+        {
+          "player": "PR Stirling",
+          "runs": 12,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "A Balbirnie",
+          "runs": 21,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 72.41,
+          "out": true
+        },
+        {
+          "player": "J Anderson",
+          "runs": 14,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.0,
+          "out": true
+        },
+        {
+          "player": "GC Wilson",
+          "runs": 56,
+          "balls": 88,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "Simi Singh",
+          "runs": 59,
+          "balls": 116,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 50.86,
+          "out": true
+        },
+        {
+          "player": "KJ O'Brien",
+          "runs": 18,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "GH Dockrell",
+          "runs": 40,
+          "balls": 46,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 86.96,
+          "out": true
+        },
+        {
+          "player": "WB Rankin",
+          "runs": 12,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "TJ Murtagh",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "PKD Chase",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SM Sharif",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 4.9
+        },
+        {
+          "player": "CB Sole",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 3.91
+        },
+        {
+          "player": "SG Whittingham",
+          "overs": "14.5",
+          "balls": 89,
+          "runs": 70,
+          "wickets": 5,
+          "economy": 4.72
+        },
+        {
+          "player": "MRJ Watt",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 2.44
+        },
+        {
+          "player": "MD Rao",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 2.71
+        },
+        {
+          "player": "MA Leask",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "CS MacLeod",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 5.33
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Scotland",
+      "runs": 178,
+      "extras": 4,
+      "balls": 345,
+      "batting": [
+        {
+          "player": "KJ Coetzer",
+          "runs": 6,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "HG Munsey",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "CS MacLeod",
+          "runs": 33,
+          "balls": 72,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 45.83,
+          "out": true
+        },
+        {
+          "player": "CD Wallace",
+          "runs": 21,
+          "balls": 35,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "MH Cross",
+          "runs": 14,
+          "balls": 62,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.58,
+          "out": true
+        },
+        {
+          "player": "MRJ Watt",
+          "runs": 43,
+          "balls": 61,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 70.49,
+          "out": true
+        },
+        {
+          "player": "SM Sharif",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "MA Leask",
+          "runs": 33,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 117.86,
+          "out": true
+        },
+        {
+          "player": "CB Sole",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MD Rao",
+          "runs": 15,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.47,
+          "out": true
+        },
+        {
+          "player": "SG Whittingham",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TJ Murtagh",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 3.27
+        },
+        {
+          "player": "WB Rankin",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 3.08
+        },
+        {
+          "player": "PKD Chase",
+          "overs": "11.3",
+          "balls": 69,
+          "runs": 54,
+          "wickets": 4,
+          "economy": 4.7
+        },
+        {
+          "player": "GH Dockrell",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 2.23
+        },
+        {
+          "player": "KJ O'Brien",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 1.71
+        },
+        {
+          "player": "Simi Singh",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 3.5
+        }
+      ]
+    }
+  ]
+}

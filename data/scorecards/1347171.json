@@ -1,0 +1,542 @@
+{
+  "id": "1347171",
+  "teams": [
+    "Glamorgan",
+    "Sussex"
+  ],
+  "date": "2023-05-18",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "County Ground, Hove",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Glamorgan",
+      "runs": 123,
+      "extras": 6,
+      "balls": 229,
+      "batting": [
+        {
+          "player": "Zain-ul-Hassan",
+          "runs": 22,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 47.83,
+          "out": true
+        },
+        {
+          "player": "EJ Byrom",
+          "runs": 5,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 8,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 18,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 105.88,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 20,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 46.51,
+          "out": true
+        },
+        {
+          "player": "MG Neser",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "T van der Gugten",
+          "runs": 5,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "JAR Harris",
+          "runs": 28,
+          "balls": 33,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 84.85,
+          "out": false
+        },
+        {
+          "player": "JP McIlroy",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OE Robinson",
+          "overs": "12.3",
+          "balls": 75,
+          "runs": 29,
+          "wickets": 4,
+          "economy": 2.32
+        },
+        {
+          "player": "A Karvelas",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 2.81
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 5.29
+        },
+        {
+          "player": "TJ Haines",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 3.38
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sussex",
+      "runs": 481,
+      "extras": 20,
+      "balls": 721,
+      "batting": [
+        {
+          "player": "AGH Orr",
+          "runs": 40,
+          "balls": 42,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 95.24,
+          "out": true
+        },
+        {
+          "player": "TJ Haines",
+          "runs": 58,
+          "balls": 81,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 71.6,
+          "out": true
+        },
+        {
+          "player": "TP Alsop",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 89,
+          "balls": 183,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 48.63,
+          "out": true
+        },
+        {
+          "player": "JM Coles",
+          "runs": 138,
+          "balls": 223,
+          "fours": 21,
+          "sixes": 0,
+          "strike_rate": 61.88,
+          "out": true
+        },
+        {
+          "player": "OJ Carter",
+          "runs": 28,
+          "balls": 61,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 45.9,
+          "out": true
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "runs": 73,
+          "balls": 64,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 114.06,
+          "out": true
+        },
+        {
+          "player": "JJ Carson",
+          "runs": 19,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "A Karvelas",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 13,
+          "balls": 8,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 162.5,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Neser",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 85,
+          "wickets": 3,
+          "economy": 3.86
+        },
+        {
+          "player": "T van der Gugten",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 91,
+          "wickets": 1,
+          "economy": 4.14
+        },
+        {
+          "player": "JP McIlroy",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 91,
+          "wickets": 2,
+          "economy": 3.37
+        },
+        {
+          "player": "JAR Harris",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 105,
+          "wickets": 2,
+          "economy": 4.2
+        },
+        {
+          "player": "Zain-ul-Hassan",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 54,
+          "wickets": 0,
+          "economy": 3.38
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 7.95
+        },
+        {
+          "player": "KS Carlson",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 2,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Glamorgan",
+      "runs": 737,
+      "extras": 64,
+      "balls": 1257,
+      "batting": [
+        {
+          "player": "Zain-ul-Hassan",
+          "runs": 43,
+          "balls": 112,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 38.39,
+          "out": true
+        },
+        {
+          "player": "EJ Byrom",
+          "runs": 57,
+          "balls": 67,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 85.07,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 138,
+          "balls": 247,
+          "fours": 16,
+          "sixes": 4,
+          "strike_rate": 55.87,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 192,
+          "balls": 279,
+          "fours": 18,
+          "sixes": 2,
+          "strike_rate": 68.82,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 26,
+          "balls": 55,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 47.27,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 45,
+          "balls": 104,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 43.27,
+          "out": true
+        },
+        {
+          "player": "MG Neser",
+          "runs": 123,
+          "balls": 198,
+          "fours": 15,
+          "sixes": 2,
+          "strike_rate": 62.12,
+          "out": true
+        },
+        {
+          "player": "T van der Gugten",
+          "runs": 14,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 23.33,
+          "out": true
+        },
+        {
+          "player": "JAR Harris",
+          "runs": 24,
+          "balls": 75,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 32.0,
+          "out": true
+        },
+        {
+          "player": "JP McIlroy",
+          "runs": 11,
+          "balls": 59,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 18.64,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OE Robinson",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 2.88
+        },
+        {
+          "player": "A Karvelas",
+          "overs": "37.2",
+          "balls": 224,
+          "runs": 113,
+          "wickets": 2,
+          "economy": 3.03
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 105,
+          "wickets": 0,
+          "economy": 4.53
+        },
+        {
+          "player": "TJ Haines",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 65,
+          "wickets": 1,
+          "economy": 2.58
+        },
+        {
+          "player": "JJ Carson",
+          "overs": "54.2",
+          "balls": 326,
+          "runs": 219,
+          "wickets": 2,
+          "economy": 4.03
+        },
+        {
+          "player": "JM Coles",
+          "overs": "31.4",
+          "balls": 190,
+          "runs": 104,
+          "wickets": 2,
+          "economy": 3.28
+        },
+        {
+          "player": "SPD Smith",
+          "overs": "10.5",
+          "balls": 65,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 5.08
+        },
+        {
+          "player": "TP Alsop",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 2.14
+        },
+        {
+          "player": "AGH Orr",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Sussex",
+      "runs": 1,
+      "extras": 0,
+      "balls": 6,
+      "batting": [
+        {
+          "player": "AGH Orr",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": false
+        },
+        {
+          "player": "A Karvelas",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Labuschagne",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    }
+  ]
+}

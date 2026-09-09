@@ -1,0 +1,276 @@
+{
+  "id": "1310188",
+  "teams": [
+    "Jersey",
+    "Guernsey"
+  ],
+  "date": "2022-05-20",
+  "format": "T20",
+  "competition": "Inter-Insular T20 Series",
+  "venue": "College Field, St Peter Port",
+  "result": "Jersey won by 37 runs",
+  "winner": "Jersey",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Jersey",
+      "runs": 178,
+      "extras": 10,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "H Carlyon",
+          "runs": 23,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 109.52,
+          "out": true
+        },
+        {
+          "player": "NA Greenwood",
+          "runs": 48,
+          "balls": 27,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 177.78,
+          "out": true
+        },
+        {
+          "player": "AM Tribe",
+          "runs": 19,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JW Jenner",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "J Sumerauer",
+          "runs": 54,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 158.82,
+          "out": false
+        },
+        {
+          "player": "DG Blampied",
+          "runs": 22,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MWR Stokes",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 10.32
+        },
+        {
+          "player": "W Peatfield",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 7.2
+        },
+        {
+          "player": "BE Johnson",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 18.0
+        },
+        {
+          "player": "LT Bichard",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "ACF Stokes",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 3,
+          "economy": 4.5
+        },
+        {
+          "player": "DR Hooper",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "LC Le Tissier",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Guernsey",
+      "runs": 141,
+      "extras": 5,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "IDA Damarell",
+          "runs": 20,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 105.26,
+          "out": true
+        },
+        {
+          "player": "LC Le Tissier",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "J Butler",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "MWR Stokes",
+          "runs": 48,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 171.43,
+          "out": true
+        },
+        {
+          "player": "LB Ferbrache",
+          "runs": 13,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.22,
+          "out": true
+        },
+        {
+          "player": "T Nightingale",
+          "runs": 19,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 105.56,
+          "out": true
+        },
+        {
+          "player": "ACF Stokes",
+          "runs": 5,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "DR Hooper",
+          "runs": 7,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "W Peatfield",
+          "runs": 12,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "H Carlyon",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 3,
+          "economy": 3.5
+        },
+        {
+          "player": "D Birrell",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.67
+        },
+        {
+          "player": "DG Blampied",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "CW Perchard",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 6.24
+        },
+        {
+          "player": "EJB Miles",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 5.76
+        },
+        {
+          "player": "J Sumerauer",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 10.5
+        }
+      ]
+    }
+  ]
+}

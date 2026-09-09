@@ -1,0 +1,559 @@
+{
+  "id": "1410281",
+  "teams": [
+    "Sussex",
+    "Glamorgan"
+  ],
+  "date": "2024-05-10",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Sophia Gardens, Cardiff",
+  "result": "Glamorgan won by 9 wickets",
+  "winner": "Glamorgan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sussex",
+      "runs": 278,
+      "extras": 9,
+      "balls": 526,
+      "batting": [
+        {
+          "player": "TGR Clark",
+          "runs": 18,
+          "balls": 51,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "TJ Haines",
+          "runs": 19,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 86.36,
+          "out": true
+        },
+        {
+          "player": "TP Alsop",
+          "runs": 29,
+          "balls": 79,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 36.71,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 41,
+          "balls": 77,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 53.25,
+          "out": true
+        },
+        {
+          "player": "JM Coles",
+          "runs": 19,
+          "balls": 64,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 29.69,
+          "out": true
+        },
+        {
+          "player": "JA Simpson",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "runs": 48,
+          "balls": 64,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "DJ Lamb",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JJ Carson",
+          "runs": 39,
+          "balls": 52,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "A Karvelas",
+          "runs": 39,
+          "balls": 71,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 54.93,
+          "out": false
+        },
+        {
+          "player": "JNT Seales",
+          "runs": 17,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 44.74,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mir Hamza",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 70,
+          "wickets": 4,
+          "economy": 3.0
+        },
+        {
+          "player": "JAR Harris",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 94,
+          "wickets": 4,
+          "economy": 3.76
+        },
+        {
+          "player": "AW Gorvin",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 2.6
+        },
+        {
+          "player": "Zain-ul-Hassan",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 2.77
+        },
+        {
+          "player": "MS Crane",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "KS Carlson",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Glamorgan",
+      "runs": 411,
+      "extras": 5,
+      "balls": 615,
+      "batting": [
+        {
+          "player": "EJ Byrom",
+          "runs": 12,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 5,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "MS Crane",
+          "runs": 12,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 5,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 148,
+          "balls": 217,
+          "fours": 21,
+          "sixes": 0,
+          "strike_rate": 68.2,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 170,
+          "balls": 248,
+          "fours": 23,
+          "sixes": 3,
+          "strike_rate": 68.55,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Zain-ul-Hassan",
+          "runs": 25,
+          "balls": 45,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": false
+        },
+        {
+          "player": "JAR Harris",
+          "runs": 26,
+          "balls": 25,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 104.0,
+          "out": true
+        },
+        {
+          "player": "AW Gorvin",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Mir Hamza",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JNT Seales",
+          "overs": "23.3",
+          "balls": 141,
+          "runs": 103,
+          "wickets": 5,
+          "economy": 4.38
+        },
+        {
+          "player": "A Karvelas",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 72,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 3.64
+        },
+        {
+          "player": "DJ Lamb",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 66,
+          "wickets": 2,
+          "economy": 3.47
+        },
+        {
+          "player": "JM Coles",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 82,
+          "wickets": 0,
+          "economy": 4.56
+        },
+        {
+          "player": "TGR Clark",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 2.5
+        },
+        {
+          "player": "TJ Haines",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 3.67
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Sussex",
+      "runs": 188,
+      "extras": 6,
+      "balls": 298,
+      "batting": [
+        {
+          "player": "TGR Clark",
+          "runs": 8,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TJ Haines",
+          "runs": 14,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 107.69,
+          "out": true
+        },
+        {
+          "player": "TP Alsop",
+          "runs": 5,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "JM Coles",
+          "runs": 61,
+          "balls": 124,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 49.19,
+          "out": false
+        },
+        {
+          "player": "JA Simpson",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "runs": 70,
+          "balls": 74,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 94.59,
+          "out": true
+        },
+        {
+          "player": "DJ Lamb",
+          "runs": 5,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.78,
+          "out": true
+        },
+        {
+          "player": "JJ Carson",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "A Karvelas",
+          "runs": 15,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.24,
+          "out": true
+        },
+        {
+          "player": "JNT Seales",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mir Hamza",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 34,
+          "wickets": 3,
+          "economy": 2.4
+        },
+        {
+          "player": "JAR Harris",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 78,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "player": "AW Gorvin",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 41,
+          "wickets": 5,
+          "economy": 3.15
+        },
+        {
+          "player": "MS Crane",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 2.8
+        },
+        {
+          "player": "Zain-ul-Hassan",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "KS Carlson",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Glamorgan",
+      "runs": 58,
+      "extras": 0,
+      "balls": 47,
+      "batting": [
+        {
+          "player": "EJ Byrom",
+          "runs": 21,
+          "balls": 11,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 190.91,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 36,
+          "balls": 28,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": false
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JNT Seales",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 10.5
+        },
+        {
+          "player": "A Karvelas",
+          "overs": "3.5",
+          "balls": 23,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 8.61
+        },
+        {
+          "player": "DJ Lamb",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    }
+  ]
+}

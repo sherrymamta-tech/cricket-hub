@@ -1,0 +1,102 @@
+{
+  "id": "1355616",
+  "teams": [
+    "Southern Brave",
+    "London Spirit"
+  ],
+  "date": "2023-08-08",
+  "format": "T20",
+  "competition": "The Hundred Men's Competition",
+  "venue": "Lord's, London",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Southern Brave",
+      "runs": 34,
+      "extras": 1,
+      "balls": 27,
+      "batting": [
+        {
+          "player": "FH Allen",
+          "runs": 13,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 92.86,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 19,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 211.11,
+          "out": true
+        },
+        {
+          "player": "TH David",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Worrall",
+          "overs": "1.5",
+          "balls": 11,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 5.45
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "0.5",
+          "balls": 5,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 13.2
+        },
+        {
+          "player": "MJJ Critchley",
+          "overs": "0.5",
+          "balls": 5,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "LA Dawson",
+          "overs": "0.5",
+          "balls": 5,
+          "runs": 3,
+          "wickets": 1,
+          "economy": 3.6
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "0.1",
+          "balls": 1,
+          "runs": 0,
+          "wickets": 1,
+          "economy": 0.0
+        }
+      ]
+    }
+  ]
+}

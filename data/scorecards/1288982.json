@@ -1,0 +1,615 @@
+{
+  "id": "1288982",
+  "teams": [
+    "South Africa",
+    "New Zealand"
+  ],
+  "date": "2022-02-25",
+  "format": "Test",
+  "competition": "South Africa tour of New Zealand",
+  "venue": "Hagley Oval, Christchurch",
+  "result": "South Africa won by 198 runs",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 364,
+      "extras": 12,
+      "balls": 803,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 41,
+          "balls": 101,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 40.59,
+          "out": true
+        },
+        {
+          "player": "SJ Erwee",
+          "runs": 108,
+          "balls": 221,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 48.87,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 42,
+          "balls": 104,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 40.38,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 29,
+          "balls": 81,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 35.8,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 35,
+          "balls": 124,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.23,
+          "out": true
+        },
+        {
+          "player": "K Verreynne",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "PWA Mulder",
+          "runs": 14,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "M Jansen",
+          "runs": 37,
+          "balls": 51,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 72.55,
+          "out": false
+        },
+        {
+          "player": "K Rabada",
+          "runs": 6,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 36,
+          "balls": 50,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 72.0,
+          "out": true
+        },
+        {
+          "player": "L Sipamla",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "32.0",
+          "balls": 192,
+          "runs": 77,
+          "wickets": 1,
+          "economy": 2.41
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "35.0",
+          "balls": 210,
+          "runs": 92,
+          "wickets": 3,
+          "economy": 2.63
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 74,
+          "wickets": 2,
+          "economy": 2.72
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 1.96
+        },
+        {
+          "player": "N Wagner",
+          "overs": "31.3",
+          "balls": 189,
+          "runs": 105,
+          "wickets": 4,
+          "economy": 3.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 293,
+      "extras": 10,
+      "balls": 483,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 16,
+          "balls": 52,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 39,
+          "balls": 64,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 60.94,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 60,
+          "balls": 134,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 44.78,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 120,
+          "balls": 158,
+          "fours": 12,
+          "sixes": 3,
+          "strike_rate": 75.95,
+          "out": false
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 13,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.33,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 21,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 65,
+          "wickets": 5,
+          "economy": 3.42
+        },
+        {
+          "player": "M Jansen",
+          "overs": "22.1",
+          "balls": 133,
+          "runs": 99,
+          "wickets": 4,
+          "economy": 4.47
+        },
+        {
+          "player": "L Sipamla",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 3.03
+        },
+        {
+          "player": "PWA Mulder",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 4.74
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 2.88
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "South Africa",
+      "runs": 354,
+      "extras": 10,
+      "balls": 605,
+      "batting": [
+        {
+          "player": "SJ Erwee",
+          "runs": 8,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 13,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.43,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 14,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 31.82,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 45,
+          "balls": 85,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 23,
+          "balls": 52,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 44.23,
+          "out": true
+        },
+        {
+          "player": "K Verreynne",
+          "runs": 136,
+          "balls": 189,
+          "fours": 16,
+          "sixes": 1,
+          "strike_rate": 71.96,
+          "out": false
+        },
+        {
+          "player": "PWA Mulder",
+          "runs": 35,
+          "balls": 91,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "M Jansen",
+          "runs": 9,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.95,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 47,
+          "balls": 34,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 138.24,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "L Sipamla",
+          "runs": 10,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 90,
+          "wickets": 2,
+          "economy": 3.46
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 81,
+          "wickets": 2,
+          "economy": 3.38
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "21.5",
+          "balls": 131,
+          "runs": 86,
+          "wickets": 2,
+          "economy": 3.94
+        },
+        {
+          "player": "N Wagner",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 81,
+          "wickets": 2,
+          "economy": 3.52
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 2.67
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "New Zealand",
+      "runs": 227,
+      "extras": 2,
+      "balls": 564,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 92,
+          "balls": 188,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 48.94,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 7,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.88,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 24,
+          "balls": 72,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 44,
+          "balls": 109,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 40.37,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 18,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 12,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.17,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 17,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.46,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 10,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": false
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 0,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 2.4
+        },
+        {
+          "player": "M Jansen",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 64,
+          "wickets": 3,
+          "economy": 2.78
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "31.5",
+          "balls": 191,
+          "runs": 75,
+          "wickets": 3,
+          "economy": 2.36
+        },
+        {
+          "player": "L Sipamla",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 2.07
+        },
+        {
+          "player": "PWA Mulder",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 2.17
+        }
+      ]
+    }
+  ]
+}

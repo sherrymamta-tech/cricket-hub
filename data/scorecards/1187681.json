@@ -1,0 +1,278 @@
+{
+  "id": "1187681",
+  "teams": [
+    "New Zealand",
+    "India"
+  ],
+  "date": "2020-02-02",
+  "format": "T20",
+  "competition": "India tour of New Zealand",
+  "venue": "Bay Oval",
+  "result": "India won by 7 runs",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 163,
+      "extras": 7,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "KL Rahul",
+          "runs": 45,
+          "balls": 34,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 132.35,
+          "out": true
+        },
+        {
+          "player": "SV Samson",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 60,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 146.34,
+          "out": true
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 33,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 106.45,
+          "out": false
+        },
+        {
+          "player": "S Dube",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "MK Pandey",
+          "runs": 11,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 220.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 12.48
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "HK Bennett",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 156,
+      "extras": 5,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 15,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 250.0,
+          "out": true
+        },
+        {
+          "player": "TL Seifert",
+          "runs": 50,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 53,
+          "balls": 50,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 106.0,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 6,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 16,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 160.0,
+          "out": false
+        },
+        {
+          "player": "TG Southee",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "HK Bennett",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Washington Sundar",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 6.67
+        },
+        {
+          "player": "JJ Bumrah",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 12,
+          "wickets": 3,
+          "economy": 3.0
+        },
+        {
+          "player": "Navdeep Saini",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "SN Thakur",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 8.77
+        },
+        {
+          "player": "YS Chahal",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 6.72
+        },
+        {
+          "player": "S Dube",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 29.14
+        }
+      ]
+    }
+  ]
+}

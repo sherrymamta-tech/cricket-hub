@@ -1,0 +1,312 @@
+{
+  "id": "1507716",
+  "teams": [
+    "Sri Lanka",
+    "England"
+  ],
+  "date": "2026-01-22",
+  "format": "ODI",
+  "competition": "England tour of Sri Lanka",
+  "venue": "R Premadasa Stadium, Colombo",
+  "result": "Sri Lanka won by 19 runs",
+  "winner": "Sri Lanka",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "runs": 271,
+      "extras": 20,
+      "balls": 305,
+      "batting": [
+        {
+          "player": "P Nissanka",
+          "runs": 21,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "K Mishara",
+          "runs": 27,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 72.97,
+          "out": true
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 93,
+          "balls": 119,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 78.15,
+          "out": false
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 10,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.62,
+          "out": true
+        },
+        {
+          "player": "KIC Asalanka",
+          "runs": 17,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 106.25,
+          "out": true
+        },
+        {
+          "player": "J Liyanage",
+          "runs": 46,
+          "balls": 55,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 83.64,
+          "out": true
+        },
+        {
+          "player": "P Rathnayake",
+          "runs": 12,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "DN Wellalage",
+          "runs": 25,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 192.31,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Overton",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 71,
+          "wickets": 0,
+          "economy": 7.61
+        },
+        {
+          "player": "SM Curran",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 5.02
+        },
+        {
+          "player": "LA Dawson",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 3.05
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 4.4
+        },
+        {
+          "player": "Rehan Ahmed",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 65,
+          "wickets": 1,
+          "economy": 6.39
+        },
+        {
+          "player": "JG Bethell",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 6.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 252,
+      "extras": 15,
+      "balls": 306,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 62,
+          "balls": 76,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 81.58,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 61,
+          "balls": 91,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 67.03,
+          "out": true
+        },
+        {
+          "player": "JG Bethell",
+          "runs": 15,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.12,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 6,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 19,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 86.36,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "Rehan Ahmed",
+          "runs": 27,
+          "balls": 21,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "J Overton",
+          "runs": 34,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 178.95,
+          "out": true
+        },
+        {
+          "player": "LA Dawson",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "AU Rashid",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AM Fernando",
+          "overs": "8.4",
+          "balls": 52,
+          "runs": 65,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "PM Liyanagamage",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 39,
+          "wickets": 3,
+          "economy": 6.5
+        },
+        {
+          "player": "DM de Silva",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 2.75
+        },
+        {
+          "player": "DN Wellalage",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 4.5
+        },
+        {
+          "player": "KIC Asalanka",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 4.6
+        },
+        {
+          "player": "JDF Vandersay",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 3.84
+        },
+        {
+          "player": "K Mishara",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ]
+    }
+  ]
+}

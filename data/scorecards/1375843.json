@@ -1,0 +1,615 @@
+{
+  "id": "1375843",
+  "teams": [
+    "Australia",
+    "Pakistan"
+  ],
+  "date": "2023-12-26",
+  "format": "Test",
+  "competition": "Pakistan tour of Australia",
+  "venue": "Melbourne Cricket Ground",
+  "result": "Australia won by 79 runs",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 318,
+      "extras": 52,
+      "balls": 590,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 38,
+          "balls": 84,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 45.24,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 42,
+          "balls": 101,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 41.58,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 63,
+          "balls": 158,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 39.87,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 26,
+          "balls": 76,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 34.21,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 17,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 53.12,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 41,
+          "balls": 61,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 67.21,
+          "out": true
+        },
+        {
+          "player": "AT Carey",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 9,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 13,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.33,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 8,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "JR Hazlewood",
+          "runs": 5,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "27.2",
+          "balls": 164,
+          "runs": 105,
+          "wickets": 2,
+          "economy": 3.84
+        },
+        {
+          "player": "Mir Hamza",
+          "overs": "22.1",
+          "balls": 133,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 2.48
+        },
+        {
+          "player": "Hasan Ali",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 2.62
+        },
+        {
+          "player": "Aamer Jamal",
+          "overs": "19.5",
+          "balls": 119,
+          "runs": 73,
+          "wickets": 3,
+          "economy": 3.68
+        },
+        {
+          "player": "Agha Salman",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 4.4
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 264,
+      "extras": 23,
+      "balls": 447,
+      "batting": [
+        {
+          "player": "Abdullah Shafique",
+          "runs": 62,
+          "balls": 109,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 56.88,
+          "out": true
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 10,
+          "balls": 44,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.73,
+          "out": true
+        },
+        {
+          "player": "Shan Masood",
+          "runs": 54,
+          "balls": 76,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 71.05,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 9,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 31.03,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 42,
+          "balls": 52,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 80.77,
+          "out": true
+        },
+        {
+          "player": "Agha Salman",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "Aamer Jamal",
+          "runs": 33,
+          "balls": 80,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 41.25,
+          "out": false
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 21,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "Mir Hamza",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 75,
+          "wickets": 0,
+          "economy": 4.59
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 2.78
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 54,
+          "wickets": 5,
+          "economy": 2.7
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "18.5",
+          "balls": 113,
+          "runs": 74,
+          "wickets": 4,
+          "economy": 3.93
+        },
+        {
+          "player": "MR Marsh",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 5.05
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Australia",
+      "runs": 262,
+      "extras": 16,
+      "balls": 506,
+      "batting": [
+        {
+          "player": "UT Khawaja",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 6,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 50,
+          "balls": 177,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 28.25,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 96,
+          "balls": 130,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 73.85,
+          "out": true
+        },
+        {
+          "player": "AT Carey",
+          "runs": 53,
+          "balls": 101,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 52.48,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 9,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 16,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 11,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 84.62,
+          "out": true
+        },
+        {
+          "player": "JR Hazlewood",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 82,
+          "wickets": 4,
+          "economy": 3.04
+        },
+        {
+          "player": "Mir Hamza",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 36,
+          "wickets": 4,
+          "economy": 1.98
+        },
+        {
+          "player": "Hasan Ali",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 3.09
+        },
+        {
+          "player": "Aamer Jamal",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 75,
+          "wickets": 2,
+          "economy": 4.69
+        },
+        {
+          "player": "Agha Salman",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 2.67
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Pakistan",
+      "runs": 237,
+      "extras": 11,
+      "balls": 406,
+      "batting": [
+        {
+          "player": "Abdullah Shafique",
+          "runs": 4,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 12,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.58,
+          "out": true
+        },
+        {
+          "player": "Shan Masood",
+          "runs": 60,
+          "balls": 71,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 84.51,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 41,
+          "balls": 79,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 51.9,
+          "out": true
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 24,
+          "balls": 55,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.64,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 35,
+          "balls": 62,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 56.45,
+          "out": true
+        },
+        {
+          "player": "Agha Salman",
+          "runs": 50,
+          "balls": 71,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 70.42,
+          "out": true
+        },
+        {
+          "player": "Aamer Jamal",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "Mir Hamza",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 59,
+          "wickets": 4,
+          "economy": 4.43
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 2.31
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 84,
+          "wickets": 0,
+          "economy": 4.42
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 51,
+          "wickets": 5,
+          "economy": 2.83
+        },
+        {
+          "player": "MR Marsh",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 3.69
+        }
+      ]
+    }
+  ]
+}

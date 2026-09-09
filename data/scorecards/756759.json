@@ -1,0 +1,233 @@
+{
+  "id": "756759",
+  "teams": [
+    "Perth Scorchers",
+    "Sydney Thunder"
+  ],
+  "date": "2015-01-01",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Western Australia Cricket Association Ground",
+  "result": "Sydney Thunder won by 20 runs",
+  "winner": "Sydney Thunder",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Thunder",
+      "runs": 179,
+      "extras": 3,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "JH Kallis",
+          "runs": 70,
+          "balls": 49,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 142.86,
+          "out": true
+        },
+        {
+          "player": "AB McDonald",
+          "runs": 7,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "AC Blizzard",
+          "runs": 47,
+          "balls": 32,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 146.88,
+          "out": true
+        },
+        {
+          "player": "MEK Hussey",
+          "runs": 36,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 171.43,
+          "out": false
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 16,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AJ Turner",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "JP Behrendorff",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 9.6
+        },
+        {
+          "player": "MW Dixon",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "AJ Tye",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.75
+        },
+        {
+          "player": "Yasir Arafat",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 7.2
+        },
+        {
+          "player": "AC Agar",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 8.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Perth Scorchers",
+      "runs": 159,
+      "extras": 11,
+      "balls": 129,
+      "batting": [
+        {
+          "player": "MS Harris",
+          "runs": 14,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 107.69,
+          "out": true
+        },
+        {
+          "player": "M Klinger",
+          "runs": 10,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "AC Voges",
+          "runs": 8,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "MA Carberry",
+          "runs": 69,
+          "balls": 52,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 132.69,
+          "out": false
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SM Whiteman",
+          "runs": 16,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 106.67,
+          "out": true
+        },
+        {
+          "player": "AC Agar",
+          "runs": 31,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 110.71,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JH Kallis",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "JK Lalor",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "NM Hauritz",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 8.5
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "4.5",
+          "balls": 29,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 8.07
+        },
+        {
+          "player": "GS Sandhu",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 8.22
+        }
+      ]
+    }
+  ]
+}

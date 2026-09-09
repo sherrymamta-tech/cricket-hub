@@ -1,0 +1,119 @@
+{
+  "id": "1252684",
+  "teams": [
+    "Manchester Originals",
+    "Southern Brave"
+  ],
+  "date": "2021-08-05",
+  "format": "T20",
+  "competition": "The Hundred Men's Competition",
+  "venue": "Old Trafford, Manchester",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Manchester Originals",
+      "runs": 98,
+      "extras": 5,
+      "balls": 72,
+      "batting": [
+        {
+          "player": "PD Salt",
+          "runs": 19,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 135.71,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 10,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 142.86,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 41,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 146.43,
+          "out": false
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 11,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 110.0,
+          "out": true
+        },
+        {
+          "player": "SR Hain",
+          "runs": 12,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 92.31,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LA Dawson",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 2.57
+        },
+        {
+          "player": "GHS Garton",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 9.75
+        },
+        {
+          "player": "PR Stirling",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 6.75
+        },
+        {
+          "player": "TS Mills",
+          "overs": "1.5",
+          "balls": 11,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 5.45
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 14.0
+        },
+        {
+          "player": "JB Lintott",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

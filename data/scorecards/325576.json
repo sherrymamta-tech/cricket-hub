@@ -1,0 +1,78 @@
+{
+  "id": "325576",
+  "teams": [
+    "Ireland",
+    "Kenya"
+  ],
+  "date": "2008-08-25",
+  "format": "ODI",
+  "competition": "Kenya in Ireland ODI Series",
+  "venue": "Civil Service Cricket Club, Stormont",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Ireland",
+      "runs": 18,
+      "extras": 0,
+      "balls": 48,
+      "batting": [
+        {
+          "player": "WTS Porterfield",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "GC Wilson",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "PR Stirling",
+          "runs": 4,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": false
+        },
+        {
+          "player": "AC Botha",
+          "runs": 11,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.89,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TM Odoyo",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 2.75
+        },
+        {
+          "player": "PJ Ongondo",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 1.75
+        }
+      ]
+    }
+  ]
+}

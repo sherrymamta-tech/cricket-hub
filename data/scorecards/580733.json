@@ -1,0 +1,418 @@
+{
+  "id": "580733",
+  "teams": [
+    "Wellington Firebirds",
+    "Auckland Aces"
+  ],
+  "date": "2012-11-26",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Eden Park No 2, Auckland",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Wellington Firebirds",
+      "runs": 380,
+      "extras": 8,
+      "balls": 576,
+      "batting": [
+        {
+          "player": "JM Brodie",
+          "runs": 17,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 38.64,
+          "out": true
+        },
+        {
+          "player": "MHW Papps",
+          "runs": 9,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "SJ Murdoch",
+          "runs": 25,
+          "balls": 81,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 30.86,
+          "out": true
+        },
+        {
+          "player": "JD Ryder",
+          "runs": 72,
+          "balls": 66,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 109.09,
+          "out": true
+        },
+        {
+          "player": "GD Elliott",
+          "runs": 13,
+          "balls": 50,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.0,
+          "out": true
+        },
+        {
+          "player": "L Ronchi",
+          "runs": 127,
+          "balls": 124,
+          "fours": 21,
+          "sixes": 2,
+          "strike_rate": 102.42,
+          "out": true
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 47,
+          "balls": 69,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 68.12,
+          "out": true
+        },
+        {
+          "player": "HKP Boam",
+          "runs": 31,
+          "balls": 79,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 39.24,
+          "out": true
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "runs": 9,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.37,
+          "out": true
+        },
+        {
+          "player": "MR Gillespie",
+          "runs": 22,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "DS Hutchinson",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ McClenaghan",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 90,
+          "wickets": 4,
+          "economy": 4.29
+        },
+        {
+          "player": "KD Mills",
+          "overs": "20.4",
+          "balls": 124,
+          "runs": 57,
+          "wickets": 0,
+          "economy": 2.76
+        },
+        {
+          "player": "MD Bates",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 50,
+          "wickets": 2,
+          "economy": 4.55
+        },
+        {
+          "player": "C Munro",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 48,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "player": "BP Martin",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 84,
+          "wickets": 1,
+          "economy": 3.76
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 5.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Auckland Aces",
+      "runs": 658,
+      "extras": 21,
+      "balls": 891,
+      "batting": [
+        {
+          "player": "TG McIntosh",
+          "runs": 31,
+          "balls": 87,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 35.63,
+          "out": true
+        },
+        {
+          "player": "L Vincent",
+          "runs": 38,
+          "balls": 57,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 46,
+          "balls": 40,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 115.0,
+          "out": true
+        },
+        {
+          "player": "RA Young",
+          "runs": 43,
+          "balls": 83,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 51.81,
+          "out": true
+        },
+        {
+          "player": "GJ Hopkins",
+          "runs": 8,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 269,
+          "balls": 253,
+          "fours": 27,
+          "sixes": 14,
+          "strike_rate": 106.32,
+          "out": false
+        },
+        {
+          "player": "Craig Cachopa",
+          "runs": 166,
+          "balls": 273,
+          "fours": 24,
+          "sixes": 1,
+          "strike_rate": 60.81,
+          "out": true
+        },
+        {
+          "player": "KD Mills",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "BP Martin",
+          "runs": 7,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "MD Bates",
+          "runs": 23,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 92.0,
+          "out": true
+        },
+        {
+          "player": "MJ McClenaghan",
+          "runs": 5,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MR Gillespie",
+          "overs": "40.3",
+          "balls": 243,
+          "runs": 167,
+          "wickets": 4,
+          "economy": 4.12
+        },
+        {
+          "player": "CR Woakes",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 99,
+          "wickets": 0,
+          "economy": 3.93
+        },
+        {
+          "player": "DS Hutchinson",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 101,
+          "wickets": 2,
+          "economy": 4.81
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 107,
+          "wickets": 2,
+          "economy": 4.86
+        },
+        {
+          "player": "GD Elliott",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 98,
+          "wickets": 0,
+          "economy": 4.45
+        },
+        {
+          "player": "HKP Boam",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 86,
+          "wickets": 0,
+          "economy": 4.82
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Wellington Firebirds",
+      "runs": 145,
+      "extras": 5,
+      "balls": 254,
+      "batting": [
+        {
+          "player": "JM Brodie",
+          "runs": 60,
+          "balls": 130,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 46.15,
+          "out": false
+        },
+        {
+          "player": "MHW Papps",
+          "runs": 38,
+          "balls": 44,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 86.36,
+          "out": true
+        },
+        {
+          "player": "SJ Murdoch",
+          "runs": 36,
+          "balls": 72,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "GD Elliott",
+          "runs": 6,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ McClenaghan",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 3.7
+        },
+        {
+          "player": "KD Mills",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 3.39
+        },
+        {
+          "player": "C Munro",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 5.33
+        },
+        {
+          "player": "MD Bates",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 1.75
+        },
+        {
+          "player": "BP Martin",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 3.91
+        }
+      ]
+    }
+  ]
+}

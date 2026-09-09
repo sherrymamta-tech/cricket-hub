@@ -1,0 +1,60 @@
+{
+  "id": "256665",
+  "teams": [
+    "Sri Lanka",
+    "India"
+  ],
+  "date": "2006-08-18",
+  "format": "ODI",
+  "competition": "India in Sri Lanka ODI Series",
+  "venue": "Sinhalese Sports Club Ground",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 11,
+      "extras": 0,
+      "balls": 22,
+      "batting": [
+        {
+          "player": "R Dravid",
+          "runs": 9,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.37,
+          "out": false
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WPUJC Vaas",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "SL Malinga",
+          "overs": "1.4",
+          "balls": 10,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 4.2
+        }
+      ]
+    }
+  ]
+}

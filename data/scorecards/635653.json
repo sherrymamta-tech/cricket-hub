@@ -1,0 +1,295 @@
+{
+  "id": "635653",
+  "teams": [
+    "Sri Lanka",
+    "South Africa"
+  ],
+  "date": "2013-07-20",
+  "format": "ODI",
+  "competition": "South Africa in Sri Lanka ODI Series",
+  "venue": "R Premadasa Stadium",
+  "result": "Sri Lanka won by 180 runs",
+  "winner": "Sri Lanka",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "runs": 320,
+      "extras": 22,
+      "balls": 315,
+      "batting": [
+        {
+          "player": "WU Tharanga",
+          "runs": 43,
+          "balls": 70,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 61.43,
+          "out": true
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 10,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 169,
+          "balls": 142,
+          "fours": 18,
+          "sixes": 6,
+          "strike_rate": 119.01,
+          "out": true
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 42,
+          "balls": 52,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 80.77,
+          "out": true
+        },
+        {
+          "player": "HDRL Thirimanne",
+          "runs": 17,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 51.52,
+          "out": true
+        },
+        {
+          "player": "NLTC Perera",
+          "runs": 16,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 228.57,
+          "out": false
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Morkel",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 3.28
+        },
+        {
+          "player": "CH Morris",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 82,
+          "wickets": 1,
+          "economy": 8.2
+        },
+        {
+          "player": "R McLaren",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 71,
+          "wickets": 1,
+          "economy": 6.76
+        },
+        {
+          "player": "RJ Peterson",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "JP Duminy",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 7.12
+        },
+        {
+          "player": "AM Phangiso",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 5.56
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 140,
+      "extras": 13,
+      "balls": 193,
+      "batting": [
+        {
+          "player": "CA Ingram",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 15,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 68.18,
+          "out": true
+        },
+        {
+          "player": "AN Petersen",
+          "runs": 29,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 93.55,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 23,
+          "balls": 19,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 121.05,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "DA Miller",
+          "runs": 14,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "RJ Peterson",
+          "runs": 29,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 74.36,
+          "out": true
+        },
+        {
+          "player": "R McLaren",
+          "runs": 4,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": true
+        },
+        {
+          "player": "CH Morris",
+          "runs": 9,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": false
+        },
+        {
+          "player": "M Morkel",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AM Phangiso",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SL Malinga",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 7.0
+        },
+        {
+          "player": "RMS Eranga",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 5.4
+        },
+        {
+          "player": "NLTC Perera",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 31,
+          "wickets": 3,
+          "economy": 4.33
+        },
+        {
+          "player": "HMRKB Herath",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 25,
+          "wickets": 3,
+          "economy": 2.78
+        },
+        {
+          "player": "TM Dilshan",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "J Mubarak",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    }
+  ]
+}

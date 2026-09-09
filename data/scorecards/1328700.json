@@ -1,0 +1,601 @@
+{
+  "id": "1328700",
+  "teams": [
+    "Canterbury",
+    "Wellington Firebirds"
+  ],
+  "date": "2023-03-21",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Mainpower Oval",
+  "result": "Canterbury won by 138 runs",
+  "winner": "Canterbury",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Canterbury",
+      "runs": 294,
+      "extras": 17,
+      "balls": 531,
+      "batting": [
+        {
+          "player": "RA Mariu",
+          "runs": 112,
+          "balls": 191,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 58.64,
+          "out": true
+        },
+        {
+          "player": "MJ Hay",
+          "runs": 11,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.67,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "LJ Carter",
+          "runs": 49,
+          "balls": 84,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "MWT Boyle",
+          "runs": 59,
+          "balls": 87,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 67.82,
+          "out": true
+        },
+        {
+          "player": "CD Fletcher",
+          "runs": 6,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.75,
+          "out": true
+        },
+        {
+          "player": "SB Davey",
+          "runs": 10,
+          "balls": 34,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": true
+        },
+        {
+          "player": "FW Sheat",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "BP Coburn",
+          "runs": 15,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.54,
+          "out": true
+        },
+        {
+          "player": "W O'Rourke",
+          "runs": 8,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": false
+        },
+        {
+          "player": "EJ Nuttall",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LV van Beek",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 88,
+          "wickets": 0,
+          "economy": 3.83
+        },
+        {
+          "player": "JW Hartshorn",
+          "overs": "18.5",
+          "balls": 113,
+          "runs": 58,
+          "wickets": 2,
+          "economy": 3.08
+        },
+        {
+          "player": "MW Snedden",
+          "overs": "13.5",
+          "balls": 83,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 3.54
+        },
+        {
+          "player": "MA Abbas",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "LI Georgeson",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 3.38
+        },
+        {
+          "player": "PF Younghusband",
+          "overs": "17.4",
+          "balls": 106,
+          "runs": 50,
+          "wickets": 4,
+          "economy": 2.83
+        },
+        {
+          "player": "JM Tashkoff",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Wellington Firebirds",
+      "runs": 145,
+      "extras": 3,
+      "balls": 346,
+      "batting": [
+        {
+          "player": "LI Georgeson",
+          "runs": 1,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 4.35,
+          "out": true
+        },
+        {
+          "player": "KLD Vishvaka",
+          "runs": 6,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "GR Severin",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 4,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": true
+        },
+        {
+          "player": "MA Abbas",
+          "runs": 25,
+          "balls": 57,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.86,
+          "out": true
+        },
+        {
+          "player": "CR McLachlan",
+          "runs": 100,
+          "balls": 119,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 84.03,
+          "out": true
+        },
+        {
+          "player": "JM Tashkoff",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "PF Younghusband",
+          "runs": 1,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 2.86,
+          "out": true
+        },
+        {
+          "player": "MW Snedden",
+          "runs": 1,
+          "balls": 37,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 2.7,
+          "out": true
+        },
+        {
+          "player": "JW Hartshorn",
+          "runs": 4,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "FW Sheat",
+          "overs": "13.4",
+          "balls": 82,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 1.68
+        },
+        {
+          "player": "SB Davey",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 25,
+          "wickets": 7,
+          "economy": 1.56
+        },
+        {
+          "player": "W O'Rourke",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 3.82
+        },
+        {
+          "player": "EJ Nuttall",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 2.82
+        },
+        {
+          "player": "BP Coburn",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Canterbury",
+      "runs": 217,
+      "extras": 16,
+      "balls": 269,
+      "batting": [
+        {
+          "player": "RA Mariu",
+          "runs": 66,
+          "balls": 96,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 68.75,
+          "out": true
+        },
+        {
+          "player": "MJ Hay",
+          "runs": 81,
+          "balls": 106,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 76.42,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 41,
+          "balls": 43,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 95.35,
+          "out": true
+        },
+        {
+          "player": "LJ Carter",
+          "runs": 10,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 47.62,
+          "out": false
+        },
+        {
+          "player": "MWT Boyle",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LV van Beek",
+          "overs": "15.4",
+          "balls": 94,
+          "runs": 71,
+          "wickets": 1,
+          "economy": 4.53
+        },
+        {
+          "player": "JW Hartshorn",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 3.68
+        },
+        {
+          "player": "LI Georgeson",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "MW Snedden",
+          "overs": "6.3",
+          "balls": 39,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 3.54
+        },
+        {
+          "player": "JM Tashkoff",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "player": "PF Younghusband",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 55,
+          "wickets": 3,
+          "economy": 5.79
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Wellington Firebirds",
+      "runs": 228,
+      "extras": 3,
+      "balls": 546,
+      "batting": [
+        {
+          "player": "LI Georgeson",
+          "runs": 34,
+          "balls": 77,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 44.16,
+          "out": true
+        },
+        {
+          "player": "KLD Vishvaka",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "GR Severin",
+          "runs": 9,
+          "balls": 61,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.75,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "MA Abbas",
+          "runs": 82,
+          "balls": 169,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 48.52,
+          "out": true
+        },
+        {
+          "player": "CR McLachlan",
+          "runs": 24,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "JM Tashkoff",
+          "runs": 28,
+          "balls": 69,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 40.58,
+          "out": true
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 19,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.29,
+          "out": true
+        },
+        {
+          "player": "PF Younghusband",
+          "runs": 17,
+          "balls": 58,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 29.31,
+          "out": true
+        },
+        {
+          "player": "MW Snedden",
+          "runs": 6,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "JW Hartshorn",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "FW Sheat",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 2.59
+        },
+        {
+          "player": "SB Davey",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 41,
+          "wickets": 4,
+          "economy": 2.05
+        },
+        {
+          "player": "W O'Rourke",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 2.29
+        },
+        {
+          "player": "EJ Nuttall",
+          "overs": "18.5",
+          "balls": 113,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 1.7
+        },
+        {
+          "player": "BP Coburn",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 3.44
+        },
+        {
+          "player": "CE McConchie",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 4.7
+        },
+        {
+          "player": "MWT Boyle",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

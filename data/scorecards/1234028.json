@@ -1,0 +1,277 @@
+{
+  "id": "1234028",
+  "teams": [
+    "Canterbury",
+    "Wellington"
+  ],
+  "date": "2021-02-13",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "Basin Reserve",
+  "result": "Wellington won by 5 wickets",
+  "winner": "Wellington",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Canterbury",
+      "runs": 175,
+      "extras": 10,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "CJ Bowes",
+          "runs": 37,
+          "balls": 23,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 160.87,
+          "out": true
+        },
+        {
+          "player": "KJ McClure",
+          "runs": 12,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 35,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 44,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 107.32,
+          "out": true
+        },
+        {
+          "player": "LJ Carter",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "CD Fletcher",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HB Shipley",
+          "runs": 29,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 161.11,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "TD Astle",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HK Bennett",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 11.25
+        },
+        {
+          "player": "LV van Beek",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 3,
+          "economy": 6.72
+        },
+        {
+          "player": "BV Sears",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 8.4
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 8.36
+        },
+        {
+          "player": "PF Younghusband",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 8.33
+        },
+        {
+          "player": "MG Bracewell",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 2,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Wellington",
+      "runs": 178,
+      "extras": 3,
+      "balls": 120,
+      "batting": [
+        {
+          "player": "FH Allen",
+          "runs": 16,
+          "balls": 11,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 145.45,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 93,
+          "balls": 64,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 145.31,
+          "out": false
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TM Johnson",
+          "runs": 28,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 18,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "JD Gibson",
+          "runs": 16,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 160.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 11.25
+        },
+        {
+          "player": "EJ Nuttall",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 7.68
+        },
+        {
+          "player": "CE McConchie",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 11.0
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "TD Astle",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 8.16
+        },
+        {
+          "player": "WSA Williams",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 7.12
+        }
+      ]
+    }
+  ]
+}

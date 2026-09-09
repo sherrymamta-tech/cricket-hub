@@ -1,0 +1,584 @@
+{
+  "id": "1347206",
+  "teams": [
+    "Nottinghamshire",
+    "Hampshire"
+  ],
+  "date": "2023-04-06",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "The Rose Bowl, Southampton",
+  "result": "Hampshire won by 8 wickets",
+  "winner": "Hampshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Nottinghamshire",
+      "runs": 185,
+      "extras": 8,
+      "balls": 335,
+      "batting": [
+        {
+          "player": "H Hameed",
+          "runs": 16,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 24,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 64.86,
+          "out": true
+        },
+        {
+          "player": "BT Slater",
+          "runs": 11,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.38,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 47,
+          "balls": 77,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 61.04,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 5,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "SJ Mullaney",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 49,
+          "balls": 82,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 59.76,
+          "out": false
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "OP Stone",
+          "runs": 17,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 56.67,
+          "out": true
+        },
+        {
+          "player": "LJ Fletcher",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "D Paterson",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KHD Barker",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 3.86
+        },
+        {
+          "player": "Mohammad Abbas",
+          "overs": "15.3",
+          "balls": 93,
+          "runs": 49,
+          "wickets": 6,
+          "economy": 3.16
+        },
+        {
+          "player": "KJ Abbott",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "JK Fuller",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 3.21
+        },
+        {
+          "player": "IG Holland",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 3.6
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Hampshire",
+      "runs": 231,
+      "extras": 22,
+      "balls": 463,
+      "batting": [
+        {
+          "player": "FS Organ",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "FS Middleton",
+          "runs": 59,
+          "balls": 113,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 52.21,
+          "out": true
+        },
+        {
+          "player": "NRT Gubbins",
+          "runs": 10,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 16,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 43.24,
+          "out": true
+        },
+        {
+          "player": "LA Dawson",
+          "runs": 24,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.17,
+          "out": true
+        },
+        {
+          "player": "BC Brown",
+          "runs": 26,
+          "balls": 75,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 34.67,
+          "out": true
+        },
+        {
+          "player": "IG Holland",
+          "runs": 31,
+          "balls": 93,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "KHD Barker",
+          "runs": 19,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 76.0,
+          "out": true
+        },
+        {
+          "player": "JK Fuller",
+          "runs": 21,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "KJ Abbott",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OP Stone",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 87,
+          "wickets": 3,
+          "economy": 4.35
+        },
+        {
+          "player": "LJ Fletcher",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 50,
+          "wickets": 3,
+          "economy": 2.5
+        },
+        {
+          "player": "D Paterson",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 39,
+          "wickets": 3,
+          "economy": 2.17
+        },
+        {
+          "player": "LW James",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 2.3
+        },
+        {
+          "player": "SJ Mullaney",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 2.8
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Nottinghamshire",
+      "runs": 177,
+      "extras": 8,
+      "balls": 419,
+      "batting": [
+        {
+          "player": "H Hameed",
+          "runs": 27,
+          "balls": 38,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 71.05,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 51,
+          "balls": 58,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 87.93,
+          "out": true
+        },
+        {
+          "player": "BT Slater",
+          "runs": 43,
+          "balls": 89,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 48.31,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SJ Mullaney",
+          "runs": 12,
+          "balls": 63,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 19.05,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 6,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 17.14,
+          "out": true
+        },
+        {
+          "player": "OP Stone",
+          "runs": 7,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 10,
+          "balls": 65,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "D Paterson",
+          "runs": 11,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "LJ Fletcher",
+          "runs": 2,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KHD Barker",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 2.97
+        },
+        {
+          "player": "Mohammad Abbas",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 67,
+          "wickets": 3,
+          "economy": 3.35
+        },
+        {
+          "player": "KJ Abbott",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 41,
+          "wickets": 4,
+          "economy": 2.3
+        },
+        {
+          "player": "JK Fuller",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 1.27
+        },
+        {
+          "player": "FS Organ",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "LA Dawson",
+          "overs": "1.4",
+          "balls": 10,
+          "runs": 1,
+          "wickets": 1,
+          "economy": 0.6
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Hampshire",
+      "runs": 132,
+      "extras": 3,
+      "balls": 278,
+      "batting": [
+        {
+          "player": "FS Organ",
+          "runs": 0,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "FS Middleton",
+          "runs": 65,
+          "balls": 121,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 53.72,
+          "out": true
+        },
+        {
+          "player": "NRT Gubbins",
+          "runs": 54,
+          "balls": 130,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 41.54,
+          "out": false
+        },
+        {
+          "player": "JM Vince",
+          "runs": 10,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LJ Fletcher",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 3,
+          "wickets": 1,
+          "economy": 0.33
+        },
+        {
+          "player": "OP Stone",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 2.6
+        },
+        {
+          "player": "D Paterson",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "LW James",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 2.6
+        },
+        {
+          "player": "BT Slater",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 2.75
+        },
+        {
+          "player": "TJ Moores",
+          "overs": "0.2",
+          "balls": 2,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

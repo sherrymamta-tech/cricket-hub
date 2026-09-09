@@ -1,0 +1,536 @@
+{
+  "id": "1271412",
+  "teams": [
+    "Durham",
+    "Gloucestershire"
+  ],
+  "date": "2021-09-21",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "County Ground, Bristol",
+  "result": "Gloucestershire won by 7 wickets",
+  "winner": "Gloucestershire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 140,
+      "extras": 10,
+      "balls": 275,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 40,
+          "balls": 60,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "MA Jones",
+          "runs": 6,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 19,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 65.52,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 20,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 46.51,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 16,
+          "balls": 55,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 29.09,
+          "out": true
+        },
+        {
+          "player": "P Coughlin",
+          "runs": 9,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.37,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 16,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 59.26,
+          "out": true
+        },
+        {
+          "player": "L Trevaskis",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DA Payne",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 2.12
+        },
+        {
+          "player": "RF Higgins",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 3.71
+        },
+        {
+          "player": "Zafar Gohar",
+          "overs": "15.5",
+          "balls": 95,
+          "runs": 51,
+          "wickets": 5,
+          "economy": 3.22
+        },
+        {
+          "player": "TJ Price",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 2.25
+        },
+        {
+          "player": "GL van Buuren",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 28,
+          "wickets": 3,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Gloucestershire",
+      "runs": 218,
+      "extras": 12,
+      "balls": 448,
+      "batting": [
+        {
+          "player": "CDJ Dent",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "James Bracey",
+          "runs": 27,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "Miles Hammond",
+          "runs": 8,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.78,
+          "out": true
+        },
+        {
+          "player": "TC Lace",
+          "runs": 17,
+          "balls": 69,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 24.64,
+          "out": true
+        },
+        {
+          "player": "GL van Buuren",
+          "runs": 62,
+          "balls": 77,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 80.52,
+          "out": true
+        },
+        {
+          "player": "GFB Scott",
+          "runs": 21,
+          "balls": 104,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 20.19,
+          "out": true
+        },
+        {
+          "player": "RF Higgins",
+          "runs": 10,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "OJ Price",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "TJ Price",
+          "runs": 16,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.03,
+          "out": true
+        },
+        {
+          "player": "Zafar Gohar",
+          "runs": 30,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 103.45,
+          "out": true
+        },
+        {
+          "player": "DA Payne",
+          "runs": 14,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 1.42
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "L Trevaskis",
+          "overs": "33.0",
+          "balls": 198,
+          "runs": 81,
+          "wickets": 5,
+          "economy": 2.45
+        },
+        {
+          "player": "BA Raine",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 39,
+          "wickets": 3,
+          "economy": 2.44
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "6.4",
+          "balls": 40,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 4.65
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 6.6
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Durham",
+      "runs": 131,
+      "extras": 12,
+      "balls": 320,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 9,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "MA Jones",
+          "runs": 17,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.96,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 4,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 7,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 8,
+          "balls": 31,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.81,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 17,
+          "balls": 51,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "P Coughlin",
+          "runs": 2,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.52,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 38,
+          "balls": 72,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 52.78,
+          "out": false
+        },
+        {
+          "player": "L Trevaskis",
+          "runs": 3,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.54,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 14,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.16,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DA Payne",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 2.09
+        },
+        {
+          "player": "RF Higgins",
+          "overs": "12.3",
+          "balls": 75,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 3.2
+        },
+        {
+          "player": "Zafar Gohar",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 55,
+          "wickets": 6,
+          "economy": 2.39
+        },
+        {
+          "player": "GL van Buuren",
+          "overs": "3.4",
+          "balls": 22,
+          "runs": 6,
+          "wickets": 2,
+          "economy": 1.64
+        },
+        {
+          "player": "OJ Price",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 2.21
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Gloucestershire",
+      "runs": 54,
+      "extras": 9,
+      "balls": 57,
+      "batting": [
+        {
+          "player": "CDJ Dent",
+          "runs": 22,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Miles Hammond",
+          "runs": 11,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 73.33,
+          "out": true
+        },
+        {
+          "player": "James Bracey",
+          "runs": 11,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": false
+        },
+        {
+          "player": "Zafar Gohar",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TC Lace",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 5.06
+        },
+        {
+          "player": "L Trevaskis",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.48
+        }
+      ]
+    }
+  ]
+}

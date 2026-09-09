@@ -1,0 +1,541 @@
+{
+  "id": "946971",
+  "teams": [
+    "Glamorgan",
+    "Kent"
+  ],
+  "date": "2016-05-01",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "St Lawrence Ground, Canterbury",
+  "result": "Kent won by 10 wickets",
+  "winner": "Kent",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Glamorgan",
+      "runs": 260,
+      "extras": 24,
+      "balls": 398,
+      "batting": [
+        {
+          "player": "JM Kettleborough",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WD Bragg",
+          "runs": 14,
+          "balls": 41,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 34.15,
+          "out": true
+        },
+        {
+          "player": "JA Rudolph",
+          "runs": 4,
+          "balls": 55,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.27,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 45,
+          "balls": 40,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "AHT Donald",
+          "runs": 37,
+          "balls": 37,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 4,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "GG Wagg",
+          "runs": 40,
+          "balls": 65,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "CAJ Meschede",
+          "runs": 63,
+          "balls": 74,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 85.14,
+          "out": true
+        },
+        {
+          "player": "AG Salter",
+          "runs": 25,
+          "balls": 51,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 49.02,
+          "out": true
+        },
+        {
+          "player": "HW Podmore",
+          "runs": 4,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MT Coles",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 2.95
+        },
+        {
+          "player": "DI Stevens",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 68,
+          "wickets": 1,
+          "economy": 3.09
+        },
+        {
+          "player": "ME Claydon",
+          "overs": "16.5",
+          "balls": 101,
+          "runs": 59,
+          "wickets": 4,
+          "economy": 3.5
+        },
+        {
+          "player": "HR Bernard",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 71,
+          "wickets": 2,
+          "economy": 5.32
+        },
+        {
+          "player": "AEN Riley",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 488,
+      "extras": 34,
+      "balls": 677,
+      "batting": [
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 84,
+          "balls": 110,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 76.36,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 53,
+          "balls": 110,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 48.18,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 58,
+          "balls": 85,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 68.24,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 46,
+          "balls": 77,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 59.74,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 3,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "DI Stevens",
+          "runs": 58,
+          "balls": 64,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 90.62,
+          "out": true
+        },
+        {
+          "player": "AP Rouse",
+          "runs": 22,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 57.89,
+          "out": true
+        },
+        {
+          "player": "MT Coles",
+          "runs": 29,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 90.62,
+          "out": true
+        },
+        {
+          "player": "ME Claydon",
+          "runs": 55,
+          "balls": 54,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 101.85,
+          "out": true
+        },
+        {
+          "player": "AEN Riley",
+          "runs": 32,
+          "balls": 66,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 48.48,
+          "out": false
+        },
+        {
+          "player": "HR Bernard",
+          "runs": 14,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Hogan",
+          "overs": "29.1",
+          "balls": 175,
+          "runs": 103,
+          "wickets": 4,
+          "economy": 3.53
+        },
+        {
+          "player": "CAJ Meschede",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 106,
+          "wickets": 3,
+          "economy": 4.61
+        },
+        {
+          "player": "GG Wagg",
+          "overs": "22.4",
+          "balls": 136,
+          "runs": 95,
+          "wickets": 1,
+          "economy": 4.19
+        },
+        {
+          "player": "HW Podmore",
+          "overs": "13.4",
+          "balls": 82,
+          "runs": 75,
+          "wickets": 2,
+          "economy": 5.49
+        },
+        {
+          "player": "AG Salter",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 67,
+          "wickets": 0,
+          "economy": 4.19
+        },
+        {
+          "player": "DL Lloyd",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 5.04
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Glamorgan",
+      "runs": 414,
+      "extras": 30,
+      "balls": 578,
+      "batting": [
+        {
+          "player": "JM Kettleborough",
+          "runs": 42,
+          "balls": 111,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 37.84,
+          "out": true
+        },
+        {
+          "player": "JA Rudolph",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WD Bragg",
+          "runs": 51,
+          "balls": 77,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 66.23,
+          "out": true
+        },
+        {
+          "player": "AHT Donald",
+          "runs": 38,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 92.68,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 4,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 107,
+          "balls": 128,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 83.59,
+          "out": true
+        },
+        {
+          "player": "GG Wagg",
+          "runs": 106,
+          "balls": 133,
+          "fours": 12,
+          "sixes": 2,
+          "strike_rate": 79.7,
+          "out": true
+        },
+        {
+          "player": "CAJ Meschede",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AG Salter",
+          "runs": 19,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 86.36,
+          "out": true
+        },
+        {
+          "player": "HW Podmore",
+          "runs": 16,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.61,
+          "out": false
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ME Claydon",
+          "overs": "27.3",
+          "balls": 165,
+          "runs": 132,
+          "wickets": 2,
+          "economy": 4.8
+        },
+        {
+          "player": "DI Stevens",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 79,
+          "wickets": 4,
+          "economy": 2.93
+        },
+        {
+          "player": "HR Bernard",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 4.04
+        },
+        {
+          "player": "MT Coles",
+          "overs": "19.4",
+          "balls": 118,
+          "runs": 84,
+          "wickets": 3,
+          "economy": 4.27
+        },
+        {
+          "player": "AEN Riley",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 82,
+          "wickets": 0,
+          "economy": 6.31
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Kent",
+      "runs": 190,
+      "extras": 25,
+      "balls": 295,
+      "batting": [
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 86,
+          "balls": 147,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 58.5,
+          "out": false
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 79,
+          "balls": 148,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 53.38,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Hogan",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 5.02
+        },
+        {
+          "player": "CAJ Meschede",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 1.38
+        },
+        {
+          "player": "GG Wagg",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.65
+        },
+        {
+          "player": "AG Salter",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 3.92
+        },
+        {
+          "player": "HW Podmore",
+          "overs": "7.4",
+          "balls": 46,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 4.04
+        },
+        {
+          "player": "DL Lloyd",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 4.47
+        }
+      ]
+    }
+  ]
+}

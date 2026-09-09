@@ -1,0 +1,85 @@
+{
+  "id": "1347672",
+  "teams": [
+    "Yorkshire",
+    "Durham"
+  ],
+  "date": "2023-06-23",
+  "format": "T20",
+  "competition": "Vitality Blast",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Yorkshire",
+      "runs": 49,
+      "extras": 5,
+      "balls": 49,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "DJ Malan",
+          "runs": 8,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "Shan Masood",
+          "runs": 35,
+          "balls": 27,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 129.63,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "GS Drissell",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 3.16
+        },
+        {
+          "player": "BA Raine",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "AJ Turner",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "NA Sowter",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

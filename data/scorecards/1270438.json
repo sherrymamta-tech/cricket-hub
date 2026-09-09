@@ -1,0 +1,578 @@
+{
+  "id": "1270438",
+  "teams": [
+    "New South Wales",
+    "South Australia"
+  ],
+  "date": "2022-03-23",
+  "format": "MDM",
+  "competition": "Sheffield Shield",
+  "venue": "Karen Rolton Oval, Adelaide",
+  "result": "South Australia won by 5 wickets",
+  "winner": "South Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New South Wales",
+      "runs": 294,
+      "extras": 7,
+      "balls": 678,
+      "batting": [
+        {
+          "player": "R Hackney",
+          "runs": 0,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "B Nikitaras",
+          "runs": 44,
+          "balls": 93,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 47.31,
+          "out": true
+        },
+        {
+          "player": "M Gilkes",
+          "runs": 41,
+          "balls": 104,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 39.42,
+          "out": true
+        },
+        {
+          "player": "JJS Sangha",
+          "runs": 142,
+          "balls": 235,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 60.43,
+          "out": true
+        },
+        {
+          "player": "LD Hearne",
+          "runs": 36,
+          "balls": 115,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 31.3,
+          "out": true
+        },
+        {
+          "player": "J Edwards",
+          "runs": 5,
+          "balls": 31,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.13,
+          "out": true
+        },
+        {
+          "player": "BJ Holt",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "CP Tremain",
+          "runs": 6,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "TA Copeland",
+          "runs": 7,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "HNA Conway",
+          "runs": 4,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "T Sangha",
+          "runs": 0,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Doggett",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 59,
+          "wickets": 3,
+          "economy": 2.11
+        },
+        {
+          "player": "JS Buckingham",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 79,
+          "wickets": 4,
+          "economy": 2.93
+        },
+        {
+          "player": "N McAndrew",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 78,
+          "wickets": 1,
+          "economy": 3.49
+        },
+        {
+          "player": "L Scott",
+          "overs": "19.4",
+          "balls": 118,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 2.19
+        },
+        {
+          "player": "NA McSweeney",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 2.19
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Australia",
+      "runs": 277,
+      "extras": 10,
+      "balls": 593,
+      "batting": [
+        {
+          "player": "HJ Hunt",
+          "runs": 109,
+          "balls": 240,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 45.42,
+          "out": true
+        },
+        {
+          "player": "BT Capel",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "JM Carder",
+          "runs": 15,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "NA McSweeney",
+          "runs": 7,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.0,
+          "out": true
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T Kelly",
+          "runs": 29,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 85.29,
+          "out": true
+        },
+        {
+          "player": "HJ Nielsen",
+          "runs": 63,
+          "balls": 154,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 40.91,
+          "out": true
+        },
+        {
+          "player": "L Scott",
+          "runs": 30,
+          "balls": 60,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "N McAndrew",
+          "runs": 3,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        },
+        {
+          "player": "B Doggett",
+          "runs": 10,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JS Buckingham",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Copeland",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 58,
+          "wickets": 3,
+          "economy": 2.3
+        },
+        {
+          "player": "CP Tremain",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 53,
+          "wickets": 3,
+          "economy": 2.29
+        },
+        {
+          "player": "HNA Conway",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 3.31
+        },
+        {
+          "player": "T Sangha",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 75,
+          "wickets": 2,
+          "economy": 3.26
+        },
+        {
+          "player": "J Edwards",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 2.82
+        },
+        {
+          "player": "JJS Sangha",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New South Wales",
+      "runs": 308,
+      "extras": 9,
+      "balls": 510,
+      "batting": [
+        {
+          "player": "R Hackney",
+          "runs": 12,
+          "balls": 60,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "B Nikitaras",
+          "runs": 56,
+          "balls": 102,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 54.9,
+          "out": true
+        },
+        {
+          "player": "M Gilkes",
+          "runs": 54,
+          "balls": 76,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 71.05,
+          "out": true
+        },
+        {
+          "player": "JJS Sangha",
+          "runs": 62,
+          "balls": 105,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 59.05,
+          "out": true
+        },
+        {
+          "player": "LD Hearne",
+          "runs": 65,
+          "balls": 108,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 60.19,
+          "out": true
+        },
+        {
+          "player": "J Edwards",
+          "runs": 38,
+          "balls": 44,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 86.36,
+          "out": true
+        },
+        {
+          "player": "BJ Holt",
+          "runs": 10,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "CP Tremain",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TA Copeland",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "HNA Conway",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Doggett",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 70,
+          "wickets": 0,
+          "economy": 4.57
+        },
+        {
+          "player": "JS Buckingham",
+          "overs": "13.4",
+          "balls": 82,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 3.07
+        },
+        {
+          "player": "N McAndrew",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 68,
+          "wickets": 3,
+          "economy": 3.4
+        },
+        {
+          "player": "L Scott",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 3.8
+        },
+        {
+          "player": "NA McSweeney",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 90,
+          "wickets": 4,
+          "economy": 3.46
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "South Australia",
+      "runs": 328,
+      "extras": 9,
+      "balls": 461,
+      "batting": [
+        {
+          "player": "HJ Hunt",
+          "runs": 25,
+          "balls": 61,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 40.98,
+          "out": true
+        },
+        {
+          "player": "BT Capel",
+          "runs": 8,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "JM Carder",
+          "runs": 46,
+          "balls": 52,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 88.46,
+          "out": true
+        },
+        {
+          "player": "NA McSweeney",
+          "runs": 99,
+          "balls": 184,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 53.8,
+          "out": false
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 94,
+          "balls": 91,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 103.3,
+          "out": true
+        },
+        {
+          "player": "T Kelly",
+          "runs": 13,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.42,
+          "out": true
+        },
+        {
+          "player": "HJ Nielsen",
+          "runs": 34,
+          "balls": 39,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 87.18,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Copeland",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 3.76
+        },
+        {
+          "player": "CP Tremain",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 3.32
+        },
+        {
+          "player": "HNA Conway",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 3.74
+        },
+        {
+          "player": "T Sangha",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 109,
+          "wickets": 1,
+          "economy": 5.19
+        },
+        {
+          "player": "J Edwards",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 5.03
+        }
+      ]
+    }
+  ]
+}

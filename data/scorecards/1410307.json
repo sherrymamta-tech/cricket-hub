@@ -1,0 +1,449 @@
+{
+  "id": "1410307",
+  "teams": [
+    "Leicestershire",
+    "Yorkshire"
+  ],
+  "date": "2024-09-09",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Grace Road, Leicester",
+  "result": "Yorkshire won by 72 runs",
+  "winner": "Yorkshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Leicestershire",
+      "runs": 98,
+      "extras": 0,
+      "balls": 146,
+      "batting": [
+        {
+          "player": "RK Patel",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LJ Hill",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "IG Holland",
+          "runs": 0,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 8,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "Rehan Ahmed",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LPJ Kimber",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OB Cox",
+          "runs": 51,
+          "balls": 31,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 164.52,
+          "out": false
+        },
+        {
+          "player": "L Trevaskis",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "TAR Scriven",
+          "runs": 18,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "SW Currie",
+          "runs": 2,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.33,
+          "out": true
+        },
+        {
+          "player": "CJC Wright",
+          "runs": 12,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 15,
+          "wickets": 5,
+          "economy": 1.5
+        },
+        {
+          "player": "MD Fisher",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 38,
+          "wickets": 3,
+          "economy": 4.75
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "player": "GCH Hill",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 5.57
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Yorkshire",
+      "runs": 379,
+      "extras": 22,
+      "balls": 593,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 10,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.26,
+          "out": true
+        },
+        {
+          "player": "FJ Bean",
+          "runs": 5,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 19.23,
+          "out": true
+        },
+        {
+          "player": "JH Wharton",
+          "runs": 41,
+          "balls": 67,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 61.19,
+          "out": true
+        },
+        {
+          "player": "W Luxton",
+          "runs": 4,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.39,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 18,
+          "balls": 12,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 126,
+          "balls": 215,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 58.6,
+          "out": true
+        },
+        {
+          "player": "GCH Hill",
+          "runs": 12,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 33,
+          "balls": 39,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 84.62,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 8,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "MD Fisher",
+          "runs": 88,
+          "balls": 124,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 70.97,
+          "out": true
+        },
+        {
+          "player": "BO Coad",
+          "runs": 12,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJC Wright",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 79,
+          "wickets": 2,
+          "economy": 3.16
+        },
+        {
+          "player": "IG Holland",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 2.23
+        },
+        {
+          "player": "SW Currie",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 83,
+          "wickets": 0,
+          "economy": 4.49
+        },
+        {
+          "player": "TAR Scriven",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 108,
+          "wickets": 4,
+          "economy": 4.66
+        },
+        {
+          "player": "Rehan Ahmed",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 60,
+          "wickets": 3,
+          "economy": 5.9
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Leicestershire",
+      "runs": 209,
+      "extras": 5,
+      "balls": 322,
+      "batting": [
+        {
+          "player": "RK Patel",
+          "runs": 19,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "IG Holland",
+          "runs": 7,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.17,
+          "out": true
+        },
+        {
+          "player": "LJ Hill",
+          "runs": 21,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 67.74,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 32,
+          "balls": 75,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 42.67,
+          "out": true
+        },
+        {
+          "player": "Rehan Ahmed",
+          "runs": 77,
+          "balls": 86,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 89.53,
+          "out": true
+        },
+        {
+          "player": "LPJ Kimber",
+          "runs": 8,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "OB Cox",
+          "runs": 14,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "L Trevaskis",
+          "runs": 5,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.83,
+          "out": false
+        },
+        {
+          "player": "TAR Scriven",
+          "runs": 2,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "SW Currie",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "CJC Wright",
+          "runs": 15,
+          "balls": 9,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 3.06
+        },
+        {
+          "player": "MD Fisher",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 61,
+          "wickets": 3,
+          "economy": 3.81
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 5.14
+        },
+        {
+          "player": "GCH Hill",
+          "overs": "13.4",
+          "balls": 82,
+          "runs": 60,
+          "wickets": 6,
+          "economy": 4.39
+        }
+      ]
+    }
+  ]
+}

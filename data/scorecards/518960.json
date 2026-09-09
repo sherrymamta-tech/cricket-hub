@@ -1,0 +1,322 @@
+{
+  "id": "518960",
+  "teams": [
+    "India",
+    "Sri Lanka"
+  ],
+  "date": "2012-02-14",
+  "format": "ODI",
+  "competition": "Commonwealth Bank Series",
+  "venue": "Adelaide Oval",
+  "result": "tie",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "runs": 236,
+      "extras": 8,
+      "balls": 305,
+      "batting": [
+        {
+          "player": "WU Tharanga",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 31,
+          "balls": 56,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.36,
+          "out": true
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 16,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 64.0,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 81,
+          "balls": 92,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 88.04,
+          "out": true
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 43,
+          "balls": 50,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 86.0,
+          "out": true
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 17,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.67,
+          "out": true
+        },
+        {
+          "player": "NLTC Perera",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "KMDN Kulasekara",
+          "runs": 12,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "SMSM Senanayake",
+          "runs": 22,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 157.14,
+          "out": false
+        },
+        {
+          "player": "SL Malinga",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "HMRKB Herath",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "R Vinay Kumar",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 4.52
+        },
+        {
+          "player": "IK Pathan",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 4.18
+        },
+        {
+          "player": "UT Yadav",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 5.78
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 3.1
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 58,
+          "wickets": 0,
+          "economy": 5.8
+        },
+        {
+          "player": "RG Sharma",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 4.29
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 236,
+      "extras": 8,
+      "balls": 305,
+      "batting": [
+        {
+          "player": "G Gambhir",
+          "runs": 91,
+          "balls": 108,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 84.26,
+          "out": true
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 15,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 15,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 15,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.57,
+          "out": true
+        },
+        {
+          "player": "SK Raina",
+          "runs": 8,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 58,
+          "balls": 69,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 84.06,
+          "out": false
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 14,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 107.69,
+          "out": true
+        },
+        {
+          "player": "IK Pathan",
+          "runs": 8,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "R Vinay Kumar",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SL Malinga",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 53,
+          "wickets": 2,
+          "economy": 5.3
+        },
+        {
+          "player": "KMDN Kulasekara",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 3.93
+        },
+        {
+          "player": "AD Mathews",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 6.56
+        },
+        {
+          "player": "NLTC Perera",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 4.91
+        },
+        {
+          "player": "HMRKB Herath",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 3.25
+        },
+        {
+          "player": "SMSM Senanayake",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

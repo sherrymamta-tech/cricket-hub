@@ -1,0 +1,77 @@
+{
+  "id": "562441",
+  "teams": [
+    "Sri Lanka",
+    "Pakistan"
+  ],
+  "date": "2012-06-13",
+  "format": "ODI",
+  "competition": "Pakistan in Sri Lanka ODI Series",
+  "venue": "R Premadasa Stadium",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 12,
+      "extras": 0,
+      "balls": 38,
+      "batting": [
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 5,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": false
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 7,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SL Malinga",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "KMDN Kulasekara",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 3,
+          "wickets": 1,
+          "economy": 1.0
+        },
+        {
+          "player": "AD Mathews",
+          "overs": "0.2",
+          "balls": 2,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        }
+      ]
+    }
+  ]
+}

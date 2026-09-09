@@ -1,0 +1,631 @@
+{
+  "id": "1233448",
+  "teams": [
+    "Queensland",
+    "New South Wales"
+  ],
+  "date": "2020-10-30",
+  "format": "MDM",
+  "competition": "Sheffield Shield",
+  "venue": "Karen Rolton Oval, Adelaide",
+  "result": "New South Wales won by 1 wickets",
+  "winner": "New South Wales",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Queensland",
+      "runs": 298,
+      "extras": 22,
+      "balls": 585,
+      "batting": [
+        {
+          "player": "BE Street",
+          "runs": 22,
+          "balls": 65,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.85,
+          "out": true
+        },
+        {
+          "player": "JA Burns",
+          "runs": 29,
+          "balls": 87,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 117,
+          "balls": 203,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 57.64,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 4,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": true
+        },
+        {
+          "player": "MT Renshaw",
+          "runs": 8,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "JJ Peirson",
+          "runs": 66,
+          "balls": 124,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 53.23,
+          "out": true
+        },
+        {
+          "player": "JD Wildermuth",
+          "runs": 4,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "MG Neser",
+          "runs": 20,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.61,
+          "out": true
+        },
+        {
+          "player": "MT Steketee",
+          "runs": 1,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.88,
+          "out": true
+        },
+        {
+          "player": "XC Bartlett",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "MJ Swepson",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 88,
+          "wickets": 4,
+          "economy": 3.67
+        },
+        {
+          "player": "TA Copeland",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 2.08
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 62,
+          "wickets": 2,
+          "economy": 3.65
+        },
+        {
+          "player": "HNA Conway",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 1.92
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 65,
+          "wickets": 0,
+          "economy": 4.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New South Wales",
+      "runs": 283,
+      "extras": 10,
+      "balls": 496,
+      "batting": [
+        {
+          "player": "DP Hughes",
+          "runs": 43,
+          "balls": 98,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 43.88,
+          "out": true
+        },
+        {
+          "player": "NCR Larkin",
+          "runs": 24,
+          "balls": 53,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 45.28,
+          "out": true
+        },
+        {
+          "player": "KR Patterson",
+          "runs": 23,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 69.7,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 23,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 67.65,
+          "out": true
+        },
+        {
+          "player": "DL Solway",
+          "runs": 23,
+          "balls": 59,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.98,
+          "out": true
+        },
+        {
+          "player": "PM Nevill",
+          "runs": 59,
+          "balls": 112,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 52.68,
+          "out": true
+        },
+        {
+          "player": "SA Abbott",
+          "runs": 66,
+          "balls": 77,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 2,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "TA Copeland",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "HNA Conway",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Neser",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 2.82
+        },
+        {
+          "player": "MT Steketee",
+          "overs": "19.4",
+          "balls": 118,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "XC Bartlett",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 3.91
+        },
+        {
+          "player": "JD Wildermuth",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 2.48
+        },
+        {
+          "player": "MJ Swepson",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 98,
+          "wickets": 5,
+          "economy": 4.26
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Queensland",
+      "runs": 190,
+      "extras": 12,
+      "balls": 384,
+      "batting": [
+        {
+          "player": "BE Street",
+          "runs": 9,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 22.5,
+          "out": true
+        },
+        {
+          "player": "JA Burns",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 41,
+          "balls": 110,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 37.27,
+          "out": true
+        },
+        {
+          "player": "MT Renshaw",
+          "runs": 42,
+          "balls": 115,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 36.52,
+          "out": true
+        },
+        {
+          "player": "JJ Peirson",
+          "runs": 8,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "JD Wildermuth",
+          "runs": 24,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "MG Neser",
+          "runs": 4,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "MT Steketee",
+          "runs": 27,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "XC Bartlett",
+          "runs": 7,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": false
+        },
+        {
+          "player": "MJ Swepson",
+          "runs": 16,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 5.51
+        },
+        {
+          "player": "TA Copeland",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 17,
+          "wickets": 5,
+          "economy": 0.94
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "8.5",
+          "balls": 53,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 2.6
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 74,
+          "wickets": 2,
+          "economy": 3.89
+        },
+        {
+          "player": "HNA Conway",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 1.5
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "New South Wales",
+      "runs": 206,
+      "extras": 12,
+      "balls": 477,
+      "batting": [
+        {
+          "player": "DP Hughes",
+          "runs": 48,
+          "balls": 152,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 31.58,
+          "out": true
+        },
+        {
+          "player": "NCR Larkin",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "KR Patterson",
+          "runs": 15,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.47,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 8,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "DL Solway",
+          "runs": 52,
+          "balls": 129,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 40.31,
+          "out": true
+        },
+        {
+          "player": "PM Nevill",
+          "runs": 25,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.82,
+          "out": true
+        },
+        {
+          "player": "SA Abbott",
+          "runs": 18,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.91,
+          "out": false
+        },
+        {
+          "player": "MA Starc",
+          "runs": 10,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "TA Copeland",
+          "runs": 2,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.33,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 12,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "HNA Conway",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Neser",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 2.5
+        },
+        {
+          "player": "JD Wildermuth",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 3.16
+        },
+        {
+          "player": "MJ Swepson",
+          "overs": "29.0",
+          "balls": 174,
+          "runs": 78,
+          "wickets": 5,
+          "economy": 2.69
+        },
+        {
+          "player": "MT Steketee",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 2.07
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 3.71
+        },
+        {
+          "player": "MT Renshaw",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "XC Bartlett",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 2.84
+        }
+      ]
+    }
+  ]
+}

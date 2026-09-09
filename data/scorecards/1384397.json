@@ -1,0 +1,321 @@
+{
+  "id": "1384397",
+  "teams": [
+    "New Zealand",
+    "Netherlands"
+  ],
+  "date": "2023-10-09",
+  "format": "ODI",
+  "competition": "ICC Cricket World Cup",
+  "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+  "result": "New Zealand won by 99 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 322,
+      "extras": 13,
+      "balls": 304,
+      "batting": [
+        {
+          "player": "DP Conway",
+          "runs": 32,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 78.05,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 70,
+          "balls": 80,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 51,
+          "balls": 51,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 48,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 53,
+          "balls": 46,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 115.22,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 5,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 36,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 211.76,
+          "out": false
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 10,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 250.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "A Dutt",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 62,
+          "wickets": 2,
+          "economy": 6.1
+        },
+        {
+          "player": "R Klein",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 5.72
+        },
+        {
+          "player": "PA van Meekeren",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 62,
+          "wickets": 2,
+          "economy": 6.76
+        },
+        {
+          "player": "RE van der Merwe",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 56,
+          "wickets": 2,
+          "economy": 6.22
+        },
+        {
+          "player": "CN Ackermann",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "BFW de Leede",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 6.3
+        },
+        {
+          "player": "Vikramjit Singh",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Netherlands",
+      "runs": 223,
+      "extras": 4,
+      "balls": 281,
+      "batting": [
+        {
+          "player": "Vikramjit Singh",
+          "runs": 12,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "MP O'Dowd",
+          "runs": 16,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.61,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 69,
+          "balls": 74,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 93.24,
+          "out": true
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 18,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 72.0,
+          "out": true
+        },
+        {
+          "player": "AT Nidamanuru",
+          "runs": 21,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 80.77,
+          "out": true
+        },
+        {
+          "player": "SA Edwards",
+          "runs": 30,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "SA Engelbrecht",
+          "runs": 29,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 85.29,
+          "out": true
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "R Klein",
+          "runs": 8,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "A Dutt",
+          "runs": 11,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 55.0,
+          "out": true
+        },
+        {
+          "player": "PA van Meekeren",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 4.16
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 40,
+          "wickets": 3,
+          "economy": 4.71
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 59,
+          "wickets": 5,
+          "economy": 5.9
+        },
+        {
+          "player": "LH Ferguson",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 4.12
+        },
+        {
+          "player": "R Ravindra",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 4.52
+        },
+        {
+          "player": "GD Phillips",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.5
+        }
+      ]
+    }
+  ]
+}

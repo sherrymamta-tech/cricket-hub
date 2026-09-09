@@ -1,0 +1,454 @@
+{
+  "id": "1452142",
+  "teams": [
+    "Wellington Firebirds",
+    "Otago Volts"
+  ],
+  "date": "2024-11-19",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "University Oval, Dunedin",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Wellington Firebirds",
+      "runs": 357,
+      "extras": 14,
+      "balls": 593,
+      "batting": [
+        {
+          "player": "SM Mycock",
+          "runs": 32,
+          "balls": 73,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 43.84,
+          "out": true
+        },
+        {
+          "player": "PF Younghusband",
+          "runs": 0,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GR Severin",
+          "runs": 8,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 161,
+          "balls": 233,
+          "fours": 21,
+          "sixes": 0,
+          "strike_rate": 69.1,
+          "out": true
+        },
+        {
+          "player": "MA Abbas",
+          "runs": 12,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "CR McLachlan",
+          "runs": 38,
+          "balls": 58,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 65.52,
+          "out": true
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 68,
+          "balls": 82,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 82.93,
+          "out": true
+        },
+        {
+          "player": "NA Greenwood",
+          "runs": 17,
+          "balls": 55,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.91,
+          "out": true
+        },
+        {
+          "player": "MW Snedden",
+          "runs": 0,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LR Dudding",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "JW Hartshorn",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LI Georgeson",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 2.24
+        },
+        {
+          "player": "T Muller",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 82,
+          "wickets": 2,
+          "economy": 3.51
+        },
+        {
+          "player": "JM Gibson",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 86,
+          "wickets": 1,
+          "economy": 4.45
+        },
+        {
+          "player": "JD McKay",
+          "overs": "22.1",
+          "balls": 133,
+          "runs": 85,
+          "wickets": 4,
+          "economy": 3.83
+        },
+        {
+          "player": "JM Cumming",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 3.29
+        },
+        {
+          "player": "ZAJ Cumming",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 5.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Otago Volts",
+      "runs": 303,
+      "extras": 20,
+      "balls": 563,
+      "batting": [
+        {
+          "player": "TK Parkes",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "JM Cumming",
+          "runs": 36,
+          "balls": 60,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "DN Phillips",
+          "runs": 135,
+          "balls": 250,
+          "fours": 12,
+          "sixes": 2,
+          "strike_rate": 54.0,
+          "out": true
+        },
+        {
+          "player": "LI Georgeson",
+          "runs": 16,
+          "balls": 47,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 34.04,
+          "out": true
+        },
+        {
+          "player": "LJ Carter",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LC Johnson",
+          "runs": 21,
+          "balls": 54,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "MW Chu",
+          "runs": 62,
+          "balls": 108,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 57.41,
+          "out": false
+        },
+        {
+          "player": "JM Gibson",
+          "runs": 2,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "ZAJ Cumming",
+          "runs": 10,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "T Muller",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LR Dudding",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 62,
+          "wickets": 3,
+          "economy": 3.07
+        },
+        {
+          "player": "LV van Beek",
+          "overs": "19.3",
+          "balls": 117,
+          "runs": 95,
+          "wickets": 1,
+          "economy": 4.87
+        },
+        {
+          "player": "JW Hartshorn",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 2.69
+        },
+        {
+          "player": "PF Younghusband",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 2.95
+        },
+        {
+          "player": "MW Snedden",
+          "overs": "19.5",
+          "balls": 119,
+          "runs": 48,
+          "wickets": 2,
+          "economy": 2.42
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Wellington Firebirds",
+      "runs": 211,
+      "extras": 12,
+      "balls": 354,
+      "batting": [
+        {
+          "player": "SM Mycock",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NA Greenwood",
+          "runs": 22,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 88.0,
+          "out": true
+        },
+        {
+          "player": "GR Severin",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 101,
+          "balls": 147,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 68.71,
+          "out": false
+        },
+        {
+          "player": "MA Abbas",
+          "runs": 40,
+          "balls": 48,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "CR McLachlan",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 20,
+          "balls": 66,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.3,
+          "out": true
+        },
+        {
+          "player": "PF Younghusband",
+          "runs": 8,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.63,
+          "out": true
+        },
+        {
+          "player": "MW Snedden",
+          "runs": 0,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LI Georgeson",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 2.96
+        },
+        {
+          "player": "T Muller",
+          "overs": "10.5",
+          "balls": 65,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 3.42
+        },
+        {
+          "player": "JM Gibson",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 5.8
+        },
+        {
+          "player": "JD McKay",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 67,
+          "wickets": 3,
+          "economy": 4.47
+        },
+        {
+          "player": "ZAJ Cumming",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 2.53
+        },
+        {
+          "player": "JM Cumming",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "id": "1227588",
+  "teams": [
+    "Durham",
+    "Yorkshire"
+  ],
+  "date": "2020-08-01",
+  "format": "MDM",
+  "competition": "Bob Willis Trophy",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Yorkshire won by 6 wickets",
+  "winner": "Yorkshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 103,
+      "extras": 1,
+      "balls": 352,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 8,
+          "balls": 40,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 11,
+          "balls": 49,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.45,
+          "out": true
+        },
+        {
+          "player": "CT Steel",
+          "runs": 9,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 24.32,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 8,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.59,
+          "out": true
+        },
+        {
+          "player": "GJ Harte",
+          "runs": 33,
+          "balls": 87,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 37.93,
+          "out": false
+        },
+        {
+          "player": "JTA Burnham",
+          "runs": 7,
+          "balls": 38,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.42,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 6,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "P Coughlin",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 7,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 10,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 32.26,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "16.4",
+          "balls": 100,
+          "runs": 24,
+          "wickets": 4,
+          "economy": 1.44
+        },
+        {
+          "player": "MD Fisher",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 43,
+          "wickets": 2,
+          "economy": 2.69
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 1.54
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 16,
+          "wickets": 3,
+          "economy": 1.23
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Yorkshire",
+      "runs": 199,
+      "extras": 9,
+      "balls": 376,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 10,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.48,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 41,
+          "balls": 41,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "WAR Fraine",
+          "runs": 14,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.16,
+          "out": true
+        },
+        {
+          "player": "DJ Malan",
+          "runs": 30,
+          "balls": 51,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 41,
+          "balls": 64,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 64.06,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 17,
+          "balls": 59,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.81,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "MD Fisher",
+          "runs": 1,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 3.57,
+          "out": true
+        },
+        {
+          "player": "JW Shutt",
+          "runs": 7,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.07,
+          "out": false
+        },
+        {
+          "player": "BO Coad",
+          "runs": 28,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 90.32,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 69,
+          "wickets": 3,
+          "economy": 4.06
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 2.22
+        },
+        {
+          "player": "BA Raine",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 55,
+          "wickets": 3,
+          "economy": 2.75
+        },
+        {
+          "player": "GJ Harte",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 1.5
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 52,
+          "wickets": 3,
+          "economy": 3.55
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Durham",
+      "runs": 266,
+      "extras": 13,
+      "balls": 656,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 106,
+          "balls": 263,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 40.3,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 14,
+          "balls": 83,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 16.87,
+          "out": true
+        },
+        {
+          "player": "CT Steel",
+          "runs": 11,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.95,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 77,
+          "balls": 146,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 52.74,
+          "out": true
+        },
+        {
+          "player": "GJ Harte",
+          "runs": 29,
+          "balls": 75,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 38.67,
+          "out": false
+        },
+        {
+          "player": "JTA Burnham",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "P Coughlin",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 0,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 14,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 107.69,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 0.92
+        },
+        {
+          "player": "MD Fisher",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 67,
+          "wickets": 4,
+          "economy": 2.58
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "24.2",
+          "balls": 146,
+          "runs": 62,
+          "wickets": 3,
+          "economy": 2.55
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 53,
+          "wickets": 2,
+          "economy": 2.79
+        },
+        {
+          "player": "JW Shutt",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 5.12
+        },
+        {
+          "player": "HC Brook",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 2.83
+        },
+        {
+          "player": "A Lyth",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Yorkshire",
+      "runs": 172,
+      "extras": 3,
+      "balls": 268,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 4,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 24,
+          "balls": 44,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "WAR Fraine",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DJ Malan",
+          "runs": 73,
+          "balls": 105,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 69.52,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 66,
+          "balls": 90,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 73.33,
+          "out": false
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 52,
+          "wickets": 3,
+          "economy": 3.47
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 4.33
+        },
+        {
+          "player": "BA Raine",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 2.43
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 3.88
+        },
+        {
+          "player": "AZ Lees",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 12.0
+        },
+        {
+          "player": "GJ Harte",
+          "overs": "0.4",
+          "balls": 4,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 25.5
+        }
+      ]
+    }
+  ]
+}

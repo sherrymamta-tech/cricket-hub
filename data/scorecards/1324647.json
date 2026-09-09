@@ -1,0 +1,252 @@
+{
+  "id": "1324647",
+  "teams": [
+    "Melbourne Renegades",
+    "Perth Scorchers"
+  ],
+  "date": "2023-01-01",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Docklands Stadium, Melbourne",
+  "result": "Perth Scorchers won by 5 wickets",
+  "winner": "Perth Scorchers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Melbourne Renegades",
+      "runs": 155,
+      "extras": 8,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 6,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "NJ Maddinson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "PSP Handscomb",
+          "runs": 9,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 65,
+          "balls": 48,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 135.42,
+          "out": true
+        },
+        {
+          "player": "JW Wells",
+          "runs": 22,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 88.0,
+          "out": true
+        },
+        {
+          "player": "MW Harvey",
+          "runs": 16,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "W Sutherland",
+          "runs": 14,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 155.56,
+          "out": false
+        },
+        {
+          "player": "AJ Hosein",
+          "runs": 15,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 250.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JP Behrendorff",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 4.25
+        },
+        {
+          "player": "JA Richardson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 9.12
+        },
+        {
+          "player": "AJ Tye",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 3,
+          "economy": 8.25
+        },
+        {
+          "player": "AM Hardie",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 9.75
+        },
+        {
+          "player": "P Hatzoglou",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 6.72
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Perth Scorchers",
+      "runs": 156,
+      "extras": 3,
+      "balls": 121,
+      "batting": [
+        {
+          "player": "F du Plessis",
+          "runs": 39,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 130.0,
+          "out": true
+        },
+        {
+          "player": "A Lyth",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "CT Bancroft",
+          "runs": 46,
+          "balls": 34,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 135.29,
+          "out": true
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 47,
+          "balls": 34,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 138.24,
+          "out": true
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 9,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "AM Hardie",
+          "runs": 9,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": false
+        },
+        {
+          "player": "NR Hobson",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AJ Hosein",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "TS Rogers",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 11.5
+        },
+        {
+          "player": "KW Richardson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 5.25
+        },
+        {
+          "player": "W Sutherland",
+          "overs": "3.5",
+          "balls": 23,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 8.35
+        },
+        {
+          "player": "Mujeeb Ur Rahman",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 6.69
+        }
+      ]
+    }
+  ]
+}

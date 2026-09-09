@@ -1,0 +1,85 @@
+{
+  "id": "1432989",
+  "teams": [
+    "Burgher Recreation Club",
+    "Nondescripts Cricket Club"
+  ],
+  "date": "2024-06-26",
+  "format": "T20",
+  "competition": "Major Clubs T20 Tournament",
+  "venue": "P Sara Oval, Colombo",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Burgher Recreation Club",
+      "runs": 61,
+      "extras": 1,
+      "balls": 38,
+      "batting": [
+        {
+          "player": "R Sandaruwan",
+          "runs": 39,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 4,
+          "strike_rate": 169.57,
+          "out": true
+        },
+        {
+          "player": "PBB Rajapaksa",
+          "runs": 19,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 146.15,
+          "out": false
+        },
+        {
+          "player": "M Subasingha",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Karunaratne",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "M Pathirana",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "C Gunasekara",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 13.0
+        },
+        {
+          "player": "PVD Chameera",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

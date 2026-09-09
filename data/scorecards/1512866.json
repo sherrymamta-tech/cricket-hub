@@ -1,0 +1,286 @@
+{
+  "id": "1512866",
+  "teams": [
+    "Durham",
+    "Derbyshire"
+  ],
+  "date": "2026-07-10",
+  "format": "T20",
+  "competition": "Vitality Blast Men",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Durham won by 5 runs",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 165,
+      "extras": 10,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 8,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "BS McKinney",
+          "runs": 31,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 206.67,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 69,
+          "balls": 44,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 156.82,
+          "out": false
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 19,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 82.61,
+          "out": true
+        },
+        {
+          "player": "Kasey Aldridge",
+          "runs": 12,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "BA Carse",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 9,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JP Morley",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.75
+        },
+        {
+          "player": "M Montgomery",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 12.5
+        },
+        {
+          "player": "Akif Javed",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 3,
+          "economy": 8.0
+        },
+        {
+          "player": "N Potts",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 8.1
+        },
+        {
+          "player": "Sufiyan Muqeem",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 7.68
+        },
+        {
+          "player": "MK Andersson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 7.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Derbyshire",
+      "runs": 160,
+      "extras": 6,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "AHT Donald",
+          "runs": 8,
+          "balls": 4,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "MYB Naeem",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "WL Madsen",
+          "runs": 26,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 104.0,
+          "out": true
+        },
+        {
+          "player": "MK Andersson",
+          "runs": 44,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 118.92,
+          "out": true
+        },
+        {
+          "player": "M Montgomery",
+          "runs": 18,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 163.64,
+          "out": true
+        },
+        {
+          "player": "HRC Came",
+          "runs": 35,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 152.17,
+          "out": false
+        },
+        {
+          "player": "RA Whiteley",
+          "runs": 22,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 122.22,
+          "out": true
+        },
+        {
+          "player": "N Potts",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Carse",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 6.46
+        },
+        {
+          "player": "CF Parkinson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 8.4
+        },
+        {
+          "player": "BA Raine",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "player": "NA Sowter",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 8.25
+        },
+        {
+          "player": "CN Ackermann",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 14.0
+        }
+      ]
+    }
+  ]
+}

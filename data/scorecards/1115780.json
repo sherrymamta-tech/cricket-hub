@@ -1,0 +1,448 @@
+{
+  "id": "1115780",
+  "teams": [
+    "England",
+    "New Zealand"
+  ],
+  "date": "2018-03-22",
+  "format": "Test",
+  "competition": "England tour of Australia and New Zealand",
+  "venue": "Eden Park",
+  "result": "New Zealand won by 49 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 58,
+      "extras": 1,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "AN Cook",
+          "runs": 5,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.81,
+          "out": true
+        },
+        {
+          "player": "MD Stoneman",
+          "runs": 11,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.0,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DJ Malan",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MM Ali",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 33,
+          "balls": 25,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 132.0,
+          "out": false
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 33,
+          "wickets": 6,
+          "economy": 3.09
+        },
+        {
+          "player": "TG Southee",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 25,
+          "wickets": 4,
+          "economy": 2.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 427,
+      "extras": 19,
+      "balls": 848,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 3,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.04,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 26,
+          "balls": 112,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 23.21,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 102,
+          "balls": 220,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 46.36,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 20,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 145,
+          "balls": 268,
+          "fours": 18,
+          "sixes": 0,
+          "strike_rate": 54.1,
+          "out": false
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 31,
+          "balls": 65,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 47.69,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 29,
+          "balls": 40,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 72.5,
+          "out": true
+        },
+        {
+          "player": "TD Astle",
+          "runs": 18,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 51.43,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 25,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 59.52,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 9,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 128.57,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "29.0",
+          "balls": 174,
+          "runs": 87,
+          "wickets": 3,
+          "economy": 3.0
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "34.0",
+          "balls": 204,
+          "runs": 85,
+          "wickets": 3,
+          "economy": 2.5
+        },
+        {
+          "player": "C Overton",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 75,
+          "wickets": 1,
+          "economy": 2.98
+        },
+        {
+          "player": "CR Woakes",
+          "overs": "33.1",
+          "balls": 199,
+          "runs": 107,
+          "wickets": 0,
+          "economy": 3.23
+        },
+        {
+          "player": "MM Ali",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 3.53
+        },
+        {
+          "player": "JE Root",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 4.33
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "England",
+      "runs": 320,
+      "extras": 12,
+      "balls": 759,
+      "batting": [
+        {
+          "player": "AN Cook",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "MD Stoneman",
+          "runs": 55,
+          "balls": 91,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 60.44,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 51,
+          "balls": 131,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 38.93,
+          "out": true
+        },
+        {
+          "player": "DJ Malan",
+          "runs": 23,
+          "balls": 62,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 37.1,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 66,
+          "balls": 188,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 35.11,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 26,
+          "balls": 72,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 36.11,
+          "out": true
+        },
+        {
+          "player": "MM Ali",
+          "runs": 28,
+          "balls": 43,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 65.12,
+          "out": true
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 52,
+          "balls": 119,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 43.7,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 3,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 1,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.26,
+          "out": false
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 72,
+          "wickets": 3,
+          "economy": 2.67
+        },
+        {
+          "player": "TG Southee",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 87,
+          "wickets": 1,
+          "economy": 3.35
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 1.66
+        },
+        {
+          "player": "N Wagner",
+          "overs": "32.1",
+          "balls": 193,
+          "runs": 77,
+          "wickets": 3,
+          "economy": 2.39
+        },
+        {
+          "player": "TD Astle",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 43,
+          "wickets": 3,
+          "economy": 2.66
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    }
+  ]
+}

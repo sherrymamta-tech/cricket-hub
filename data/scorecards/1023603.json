@@ -1,0 +1,286 @@
+{
+  "id": "1023603",
+  "teams": [
+    "Melbourne Stars",
+    "Melbourne Renegades"
+  ],
+  "date": "2017-01-01",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Melbourne Cricket Ground",
+  "result": "Melbourne Renegades won by 7 runs",
+  "winner": "Melbourne Renegades",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Melbourne Renegades",
+      "runs": 171,
+      "extras": 7,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "SP Narine",
+          "runs": 21,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 30,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "MS Harris",
+          "runs": 9,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "CL White",
+          "runs": 64,
+          "balls": 43,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 148.84,
+          "out": false
+        },
+        {
+          "player": "TLW Cooper",
+          "runs": 36,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 144.0,
+          "out": true
+        },
+        {
+          "player": "TL Lawford",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Beer",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 7.33
+        },
+        {
+          "player": "BW Hilfenhaus",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 10.42
+        },
+        {
+          "player": "SM Boland",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 11.25
+        },
+        {
+          "player": "MP Stoinis",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 8.21
+        },
+        {
+          "player": "JP Faulkner",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "player": "A Zampa",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 8.21
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Stars",
+      "runs": 151,
+      "extras": 9,
+      "balls": 117,
+      "batting": [
+        {
+          "player": "GJ Maxwell",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "LJ Wright",
+          "runs": 45,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 109.76,
+          "out": true
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 15,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 187.5,
+          "out": true
+        },
+        {
+          "player": "DJ Hussey",
+          "runs": 20,
+          "balls": 13,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 153.85,
+          "out": true
+        },
+        {
+          "player": "JP Faulkner",
+          "runs": 25,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 89.29,
+          "out": true
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 18,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        },
+        {
+          "player": "SB Harper",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "A Zampa",
+          "runs": 7,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "BW Hilfenhaus",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SM Boland",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MA Beer",
+          "runs": 7,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 233.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TLW Cooper",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "CP Tremain",
+          "overs": "3.5",
+          "balls": 23,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.83
+        },
+        {
+          "player": "CAH Stevenson",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 10.5
+        },
+        {
+          "player": "TL Lawford",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 10.85
+        },
+        {
+          "player": "SP Narine",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 6.24
+        },
+        {
+          "player": "GB Hogg",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 22,
+          "wickets": 3,
+          "economy": 5.28
+        }
+      ]
+    }
+  ]
+}

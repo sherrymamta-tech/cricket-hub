@@ -1,0 +1,623 @@
+{
+  "id": "1127722",
+  "teams": [
+    "Kent",
+    "Northamptonshire"
+  ],
+  "date": "2018-09-04",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "St Lawrence Ground, Canterbury",
+  "result": "Kent won by 102 runs",
+  "winner": "Kent",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Kent",
+      "runs": 137,
+      "extras": 15,
+      "balls": 283,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 6,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 7,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 14,
+          "balls": 52,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.92,
+          "out": true
+        },
+        {
+          "player": "HG Kuhn",
+          "runs": 16,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 23,
+          "balls": 70,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.86,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 18,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "DI Stevens",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "HW Podmore",
+          "runs": 10,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.3,
+          "out": false
+        },
+        {
+          "player": "G Stewart",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 18,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "IAA Thomas",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BW Sanderson",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 42,
+          "wickets": 3,
+          "economy": 3.0
+        },
+        {
+          "player": "BA Hutton",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 3.55
+        },
+        {
+          "player": "LA Procter",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 2.53
+        },
+        {
+          "player": "NL Buck",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 32,
+          "wickets": 3,
+          "economy": 4.0
+        },
+        {
+          "player": "RJ Gleeson",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 16,
+          "wickets": 3,
+          "economy": 1.45
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Northamptonshire",
+      "runs": 105,
+      "extras": 5,
+      "balls": 220,
+      "batting": [
+        {
+          "player": "BJ Curran",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "R Vasconcelos",
+          "runs": 5,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.25,
+          "out": true
+        },
+        {
+          "player": "LA Procter",
+          "runs": 13,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 52.0,
+          "out": true
+        },
+        {
+          "player": "AG Wakely",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RE Levi",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "AM Rossington",
+          "runs": 18,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "SA Zaib",
+          "runs": 3,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.54,
+          "out": true
+        },
+        {
+          "player": "NL Buck",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BA Hutton",
+          "runs": 27,
+          "balls": 39,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "RJ Gleeson",
+          "runs": 26,
+          "balls": 58,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 44.83,
+          "out": true
+        },
+        {
+          "player": "BW Sanderson",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "16.4",
+          "balls": 100,
+          "runs": 44,
+          "wickets": 7,
+          "economy": 2.64
+        },
+        {
+          "player": "DI Stevens",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 2.88
+        },
+        {
+          "player": "HW Podmore",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "G Stewart",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Kent",
+      "runs": 287,
+      "extras": 24,
+      "balls": 433,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 63,
+          "balls": 101,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 62.38,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 10,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "G Stewart",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 81,
+          "balls": 117,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "HG Kuhn",
+          "runs": 34,
+          "balls": 63,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 53.97,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 56,
+          "balls": 74,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 75.68,
+          "out": true
+        },
+        {
+          "player": "DI Stevens",
+          "runs": 14,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 51.85,
+          "out": true
+        },
+        {
+          "player": "HW Podmore",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "IAA Thomas",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BW Sanderson",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 4.38
+        },
+        {
+          "player": "BA Hutton",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 81,
+          "wickets": 1,
+          "economy": 3.35
+        },
+        {
+          "player": "NL Buck",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 55,
+          "wickets": 0,
+          "economy": 4.93
+        },
+        {
+          "player": "RJ Gleeson",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 80,
+          "wickets": 6,
+          "economy": 4.17
+        },
+        {
+          "player": "SA Zaib",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        },
+        {
+          "player": "LA Procter",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 4.05
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Northamptonshire",
+      "runs": 217,
+      "extras": 30,
+      "balls": 435,
+      "batting": [
+        {
+          "player": "BJ Curran",
+          "runs": 18,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "LA Procter",
+          "runs": 4,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": true
+        },
+        {
+          "player": "R Vasconcelos",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "RE Levi",
+          "runs": 14,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 35.9,
+          "out": true
+        },
+        {
+          "player": "AG Wakely",
+          "runs": 38,
+          "balls": 74,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 51.35,
+          "out": true
+        },
+        {
+          "player": "AM Rossington",
+          "runs": 56,
+          "balls": 105,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "SA Zaib",
+          "runs": 9,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "NL Buck",
+          "runs": 17,
+          "balls": 61,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 27.87,
+          "out": true
+        },
+        {
+          "player": "BA Hutton",
+          "runs": 21,
+          "balls": 52,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.38,
+          "out": true
+        },
+        {
+          "player": "RJ Gleeson",
+          "runs": 3,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.75,
+          "out": true
+        },
+        {
+          "player": "BW Sanderson",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 72,
+          "wickets": 4,
+          "economy": 3.27
+        },
+        {
+          "player": "DI Stevens",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 3.71
+        },
+        {
+          "player": "G Stewart",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 3.28
+        },
+        {
+          "player": "HW Podmore",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 1.88
+        },
+        {
+          "player": "IAA Thomas",
+          "overs": "5.3",
+          "balls": 33,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "JL Denly",
+          "overs": "6.4",
+          "balls": 40,
+          "runs": 7,
+          "wickets": 2,
+          "economy": 1.05
+        }
+      ]
+    }
+  ]
+}

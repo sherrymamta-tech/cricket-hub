@@ -1,0 +1,364 @@
+{
+  "id": "1347270",
+  "teams": [
+    "Somerset",
+    "Kent"
+  ],
+  "date": "2023-09-19",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "The Cooper Associates County Ground, Taunton",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Somerset",
+      "runs": 404,
+      "extras": 33,
+      "balls": 526,
+      "batting": [
+        {
+          "player": "TA Lammonby",
+          "runs": 109,
+          "balls": 151,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 72.19,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 20,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.48,
+          "out": true
+        },
+        {
+          "player": "LP Goldsworthy",
+          "runs": 122,
+          "balls": 203,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 60.1,
+          "out": true
+        },
+        {
+          "player": "ARI Umeed",
+          "runs": 49,
+          "balls": 88,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 55.68,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 68,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 8,
+          "strike_rate": 212.5,
+          "out": false
+        },
+        {
+          "player": "JEK Rew",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Hogan",
+          "overs": "11.2",
+          "balls": 68,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 2.74
+        },
+        {
+          "player": "Arafat Bhuiyan",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 92,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "player": "JDM Evison",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 70,
+          "wickets": 0,
+          "economy": 3.89
+        },
+        {
+          "player": "Jaskaran Singh",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 95,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 4.05
+        },
+        {
+          "player": "JA Leaning",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 6.33
+        },
+        {
+          "player": "JL Denly",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 235,
+      "extras": 21,
+      "balls": 340,
+      "batting": [
+        {
+          "player": "BG Compton",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TS Muyeye",
+          "runs": 8,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.1,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 12,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.17,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 73,
+          "balls": 119,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 61.34,
+          "out": true
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 26,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 78.79,
+          "out": true
+        },
+        {
+          "player": "MK O'Riordan",
+          "runs": 35,
+          "balls": 57,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 61.4,
+          "out": true
+        },
+        {
+          "player": "JDM Evison",
+          "runs": 23,
+          "balls": 32,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 71.88,
+          "out": true
+        },
+        {
+          "player": "Jaskaran Singh",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 19,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 95.0,
+          "out": true
+        },
+        {
+          "player": "Arafat Bhuiyan",
+          "runs": 15,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Gregory",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 49,
+          "wickets": 3,
+          "economy": 4.03
+        },
+        {
+          "player": "JA Brooks",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 3.3
+        },
+        {
+          "player": "JH Davey",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 3.58
+        },
+        {
+          "player": "N Wagner",
+          "overs": "12.2",
+          "balls": 74,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 4.7
+        },
+        {
+          "player": "TB Abell",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 55,
+          "wickets": 4,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Kent",
+      "runs": 44,
+      "extras": 4,
+      "balls": 92,
+      "batting": [
+        {
+          "player": "TS Muyeye",
+          "runs": 24,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 64.86,
+          "out": true
+        },
+        {
+          "player": "BG Compton",
+          "runs": 6,
+          "balls": 40,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 15.0,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 10,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Gregory",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 3.47
+        },
+        {
+          "player": "JA Brooks",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 3.75
+        },
+        {
+          "player": "JH Davey",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 4.08
+        },
+        {
+          "player": "N Wagner",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 1,
+          "wickets": 1,
+          "economy": 0.33
+        },
+        {
+          "player": "T Banton",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        }
+      ]
+    }
+  ]
+}

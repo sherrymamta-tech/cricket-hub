@@ -1,0 +1,191 @@
+{
+  "id": "1201981",
+  "teams": [
+    "Tshwane Spartans",
+    "Durban Heat"
+  ],
+  "date": "2019-11-21",
+  "format": "T20",
+  "competition": "Mzansi Super League",
+  "venue": "SuperSport Park, Centurion",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Tshwane Spartans",
+      "runs": 141,
+      "extras": 8,
+      "balls": 96,
+      "batting": [
+        {
+          "player": "TB de Bruyn",
+          "runs": 40,
+          "balls": 25,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 160.0,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 57,
+          "balls": 42,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 135.71,
+          "out": false
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 23,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 143.75,
+          "out": true
+        },
+        {
+          "player": "PJ van Biljon",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "PWA Mulder",
+          "runs": 6,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Jansen",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 9.67
+        },
+        {
+          "player": "KJ Abbott",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 10.74
+        },
+        {
+          "player": "AL Phehlukwayo",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 9.43
+        },
+        {
+          "player": "MP Siboto",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Durban Heat",
+      "runs": 21,
+      "extras": 0,
+      "balls": 13,
+      "batting": [
+        {
+          "player": "WB Marshall",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WJ Lubbe",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AD Hales",
+          "runs": 7,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": false
+        },
+        {
+          "player": "DJ Vilas",
+          "runs": 14,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 233.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Ngidi",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 2,
+          "economy": 2.0
+        },
+        {
+          "player": "TK Curran",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 19.0
+        },
+        {
+          "player": "M Morkel",
+          "overs": "0.1",
+          "balls": 1,
+          "runs": 0,
+          "wickets": 1,
+          "economy": 0.0
+        }
+      ]
+    }
+  ]
+}

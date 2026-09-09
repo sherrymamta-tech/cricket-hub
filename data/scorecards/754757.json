@@ -1,0 +1,102 @@
+{
+  "id": "754757",
+  "teams": [
+    "Australia",
+    "India"
+  ],
+  "date": "2015-01-26",
+  "format": "ODI",
+  "competition": "Carlton Mid One-Day International Tri-Series",
+  "venue": "Sydney Cricket Ground",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 69,
+      "extras": 7,
+      "balls": 103,
+      "batting": [
+        {
+          "player": "AM Rahane",
+          "runs": 28,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.85,
+          "out": false
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 8,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "AT Rayudu",
+          "runs": 23,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 85.19,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 2.64
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "5.3",
+          "balls": 33,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 4.55
+        },
+        {
+          "player": "MR Marsh",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 6.3
+        },
+        {
+          "player": "XJ Doherty",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 3.16
+        },
+        {
+          "player": "JP Faulkner",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    }
+  ]
+}

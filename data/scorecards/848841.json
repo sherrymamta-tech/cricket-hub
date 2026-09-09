@@ -1,0 +1,304 @@
+{
+  "id": "848841",
+  "teams": [
+    "South Africa",
+    "New Zealand"
+  ],
+  "date": "2015-08-16",
+  "format": "T20",
+  "competition": "New Zealand in South Africa T20I Series",
+  "venue": "SuperSport Park",
+  "result": "New Zealand won by 32 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 177,
+      "extras": 6,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 60,
+          "balls": 36,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 25,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 147.06,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "GD Elliott",
+          "runs": 20,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 105.26,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 28,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 147.37,
+          "out": true
+        },
+        {
+          "player": "L Ronchi",
+          "runs": 6,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 18,
+          "balls": 8,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 225.0,
+          "out": true
+        },
+        {
+          "player": "AF Milne",
+          "runs": 10,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 142.86,
+          "out": false
+        },
+        {
+          "player": "NL McCullum",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AM Phangiso",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 9.23
+        },
+        {
+          "player": "KJ Abbott",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 10.56
+        },
+        {
+          "player": "K Rabada",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 7.5
+        },
+        {
+          "player": "D Wiese",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.24
+        },
+        {
+          "player": "E Leie",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 10.42
+        },
+        {
+          "player": "F Behardien",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 145,
+      "extras": 4,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "HM Amla",
+          "runs": 14,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MN van Wyk",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 15,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "RR Rossouw",
+          "runs": 26,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 108.33,
+          "out": true
+        },
+        {
+          "player": "F Behardien",
+          "runs": 36,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "DA Miller",
+          "runs": 29,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 145.0,
+          "out": true
+        },
+        {
+          "player": "D Wiese",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "AM Phangiso",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "KJ Abbott",
+          "runs": 9,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": false
+        },
+        {
+          "player": "K Rabada",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "NL McCullum",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 7.75
+        },
+        {
+          "player": "AF Milne",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.23
+        },
+        {
+          "player": "MJ McClenaghan",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 6.72
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 7.33
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.75
+        },
+        {
+          "player": "GD Elliott",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 8.57
+        }
+      ]
+    }
+  ]
+}

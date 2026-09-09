@@ -1,0 +1,438 @@
+{
+  "id": "1000883",
+  "teams": [
+    "Australia",
+    "Pakistan"
+  ],
+  "date": "2016-12-26",
+  "format": "Test",
+  "competition": "Pakistan in Australia Test Series",
+  "venue": "Melbourne Cricket Ground",
+  "result": "Australia won by 18 runs",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 443,
+      "extras": 19,
+      "balls": 761,
+      "batting": [
+        {
+          "player": "Sami Aslam",
+          "runs": 9,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.95,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 205,
+          "balls": 365,
+          "fours": 20,
+          "sixes": 0,
+          "strike_rate": 56.16,
+          "out": false
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 23,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 53.49,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 21,
+          "balls": 59,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.59,
+          "out": true
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 11,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 84.62,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 50,
+          "balls": 123,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.65,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 10,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Amir",
+          "runs": 29,
+          "balls": 27,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 107.41,
+          "out": true
+        },
+        {
+          "player": "Sohail Khan",
+          "runs": 65,
+          "balls": 65,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Wahab Riaz",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "31.1",
+          "balls": 187,
+          "runs": 133,
+          "wickets": 1,
+          "economy": 4.27
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "32.3",
+          "balls": 195,
+          "runs": 52,
+          "wickets": 3,
+          "economy": 1.6
+        },
+        {
+          "player": "JM Bird",
+          "overs": "34.1",
+          "balls": 205,
+          "runs": 116,
+          "wickets": 3,
+          "economy": 3.4
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 115,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "SPD Smith",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "NJ Maddinson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 624,
+      "extras": 27,
+      "balls": 866,
+      "batting": [
+        {
+          "player": "MT Renshaw",
+          "runs": 10,
+          "balls": 40,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 144,
+          "balls": 143,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 100.7,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 97,
+          "balls": 165,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 58.79,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 165,
+          "balls": 247,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 66.8,
+          "out": false
+        },
+        {
+          "player": "PSP Handscomb",
+          "runs": 54,
+          "balls": 90,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "NJ Maddinson",
+          "runs": 22,
+          "balls": 55,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "MS Wade",
+          "runs": 9,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 84,
+          "balls": 91,
+          "fours": 3,
+          "sixes": 7,
+          "strike_rate": 92.31,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 12,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Amir",
+          "overs": "33.2",
+          "balls": 200,
+          "runs": 92,
+          "wickets": 0,
+          "economy": 2.76
+        },
+        {
+          "player": "Sohail Khan",
+          "overs": "31.0",
+          "balls": 186,
+          "runs": 133,
+          "wickets": 3,
+          "economy": 4.29
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "41.0",
+          "balls": 246,
+          "runs": 209,
+          "wickets": 3,
+          "economy": 5.1
+        },
+        {
+          "player": "Wahab Riaz",
+          "overs": "34.0",
+          "balls": 204,
+          "runs": 155,
+          "wickets": 2,
+          "economy": 4.56
+        },
+        {
+          "player": "Azhar Ali",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Pakistan",
+      "runs": 163,
+      "extras": 11,
+      "balls": 322,
+      "batting": [
+        {
+          "player": "Sami Aslam",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 43,
+          "balls": 112,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.39,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 24,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 64.86,
+          "out": true
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 16,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 51.61,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 43,
+          "balls": 62,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 69.35,
+          "out": true
+        },
+        {
+          "player": "Mohammad Amir",
+          "runs": 11,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.21,
+          "out": true
+        },
+        {
+          "player": "Sohail Khan",
+          "runs": 10,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": false
+        },
+        {
+          "player": "Wahab Riaz",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 36,
+          "wickets": 4,
+          "economy": 2.35
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 3.38
+        },
+        {
+          "player": "JM Bird",
+          "overs": "11.2",
+          "balls": 68,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 4.06
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 37,
+          "wickets": 3,
+          "economy": 2.64
+        }
+      ]
+    }
+  ]
+}

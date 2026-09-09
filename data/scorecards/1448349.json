@@ -1,0 +1,587 @@
+{
+  "id": "1448349",
+  "teams": [
+    "India",
+    "England"
+  ],
+  "date": "2025-06-20",
+  "format": "Test",
+  "competition": "India tour of England",
+  "venue": "Headingley, Leeds",
+  "result": "England won by 5 wickets",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 471,
+      "extras": 31,
+      "balls": 690,
+      "batting": [
+        {
+          "player": "YBK Jaiswal",
+          "runs": 101,
+          "balls": 159,
+          "fours": 16,
+          "sixes": 1,
+          "strike_rate": 63.52,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 42,
+          "balls": 78,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true
+        },
+        {
+          "player": "B Sai Sudharsan",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 147,
+          "balls": 228,
+          "fours": 19,
+          "sixes": 1,
+          "strike_rate": 64.47,
+          "out": true
+        },
+        {
+          "player": "RR Pant",
+          "runs": 134,
+          "balls": 179,
+          "fours": 12,
+          "sixes": 6,
+          "strike_rate": 74.86,
+          "out": true
+        },
+        {
+          "player": "KK Nair",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 11,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true
+        },
+        {
+          "player": "SN Thakur",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "JJ Bumrah",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammed Siraj",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": false
+        },
+        {
+          "player": "M Prasidh Krishna",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CR Woakes",
+          "overs": "24.4",
+          "balls": 148,
+          "runs": 104,
+          "wickets": 0,
+          "economy": 4.22
+        },
+        {
+          "player": "BA Carse",
+          "overs": "22.4",
+          "balls": 136,
+          "runs": 100,
+          "wickets": 1,
+          "economy": 4.41
+        },
+        {
+          "player": "JC Tongue",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 91,
+          "wickets": 4,
+          "economy": 4.51
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "20.3",
+          "balls": 123,
+          "runs": 72,
+          "wickets": 4,
+          "economy": 3.51
+        },
+        {
+          "player": "Shoaib Bashir",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 104,
+          "wickets": 1,
+          "economy": 3.85
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 465,
+      "extras": 34,
+      "balls": 612,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 62,
+          "balls": 94,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 65.96,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 106,
+          "balls": 138,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 76.81,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 28,
+          "balls": 58,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.28,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 99,
+          "balls": 112,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 88.39,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 20,
+          "balls": 52,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "JL Smith",
+          "runs": 40,
+          "balls": 52,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 38,
+          "balls": 55,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 69.09,
+          "out": true
+        },
+        {
+          "player": "BA Carse",
+          "runs": 22,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 95.65,
+          "out": true
+        },
+        {
+          "player": "JC Tongue",
+          "runs": 11,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true
+        },
+        {
+          "player": "Shoaib Bashir",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JJ Bumrah",
+          "overs": "25.2",
+          "balls": 152,
+          "runs": 95,
+          "wickets": 5,
+          "economy": 3.75
+        },
+        {
+          "player": "Mohammed Siraj",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 130,
+          "wickets": 2,
+          "economy": 4.79
+        },
+        {
+          "player": "M Prasidh Krishna",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 128,
+          "wickets": 3,
+          "economy": 6.35
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 68,
+          "wickets": 0,
+          "economy": 2.96
+        },
+        {
+          "player": "SN Thakur",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 6.95
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "India",
+      "runs": 364,
+      "extras": 18,
+      "balls": 585,
+      "batting": [
+        {
+          "player": "YBK Jaiswal",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 137,
+          "balls": 248,
+          "fours": 19,
+          "sixes": 0,
+          "strike_rate": 55.24,
+          "out": true
+        },
+        {
+          "player": "B Sai Sudharsan",
+          "runs": 30,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 8,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RR Pant",
+          "runs": 118,
+          "balls": 141,
+          "fours": 15,
+          "sixes": 3,
+          "strike_rate": 83.69,
+          "out": true
+        },
+        {
+          "player": "KK Nair",
+          "runs": 20,
+          "balls": 55,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 25,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 62.5,
+          "out": false
+        },
+        {
+          "player": "SN Thakur",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Mohammed Siraj",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JJ Bumrah",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Prasidh Krishna",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CR Woakes",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 2.35
+        },
+        {
+          "player": "BA Carse",
+          "overs": "19.3",
+          "balls": 117,
+          "runs": 81,
+          "wickets": 3,
+          "economy": 4.15
+        },
+        {
+          "player": "JC Tongue",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 73,
+          "wickets": 3,
+          "economy": 3.95
+        },
+        {
+          "player": "Shoaib Bashir",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 91,
+          "wickets": 2,
+          "economy": 4.14
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 3.2
+        },
+        {
+          "player": "JE Root",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 8.33
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "England",
+      "runs": 373,
+      "extras": 21,
+      "balls": 495,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 65,
+          "balls": 126,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 51.59,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 149,
+          "balls": 170,
+          "fours": 21,
+          "sixes": 1,
+          "strike_rate": 87.65,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 8,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 53,
+          "balls": 84,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 63.1,
+          "out": false
+        },
+        {
+          "player": "HC Brook",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 33,
+          "balls": 51,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 64.71,
+          "out": true
+        },
+        {
+          "player": "JL Smith",
+          "runs": 44,
+          "balls": 55,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 80.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JJ Bumrah",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 62,
+          "wickets": 0,
+          "economy": 3.26
+        },
+        {
+          "player": "Mohammed Siraj",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 3.74
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 108,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "player": "M Prasidh Krishna",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 98,
+          "wickets": 2,
+          "economy": 6.46
+        },
+        {
+          "player": "SN Thakur",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 52,
+          "wickets": 2,
+          "economy": 5.11
+        }
+      ]
+    }
+  ]
+}

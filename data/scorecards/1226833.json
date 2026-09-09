@@ -1,0 +1,286 @@
+{
+  "id": "1226833",
+  "teams": [
+    "Adelaide Strikers",
+    "Melbourne Renegades"
+  ],
+  "date": "2021-01-05",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Adelaide Oval",
+  "result": "Adelaide Strikers won by 60 runs",
+  "winner": "Adelaide Strikers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Adelaide Strikers",
+      "runs": 171,
+      "extras": 8,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "MT Renshaw",
+          "runs": 35,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 120.69,
+          "out": true
+        },
+        {
+          "player": "PD Salt",
+          "runs": 8,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "AT Carey",
+          "runs": 24,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 96.0,
+          "out": true
+        },
+        {
+          "player": "JW Wells",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 51,
+          "balls": 26,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 196.15,
+          "out": true
+        },
+        {
+          "player": "RJ Gibson",
+          "runs": 43,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 134.38,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Imad Wasim",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 13,
+          "wickets": 2,
+          "economy": 4.33
+        },
+        {
+          "player": "KW Richardson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 9.36
+        },
+        {
+          "player": "JK Lalor",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "Noor Ahmad",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 6.9
+        },
+        {
+          "player": "Mohammad Nabi",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "player": "JA Prestwidge",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 5.54
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Renegades",
+      "runs": 111,
+      "extras": 7,
+      "balls": 116,
+      "batting": [
+        {
+          "player": "AJ Finch",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SB Harper",
+          "runs": 31,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 103.33,
+          "out": true
+        },
+        {
+          "player": "MW Harvey",
+          "runs": 34,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 117.24,
+          "out": true
+        },
+        {
+          "player": "Mohammad Nabi",
+          "runs": 7,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "BJ Webster",
+          "runs": 10,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "Imad Wasim",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "J Fraser-McGurk",
+          "runs": 11,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "JA Prestwidge",
+          "runs": 6,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "KW Richardson",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JK Lalor",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Noor Ahmad",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HNA Conway",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 7.33
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 16,
+          "wickets": 3,
+          "economy": 5.05
+        },
+        {
+          "player": "WA Agar",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 26,
+          "wickets": 3,
+          "economy": 6.24
+        },
+        {
+          "player": "Rashid Khan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 5.25
+        },
+        {
+          "player": "MT Renshaw",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "DR Briggs",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 4.25
+        }
+      ]
+    }
+  ]
+}

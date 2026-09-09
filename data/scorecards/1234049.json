@@ -1,0 +1,239 @@
+{
+  "id": "1234049",
+  "teams": [
+    "Auckland",
+    "Central Districts"
+  ],
+  "date": "2021-01-23",
+  "format": "T20",
+  "competition": "New Zealand Cricket Women's Twenty20",
+  "venue": "Eden Park Outer Oval",
+  "result": "Central Districts won by 9 wickets",
+  "winner": "Central Districts",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland",
+      "runs": 120,
+      "extras": 7,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "AM Peterson",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "LR Down",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "KT Perkins",
+          "runs": 34,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 87.18,
+          "out": true
+        },
+        {
+          "player": "BG Armstrong",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "S Shahri",
+          "runs": 16,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 64.0,
+          "out": true
+        },
+        {
+          "player": "HR Huddleston",
+          "runs": 37,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 108.82,
+          "out": false
+        },
+        {
+          "player": "RSM Lili'i",
+          "runs": 17,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 141.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Ashtuti Kumar",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.52
+        },
+        {
+          "player": "CL Green",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 3.23
+        },
+        {
+          "player": "JM Watkin",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "HM Rowe",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.75
+        },
+        {
+          "player": "GK Atkinson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 6.33
+        },
+        {
+          "player": "EG Cunningham",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "MS Rees",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 6.86
+        },
+        {
+          "player": "MJ Hansen",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 8.57
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Central Districts",
+      "runs": 122,
+      "extras": 4,
+      "balls": 102,
+      "batting": [
+        {
+          "player": "JM Watkin",
+          "runs": 68,
+          "balls": 50,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 136.0,
+          "out": false
+        },
+        {
+          "player": "EG Cunningham",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "NC Dodd",
+          "runs": 49,
+          "balls": 45,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 108.89,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HR Huddleston",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 8.53
+        },
+        {
+          "player": "AN Kelly",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 7.29
+        },
+        {
+          "player": "AM Peterson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "JEI Prasad",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 7.33
+        },
+        {
+          "player": "FC Jonas",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 5.25
+        },
+        {
+          "player": "BG Armstrong",
+          "overs": "1.3",
+          "balls": 9,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 11.33
+        }
+      ]
+    }
+  ]
+}

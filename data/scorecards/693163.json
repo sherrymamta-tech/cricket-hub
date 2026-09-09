@@ -1,0 +1,339 @@
+{
+  "id": "693163",
+  "teams": [
+    "Durham",
+    "Yorkshire"
+  ],
+  "date": "2014-07-02",
+  "format": "T20",
+  "competition": "NatWest T20 Blast",
+  "venue": "Headingley",
+  "result": "Durham won by 28 runs",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 123,
+      "extras": 11,
+      "balls": 121,
+      "batting": [
+        {
+          "player": "MD Stoneman",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "P Mustard",
+          "runs": 40,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 9,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "MJ Richardson",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "GJ Muchall",
+          "runs": 4,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RD Pringle",
+          "runs": 17,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 130.77,
+          "out": true
+        },
+        {
+          "player": "GR Breese",
+          "runs": 30,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 157.89,
+          "out": false
+        },
+        {
+          "player": "U Arshad",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JW Hastings",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RJ Sidebottom",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 8.21
+        },
+        {
+          "player": "TT Bresnan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 5.25
+        },
+        {
+          "player": "RM Pyrah",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 6.25
+        },
+        {
+          "player": "Azeem Rafiq",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 3,
+          "economy": 5.0
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 3,
+          "economy": 4.75
+        },
+        {
+          "player": "OE Robinson",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Yorkshire",
+      "runs": 95,
+      "extras": 8,
+      "balls": 106,
+      "batting": [
+        {
+          "player": "AW Gale",
+          "runs": 6,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 17,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.27,
+          "out": true
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 19,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 146.15,
+          "out": true
+        },
+        {
+          "player": "A Lyth",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 9,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": true
+        },
+        {
+          "player": "AU Rashid",
+          "runs": 7,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "RM Pyrah",
+          "runs": 16,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 106.67,
+          "out": true
+        },
+        {
+          "player": "Azeem Rafiq",
+          "runs": 7,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "RJ Sidebottom",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "JW Hastings",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 22,
+          "wickets": 3,
+          "economy": 5.28
+        },
+        {
+          "player": "U Arshad",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 14.57
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 11,
+          "wickets": 2,
+          "economy": 2.75
+        },
+        {
+          "player": "PD Collingwood",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 3.75
+        },
+        {
+          "player": "GR Breese",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "player": "RD Pringle",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": "1473481",
+  "teams": [
+    "Punjab Kings",
+    "Kolkata Knight Riders"
+  ],
+  "date": "2025-04-26",
+  "format": "T20",
+  "competition": "Indian Premier League",
+  "venue": "Eden Gardens, Kolkata",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Punjab Kings",
+      "runs": 201,
+      "extras": 3,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "Priyansh Arya",
+          "runs": 69,
+          "balls": 36,
+          "fours": 8,
+          "sixes": 4,
+          "strike_rate": 191.67,
+          "out": true
+        },
+        {
+          "player": "P Simran Singh",
+          "runs": 83,
+          "balls": 50,
+          "fours": 6,
+          "sixes": 6,
+          "strike_rate": 166.0,
+          "out": true
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 25,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 156.25,
+          "out": false
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "M Jansen",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 11,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 183.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "VG Arora",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 8.16
+        },
+        {
+          "player": "C Sakariya",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 12.32
+        },
+        {
+          "player": "Harshit Rana",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 13.5
+        },
+        {
+          "player": "CV Varun",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 9.75
+        },
+        {
+          "player": "SP Narine",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 8.4
+        },
+        {
+          "player": "AD Russell",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kolkata Knight Riders",
+      "runs": 7,
+      "extras": 2,
+      "balls": 7,
+      "batting": [
+        {
+          "player": "Rahmanullah Gurbaz",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": false
+        },
+        {
+          "player": "SP Narine",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Jansen",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

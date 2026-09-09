@@ -1,0 +1,584 @@
+{
+  "id": "1406077",
+  "teams": [
+    "Australia",
+    "India"
+  ],
+  "date": "2023-12-21",
+  "format": "Test",
+  "competition": "Australia Women tour of India",
+  "venue": "Wankhede Stadium, Mumbai",
+  "result": "India won by 8 wickets",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 219,
+      "extras": 2,
+      "balls": 467,
+      "batting": [
+        {
+          "player": "BL Mooney",
+          "runs": 40,
+          "balls": 94,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.55,
+          "out": true
+        },
+        {
+          "player": "P Litchfield",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "EA Perry",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "TM McGrath",
+          "runs": 50,
+          "balls": 56,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 89.29,
+          "out": true
+        },
+        {
+          "player": "AJ Healy",
+          "runs": 38,
+          "balls": 75,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 50.67,
+          "out": true
+        },
+        {
+          "player": "A Sutherland",
+          "runs": 16,
+          "balls": 58,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 27.59,
+          "out": true
+        },
+        {
+          "player": "A Gardner",
+          "runs": 11,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true
+        },
+        {
+          "player": "JL Jonassen",
+          "runs": 19,
+          "balls": 61,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 31.15,
+          "out": true
+        },
+        {
+          "player": "A King",
+          "runs": 5,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "KJ Garth",
+          "runs": 28,
+          "balls": 71,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.44,
+          "out": false
+        },
+        {
+          "player": "L Cheatle",
+          "runs": 6,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Renuka Singh",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "P Vastrakar",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 53,
+          "wickets": 4,
+          "economy": 3.28
+        },
+        {
+          "player": "S Rana",
+          "overs": "22.4",
+          "balls": 136,
+          "runs": 56,
+          "wickets": 3,
+          "economy": 2.47
+        },
+        {
+          "player": "RS Gayakwad",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 2.23
+        },
+        {
+          "player": "DB Sharma",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 46,
+          "wickets": 2,
+          "economy": 2.42
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 406,
+      "extras": 24,
+      "balls": 763,
+      "batting": [
+        {
+          "player": "Shafali Verma",
+          "runs": 40,
+          "balls": 59,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 67.8,
+          "out": true
+        },
+        {
+          "player": "S Mandhana",
+          "runs": 74,
+          "balls": 106,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 69.81,
+          "out": true
+        },
+        {
+          "player": "S Rana",
+          "runs": 9,
+          "balls": 57,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 15.79,
+          "out": true
+        },
+        {
+          "player": "RM Ghosh",
+          "runs": 52,
+          "balls": 104,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JI Rodrigues",
+          "runs": 73,
+          "balls": 121,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 60.33,
+          "out": true
+        },
+        {
+          "player": "H Kaur",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "YH Bhatia",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "DB Sharma",
+          "runs": 78,
+          "balls": 171,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 45.61,
+          "out": true
+        },
+        {
+          "player": "P Vastrakar",
+          "runs": 47,
+          "balls": 126,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 37.3,
+          "out": true
+        },
+        {
+          "player": "Renuka Singh",
+          "runs": 8,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "RS Gayakwad",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Cheatle",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 2.67
+        },
+        {
+          "player": "KJ Garth",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 62,
+          "wickets": 2,
+          "economy": 4.43
+        },
+        {
+          "player": "EA Perry",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 7.15
+        },
+        {
+          "player": "A Gardner",
+          "overs": "41.0",
+          "balls": 246,
+          "runs": 105,
+          "wickets": 4,
+          "economy": 2.56
+        },
+        {
+          "player": "JL Jonassen",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 2.44
+        },
+        {
+          "player": "A Sutherland",
+          "overs": "11.5",
+          "balls": 71,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 3.97
+        },
+        {
+          "player": "A King",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 70,
+          "wickets": 0,
+          "economy": 3.68
+        },
+        {
+          "player": "TM McGrath",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 2.3
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Australia",
+      "runs": 261,
+      "extras": 13,
+      "balls": 634,
+      "batting": [
+        {
+          "player": "BL Mooney",
+          "runs": 33,
+          "balls": 37,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 89.19,
+          "out": true
+        },
+        {
+          "player": "P Litchfield",
+          "runs": 18,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.91,
+          "out": true
+        },
+        {
+          "player": "EA Perry",
+          "runs": 45,
+          "balls": 91,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 49.45,
+          "out": true
+        },
+        {
+          "player": "TM McGrath",
+          "runs": 73,
+          "balls": 177,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 41.24,
+          "out": true
+        },
+        {
+          "player": "AJ Healy",
+          "runs": 32,
+          "balls": 101,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 31.68,
+          "out": true
+        },
+        {
+          "player": "A Sutherland",
+          "runs": 27,
+          "balls": 102,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 26.47,
+          "out": true
+        },
+        {
+          "player": "A Gardner",
+          "runs": 7,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.93,
+          "out": true
+        },
+        {
+          "player": "JL Jonassen",
+          "runs": 9,
+          "balls": 42,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        },
+        {
+          "player": "A King",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KJ Garth",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "L Cheatle",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Renuka Singh",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 3.45
+        },
+        {
+          "player": "P Vastrakar",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 3.64
+        },
+        {
+          "player": "S Rana",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 63,
+          "wickets": 4,
+          "economy": 2.86
+        },
+        {
+          "player": "DB Sharma",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 1.59
+        },
+        {
+          "player": "RS Gayakwad",
+          "overs": "28.4",
+          "balls": 172,
+          "runs": 48,
+          "wickets": 2,
+          "economy": 1.67
+        },
+        {
+          "player": "JI Rodrigues",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "player": "H Kaur",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 2.67
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "India",
+      "runs": 75,
+      "extras": 8,
+      "balls": 112,
+      "batting": [
+        {
+          "player": "Shafali Verma",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "RM Ghosh",
+          "runs": 13,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 40.62,
+          "out": true
+        },
+        {
+          "player": "S Mandhana",
+          "runs": 38,
+          "balls": 61,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 62.3,
+          "out": false
+        },
+        {
+          "player": "JI Rodrigues",
+          "runs": 12,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KJ Garth",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 4.6
+        },
+        {
+          "player": "A Gardner",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 2.44
+        },
+        {
+          "player": "TM McGrath",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "JL Jonassen",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

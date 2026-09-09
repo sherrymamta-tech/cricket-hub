@@ -1,0 +1,302 @@
+{
+  "id": "520600",
+  "teams": [
+    "New Zealand",
+    "South Africa"
+  ],
+  "date": "2012-02-25",
+  "format": "ODI",
+  "competition": "South Africa in New Zealand ODI Series",
+  "venue": "Westpac Stadium",
+  "result": "South Africa won by 6 wickets",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 253,
+      "extras": 24,
+      "balls": 310,
+      "batting": [
+        {
+          "player": "RJ Nicol",
+          "runs": 30,
+          "balls": 60,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 7,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 56,
+          "balls": 68,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 82.35,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 55,
+          "balls": 70,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "JD Ryder",
+          "runs": 6,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "JEC Franklin",
+          "runs": 32,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 86.49,
+          "out": true
+        },
+        {
+          "player": "AM Ellis",
+          "runs": 20,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 105.26,
+          "out": true
+        },
+        {
+          "player": "NL McCullum",
+          "runs": 15,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 93.75,
+          "out": true
+        },
+        {
+          "player": "DAJ Bracewell",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KD Mills",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": false
+        },
+        {
+          "player": "TG Southee",
+          "runs": 4,
+          "balls": 1,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 400.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LL Tsotsobe",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 46,
+          "wickets": 2,
+          "economy": 4.31
+        },
+        {
+          "player": "M Morkel",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 5.46
+        },
+        {
+          "player": "DW Steyn",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 4.39
+        },
+        {
+          "player": "RJ Peterson",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 4.62
+        },
+        {
+          "player": "JP Duminy",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 4.4
+        },
+        {
+          "player": "JH Kallis",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 46,
+          "wickets": 2,
+          "economy": 6.42
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 254,
+      "extras": 6,
+      "balls": 275,
+      "batting": [
+        {
+          "player": "HM Amla",
+          "runs": 8,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "GC Smith",
+          "runs": 9,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 46,
+          "balls": 74,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 62.16,
+          "out": true
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 13,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.47,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 106,
+          "balls": 107,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 99.07,
+          "out": false
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 66,
+          "balls": 51,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 129.41,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KD Mills",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 3.86
+        },
+        {
+          "player": "TG Southee",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 65,
+          "wickets": 1,
+          "economy": 6.29
+        },
+        {
+          "player": "DAJ Bracewell",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 61,
+          "wickets": 1,
+          "economy": 6.1
+        },
+        {
+          "player": "NL McCullum",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 3.57
+        },
+        {
+          "player": "RJ Nicol",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 8.6
+        },
+        {
+          "player": "AM Ellis",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 5.2
+        },
+        {
+          "player": "JEC Franklin",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "1366033",
+  "teams": [
+    "Warriors",
+    "Falcons"
+  ],
+  "date": "2023-04-16",
+  "format": "T20",
+  "competition": "FairBreak Invitational Tournament",
+  "venue": "Kowloon Cricket Club",
+  "result": "Warriors won by 93 runs",
+  "winner": "Warriors",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Warriors",
+      "runs": 230,
+      "extras": 5,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "P Litchfield",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HK Matthews",
+          "runs": 123,
+          "balls": 55,
+          "fours": 11,
+          "sixes": 9,
+          "strike_rate": 223.64,
+          "out": true
+        },
+        {
+          "player": "E Johnston",
+          "runs": 10,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "M du Preez",
+          "runs": 8,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "KE Bryce",
+          "runs": 52,
+          "balls": 21,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 247.62,
+          "out": false
+        },
+        {
+          "player": "S Sriharsha",
+          "runs": 25,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 131.58,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "A Gurung",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 43,
+          "wickets": 2,
+          "economy": 10.32
+        },
+        {
+          "player": "S Tippoch",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 17.0
+        },
+        {
+          "player": "AC Jayangani",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 9.84
+        },
+        {
+          "player": "Jahanara Alam",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 11.28
+        },
+        {
+          "player": "M Hill",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "player": "SW Bates",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Falcons",
+      "runs": 137,
+      "extras": 6,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "AC Jayangani",
+          "runs": 29,
+          "balls": 17,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 170.59,
+          "out": true
+        },
+        {
+          "player": "DN Wyatt",
+          "runs": 20,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "SW Bates",
+          "runs": 25,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 113.64,
+          "out": true
+        },
+        {
+          "player": "Theertha Satish",
+          "runs": 29,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 87.88,
+          "out": true
+        },
+        {
+          "player": "M Hill",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "CM Gough",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Jahanara Alam",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "S Tippoch",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "N Koncharoenkai",
+          "runs": 8,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        },
+        {
+          "player": "Mas Elysa",
+          "runs": 5,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SS Connell",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "JM Kerr",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "player": "KE Bryce",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 16,
+          "wickets": 3,
+          "economy": 4.0
+        },
+        {
+          "player": "HK Matthews",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 2,
+          "economy": 4.67
+        },
+        {
+          "player": "A Wellington",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "ER Oza",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 4.57
+        },
+        {
+          "player": "Yasmeen Khan",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 13.5
+        }
+      ]
+    }
+  ]
+}

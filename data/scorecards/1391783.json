@@ -1,0 +1,597 @@
+{
+  "id": "1391783",
+  "teams": [
+    "Victoria",
+    "Queensland"
+  ],
+  "date": "2023-11-16",
+  "format": "MDM",
+  "competition": "Sheffield Shield",
+  "venue": "Melbourne Cricket Ground",
+  "result": "Victoria won by 113 runs",
+  "winner": "Victoria",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Victoria",
+      "runs": 300,
+      "extras": 23,
+      "balls": 772,
+      "batting": [
+        {
+          "player": "TJ Dean",
+          "runs": 1,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 3.33,
+          "out": true
+        },
+        {
+          "player": "MS Harris",
+          "runs": 73,
+          "balls": 212,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 34.43,
+          "out": true
+        },
+        {
+          "player": "WJ Pucovski",
+          "runs": 5,
+          "balls": 37,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.51,
+          "out": true
+        },
+        {
+          "player": "PSP Handscomb",
+          "runs": 66,
+          "balls": 187,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "C Kellaway",
+          "runs": 48,
+          "balls": 159,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 30.19,
+          "out": true
+        },
+        {
+          "player": "W Sutherland",
+          "runs": 18,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": true
+        },
+        {
+          "player": "SB Harper",
+          "runs": 0,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Perry",
+          "runs": 33,
+          "balls": 66,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "F O'Neill",
+          "runs": 33,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 91.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "GS Sandhu",
+          "overs": "31.2",
+          "balls": 188,
+          "runs": 65,
+          "wickets": 1,
+          "economy": 2.07
+        },
+        {
+          "player": "JD Wildermuth",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 49,
+          "wickets": 3,
+          "economy": 1.81
+        },
+        {
+          "player": "L Guthrie",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 74,
+          "wickets": 2,
+          "economy": 2.96
+        },
+        {
+          "player": "JJ Bazley",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 1.62
+        },
+        {
+          "player": "MJ Swepson",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 71,
+          "wickets": 0,
+          "economy": 2.96
+        },
+        {
+          "player": "MT Renshaw",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 3.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Queensland",
+      "runs": 219,
+      "extras": 16,
+      "balls": 591,
+      "batting": [
+        {
+          "player": "BE Street",
+          "runs": 15,
+          "balls": 73,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 20.55,
+          "out": true
+        },
+        {
+          "player": "MT Renshaw",
+          "runs": 2,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.9,
+          "out": true
+        },
+        {
+          "player": "JA Burns",
+          "runs": 16,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 31,
+          "balls": 101,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 30.69,
+          "out": true
+        },
+        {
+          "player": "J Clayton",
+          "runs": 21,
+          "balls": 73,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 28.77,
+          "out": true
+        },
+        {
+          "player": "JJ Peirson",
+          "runs": 28,
+          "balls": 75,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 37.33,
+          "out": true
+        },
+        {
+          "player": "JD Wildermuth",
+          "runs": 40,
+          "balls": 67,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 59.7,
+          "out": true
+        },
+        {
+          "player": "GS Sandhu",
+          "runs": 25,
+          "balls": 84,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 29.76,
+          "out": false
+        },
+        {
+          "player": "JJ Bazley",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "L Guthrie",
+          "runs": 9,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "MJ Swepson",
+          "runs": 16,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SM Boland",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 51,
+          "wickets": 4,
+          "economy": 2.04
+        },
+        {
+          "player": "F O'Neill",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 2.03
+        },
+        {
+          "player": "M Perry",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 49,
+          "wickets": 3,
+          "economy": 2.41
+        },
+        {
+          "player": "W Sutherland",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 2.83
+        },
+        {
+          "player": "D Warren",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 1.81
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Victoria",
+      "runs": 190,
+      "extras": 5,
+      "balls": 345,
+      "batting": [
+        {
+          "player": "TJ Dean",
+          "runs": 17,
+          "balls": 61,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.87,
+          "out": true
+        },
+        {
+          "player": "MS Harris",
+          "runs": 15,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 34.09,
+          "out": true
+        },
+        {
+          "player": "WJ Pucovski",
+          "runs": 6,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "PSP Handscomb",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "C Kellaway",
+          "runs": 34,
+          "balls": 70,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 48.57,
+          "out": true
+        },
+        {
+          "player": "W Sutherland",
+          "runs": 66,
+          "balls": 77,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "SB Harper",
+          "runs": 12,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 70.59,
+          "out": true
+        },
+        {
+          "player": "F O'Neill",
+          "runs": 27,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 117.39,
+          "out": false
+        },
+        {
+          "player": "M Perry",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SM Boland",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "D Warren",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "GS Sandhu",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 2.58
+        },
+        {
+          "player": "JD Wildermuth",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 1.67
+        },
+        {
+          "player": "L Guthrie",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 61,
+          "wickets": 6,
+          "economy": 4.69
+        },
+        {
+          "player": "MJ Swepson",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 62,
+          "wickets": 2,
+          "economy": 3.88
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Queensland",
+      "runs": 158,
+      "extras": 13,
+      "balls": 494,
+      "batting": [
+        {
+          "player": "BE Street",
+          "runs": 46,
+          "balls": 134,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 34.33,
+          "out": true
+        },
+        {
+          "player": "MT Renshaw",
+          "runs": 3,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.79,
+          "out": true
+        },
+        {
+          "player": "JA Burns",
+          "runs": 9,
+          "balls": 55,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.36,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 22,
+          "balls": 78,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 28.21,
+          "out": true
+        },
+        {
+          "player": "J Clayton",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "JJ Peirson",
+          "runs": 16,
+          "balls": 52,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "JD Wildermuth",
+          "runs": 17,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 35.42,
+          "out": true
+        },
+        {
+          "player": "GS Sandhu",
+          "runs": 14,
+          "balls": 61,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 22.95,
+          "out": true
+        },
+        {
+          "player": "JJ Bazley",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "L Guthrie",
+          "runs": 9,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 39.13,
+          "out": false
+        },
+        {
+          "player": "MJ Swepson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SM Boland",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 54,
+          "wickets": 4,
+          "economy": 2.45
+        },
+        {
+          "player": "F O'Neill",
+          "overs": "14.5",
+          "balls": 89,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 1.89
+        },
+        {
+          "player": "M Perry",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 1.39
+        },
+        {
+          "player": "W Sutherland",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 32,
+          "wickets": 4,
+          "economy": 1.68
+        },
+        {
+          "player": "D Warren",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 2.1
+        }
+      ]
+    }
+  ]
+}

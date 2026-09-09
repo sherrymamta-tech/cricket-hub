@@ -1,0 +1,472 @@
+{
+  "id": "917521",
+  "teams": [
+    "Wellington Firebirds",
+    "Northern Districts"
+  ],
+  "date": "2015-10-15",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Seddon Park, Hamilton",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Wellington Firebirds",
+      "runs": 267,
+      "extras": 11,
+      "balls": 393,
+      "batting": [
+        {
+          "player": "MHW Papps",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "LJ Woodcock",
+          "runs": 27,
+          "balls": 59,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.76,
+          "out": true
+        },
+        {
+          "player": "SJ Murdoch",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "Craig Cachopa",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MA Pollard",
+          "runs": 0,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 53,
+          "balls": 102,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 51.96,
+          "out": true
+        },
+        {
+          "player": "L Ronchi",
+          "runs": 115,
+          "balls": 112,
+          "fours": 16,
+          "sixes": 2,
+          "strike_rate": 102.68,
+          "out": true
+        },
+        {
+          "player": "JS Patel",
+          "runs": 34,
+          "balls": 50,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 68.0,
+          "out": true
+        },
+        {
+          "player": "MB McEwan",
+          "runs": 22,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 59.46,
+          "out": true
+        },
+        {
+          "player": "DS Hutchinson",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 64,
+          "wickets": 5,
+          "economy": 4.17
+        },
+        {
+          "player": "TA Boult",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 74,
+          "wickets": 1,
+          "economy": 4.58
+        },
+        {
+          "player": "JD Baker",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 4.6
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 2.4
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Northern Districts",
+      "runs": 429,
+      "extras": 22,
+      "balls": 895,
+      "batting": [
+        {
+          "player": "DR Flynn",
+          "runs": 102,
+          "balls": 241,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 42.32,
+          "out": true
+        },
+        {
+          "player": "JF Carter",
+          "runs": 13,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 65,
+          "balls": 158,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 41.14,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 6,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "B Popli",
+          "runs": 91,
+          "balls": 239,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 38.08,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 89,
+          "balls": 160,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 55.62,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 33,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 91.67,
+          "out": true
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "JD Baker",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BJ Arnel",
+          "overs": "34.5",
+          "balls": 209,
+          "runs": 99,
+          "wickets": 0,
+          "economy": 2.84
+        },
+        {
+          "player": "DS Hutchinson",
+          "overs": "32.1",
+          "balls": 193,
+          "runs": 125,
+          "wickets": 5,
+          "economy": 3.89
+        },
+        {
+          "player": "MB McEwan",
+          "overs": "37.1",
+          "balls": 223,
+          "runs": 105,
+          "wickets": 1,
+          "economy": 2.83
+        },
+        {
+          "player": "JS Patel",
+          "overs": "35.0",
+          "balls": 210,
+          "runs": 73,
+          "wickets": 3,
+          "economy": 2.09
+        },
+        {
+          "player": "LJ Woodcock",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 2.7
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Wellington Firebirds",
+      "runs": 409,
+      "extras": 15,
+      "balls": 813,
+      "batting": [
+        {
+          "player": "LJ Woodcock",
+          "runs": 44,
+          "balls": 82,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 53.66,
+          "out": true
+        },
+        {
+          "player": "MHW Papps",
+          "runs": 16,
+          "balls": 45,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 35.56,
+          "out": true
+        },
+        {
+          "player": "SJ Murdoch",
+          "runs": 93,
+          "balls": 148,
+          "fours": 16,
+          "sixes": 2,
+          "strike_rate": 62.84,
+          "out": true
+        },
+        {
+          "player": "Craig Cachopa",
+          "runs": 23,
+          "balls": 54,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 42.59,
+          "out": true
+        },
+        {
+          "player": "MA Pollard",
+          "runs": 53,
+          "balls": 115,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 46.09,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 46,
+          "balls": 116,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 39.66,
+          "out": true
+        },
+        {
+          "player": "L Ronchi",
+          "runs": 15,
+          "balls": 38,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 39.47,
+          "out": true
+        },
+        {
+          "player": "JS Patel",
+          "runs": 23,
+          "balls": 18,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 127.78,
+          "out": true
+        },
+        {
+          "player": "MB McEwan",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "DS Hutchinson",
+          "runs": 48,
+          "balls": 104,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": false
+        },
+        {
+          "player": "BJ Arnel",
+          "runs": 32,
+          "balls": 87,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 36.78,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 83,
+          "wickets": 1,
+          "economy": 3.06
+        },
+        {
+          "player": "TA Boult",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 99,
+          "wickets": 5,
+          "economy": 3.81
+        },
+        {
+          "player": "JD Baker",
+          "overs": "29.0",
+          "balls": 174,
+          "runs": 73,
+          "wickets": 2,
+          "economy": 2.52
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "overs": "27.2",
+          "balls": 164,
+          "runs": 91,
+          "wickets": 1,
+          "economy": 3.33
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 4.4
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 2.29
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 1.29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "id": "1324626",
+  "teams": [
+    "Melbourne Renegades",
+    "Brisbane Heat"
+  ],
+  "date": "2022-12-15",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Cazaly's Stadium, Cairns",
+  "result": "Melbourne Renegades won by 22 runs",
+  "winner": "Melbourne Renegades",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Melbourne Renegades",
+      "runs": 166,
+      "extras": 8,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "SB Harper",
+          "runs": 21,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "NJ Maddinson",
+          "runs": 87,
+          "balls": 51,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 170.59,
+          "out": true
+        },
+        {
+          "player": "J Fraser-McGurk",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "JW Wells",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "AD Russell",
+          "runs": 35,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "AJ Hosein",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "TS Rogers",
+          "runs": 5,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": false
+        },
+        {
+          "player": "W Sutherland",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "XC Bartlett",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 16.74
+        },
+        {
+          "player": "MT Steketee",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "MP Kuhnemann",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 3,
+          "economy": 7.68
+        },
+        {
+          "player": "RA Whiteley",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "MJ Swepson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.75
+        },
+        {
+          "player": "JJ Bazley",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 4.38
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Brisbane Heat",
+      "runs": 144,
+      "extras": 6,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "J Brown",
+          "runs": 7,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "M Bryant",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 35,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 6,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "JJ Peirson",
+          "runs": 43,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 134.38,
+          "out": true
+        },
+        {
+          "player": "RA Whiteley",
+          "runs": 28,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 155.56,
+          "out": false
+        },
+        {
+          "player": "JJ Bazley",
+          "runs": 19,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 95.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AJ Hosein",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 3.75
+        },
+        {
+          "player": "Mujeeb Ur Rahman",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 6.72
+        },
+        {
+          "player": "TS Rogers",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 10.2
+        },
+        {
+          "player": "KW Richardson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "W Sutherland",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.08
+        },
+        {
+          "player": "AD Russell",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 8.67
+        }
+      ]
+    }
+  ]
+}

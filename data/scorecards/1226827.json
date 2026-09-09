@@ -1,0 +1,295 @@
+{
+  "id": "1226827",
+  "teams": [
+    "Hobart Hurricanes",
+    "Sydney Sixers"
+  ],
+  "date": "2021-01-24",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Melbourne Cricket Ground",
+  "result": "Hobart Hurricanes won by 7 runs",
+  "winner": "Hobart Hurricanes",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Hobart Hurricanes",
+      "runs": 188,
+      "extras": 5,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "MS Wade",
+          "runs": 86,
+          "balls": 44,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 195.45,
+          "out": true
+        },
+        {
+          "player": "DJM Short",
+          "runs": 72,
+          "balls": 53,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 135.85,
+          "out": true
+        },
+        {
+          "player": "BR McDermott",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DJ Malan",
+          "runs": 11,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 137.5,
+          "out": true
+        },
+        {
+          "player": "WG Jacks",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "NT Ellis",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "TH David",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "SM Boland",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NP Winter",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SA Abbott",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 8.0
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 10.0
+        },
+        {
+          "player": "CR Brathwaite",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "JT Ball",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 9.43
+        },
+        {
+          "player": "BAD Manenti",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "DT Christian",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 7.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Sixers",
+      "runs": 181,
+      "extras": 11,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "JR Philippe",
+          "runs": 12,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "DP Hughes",
+          "runs": 11,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 137.5,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 43,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 4,
+          "strike_rate": 172.0,
+          "out": true
+        },
+        {
+          "player": "JC Silk",
+          "runs": 78,
+          "balls": 51,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 152.94,
+          "out": true
+        },
+        {
+          "player": "DT Christian",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CR Brathwaite",
+          "runs": 6,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "SA Abbott",
+          "runs": 5,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "runs": 10,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "NP Winter",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 6.86
+        },
+        {
+          "player": "RP Meredith",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 13.33
+        },
+        {
+          "player": "SM Boland",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.75
+        },
+        {
+          "player": "NT Ellis",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 9.0
+        },
+        {
+          "player": "S Lamichhane",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "DJM Short",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 14.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "1323578",
+  "teams": [
+    "Sydney Thunder",
+    "Melbourne Stars"
+  ],
+  "date": "2022-10-31",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Eastern Oval, Ballarat",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Thunder",
+      "runs": 79,
+      "extras": 3,
+      "balls": 85,
+      "batting": [
+        {
+          "player": "AE Jones",
+          "runs": 38,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 105.56,
+          "out": true
+        },
+        {
+          "player": "P Litchfield",
+          "runs": 19,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "RL Haynes",
+          "runs": 15,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        },
+        {
+          "player": "A Learoyd",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KJ Garth",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 2.5
+        },
+        {
+          "player": "SK Moloney",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "T Flintoff",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 7.2
+        },
+        {
+          "player": "S Day",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 5.67
+        },
+        {
+          "player": "A Sutherland",
+          "overs": "1.5",
+          "balls": 11,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 3.82
+        },
+        {
+          "player": "A Capsey",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ]
+    }
+  ]
+}

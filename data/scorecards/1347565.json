@@ -1,0 +1,235 @@
+{
+  "id": "1347565",
+  "teams": [
+    "Warwickshire",
+    "Hampshire"
+  ],
+  "date": "2023-08-29",
+  "format": "ODM",
+  "competition": "One-Day Cup",
+  "venue": "Edgbaston, Birmingham",
+  "result": "Hampshire won by 9 wickets",
+  "winner": "Hampshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Warwickshire",
+      "runs": 93,
+      "extras": 8,
+      "balls": 157,
+      "batting": [
+        {
+          "player": "RM Yates",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "EG Barnard",
+          "runs": 26,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 108.33,
+          "out": true
+        },
+        {
+          "player": "WMH Rhodes",
+          "runs": 8,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true
+        },
+        {
+          "player": "SR Hain",
+          "runs": 33,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 68.75,
+          "out": false
+        },
+        {
+          "player": "MGK Burgess",
+          "runs": 6,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "JG Bethell",
+          "runs": 8,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.1,
+          "out": true
+        },
+        {
+          "player": "EA Brookes",
+          "runs": 3,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "JB Lintott",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DR Briggs",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HJH Brookes",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "OJ Hannon-Dalby",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KHD Barker",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 32,
+          "wickets": 3,
+          "economy": 4.47
+        },
+        {
+          "player": "IG Holland",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 3.89
+        },
+        {
+          "player": "LA Dawson",
+          "overs": "6.5",
+          "balls": 41,
+          "runs": 15,
+          "wickets": 7,
+          "economy": 2.2
+        },
+        {
+          "player": "BTJ Wheal",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "MS Crane",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Hampshire",
+      "runs": 95,
+      "extras": 1,
+      "balls": 116,
+      "batting": [
+        {
+          "player": "FS Middleton",
+          "runs": 54,
+          "balls": 65,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 83.08,
+          "out": false
+        },
+        {
+          "player": "NRT Gubbins",
+          "runs": 9,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.62,
+          "out": true
+        },
+        {
+          "player": "TJ Prest",
+          "runs": 31,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 124.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OJ Hannon-Dalby",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.8
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 2.33
+        },
+        {
+          "player": "JB Lintott",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 6.79
+        },
+        {
+          "player": "DR Briggs",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 4.2
+        }
+      ]
+    }
+  ]
+}

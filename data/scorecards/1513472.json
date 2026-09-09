@@ -1,0 +1,322 @@
+{
+  "id": "1513472",
+  "teams": [
+    "Somerset",
+    "Warwickshire"
+  ],
+  "date": "2026-07-26",
+  "format": "ODM",
+  "competition": "One-Day Cup",
+  "venue": "The Cooper Associates County Ground, Taunton",
+  "result": "Somerset won by 125 runs",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Somerset",
+      "runs": 337,
+      "extras": 17,
+      "balls": 311,
+      "batting": [
+        {
+          "player": "AM Vaughan",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TA Lammonby",
+          "runs": 85,
+          "balls": 89,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 95.51,
+          "out": true
+        },
+        {
+          "player": "SD Perera",
+          "runs": 39,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 81.25,
+          "out": true
+        },
+        {
+          "player": "LP Goldsworthy",
+          "runs": 103,
+          "balls": 94,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 109.57,
+          "out": true
+        },
+        {
+          "player": "JF Thomas",
+          "runs": 50,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "JM Connell",
+          "runs": 16,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "BJ Church",
+          "runs": 8,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "J Shaw",
+          "runs": 12,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 92.31,
+          "out": true
+        },
+        {
+          "player": "JM Theedom",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "JT Langridge",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ER Bamber",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 54,
+          "wickets": 2,
+          "economy": 5.14
+        },
+        {
+          "player": "OJ Hannon-Dalby",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 6.57
+        },
+        {
+          "player": "RM Yates",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 7.57
+        },
+        {
+          "player": "C Taylor",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 69,
+          "wickets": 0,
+          "economy": 6.68
+        },
+        {
+          "player": "TC Ali",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 6.95
+        },
+        {
+          "player": "JB Lintott",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 70,
+          "wickets": 3,
+          "economy": 6.77
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Warwickshire",
+      "runs": 212,
+      "extras": 15,
+      "balls": 243,
+      "batting": [
+        {
+          "player": "VL Jani",
+          "runs": 9,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RM Yates",
+          "runs": 15,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 136.36,
+          "out": true
+        },
+        {
+          "player": "Z Malik",
+          "runs": 19,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 76.0,
+          "out": true
+        },
+        {
+          "player": "AL Davies",
+          "runs": 24,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 82.76,
+          "out": true
+        },
+        {
+          "player": "K Smith",
+          "runs": 44,
+          "balls": 60,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true
+        },
+        {
+          "player": "GHS Garton",
+          "runs": 4,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "JB Lintott",
+          "runs": 52,
+          "balls": 53,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 98.11,
+          "out": true
+        },
+        {
+          "player": "ER Bamber",
+          "runs": 19,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 95.0,
+          "out": true
+        },
+        {
+          "player": "C Taylor",
+          "runs": 10,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": false
+        },
+        {
+          "player": "TC Ali",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OJ Hannon-Dalby",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Shaw",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 4.05
+        },
+        {
+          "player": "JT Langridge",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "JT Ball",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "player": "JM Theedom",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 56,
+          "wickets": 4,
+          "economy": 5.51
+        },
+        {
+          "player": "AM Vaughan",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "LP Goldsworthy",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 8.33
+        }
+      ]
+    }
+  ]
+}

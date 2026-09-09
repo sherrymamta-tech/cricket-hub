@@ -1,0 +1,277 @@
+{
+  "id": "1234046",
+  "teams": [
+    "Northern Districts",
+    "Auckland"
+  ],
+  "date": "2021-01-17",
+  "format": "T20",
+  "competition": "New Zealand Cricket Women's Twenty20",
+  "venue": "Eden Park Outer Oval",
+  "result": "Auckland won by 6 wickets",
+  "winner": "Auckland",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northern Districts",
+      "runs": 97,
+      "extras": 10,
+      "balls": 128,
+      "batting": [
+        {
+          "player": "KG Anderson",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "BM Halliday",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "CA Gurrey",
+          "runs": 28,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 73.68,
+          "out": true
+        },
+        {
+          "player": "EAJ Richardson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "FC Leydon-Davis",
+          "runs": 25,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 69.44,
+          "out": true
+        },
+        {
+          "player": "LF Boucher",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "N Matthews",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NH Patel",
+          "runs": 17,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "AM Ewart",
+          "runs": 8,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "CR Sarsfield",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": false
+        },
+        {
+          "player": "LH Heaps",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AN Kelly",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "HR Huddleston",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 3.46
+        },
+        {
+          "player": "JEI Prasad",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 19,
+          "wickets": 3,
+          "economy": 4.38
+        },
+        {
+          "player": "RH McNeill",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "FC Jonas",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 5.28
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Auckland",
+      "runs": 100,
+      "extras": 14,
+      "balls": 110,
+      "batting": [
+        {
+          "player": "LR Down",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "KT Perkins",
+          "runs": 52,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 108.33,
+          "out": false
+        },
+        {
+          "player": "BG Armstrong",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "S Shahri",
+          "runs": 5,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "HR Huddleston",
+          "runs": 25,
+          "balls": 43,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 58.14,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "NH Patel",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 3,
+          "economy": 4.75
+        },
+        {
+          "player": "LH Heaps",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 4.67
+        },
+        {
+          "player": "BM Halliday",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "EAJ Richardson",
+          "overs": "3.5",
+          "balls": 23,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.74
+        },
+        {
+          "player": "FC Leydon-Davis",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "CR Sarsfield",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 4.2
+        },
+        {
+          "player": "LF Boucher",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 5.14
+        }
+      ]
+    }
+  ]
+}

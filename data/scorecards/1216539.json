@@ -1,0 +1,234 @@
+{
+  "id": "1216539",
+  "teams": [
+    "Delhi Capitals",
+    "Chennai Super Kings"
+  ],
+  "date": "2020-09-25",
+  "format": "T20",
+  "competition": "Indian Premier League",
+  "venue": "Dubai International Cricket Stadium",
+  "result": "Delhi Capitals won by 44 runs",
+  "winner": "Delhi Capitals",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Delhi Capitals",
+      "runs": 175,
+      "extras": 8,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "PP Shaw",
+          "runs": 64,
+          "balls": 44,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 145.45,
+          "out": true
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 35,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 129.63,
+          "out": true
+        },
+        {
+          "player": "RR Pant",
+          "runs": 37,
+          "balls": 26,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 142.31,
+          "out": false
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 26,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 113.04,
+          "out": true
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 5,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DL Chahar",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 9.12
+        },
+        {
+          "player": "SM Curran",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 6.72
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 7.68
+        },
+        {
+          "player": "PP Chawla",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 8.25
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Chennai Super Kings",
+      "runs": 131,
+      "extras": 5,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "M Vijay",
+          "runs": 10,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "SR Watson",
+          "runs": 14,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 43,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 119.44,
+          "out": true
+        },
+        {
+          "player": "RD Gaikwad",
+          "runs": 5,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "KM Jadhav",
+          "runs": 26,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 118.18,
+          "out": true
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 15,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 12,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 109.09,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 3,
+          "economy": 6.75
+        },
+        {
+          "player": "AR Patel",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "player": "A Nortje",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 4.67
+        },
+        {
+          "player": "Avesh Khan",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 10.08
+        },
+        {
+          "player": "A Mishra",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 5.75
+        }
+      ]
+    }
+  ]
+}

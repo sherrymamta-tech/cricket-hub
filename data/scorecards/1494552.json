@@ -1,0 +1,155 @@
+{
+  "id": "1494552",
+  "teams": [
+    "Adelaide Strikers",
+    "Sydney Thunder"
+  ],
+  "date": "2025-11-28",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Adelaide Oval",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Adelaide Strikers",
+      "runs": 45,
+      "extras": 0,
+      "balls": 30,
+      "batting": [
+        {
+          "player": "E Johnston",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "L Wolvaardt",
+          "runs": 22,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 169.23,
+          "out": true
+        },
+        {
+          "player": "M Penna",
+          "runs": 9,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": false
+        },
+        {
+          "player": "TM McGrath",
+          "runs": 12,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SL Bates",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "S Ismail",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "AC Jayangani",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "L Finn",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 12.0
+        },
+        {
+          "player": "G Voll",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 13.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Thunder",
+      "runs": 43,
+      "extras": 0,
+      "balls": 17,
+      "batting": [
+        {
+          "player": "P Litchfield",
+          "runs": 38,
+          "balls": 15,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 253.33,
+          "out": false
+        },
+        {
+          "player": "G Voll",
+          "runs": 5,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 250.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "S Ecclestone",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 13.0
+        },
+        {
+          "player": "D Brown",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 22.0
+        },
+        {
+          "player": "A Wellington",
+          "overs": "0.5",
+          "balls": 5,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 9.6
+        }
+      ]
+    }
+  ]
+}

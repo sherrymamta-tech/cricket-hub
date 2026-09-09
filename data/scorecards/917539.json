@@ -1,0 +1,629 @@
+{
+  "id": "917539",
+  "teams": [
+    "Wellington Firebirds",
+    "Otago Volts"
+  ],
+  "date": "2016-02-05",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Queenstown Events Centre",
+  "result": "Wellington Firebirds won by 102 runs",
+  "winner": "Wellington Firebirds",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Wellington Firebirds",
+      "runs": 348,
+      "extras": 24,
+      "balls": 686,
+      "batting": [
+        {
+          "player": "MHW Papps",
+          "runs": 85,
+          "balls": 178,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 47.75,
+          "out": true
+        },
+        {
+          "player": "LJ Woodcock",
+          "runs": 12,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "SJ Murdoch",
+          "runs": 36,
+          "balls": 60,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 102,
+          "balls": 192,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 53.12,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 11,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "FJ Colson",
+          "runs": 20,
+          "balls": 67,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.85,
+          "out": true
+        },
+        {
+          "player": "AD Day",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Verma",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DS Hutchinson",
+          "runs": 30,
+          "balls": 63,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 47.62,
+          "out": true
+        },
+        {
+          "player": "MB Bacon",
+          "runs": 23,
+          "balls": 50,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.0,
+          "out": true
+        },
+        {
+          "player": "BJ Arnel",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "N Wagner",
+          "overs": "34.0",
+          "balls": 204,
+          "runs": 106,
+          "wickets": 5,
+          "economy": 3.12
+        },
+        {
+          "player": "JA Duffy",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 2.69
+        },
+        {
+          "player": "SR Wells",
+          "overs": "18.2",
+          "balls": 110,
+          "runs": 61,
+          "wickets": 1,
+          "economy": 3.33
+        },
+        {
+          "player": "CM Smith",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 50,
+          "wickets": 0,
+          "economy": 3.85
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 5.17
+        },
+        {
+          "player": "MD Craig",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 1.76
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Otago Volts",
+      "runs": 240,
+      "extras": 20,
+      "balls": 400,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 70,
+          "balls": 127,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 55.12,
+          "out": true
+        },
+        {
+          "player": "BS Wilson",
+          "runs": 27,
+          "balls": 66,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 40.91,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 27,
+          "balls": 37,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 72.97,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 24,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 141.18,
+          "out": true
+        },
+        {
+          "player": "DC de Boorder",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SR Wells",
+          "runs": 51,
+          "balls": 85,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "MD Craig",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "CM Smith",
+          "runs": 5,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.81,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 5,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.83,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BJ Arnel",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 62,
+          "wickets": 5,
+          "economy": 3.05
+        },
+        {
+          "player": "DS Hutchinson",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 2.89
+        },
+        {
+          "player": "MB Bacon",
+          "overs": "7.5",
+          "balls": 47,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 4.09
+        },
+        {
+          "player": "A Verma",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "player": "AD Day",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 50,
+          "wickets": 3,
+          "economy": 3.85
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Wellington Firebirds",
+      "runs": 282,
+      "extras": 6,
+      "balls": 569,
+      "batting": [
+        {
+          "player": "LJ Woodcock",
+          "runs": 28,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "MHW Papps",
+          "runs": 60,
+          "balls": 140,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "SJ Murdoch",
+          "runs": 9,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 43,
+          "balls": 112,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 38.39,
+          "out": true
+        },
+        {
+          "player": "FJ Colson",
+          "runs": 97,
+          "balls": 145,
+          "fours": 15,
+          "sixes": 1,
+          "strike_rate": 66.9,
+          "out": true
+        },
+        {
+          "player": "AD Day",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DS Hutchinson",
+          "runs": 6,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.09,
+          "out": true
+        },
+        {
+          "player": "A Verma",
+          "runs": 33,
+          "balls": 63,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 52.38,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "N Wagner",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 54,
+          "wickets": 0,
+          "economy": 2.84
+        },
+        {
+          "player": "MD Craig",
+          "overs": "35.0",
+          "balls": 210,
+          "runs": 79,
+          "wickets": 5,
+          "economy": 2.26
+        },
+        {
+          "player": "JA Duffy",
+          "overs": "18.4",
+          "balls": 112,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 3.38
+        },
+        {
+          "player": "CM Smith",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 4.44
+        },
+        {
+          "player": "SR Wells",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 3.29
+        },
+        {
+          "player": "HD Rutherford",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Otago Volts",
+      "runs": 288,
+      "extras": 16,
+      "balls": 451,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 36,
+          "balls": 58,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 62.07,
+          "out": true
+        },
+        {
+          "player": "BS Wilson",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CM Smith",
+          "runs": 41,
+          "balls": 80,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 51.25,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 14,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 65,
+          "balls": 62,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 104.84,
+          "out": true
+        },
+        {
+          "player": "DC de Boorder",
+          "runs": 50,
+          "balls": 134,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 37.31,
+          "out": false
+        },
+        {
+          "player": "SR Wells",
+          "runs": 12,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "MD Craig",
+          "runs": 23,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 28,
+          "balls": 35,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BJ Arnel",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "DS Hutchinson",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 66,
+          "wickets": 3,
+          "economy": 4.4
+        },
+        {
+          "player": "MB Bacon",
+          "overs": "6.3",
+          "balls": 39,
+          "runs": 28,
+          "wickets": 3,
+          "economy": 4.31
+        },
+        {
+          "player": "A Verma",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 3.78
+        },
+        {
+          "player": "AD Day",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 2.5
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 5.16
+        },
+        {
+          "player": "LJ Woodcock",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 3.5
+        }
+      ]
+    }
+  ]
+}

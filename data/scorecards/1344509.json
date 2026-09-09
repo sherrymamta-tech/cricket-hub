@@ -1,0 +1,268 @@
+{
+  "id": "1344509",
+  "teams": [
+    "Netherlands",
+    "Thailand"
+  ],
+  "date": "2022-12-02",
+  "format": "T20",
+  "competition": "Netherlands Women tour of Thailand",
+  "venue": "Royal Chiangmai Golf Club",
+  "result": "Thailand won by 5 wickets",
+  "winner": "Thailand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Netherlands",
+      "runs": 73,
+      "extras": 8,
+      "balls": 119,
+      "batting": [
+        {
+          "player": "B de Leede",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "HDJ Siegers",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "SL Kalis",
+          "runs": 17,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.22,
+          "out": true
+        },
+        {
+          "player": "R Rijke",
+          "runs": 17,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 48.57,
+          "out": true
+        },
+        {
+          "player": "IJR Zwilling",
+          "runs": 9,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "AH Thomson",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "F Overdijk",
+          "runs": 10,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false
+        },
+        {
+          "player": "EN Lynch",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "HWA Landheer",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Sutthiruang",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 2.21
+        },
+        {
+          "player": "N Boochatham",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 4,
+          "wickets": 2,
+          "economy": 1.2
+        },
+        {
+          "player": "T Putthawong",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.38
+        },
+        {
+          "player": "O Kamchomphu",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "player": "S Laomi",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "player": "S Tippoch",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Thailand",
+      "runs": 74,
+      "extras": 3,
+      "balls": 112,
+      "batting": [
+        {
+          "player": "N Koncharoenkai",
+          "runs": 21,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 65.62,
+          "out": true
+        },
+        {
+          "player": "N Chantam",
+          "runs": 21,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "C Sutthiruang",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "S Laomi",
+          "runs": 13,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 56.52,
+          "out": true
+        },
+        {
+          "player": "R Kanoh",
+          "runs": 12,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "S Tippoch",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "IJR Zwilling",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "C de Lange",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.75
+        },
+        {
+          "player": "EN Lynch",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "S Siegers",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 2.88
+        },
+        {
+          "player": "HWA Landheer",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 14,
+          "wickets": 3,
+          "economy": 3.23
+        },
+        {
+          "player": "F Overdijk",
+          "overs": "0.1",
+          "balls": 1,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

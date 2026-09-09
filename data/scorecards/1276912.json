@@ -1,0 +1,110 @@
+{
+  "id": "1276912",
+  "teams": [
+    "South Africa",
+    "England"
+  ],
+  "date": "2022-07-24",
+  "format": "ODI",
+  "competition": "South Africa tour of England",
+  "venue": "Headingley, Leeds",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 159,
+      "extras": 6,
+      "balls": 170,
+      "batting": [
+        {
+          "player": "JN Malan",
+          "runs": 11,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 92,
+          "balls": 79,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 116.46,
+          "out": false
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 26,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 68.42,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 24,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 68.57,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RJW Topley",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 6.38
+        },
+        {
+          "player": "DJ Willey",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "player": "MM Ali",
+          "overs": "7.4",
+          "balls": 46,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 5.48
+        },
+        {
+          "player": "SM Curran",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.08
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 6.16
+        },
+        {
+          "player": "LS Livingstone",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ]
+    }
+  ]
+}

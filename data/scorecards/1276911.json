@@ -1,0 +1,315 @@
+{
+  "id": "1276911",
+  "teams": [
+    "England",
+    "South Africa"
+  ],
+  "date": "2022-07-22",
+  "format": "ODI",
+  "competition": "South Africa tour of England",
+  "venue": "Old Trafford, Manchester",
+  "result": "England won by 118 runs",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 201,
+      "extras": 9,
+      "balls": 173,
+      "batting": [
+        {
+          "player": "JJ Roy",
+          "runs": 14,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 28,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 103.7,
+          "out": true
+        },
+        {
+          "player": "PD Salt",
+          "runs": 17,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 170.0,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 19,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.37,
+          "out": true
+        },
+        {
+          "player": "MM Ali",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "LS Livingstone",
+          "runs": 38,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 146.15,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 35,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 194.44,
+          "out": true
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 21,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 91.3,
+          "out": true
+        },
+        {
+          "player": "AU Rashid",
+          "runs": 12,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 92.31,
+          "out": true
+        },
+        {
+          "player": "RJW Topley",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KA Maharaj",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "L Ngidi",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "A Nortje",
+          "overs": "5.4",
+          "balls": 34,
+          "runs": 54,
+          "wickets": 2,
+          "economy": 9.53
+        },
+        {
+          "player": "D Pretorius",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 38,
+          "wickets": 4,
+          "economy": 6.16
+        },
+        {
+          "player": "T Shamsi",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 6.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 83,
+      "extras": 4,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "Q de Kock",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "JN Malan",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 33,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "DA Miller",
+          "runs": 12,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 92.31,
+          "out": true
+        },
+        {
+          "player": "D Pretorius",
+          "runs": 17,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 68.0,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "A Nortje",
+          "runs": 6,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "L Ngidi",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T Shamsi",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RJW Topley",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 4.08
+        },
+        {
+          "player": "DJ Willey",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 2.25
+        },
+        {
+          "player": "SM Curran",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 29,
+          "wickets": 3,
+          "economy": 4.58
+        },
+        {
+          "player": "MM Ali",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 4.71
+        }
+      ]
+    }
+  ]
+}

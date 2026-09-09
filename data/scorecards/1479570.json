@@ -1,0 +1,524 @@
+{
+  "id": "1479570",
+  "teams": [
+    "India",
+    "West Indies"
+  ],
+  "date": "2025-10-10",
+  "format": "Test",
+  "competition": "West Indies tour of India",
+  "venue": "Arun Jaitley Stadium, Delhi",
+  "result": "India won by 7 wickets",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 518,
+      "extras": 2,
+      "balls": 808,
+      "batting": [
+        {
+          "player": "YBK Jaiswal",
+          "runs": 175,
+          "balls": 258,
+          "fours": 22,
+          "sixes": 0,
+          "strike_rate": 67.83,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 38,
+          "balls": 54,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 70.37,
+          "out": true
+        },
+        {
+          "player": "B Sai Sudharsan",
+          "runs": 87,
+          "balls": 165,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 52.73,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 129,
+          "balls": 197,
+          "fours": 16,
+          "sixes": 2,
+          "strike_rate": 65.48,
+          "out": false
+        },
+        {
+          "player": "Nithish Kumar Reddy",
+          "runs": 43,
+          "balls": 55,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 78.18,
+          "out": true
+        },
+        {
+          "player": "Dhruv Jurel",
+          "runs": 44,
+          "balls": 79,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 55.7,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JNT Seales",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 88,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "A Phillip",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 71,
+          "wickets": 0,
+          "economy": 4.14
+        },
+        {
+          "player": "JP Greaves",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 58,
+          "wickets": 0,
+          "economy": 4.09
+        },
+        {
+          "player": "K Pierre",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 120,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "JA Warrican",
+          "overs": "34.0",
+          "balls": 204,
+          "runs": 98,
+          "wickets": 3,
+          "economy": 2.88
+        },
+        {
+          "player": "RL Chase",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 83,
+          "wickets": 1,
+          "economy": 4.79
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "runs": 248,
+      "extras": 28,
+      "balls": 496,
+      "batting": [
+        {
+          "player": "JD Campbell",
+          "runs": 10,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "T Chanderpaul",
+          "runs": 34,
+          "balls": 67,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 50.75,
+          "out": true
+        },
+        {
+          "player": "A Athanaze",
+          "runs": 41,
+          "balls": 84,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 48.81,
+          "out": true
+        },
+        {
+          "player": "SD Hope",
+          "runs": 36,
+          "balls": 57,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "RL Chase",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TA Imlach",
+          "runs": 21,
+          "balls": 67,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 31.34,
+          "out": true
+        },
+        {
+          "player": "JP Greaves",
+          "runs": 17,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 85.0,
+          "out": true
+        },
+        {
+          "player": "K Pierre",
+          "runs": 23,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JA Warrican",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "A Phillip",
+          "runs": 24,
+          "balls": 93,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 25.81,
+          "out": false
+        },
+        {
+          "player": "JNT Seales",
+          "runs": 13,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 52.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JJ Bumrah",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 3.71
+        },
+        {
+          "player": "Mohammed Siraj",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 1.89
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "19.4",
+          "balls": 118,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 2.34
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 90,
+          "wickets": 5,
+          "economy": 3.33
+        },
+        {
+          "player": "Washington Sundar",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 3.31
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "West Indies",
+      "runs": 390,
+      "extras": 16,
+      "balls": 715,
+      "batting": [
+        {
+          "player": "JD Campbell",
+          "runs": 115,
+          "balls": 199,
+          "fours": 12,
+          "sixes": 3,
+          "strike_rate": 57.79,
+          "out": true
+        },
+        {
+          "player": "T Chanderpaul",
+          "runs": 10,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "A Athanaze",
+          "runs": 7,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "SD Hope",
+          "runs": 103,
+          "balls": 214,
+          "fours": 12,
+          "sixes": 2,
+          "strike_rate": 48.13,
+          "out": true
+        },
+        {
+          "player": "RL Chase",
+          "runs": 40,
+          "balls": 72,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "TA Imlach",
+          "runs": 12,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 92.31,
+          "out": true
+        },
+        {
+          "player": "JP Greaves",
+          "runs": 50,
+          "balls": 85,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": false
+        },
+        {
+          "player": "K Pierre",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JA Warrican",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "A Phillip",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "JNT Seales",
+          "runs": 32,
+          "balls": 67,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 47.76,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Siraj",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 2.93
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "33.2",
+          "balls": 200,
+          "runs": 110,
+          "wickets": 1,
+          "economy": 3.3
+        },
+        {
+          "player": "Washington Sundar",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 81,
+          "wickets": 1,
+          "economy": 3.52
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "overs": "29.0",
+          "balls": 174,
+          "runs": 108,
+          "wickets": 3,
+          "economy": 3.72
+        },
+        {
+          "player": "JJ Bumrah",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 2.47
+        },
+        {
+          "player": "YBK Jaiswal",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "India",
+      "runs": 124,
+      "extras": 0,
+      "balls": 212,
+      "batting": [
+        {
+          "player": "YBK Jaiswal",
+          "runs": 8,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 58,
+          "balls": 108,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 53.7,
+          "out": false
+        },
+        {
+          "player": "B Sai Sudharsan",
+          "runs": 39,
+          "balls": 76,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 51.32,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 13,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 86.67,
+          "out": true
+        },
+        {
+          "player": "Dhruv Jurel",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JNT Seales",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 4.67
+        },
+        {
+          "player": "JA Warrican",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 2.54
+        },
+        {
+          "player": "K Pierre",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 4.38
+        },
+        {
+          "player": "RL Chase",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

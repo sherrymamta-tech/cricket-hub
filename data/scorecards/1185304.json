@@ -1,0 +1,614 @@
+{
+  "id": "1185304",
+  "teams": [
+    "South Africa",
+    "England"
+  ],
+  "date": "2019-12-26",
+  "format": "Test",
+  "competition": "Basil D'Oliveira Trophy",
+  "venue": "SuperSport Park",
+  "result": "South Africa won by 107 runs",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 284,
+      "extras": 9,
+      "balls": 512,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Zubayr Hamza",
+          "runs": 39,
+          "balls": 72,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 20,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 86.96,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 29,
+          "balls": 81,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 35.8,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 6,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.65,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 95,
+          "balls": 129,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 73.64,
+          "out": true
+        },
+        {
+          "player": "D Pretorius",
+          "runs": 33,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 73.33,
+          "out": true
+        },
+        {
+          "player": "VD Philander",
+          "runs": 35,
+          "balls": 81,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 43.21,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 6,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 12,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.0,
+          "out": true
+        },
+        {
+          "player": "A Nortje",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 3.45
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "18.5",
+          "balls": 113,
+          "runs": 60,
+          "wickets": 4,
+          "economy": 3.19
+        },
+        {
+          "player": "SM Curran",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 58,
+          "wickets": 4,
+          "economy": 2.85
+        },
+        {
+          "player": "JC Archer",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "JE Root",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "player": "JL Denly",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 1.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 181,
+      "extras": 16,
+      "balls": 323,
+      "batting": [
+        {
+          "player": "RJ Burns",
+          "runs": 9,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "DP Sibley",
+          "runs": 4,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 50,
+          "balls": 112,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 44.64,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 29,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 59.18,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 35,
+          "balls": 46,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 76.09,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 12,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 20,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "JC Archer",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 72,
+          "wickets": 3,
+          "economy": 4.7
+        },
+        {
+          "player": "VD Philander",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 17,
+          "wickets": 4,
+          "economy": 1.19
+        },
+        {
+          "player": "D Pretorius",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 2.88
+        },
+        {
+          "player": "A Nortje",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 4.19
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 4.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "South Africa",
+      "runs": 272,
+      "extras": 19,
+      "balls": 377,
+      "batting": [
+        {
+          "player": "AK Markram",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "Zubayr Hamza",
+          "runs": 4,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 22,
+          "balls": 27,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 81.48,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 20,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 51,
+          "balls": 68,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "A Nortje",
+          "runs": 40,
+          "balls": 90,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 34,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 89.47,
+          "out": true
+        },
+        {
+          "player": "D Pretorius",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "VD Philander",
+          "runs": 46,
+          "balls": 70,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 65.71,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 11,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 68.75,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 16,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 3.62
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "11.2",
+          "balls": 68,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 3.79
+        },
+        {
+          "player": "JC Archer",
+          "overs": "17.3",
+          "balls": 105,
+          "runs": 109,
+          "wickets": 5,
+          "economy": 6.23
+        },
+        {
+          "player": "SM Curran",
+          "overs": "12.5",
+          "balls": 77,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 3.97
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 2.69
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "England",
+      "runs": 268,
+      "extras": 12,
+      "balls": 559,
+      "batting": [
+        {
+          "player": "RJ Burns",
+          "runs": 84,
+          "balls": 154,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "DP Sibley",
+          "runs": 29,
+          "balls": 90,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 32.22,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 31,
+          "balls": 79,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 39.24,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 48,
+          "balls": 102,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 14,
+          "balls": 55,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 25.45,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 9,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.0,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 22,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 9,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "JC Archer",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 6,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 107,
+          "wickets": 4,
+          "economy": 4.46
+        },
+        {
+          "player": "VD Philander",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 1.75
+        },
+        {
+          "player": "A Nortje",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 60,
+          "wickets": 3,
+          "economy": 3.5
+        },
+        {
+          "player": "D Pretorius",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 1.75
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 2.38
+        }
+      ]
+    }
+  ]
+}

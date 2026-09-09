@@ -1,0 +1,457 @@
+{
+  "id": "1000853",
+  "teams": [
+    "Australia",
+    "South Africa"
+  ],
+  "date": "2016-11-12",
+  "format": "Test",
+  "competition": "South Africa in Australia Test Series",
+  "venue": "Bellerive Oval",
+  "result": "South Africa won by 80 runs",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 85,
+      "extras": 1,
+      "balls": 197,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "JA Burns",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 4,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.0,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 48,
+          "balls": 80,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": false
+        },
+        {
+          "player": "AC Voges",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 3,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "PM Nevill",
+          "runs": 3,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.0,
+          "out": true
+        },
+        {
+          "player": "JM Mennie",
+          "runs": 10,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "JR Hazlewood",
+          "runs": 8,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "VD Philander",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 21,
+          "wickets": 5,
+          "economy": 2.07
+        },
+        {
+          "player": "KJ Abbott",
+          "overs": "12.4",
+          "balls": 76,
+          "runs": 41,
+          "wickets": 3,
+          "economy": 3.24
+        },
+        {
+          "player": "K Rabada",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 0.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 326,
+      "extras": 12,
+      "balls": 606,
+      "batting": [
+        {
+          "player": "SC Cook",
+          "runs": 23,
+          "balls": 49,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.94,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 17,
+          "balls": 61,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.87,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 47,
+          "balls": 67,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 70.15,
+          "out": true
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 7,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.0,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 74,
+          "balls": 204,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 36.27,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 104,
+          "balls": 143,
+          "fours": 17,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "VD Philander",
+          "runs": 32,
+          "balls": 28,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "KJ Abbott",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 5,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 82,
+          "wickets": 3,
+          "economy": 3.39
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "30.5",
+          "balls": 185,
+          "runs": 91,
+          "wickets": 6,
+          "economy": 2.95
+        },
+        {
+          "player": "JM Mennie",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 88,
+          "wickets": 1,
+          "economy": 3.14
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 3.53
+        },
+        {
+          "player": "SPD Smith",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Australia",
+      "runs": 161,
+      "extras": 2,
+      "balls": 362,
+      "batting": [
+        {
+          "player": "JA Burns",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 64,
+          "balls": 121,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 52.89,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 45,
+          "balls": 78,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 57.69,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 31,
+          "balls": 82,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 37.8,
+          "out": true
+        },
+        {
+          "player": "AC Voges",
+          "runs": 2,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.76,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "PM Nevill",
+          "runs": 6,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "JM Mennie",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JR Hazlewood",
+          "runs": 6,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": false
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KJ Abbott",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 77,
+          "wickets": 6,
+          "economy": 3.32
+        },
+        {
+          "player": "VD Philander",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 1.98
+        },
+        {
+          "player": "JP Duminy",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "K Rabada",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 34,
+          "wickets": 4,
+          "economy": 2.0
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 3.33
+        }
+      ]
+    }
+  ]
+}

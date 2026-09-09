@@ -1,0 +1,77 @@
+{
+  "id": "1094689",
+  "teams": [
+    "St Lucia Stars",
+    "St Kitts and Nevis Patriots"
+  ],
+  "date": "2017-08-19",
+  "format": "T20",
+  "competition": "Caribbean Premier League",
+  "venue": "Warner Park, Basseterre",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "St Lucia Stars",
+      "runs": 46,
+      "extras": 2,
+      "balls": 50,
+      "batting": [
+        {
+          "player": "J Charles",
+          "runs": 5,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "ADS Fletcher",
+          "runs": 27,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 93.1,
+          "out": false
+        },
+        {
+          "player": "SR Watson",
+          "runs": 12,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 109.09,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "FA Allen",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 7.58
+        },
+        {
+          "player": "S Badree",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.08
+        },
+        {
+          "player": "CR Brathwaite",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

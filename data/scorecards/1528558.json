@@ -1,0 +1,251 @@
+{
+  "id": "1528558",
+  "teams": [
+    "San Francisco Unicorns",
+    "Los Angeles Knight Riders"
+  ],
+  "date": "2026-06-19",
+  "format": "T20",
+  "competition": "Major League Cricket",
+  "venue": "Grand Prairie Stadium, Dallas",
+  "result": "Los Angeles Knight Riders won by 7 wickets",
+  "winner": "Los Angeles Knight Riders",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "San Francisco Unicorns",
+      "runs": 150,
+      "extras": 6,
+      "balls": 86,
+      "batting": [
+        {
+          "player": "LG Pretorius",
+          "runs": 58,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 5,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "FH Allen",
+          "runs": 24,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "MW Short",
+          "runs": 30,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 142.86,
+          "out": true
+        },
+        {
+          "player": "SP Krishnamurthi",
+          "runs": 14,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "Hassan Khan",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "OJ Peake",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Hammad Azam",
+          "runs": 5,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": false
+        },
+        {
+          "player": "Haris Rauf",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BL Couch",
+          "runs": 6,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 300.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JO Holder",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 10.67
+        },
+        {
+          "player": "SP Narine",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 11.0
+        },
+        {
+          "player": "AD Russell",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 10.74
+        },
+        {
+          "player": "SC van Schalkwyk",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 13.0
+        },
+        {
+          "player": "C le Roux",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 7.89
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Los Angeles Knight Riders",
+      "runs": 154,
+      "extras": 9,
+      "balls": 89,
+      "batting": [
+        {
+          "player": "C Munro",
+          "runs": 64,
+          "balls": 42,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 152.38,
+          "out": false
+        },
+        {
+          "player": "ADS Fletcher",
+          "runs": 34,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 170.0,
+          "out": true
+        },
+        {
+          "player": "R Powell",
+          "runs": 17,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 141.67,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 28,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 215.38,
+          "out": true
+        },
+        {
+          "player": "AD Russell",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Ghulam Mudassar",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 12.43
+        },
+        {
+          "player": "Haris Rauf",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 11.4
+        },
+        {
+          "player": "BL Couch",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 9.67
+        },
+        {
+          "player": "MW Short",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "player": "Hassan Khan",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 10.62
+        }
+      ]
+    }
+  ]
+}

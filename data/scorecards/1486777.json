@@ -1,0 +1,277 @@
+{
+  "id": "1486777",
+  "teams": [
+    "Scotland",
+    "Netherlands"
+  ],
+  "date": "2025-06-12",
+  "format": "ODI",
+  "competition": "ICC Men's Cricket World Cup League 2",
+  "venue": "Forthill, Dundee",
+  "result": "Netherlands won by 4 wickets",
+  "winner": "Netherlands",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Scotland",
+      "runs": 369,
+      "extras": 22,
+      "balls": 311,
+      "batting": [
+        {
+          "player": "HG Munsey",
+          "runs": 191,
+          "balls": 156,
+          "fours": 14,
+          "sixes": 11,
+          "strike_rate": 122.44,
+          "out": true
+        },
+        {
+          "player": "C Tear",
+          "runs": 23,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BJ McMullen",
+          "runs": 21,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "LR Naylor",
+          "runs": 14,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "FDW McCreath",
+          "runs": 9,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "MH Cross",
+          "runs": 59,
+          "balls": 50,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 118.0,
+          "out": true
+        },
+        {
+          "player": "MA Leask",
+          "runs": 28,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 186.67,
+          "out": false
+        },
+        {
+          "player": "MRJ Watt",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "VJ Kingma",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 72,
+          "wickets": 1,
+          "economy": 6.75
+        },
+        {
+          "player": "PA van Meekeren",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 71,
+          "wickets": 0,
+          "economy": 7.47
+        },
+        {
+          "player": "A Dutt",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 77,
+          "wickets": 2,
+          "economy": 7.57
+        },
+        {
+          "player": "RE van der Merwe",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 8.45
+        },
+        {
+          "player": "ZB Lion-Cachet",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 7.55
+        },
+        {
+          "player": "M Levitt",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 5.02
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Netherlands",
+      "runs": 374,
+      "extras": 15,
+      "balls": 302,
+      "batting": [
+        {
+          "player": "M Levitt",
+          "runs": 44,
+          "balls": 40,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 110.0,
+          "out": true
+        },
+        {
+          "player": "MP O'Dowd",
+          "runs": 158,
+          "balls": 131,
+          "fours": 13,
+          "sixes": 4,
+          "strike_rate": 120.61,
+          "out": false
+        },
+        {
+          "player": "ZB Lion-Cachet",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "SA Edwards",
+          "runs": 32,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 118.52,
+          "out": true
+        },
+        {
+          "player": "W Barresi",
+          "runs": 13,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "AT Nidamanuru",
+          "runs": 51,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 113.33,
+          "out": true
+        },
+        {
+          "player": "NRJ Croes",
+          "runs": 50,
+          "balls": 29,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 172.41,
+          "out": true
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 8,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BJ McMullen",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 70,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "MW Jones",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 75,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "player": "C Cassell",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 74,
+          "wickets": 1,
+          "economy": 7.4
+        },
+        {
+          "player": "MRJ Watt",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 6.89
+        },
+        {
+          "player": "SM Sharif",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 63,
+          "wickets": 3,
+          "economy": 6.63
+        },
+        {
+          "player": "MA Leask",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 9.43
+        }
+      ]
+    }
+  ]
+}

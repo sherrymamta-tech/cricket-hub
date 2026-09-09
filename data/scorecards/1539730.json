@@ -1,0 +1,69 @@
+{
+  "id": "1539730",
+  "teams": [
+    "Bahamas",
+    "Bermuda"
+  ],
+  "date": "2026-06-21",
+  "format": "T20",
+  "competition": "ICC World Twenty20 Americas Sub Regional Qualifier A",
+  "venue": "White Hill Field, Sandys Parish",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Bahamas",
+      "runs": 15,
+      "extras": 6,
+      "balls": 17,
+      "batting": [
+        {
+          "player": "GT Taylor",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "Festus Benn",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "J Jemison",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Proctor",
+          "overs": "1.5",
+          "balls": 11,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 5.45
+        },
+        {
+          "player": "D Sabir",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

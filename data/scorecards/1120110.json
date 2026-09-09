@@ -1,0 +1,577 @@
+{
+  "id": "1120110",
+  "teams": [
+    "Canterbury",
+    "Otago Volts"
+  ],
+  "date": "2017-10-23",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Hagley Oval",
+  "result": "Otago Volts won by 7 wickets",
+  "winner": "Otago Volts",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Canterbury",
+      "runs": 155,
+      "extras": 3,
+      "balls": 412,
+      "batting": [
+        {
+          "player": "JCT Boyle",
+          "runs": 27,
+          "balls": 85,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 31.76,
+          "out": true
+        },
+        {
+          "player": "CJ Bowes",
+          "runs": 1,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": true
+        },
+        {
+          "player": "MA Pollard",
+          "runs": 54,
+          "balls": 136,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 39.71,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "LJ Carter",
+          "runs": 4,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "CD Fletcher",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "BR Hampton",
+          "runs": 25,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "TG Johnston",
+          "runs": 24,
+          "balls": 23,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 104.35,
+          "out": true
+        },
+        {
+          "player": "WSA Williams",
+          "runs": 14,
+          "balls": 45,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.11,
+          "out": true
+        },
+        {
+          "player": "BP Coburn",
+          "runs": 0,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "FW Sheat",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "N Wagner",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 2.35
+        },
+        {
+          "player": "JA Duffy",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 24,
+          "wickets": 3,
+          "economy": 1.6
+        },
+        {
+          "player": "NG Smith",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 3.48
+        },
+        {
+          "player": "MD Rae",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 3.14
+        },
+        {
+          "player": "MD Craig",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 1.78
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Otago Volts",
+      "runs": 216,
+      "extras": 2,
+      "balls": 533,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 23,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 82.14,
+          "out": true
+        },
+        {
+          "player": "BS Wilson",
+          "runs": 58,
+          "balls": 184,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 31.52,
+          "out": true
+        },
+        {
+          "player": "RJ Nicol",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 13,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.62,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 19,
+          "balls": 69,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 27.54,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 38,
+          "balls": 79,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.1,
+          "out": true
+        },
+        {
+          "player": "DC de Boorder",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "MD Craig",
+          "runs": 46,
+          "balls": 85,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 54.12,
+          "out": true
+        },
+        {
+          "player": "NG Smith",
+          "runs": 4,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.05,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 11,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.74,
+          "out": false
+        },
+        {
+          "player": "MD Rae",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "FW Sheat",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 1.23
+        },
+        {
+          "player": "BR Hampton",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 5.67
+        },
+        {
+          "player": "WSA Williams",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 1.79
+        },
+        {
+          "player": "TG Johnston",
+          "overs": "30.5",
+          "balls": 185,
+          "runs": 49,
+          "wickets": 3,
+          "economy": 1.59
+        },
+        {
+          "player": "BP Coburn",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 73,
+          "wickets": 3,
+          "economy": 3.48
+        },
+        {
+          "player": "CE McConchie",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Canterbury",
+      "runs": 299,
+      "extras": 18,
+      "balls": 492,
+      "batting": [
+        {
+          "player": "JCT Boyle",
+          "runs": 25,
+          "balls": 47,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 53.19,
+          "out": true
+        },
+        {
+          "player": "CJ Bowes",
+          "runs": 33,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 106.45,
+          "out": true
+        },
+        {
+          "player": "MA Pollard",
+          "runs": 7,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 17,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.46,
+          "out": true
+        },
+        {
+          "player": "LJ Carter",
+          "runs": 44,
+          "balls": 129,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 34.11,
+          "out": true
+        },
+        {
+          "player": "CD Fletcher",
+          "runs": 39,
+          "balls": 55,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 70.91,
+          "out": true
+        },
+        {
+          "player": "BR Hampton",
+          "runs": 60,
+          "balls": 56,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 107.14,
+          "out": true
+        },
+        {
+          "player": "TG Johnston",
+          "runs": 18,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "WSA Williams",
+          "runs": 11,
+          "balls": 44,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "BP Coburn",
+          "runs": 17,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 54.84,
+          "out": true
+        },
+        {
+          "player": "FW Sheat",
+          "runs": 10,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.48,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "N Wagner",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 79,
+          "wickets": 3,
+          "economy": 3.29
+        },
+        {
+          "player": "JA Duffy",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 66,
+          "wickets": 0,
+          "economy": 4.71
+        },
+        {
+          "player": "MD Craig",
+          "overs": "32.0",
+          "balls": 192,
+          "runs": 93,
+          "wickets": 4,
+          "economy": 2.91
+        },
+        {
+          "player": "MD Rae",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 52,
+          "wickets": 2,
+          "economy": 4.73
+        },
+        {
+          "player": "NG Smith",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Otago Volts",
+      "runs": 239,
+      "extras": 10,
+      "balls": 486,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 90,
+          "balls": 127,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 70.87,
+          "out": true
+        },
+        {
+          "player": "BS Wilson",
+          "runs": 63,
+          "balls": 152,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 41.45,
+          "out": true
+        },
+        {
+          "player": "RJ Nicol",
+          "runs": 24,
+          "balls": 97,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 24.74,
+          "out": false
+        },
+        {
+          "player": "NT Broom",
+          "runs": 48,
+          "balls": 98,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 48.98,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Johnston",
+          "overs": "36.0",
+          "balls": 216,
+          "runs": 79,
+          "wickets": 1,
+          "economy": 2.19
+        },
+        {
+          "player": "FW Sheat",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "WSA Williams",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 3.49
+        },
+        {
+          "player": "BR Hampton",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 4.53
+        },
+        {
+          "player": "BP Coburn",
+          "overs": "24.4",
+          "balls": 148,
+          "runs": 87,
+          "wickets": 2,
+          "economy": 3.53
+        },
+        {
+          "player": "CE McConchie",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 0.33
+        }
+      ]
+    }
+  ]
+}

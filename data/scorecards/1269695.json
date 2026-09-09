@@ -1,0 +1,260 @@
+{
+  "id": "1269695",
+  "teams": [
+    "Perth Scorchers",
+    "Sydney Sixers"
+  ],
+  "date": "2022-01-22",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Docklands Stadium, Melbourne",
+  "result": "Perth Scorchers won by 48 runs",
+  "winner": "Perth Scorchers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Perth Scorchers",
+      "runs": 189,
+      "extras": 6,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "JP Inglis",
+          "runs": 79,
+          "balls": 51,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 154.9,
+          "out": true
+        },
+        {
+          "player": "KR Patterson",
+          "runs": 64,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 156.1,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 28,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 127.27,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 12,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "NM Lyon",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 9.79
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "H Kerr",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 8.88
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 10.33
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 8.64
+        },
+        {
+          "player": "DT Christian",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Sixers",
+      "runs": 141,
+      "extras": 12,
+      "balls": 121,
+      "batting": [
+        {
+          "player": "JR Philippe",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "J Avendano",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 17,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.67,
+          "out": true
+        },
+        {
+          "player": "JC Silk",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "NL Bertus",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "DT Christian",
+          "runs": 7,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "SA Abbott",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "H Kerr",
+          "runs": 22,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 122.22,
+          "out": true
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "runs": 66,
+          "balls": 32,
+          "fours": 7,
+          "sixes": 4,
+          "strike_rate": 206.25,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Richardson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 5.25
+        },
+        {
+          "player": "JP Behrendorff",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 6.64
+        },
+        {
+          "player": "AC Agar",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 4.08
+        },
+        {
+          "player": "P Hatzoglou",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "player": "AJ Tye",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 10.5
+        }
+      ]
+    }
+  ]
+}

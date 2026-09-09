@@ -1,0 +1,234 @@
+{
+  "id": "1499645",
+  "teams": [
+    "Central Districts",
+    "Northern Districts"
+  ],
+  "date": "2026-01-13",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "McLean Park, Napier",
+  "result": "Northern Districts won by 6 wickets",
+  "winner": "Northern Districts",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Central Districts",
+      "runs": 146,
+      "extras": 11,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "D Foxcroft",
+          "runs": 7,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "MG Hughes",
+          "runs": 6,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 12,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 11,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true
+        },
+        {
+          "player": "CG Heaphy",
+          "runs": 45,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 115.38,
+          "out": false
+        },
+        {
+          "player": "SJ Cassidy",
+          "runs": 49,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 168.97,
+          "out": true
+        },
+        {
+          "player": "AR Schaw",
+          "runs": 5,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Fisher",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 20,
+          "wickets": 3,
+          "economy": 4.62
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 7.92
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 5.52
+        },
+        {
+          "player": "BR Hampton",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "TJG Pringle",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 8.64
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Northern Districts",
+      "runs": 120,
+      "extras": 7,
+      "balls": 88,
+      "batting": [
+        {
+          "player": "KD Clarke",
+          "runs": 60,
+          "balls": 41,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 146.34,
+          "out": false
+        },
+        {
+          "player": "BR Hampton",
+          "runs": 20,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "BJ Pomare",
+          "runs": 8,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 9,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "runs": 5,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 11,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 157.14,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AR Schaw",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 11.67
+        },
+        {
+          "player": "BG Randell",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 8.84
+        },
+        {
+          "player": "TA Findlay",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.67
+        },
+        {
+          "player": "JFA Field",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 6.9
+        },
+        {
+          "player": "AY Patel",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 6.46
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "id": "1160296",
+  "teams": [
+    "Central Stags",
+    "Otago Volts"
+  ],
+  "date": "2019-03-01",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "McLean Park",
+  "result": "Central Stags won by 5 runs",
+  "winner": "Central Stags",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Central Stags",
+      "runs": 584,
+      "extras": 15,
+      "balls": 874,
+      "batting": [
+        {
+          "player": "GH Worker",
+          "runs": 110,
+          "balls": 166,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 66.27,
+          "out": true
+        },
+        {
+          "player": "GR Hay",
+          "runs": 158,
+          "balls": 327,
+          "fours": 21,
+          "sixes": 0,
+          "strike_rate": 48.32,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 150,
+          "balls": 208,
+          "fours": 29,
+          "sixes": 0,
+          "strike_rate": 72.12,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 18,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": true
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 83,
+          "balls": 81,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 102.47,
+          "out": true
+        },
+        {
+          "player": "K Noema-Barnett",
+          "runs": 34,
+          "balls": 40,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 85.0,
+          "out": true
+        },
+        {
+          "player": "DAJ Bracewell",
+          "runs": 8,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BM Wheeler",
+          "runs": 8,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "SHA Rance",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Duffy",
+          "overs": "32.1",
+          "balls": 193,
+          "runs": 130,
+          "wickets": 1,
+          "economy": 4.04
+        },
+        {
+          "player": "NG Smith",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 64,
+          "wickets": 0,
+          "economy": 2.36
+        },
+        {
+          "player": "MB Bacon",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 113,
+          "wickets": 2,
+          "economy": 4.19
+        },
+        {
+          "player": "WD Barnes",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 89,
+          "wickets": 1,
+          "economy": 3.54
+        },
+        {
+          "player": "MJG Rippon",
+          "overs": "31.1",
+          "balls": 187,
+          "runs": 174,
+          "wickets": 4,
+          "economy": 5.58
+        },
+        {
+          "player": "HD Rutherford",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "CT Hawkins",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Otago Volts",
+      "runs": 244,
+      "extras": 19,
+      "balls": 532,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 30,
+          "balls": 54,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "CT Hawkins",
+          "runs": 29,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 70.73,
+          "out": true
+        },
+        {
+          "player": "JJ Tasman-Jones",
+          "runs": 19,
+          "balls": 74,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 25.68,
+          "out": true
+        },
+        {
+          "player": "M Renwick",
+          "runs": 29,
+          "balls": 84,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 34.52,
+          "out": true
+        },
+        {
+          "player": "JL Finnie",
+          "runs": 10,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.64,
+          "out": true
+        },
+        {
+          "player": "NG Smith",
+          "runs": 45,
+          "balls": 94,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 47.87,
+          "out": true
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MW Chu",
+          "runs": 10,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 27.78,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "MB Bacon",
+          "runs": 43,
+          "balls": 83,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 51.81,
+          "out": true
+        },
+        {
+          "player": "WD Barnes",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BM Wheeler",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "SHA Rance",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 3.08
+        },
+        {
+          "player": "AY Patel",
+          "overs": "32.0",
+          "balls": 192,
+          "runs": 80,
+          "wickets": 1,
+          "economy": 2.5
+        },
+        {
+          "player": "BM Tickner",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 25,
+          "wickets": 4,
+          "economy": 1.65
+        },
+        {
+          "player": "DAJ Bracewell",
+          "overs": "14.3",
+          "balls": 87,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 3.03
+        },
+        {
+          "player": "K Noema-Barnett",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 5.33
+        },
+        {
+          "player": "GH Worker",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Otago Volts",
+      "runs": 335,
+      "extras": 17,
+      "balls": 648,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 99,
+          "balls": 220,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 45.0,
+          "out": true
+        },
+        {
+          "player": "CT Hawkins",
+          "runs": 52,
+          "balls": 114,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 45.61,
+          "out": true
+        },
+        {
+          "player": "JJ Tasman-Jones",
+          "runs": 6,
+          "balls": 42,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "M Renwick",
+          "runs": 20,
+          "balls": 51,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.22,
+          "out": true
+        },
+        {
+          "player": "JL Finnie",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 3,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        },
+        {
+          "player": "NG Smith",
+          "runs": 75,
+          "balls": 87,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 86.21,
+          "out": false
+        },
+        {
+          "player": "MW Chu",
+          "runs": 8,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 21,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "MB Bacon",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WD Barnes",
+          "runs": 34,
+          "balls": 59,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 57.63,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DAJ Bracewell",
+          "overs": "17.3",
+          "balls": 105,
+          "runs": 71,
+          "wickets": 2,
+          "economy": 4.06
+        },
+        {
+          "player": "BM Wheeler",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 3.07
+        },
+        {
+          "player": "SHA Rance",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 50,
+          "wickets": 2,
+          "economy": 2.7
+        },
+        {
+          "player": "AY Patel",
+          "overs": "35.0",
+          "balls": 210,
+          "runs": 86,
+          "wickets": 4,
+          "economy": 2.46
+        },
+        {
+          "player": "BM Tickner",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 3.06
+        },
+        {
+          "player": "GH Worker",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 5.5
+        }
+      ]
+    }
+  ]
+}

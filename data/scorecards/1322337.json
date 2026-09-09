@@ -1,0 +1,241 @@
+{
+  "id": "1322337",
+  "teams": [
+    "Pakistan",
+    "New Zealand"
+  ],
+  "date": "2022-10-11",
+  "format": "T20",
+  "competition": "New Zealand T20I Tri-Series",
+  "venue": "Hagley Oval, Christchurch",
+  "result": "New Zealand won by 9 wickets",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 130,
+      "extras": 10,
+      "balls": 129,
+      "batting": [
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 16,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 84.21,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 21,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "Shan Masood",
+          "runs": 14,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "Shadab Khan",
+          "runs": 8,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "runs": 27,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "Haider Ali",
+          "runs": 8,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Asif Ali",
+          "runs": 25,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 113.64,
+          "out": false
+        },
+        {
+          "player": "Mohammad Nawaz",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Wasim",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 7.15
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.23
+        },
+        {
+          "player": "MG Bracewell",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 11,
+          "wickets": 2,
+          "economy": 2.54
+        },
+        {
+          "player": "BM Tickner",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 8.1
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.52
+        },
+        {
+          "player": "GD Phillips",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 131,
+      "extras": 11,
+      "balls": 101,
+      "batting": [
+        {
+          "player": "FH Allen",
+          "runs": 62,
+          "balls": 44,
+          "fours": 1,
+          "sixes": 6,
+          "strike_rate": 140.91,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 49,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 102.08,
+          "out": false
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 9,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Naseem Shah",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 6.6
+        },
+        {
+          "player": "Shahnawaz Dhani",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 9.69
+        },
+        {
+          "player": "Mohammad Wasim",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 9.23
+        },
+        {
+          "player": "Shadab Khan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "Mohammad Nawaz",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 12.0
+        }
+      ]
+    }
+  ]
+}

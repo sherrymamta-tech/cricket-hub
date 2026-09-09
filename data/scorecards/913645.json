@@ -1,0 +1,604 @@
+{
+  "id": "913645",
+  "teams": [
+    "England",
+    "Pakistan"
+  ],
+  "date": "2016-08-03",
+  "format": "Test",
+  "competition": "Pakistan in England Test Series",
+  "venue": "Edgbaston",
+  "result": "England won by 141 runs",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 297,
+      "extras": 6,
+      "balls": 521,
+      "batting": [
+        {
+          "player": "AN Cook",
+          "runs": 45,
+          "balls": 52,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 86.54,
+          "out": true
+        },
+        {
+          "player": "AD Hales",
+          "runs": 17,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 54.84,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 39,
+          "balls": 65,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 70,
+          "balls": 150,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 12,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "MM Ali",
+          "runs": 63,
+          "balls": 119,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 9,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 13,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": true
+        },
+        {
+          "player": "ST Finn",
+          "runs": 15,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": false
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Amir",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 53,
+          "wickets": 2,
+          "economy": 3.31
+        },
+        {
+          "player": "Sohail Khan",
+          "overs": "23.4",
+          "balls": 142,
+          "runs": 97,
+          "wickets": 5,
+          "economy": 4.1
+        },
+        {
+          "player": "Rahat Ali",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 83,
+          "wickets": 2,
+          "economy": 4.12
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 2.37
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 400,
+      "extras": 27,
+      "balls": 817,
+      "batting": [
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 139,
+          "balls": 293,
+          "fours": 15,
+          "sixes": 1,
+          "strike_rate": 47.44,
+          "out": true
+        },
+        {
+          "player": "Sami Aslam",
+          "runs": 82,
+          "balls": 176,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 46.59,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 31,
+          "balls": 90,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 34.44,
+          "out": true
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 56,
+          "balls": 107,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 52.34,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 0,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 46,
+          "balls": 91,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.55,
+          "out": false
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 7,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Amir",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "Sohail Khan",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "Rahat Ali",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "29.1",
+          "balls": 175,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 2.02
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "30.1",
+          "balls": 181,
+          "runs": 91,
+          "wickets": 3,
+          "economy": 3.02
+        },
+        {
+          "player": "ST Finn",
+          "overs": "27.5",
+          "balls": 167,
+          "runs": 81,
+          "wickets": 0,
+          "economy": 2.91
+        },
+        {
+          "player": "CR Woakes",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 87,
+          "wickets": 3,
+          "economy": 2.9
+        },
+        {
+          "player": "MM Ali",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 79,
+          "wickets": 0,
+          "economy": 4.65
+        },
+        {
+          "player": "JM Vince",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "JE Root",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "England",
+      "runs": 445,
+      "extras": 21,
+      "balls": 784,
+      "batting": [
+        {
+          "player": "AN Cook",
+          "runs": 66,
+          "balls": 103,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 64.08,
+          "out": true
+        },
+        {
+          "player": "AD Hales",
+          "runs": 54,
+          "balls": 131,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 41.22,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 62,
+          "balls": 124,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 42,
+          "balls": 123,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 34.15,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 28,
+          "balls": 70,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 83,
+          "balls": 127,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 65.35,
+          "out": true
+        },
+        {
+          "player": "MM Ali",
+          "runs": 86,
+          "balls": 96,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 89.58,
+          "out": false
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Amir",
+          "overs": "31.1",
+          "balls": 187,
+          "runs": 75,
+          "wickets": 2,
+          "economy": 2.41
+        },
+        {
+          "player": "Sohail Khan",
+          "overs": "30.3",
+          "balls": 183,
+          "runs": 111,
+          "wickets": 2,
+          "economy": 3.64
+        },
+        {
+          "player": "Rahat Ali",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 2.9
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "43.0",
+          "balls": 258,
+          "runs": 175,
+          "wickets": 2,
+          "economy": 4.07
+        },
+        {
+          "player": "Azhar Ali",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 4.6
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Pakistan",
+      "runs": 201,
+      "extras": 3,
+      "balls": 426,
+      "batting": [
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 2,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "Sami Aslam",
+          "runs": 70,
+          "balls": 167,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 41.92,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 38,
+          "balls": 75,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.67,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 4,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": true
+        },
+        {
+          "player": "Misbah-ul-Haq",
+          "runs": 10,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 7,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "Mohammad Amir",
+          "runs": 16,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "Sohail Khan",
+          "runs": 36,
+          "balls": 37,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 97.3,
+          "out": true
+        },
+        {
+          "player": "Rahat Ali",
+          "runs": 15,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 2.38
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 1.58
+        },
+        {
+          "player": "CR Woakes",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 54,
+          "wickets": 2,
+          "economy": 4.91
+        },
+        {
+          "player": "ST Finn",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "MM Ali",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 2.75
+        },
+        {
+          "player": "JE Root",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id": "1216544",
+  "teams": [
+    "Royal Challengers Bangalore",
+    "Chennai Super Kings"
+  ],
+  "date": "2020-10-25",
+  "format": "T20",
+  "competition": "Indian Premier League",
+  "venue": "Dubai International Cricket Stadium",
+  "result": "Chennai Super Kings won by 8 wickets",
+  "winner": "Chennai Super Kings",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Royal Challengers Bangalore",
+      "runs": 145,
+      "extras": 9,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "D Padikkal",
+          "runs": 22,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 15,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 115.38,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 50,
+          "balls": 45,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 39,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 108.33,
+          "out": true
+        },
+        {
+          "player": "MM Ali",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "CH Morris",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "Gurkeerat Singh",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "Washington Sundar",
+          "runs": 5,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 250.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DL Chahar",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 8.25
+        },
+        {
+          "player": "Monu Kumar",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "SM Curran",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 19,
+          "wickets": 3,
+          "economy": 5.43
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "player": "Imran Tahir",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Chennai Super Kings",
+      "runs": 150,
+      "extras": 2,
+      "balls": 113,
+      "batting": [
+        {
+          "player": "RD Gaikwad",
+          "runs": 65,
+          "balls": 52,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 125.0,
+          "out": false
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 25,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 192.31,
+          "out": true
+        },
+        {
+          "player": "AT Rayudu",
+          "runs": 39,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 144.44,
+          "out": true
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 19,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 90.48,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Washington Sundar",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.75
+        },
+        {
+          "player": "CH Morris",
+          "overs": "3.5",
+          "balls": 23,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 9.39
+        },
+        {
+          "player": "Mohammed Siraj",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 14.5
+        },
+        {
+          "player": "YS Chahal",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "MM Ali",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "Navdeep Saini",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 6.33
+        }
+      ]
+    }
+  ]
+}

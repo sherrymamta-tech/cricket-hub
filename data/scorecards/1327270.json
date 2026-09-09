@@ -1,0 +1,287 @@
+{
+  "id": "1327270",
+  "teams": [
+    "Pakistan",
+    "India"
+  ],
+  "date": "2022-08-28",
+  "format": "T20",
+  "competition": "Asia Cup",
+  "venue": "Dubai International Cricket Stadium",
+  "result": "India won by 5 wickets",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 147,
+      "extras": 5,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 43,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 102.38,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 10,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "Fakhar Zaman",
+          "runs": 10,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "runs": 28,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 127.27,
+          "out": true
+        },
+        {
+          "player": "Khushdil Shah",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "Shadab Khan",
+          "runs": 10,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "Asif Ali",
+          "runs": 9,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "Mohammad Nawaz",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Haris Rauf",
+          "runs": 13,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 185.71,
+          "out": false
+        },
+        {
+          "player": "Naseem Shah",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Shahnawaz Dhani",
+          "runs": 16,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 266.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Kumar",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 4,
+          "economy": 6.5
+        },
+        {
+          "player": "Arshdeep Singh",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 7.92
+        },
+        {
+          "player": "HH Pandya",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 25,
+          "wickets": 3,
+          "economy": 5.77
+        },
+        {
+          "player": "Avesh Khan",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 9.5
+        },
+        {
+          "player": "YS Chahal",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 148,
+      "extras": 14,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "RG Sharma",
+          "runs": 12,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 35,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 102.94,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 35,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 102.94,
+          "out": true
+        },
+        {
+          "player": "SA Yadav",
+          "runs": 18,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HH Pandya",
+          "runs": 33,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 194.12,
+          "out": false
+        },
+        {
+          "player": "KD Karthik",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Naseem Shah",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.23
+        },
+        {
+          "player": "Shahnawaz Dhani",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 6.69
+        },
+        {
+          "player": "Haris Rauf",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 9.23
+        },
+        {
+          "player": "Shadab Khan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.75
+        },
+        {
+          "player": "Mohammad Nawaz",
+          "overs": "3.4",
+          "balls": 22,
+          "runs": 33,
+          "wickets": 3,
+          "economy": 9.0
+        }
+      ]
+    }
+  ]
+}

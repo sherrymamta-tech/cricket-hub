@@ -1,0 +1,305 @@
+{
+  "id": "902651",
+  "teams": [
+    "England",
+    "Pakistan"
+  ],
+  "date": "2015-11-27",
+  "format": "T20",
+  "competition": "Pakistan v England T20I Series",
+  "venue": "Dubai International Cricket Stadium",
+  "result": "England won by 3 runs",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 172,
+      "extras": 7,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "JJ Roy",
+          "runs": 29,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 126.09,
+          "out": true
+        },
+        {
+          "player": "AD Hales",
+          "runs": 11,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 38,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 146.15,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 20,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 33,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 137.5,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 11,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 122.22,
+          "out": true
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "LE Plunkett",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 15,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 187.5,
+          "out": false
+        },
+        {
+          "player": "AU Rashid",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Anwar Ali",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.23
+        },
+        {
+          "player": "Sohail Tanvir",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 10.56
+        },
+        {
+          "player": "Wahab Riaz",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 10.15
+        },
+        {
+          "player": "Shahid Afridi",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 3.75
+        },
+        {
+          "player": "Ahmed Shehzad",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "Shoaib Malik",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 10.11
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 169,
+      "extras": 10,
+      "balls": 128,
+      "batting": [
+        {
+          "player": "Ahmed Shehzad",
+          "runs": 28,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "Rafatullah Mohmand",
+          "runs": 23,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 88.46,
+          "out": true
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 25,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "Shoaib Malik",
+          "runs": 26,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 123.81,
+          "out": true
+        },
+        {
+          "player": "Sohaib Maqsood",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Umar Akmal",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 19,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 146.15,
+          "out": true
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 24,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 240.0,
+          "out": true
+        },
+        {
+          "player": "Anwar Ali",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        },
+        {
+          "player": "Sohail Tanvir",
+          "runs": 6,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Willey",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 10.8
+        },
+        {
+          "player": "CR Woakes",
+          "overs": "4.5",
+          "balls": 29,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 8.28
+        },
+        {
+          "player": "LE Plunkett",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 33,
+          "wickets": 3,
+          "economy": 7.62
+        },
+        {
+          "player": "SD Parry",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 8.25
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 4.5
+        }
+      ]
+    }
+  ]
+}

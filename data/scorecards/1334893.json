@@ -1,0 +1,236 @@
+{
+  "id": "1334893",
+  "teams": [
+    "Warriors",
+    "Knights"
+  ],
+  "date": "2022-10-18",
+  "format": "T20",
+  "competition": "CSA T20 Challenge",
+  "venue": "Senwes Park, Potchefstroom",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Warriors",
+      "runs": 134,
+      "extras": 8,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "MP Breetzke",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "WJ Lubbe",
+          "runs": 18,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "DS Rosier",
+          "runs": 6,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "J Hermann",
+          "runs": 67,
+          "balls": 47,
+          "fours": 3,
+          "sixes": 5,
+          "strike_rate": 142.55,
+          "out": false
+        },
+        {
+          "player": "LC Ngoepe",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "S Qeshile",
+          "runs": 9,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "B Swanepoel",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "GA Stuurman",
+          "runs": 7,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "Z Abrahams",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "K Molefe",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Mnyaka",
+          "runs": 7,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Pretorius",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 8.88
+        },
+        {
+          "player": "M Budaza",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 11,
+          "wickets": 2,
+          "economy": 5.08
+        },
+        {
+          "player": "G Coetzee",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 6.46
+        },
+        {
+          "player": "AR Swanepoel",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 3,
+          "economy": 6.75
+        },
+        {
+          "player": "SA Mothoa",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 4.32
+        },
+        {
+          "player": "GJ Snyman",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Knights",
+      "runs": 21,
+      "extras": 1,
+      "balls": 18,
+      "batting": [
+        {
+          "player": "GL Cloete",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "R van Tonder",
+          "runs": 6,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "GJ Snyman",
+          "runs": 7,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 233.33,
+          "out": false
+        },
+        {
+          "player": "PJ van Biljon",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "GA Stuurman",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "player": "B Swanepoel",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 11.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "id": "1250189",
+  "teams": [
+    "Kent",
+    "Essex"
+  ],
+  "date": "2021-08-01",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "County Ground, Chelmsford",
+  "result": "Essex won by 9 wickets",
+  "winner": "Essex",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Kent",
+      "runs": 158,
+      "extras": 8,
+      "balls": 292,
+      "batting": [
+        {
+          "player": "OG Robinson",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "TS Muyeye",
+          "runs": 25,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 104.17,
+          "out": true
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 0,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HG Munsey",
+          "runs": 39,
+          "balls": 64,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 60.94,
+          "out": true
+        },
+        {
+          "player": "DI Stevens",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "MK O'Riordan",
+          "runs": 20,
+          "balls": 54,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.04,
+          "out": true
+        },
+        {
+          "player": "G Stewart",
+          "runs": 9,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "ME Milnes",
+          "runs": 10,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "Hamidullah Qadri",
+          "runs": 21,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.26,
+          "out": false
+        },
+        {
+          "player": "JEG Logan",
+          "runs": 10,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "NN Gilchrist",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "S Snater",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 3.32
+        },
+        {
+          "player": "BMJ Allison",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 4.71
+        },
+        {
+          "player": "ASS Nijjar",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 3.74
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 2.3
+        },
+        {
+          "player": "T Westley",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 2.84
+        },
+        {
+          "player": "RN ten Doeschate",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 7,
+          "wickets": 2,
+          "economy": 2.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Essex",
+      "runs": 159,
+      "extras": 2,
+      "balls": 188,
+      "batting": [
+        {
+          "player": "WEL Buttleman",
+          "runs": 11,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.0,
+          "out": true
+        },
+        {
+          "player": "AN Cook",
+          "runs": 77,
+          "balls": 91,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 84.62,
+          "out": false
+        },
+        {
+          "player": "T Westley",
+          "runs": 69,
+          "balls": 77,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 89.61,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ME Milnes",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 5.8
+        },
+        {
+          "player": "DI Stevens",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 3.91
+        },
+        {
+          "player": "Hamidullah Qadri",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "G Stewart",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.56
+        },
+        {
+          "player": "JEG Logan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 5.25
+        },
+        {
+          "player": "MK O'Riordan",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 3.67
+        },
+        {
+          "player": "NN Gilchrist",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 8.25
+        }
+      ]
+    }
+  ]
+}

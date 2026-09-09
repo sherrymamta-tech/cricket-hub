@@ -1,0 +1,276 @@
+{
+  "id": "1188409",
+  "teams": [
+    "Perth Scorchers",
+    "Sydney Thunder"
+  ],
+  "date": "2019-11-10",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Karen Rolton Oval",
+  "result": "Perth Scorchers won by 7 runs",
+  "winner": "Perth Scorchers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Perth Scorchers",
+      "runs": 151,
+      "extras": 7,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "AE Jones",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "MM Lanning",
+          "runs": 6,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "G Redmayne",
+          "runs": 35,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 97.22,
+          "out": true
+        },
+        {
+          "player": "NR Sciver",
+          "runs": 37,
+          "balls": 22,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 168.18,
+          "out": true
+        },
+        {
+          "player": "NE Bolton",
+          "runs": 16,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 94.12,
+          "out": true
+        },
+        {
+          "player": "H Graham",
+          "runs": 33,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 165.0,
+          "out": false
+        },
+        {
+          "player": "JL Barsby",
+          "runs": 11,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 157.14,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SL Bates",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "S Ismail",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "RM Farrell",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.15
+        },
+        {
+          "player": "Nida Dar",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "HJ Darlington",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 6.5
+        },
+        {
+          "player": "R Trenaman",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 11.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Thunder",
+      "runs": 144,
+      "extras": 3,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "NE Stalenberg",
+          "runs": 30,
+          "balls": 20,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "RH Priest",
+          "runs": 15,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 93.75,
+          "out": true
+        },
+        {
+          "player": "T Wilson",
+          "runs": 47,
+          "balls": 40,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 117.5,
+          "out": false
+        },
+        {
+          "player": "AJ Blackwell",
+          "runs": 29,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 103.57,
+          "out": true
+        },
+        {
+          "player": "Nida Dar",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "R Trenaman",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RM Farrell",
+          "runs": 10,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "HJ Darlington",
+          "runs": 8,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "NR Sciver",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 5.75
+        },
+        {
+          "player": "NE Bolton",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "KJ Garth",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 7.0
+        },
+        {
+          "player": "T Peschel",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 4.8
+        },
+        {
+          "player": "JL Barsby",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 23.0
+        },
+        {
+          "player": "H Graham",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 3,
+          "economy": 5.5
+        },
+        {
+          "player": "SM Betts",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 7.71
+        }
+      ]
+    }
+  ]
+}

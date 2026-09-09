@@ -1,0 +1,269 @@
+{
+  "id": "211860",
+  "teams": [
+    "Bangladesh",
+    "England"
+  ],
+  "date": "2005-06-26",
+  "format": "ODI",
+  "competition": "NatWest Challenge",
+  "venue": "Headingley",
+  "result": "England won by 5 wickets",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Bangladesh",
+      "runs": 208,
+      "extras": 14,
+      "balls": 312,
+      "batting": [
+        {
+          "player": "Javed Omar",
+          "runs": 81,
+          "balls": 154,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 52.6,
+          "out": true
+        },
+        {
+          "player": "Shahriar Nafees",
+          "runs": 11,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.89,
+          "out": true
+        },
+        {
+          "player": "Tushar Imran",
+          "runs": 32,
+          "balls": 35,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 91.43,
+          "out": true
+        },
+        {
+          "player": "Mohammad Ashraful",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Habibul Bashar",
+          "runs": 10,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "Aftab Ahmed",
+          "runs": 15,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "Khaled Mashud",
+          "runs": 42,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 95.45,
+          "out": false
+        },
+        {
+          "player": "Mashrafe Mortaza",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rafique",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "D Gough",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 59,
+          "wickets": 0,
+          "economy": 6.32
+        },
+        {
+          "player": "SP Jones",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 4.26
+        },
+        {
+          "player": "CT Tremlett",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 3.71
+        },
+        {
+          "player": "A Flintoff",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 29,
+          "wickets": 4,
+          "economy": 3.16
+        },
+        {
+          "player": "PD Collingwood",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "AF Giles",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 2.85
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 209,
+      "extras": 7,
+      "balls": 236,
+      "batting": [
+        {
+          "player": "ME Trescothick",
+          "runs": 43,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 113.16,
+          "out": true
+        },
+        {
+          "player": "AJ Strauss",
+          "runs": 98,
+          "balls": 104,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 94.23,
+          "out": true
+        },
+        {
+          "player": "A Flintoff",
+          "runs": 22,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 75.86,
+          "out": true
+        },
+        {
+          "player": "VS Solanki",
+          "runs": 8,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 23,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 85.19,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 8,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "GO Jones",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Nazmul Hossain",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 6.43
+        },
+        {
+          "player": "Mashrafe Mortaza",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 5.24
+        },
+        {
+          "player": "Manjural Islam Rana",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 57,
+          "wickets": 3,
+          "economy": 5.7
+        },
+        {
+          "player": "Mohammad Rafique",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 46,
+          "wickets": 2,
+          "economy": 4.52
+        },
+        {
+          "player": "Aftab Ahmed",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 4.33
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "id": "1234059",
+  "teams": [
+    "Wellington",
+    "Auckland"
+  ],
+  "date": "2021-02-11",
+  "format": "T20",
+  "competition": "New Zealand Cricket Women's Twenty20",
+  "venue": "Eden Park Outer Oval",
+  "result": "Wellington won by 35 runs",
+  "winner": "Wellington",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Wellington",
+      "runs": 150,
+      "extras": 10,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "SFM Devine",
+          "runs": 33,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 110.0,
+          "out": true
+        },
+        {
+          "player": "ML Green",
+          "runs": 32,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 110.34,
+          "out": true
+        },
+        {
+          "player": "AC Kerr",
+          "runs": 54,
+          "balls": 45,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": false
+        },
+        {
+          "player": "RM Burns",
+          "runs": 8,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "JM Kerr",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "TMM Newton",
+          "runs": 11,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": true
+        },
+        {
+          "player": "JT McFadyen",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AN Kelly",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.56
+        },
+        {
+          "player": "HR Huddleston",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 10.11
+        },
+        {
+          "player": "MM Penfold",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 7.38
+        },
+        {
+          "player": "AM Peterson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 8.25
+        },
+        {
+          "player": "FC Jonas",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.75
+        },
+        {
+          "player": "JEI Prasad",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 8.53
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Auckland",
+      "runs": 115,
+      "extras": 6,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "AM Peterson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KT Perkins",
+          "runs": 46,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 76.67,
+          "out": true
+        },
+        {
+          "player": "LR Down",
+          "runs": 13,
+          "balls": 11,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 118.18,
+          "out": true
+        },
+        {
+          "player": "BG Armstrong",
+          "runs": 33,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": true
+        },
+        {
+          "player": "HR Huddleston",
+          "runs": 6,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "AN Kelly",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "MM Penfold",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RSM Lili'i",
+          "runs": 7,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "JEI Prasad",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SFM Devine",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 3.92
+        },
+        {
+          "player": "JM Kerr",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "MP Singh",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 5.25
+        },
+        {
+          "player": "AC Kerr",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 3.84
+        },
+        {
+          "player": "ML Green",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "player": "TMM Newton",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

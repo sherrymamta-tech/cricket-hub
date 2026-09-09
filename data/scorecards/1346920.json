@@ -1,0 +1,276 @@
+{
+  "id": "1346920",
+  "teams": [
+    "Dubai Capitals",
+    "Gulf Giants"
+  ],
+  "date": "2023-01-16",
+  "format": "T20",
+  "competition": "International League T20",
+  "venue": "Dubai International Cricket Stadium",
+  "result": "Gulf Giants won by 6 wickets",
+  "winner": "Gulf Giants",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Dubai Capitals",
+      "runs": 182,
+      "extras": 10,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "RV Uthappa",
+          "runs": 79,
+          "balls": 47,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 168.09,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 6,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "R Powell",
+          "runs": 38,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 152.0,
+          "out": true
+        },
+        {
+          "player": "Sikandar Raza",
+          "runs": 30,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 142.86,
+          "out": false
+        },
+        {
+          "player": "PBB Rajapaksa",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "MD Shanaka",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RS Bopara",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "I Udana",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Hazrat Luqman",
+          "runs": 10,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 333.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RJ Gleeson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.5
+        },
+        {
+          "player": "SM Sharma",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 14.21
+        },
+        {
+          "player": "D Wiese",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 8.7
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 10.42
+        },
+        {
+          "player": "LA Dawson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 8.33
+        },
+        {
+          "player": "Rehan Ahmed",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 3,
+          "economy": 6.72
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Gulf Giants",
+      "runs": 183,
+      "extras": 7,
+      "balls": 120,
+      "batting": [
+        {
+          "player": "JM Vince",
+          "runs": 83,
+          "balls": 59,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 140.68,
+          "out": false
+        },
+        {
+          "player": "Rehan Ahmed",
+          "runs": 28,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 155.56,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MG Erasmus",
+          "runs": 52,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 179.31,
+          "out": true
+        },
+        {
+          "player": "SO Hetmyer",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "D Wiese",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "I Udana",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 8.64
+        },
+        {
+          "player": "Hazrat Luqman",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 17.0
+        },
+        {
+          "player": "Mujeeb Ur Rahman",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 8.64
+        },
+        {
+          "player": "Akif Raja",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 8.57
+        },
+        {
+          "player": "Sikandar Raza",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 8.25
+        },
+        {
+          "player": "MD Shanaka",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 10.62
+        },
+        {
+          "player": "R Powell",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 8.31
+        }
+      ]
+    }
+  ]
+}

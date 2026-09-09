@@ -1,0 +1,277 @@
+{
+  "id": "1387191",
+  "teams": [
+    "Melbourne Stars",
+    "Hobart Hurricanes"
+  ],
+  "date": "2023-11-02",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Bellerive Oval, Hobart",
+  "result": "Hobart Hurricanes won by 6 wickets",
+  "winner": "Hobart Hurricanes",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Melbourne Stars",
+      "runs": 142,
+      "extras": 7,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "S Reid",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Capsey",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "MM Lanning",
+          "runs": 75,
+          "balls": 51,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 147.06,
+          "out": true
+        },
+        {
+          "player": "A Sutherland",
+          "runs": 12,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "ME Bouchier",
+          "runs": 10,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "SIR Dunkley",
+          "runs": 17,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 106.25,
+          "out": true
+        },
+        {
+          "player": "KJ Garth",
+          "runs": 6,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "R McKenna",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "N Faltum",
+          "runs": 5,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": false
+        },
+        {
+          "player": "SK Moloney",
+          "runs": 4,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Strano",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 2,
+          "economy": 3.5
+        },
+        {
+          "player": "S Ismail",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 35,
+          "wickets": 3,
+          "economy": 8.75
+        },
+        {
+          "player": "NJ Carey",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 4.33
+        },
+        {
+          "player": "ML Gibson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 8.16
+        },
+        {
+          "player": "A Smith",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 5.7
+        },
+        {
+          "player": "H Graham",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 13.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Hobart Hurricanes",
+      "runs": 143,
+      "extras": 8,
+      "balls": 121,
+      "batting": [
+        {
+          "player": "L Lee",
+          "runs": 17,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 94.44,
+          "out": true
+        },
+        {
+          "player": "EJ Villani",
+          "runs": 41,
+          "balls": 38,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 107.89,
+          "out": true
+        },
+        {
+          "player": "BF Smith",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "H Graham",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "NJ Carey",
+          "runs": 41,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 132.26,
+          "out": false
+        },
+        {
+          "player": "NE Stalenberg",
+          "runs": 33,
+          "balls": 25,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 132.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KJ Garth",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.56
+        },
+        {
+          "player": "S Day",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 10.08
+        },
+        {
+          "player": "A Sutherland",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 7.68
+        },
+        {
+          "player": "SK Moloney",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "A Capsey",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "R McKenna",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 5.14
+        }
+      ]
+    }
+  ]
+}

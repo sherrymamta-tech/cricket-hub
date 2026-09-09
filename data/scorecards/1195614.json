@@ -1,0 +1,236 @@
+{
+  "id": "1195614",
+  "teams": [
+    "Sydney Thunder",
+    "Sydney Sixers"
+  ],
+  "date": "2020-01-18",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Sydney Showground Stadium",
+  "result": "Sydney Thunder won by 4 runs",
+  "winner": "Sydney Thunder",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Sixers",
+      "runs": 76,
+      "extras": 5,
+      "balls": 99,
+      "batting": [
+        {
+          "player": "JR Philippe",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "DP Hughes",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 5,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "JC Silk",
+          "runs": 5,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "J Avendano",
+          "runs": 28,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 90.32,
+          "out": true
+        },
+        {
+          "player": "TK Curran",
+          "runs": 8,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "runs": 19,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 86.36,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": false
+        },
+        {
+          "player": "JM Bird",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CH Morris",
+          "overs": "3.5",
+          "balls": 23,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 3.13
+        },
+        {
+          "player": "GS Sandhu",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "B Doggett",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 4.11
+        },
+        {
+          "player": "DR Sams",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 5.0
+        },
+        {
+          "player": "N McAndrew",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 8.21
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Thunder",
+      "runs": 28,
+      "extras": 2,
+      "balls": 35,
+      "batting": [
+        {
+          "player": "UT Khawaja",
+          "runs": 13,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 86.67,
+          "out": true
+        },
+        {
+          "player": "AD Hales",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 8,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": false
+        },
+        {
+          "player": "DR Sams",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Bird",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 1.67
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 11.14
+        },
+        {
+          "player": "TK Curran",
+          "overs": "1.4",
+          "balls": 10,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

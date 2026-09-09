@@ -1,0 +1,277 @@
+{
+  "id": "1466418",
+  "teams": [
+    "Pakistan",
+    "India"
+  ],
+  "date": "2025-02-23",
+  "format": "ODI",
+  "competition": "ICC Champions Trophy",
+  "venue": "Dubai International Cricket Stadium",
+  "result": "India won by 6 wickets",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 241,
+      "extras": 17,
+      "balls": 307,
+      "batting": [
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 10,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 23,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 76.67,
+          "out": true
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 62,
+          "balls": 77,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 80.52,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 46,
+          "balls": 77,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 59.74,
+          "out": true
+        },
+        {
+          "player": "Agha Salman",
+          "runs": 19,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 79.17,
+          "out": true
+        },
+        {
+          "player": "Tayyab Tahir",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Khushdil Shah",
+          "runs": 38,
+          "balls": 39,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 97.44,
+          "out": true
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Naseem Shah",
+          "runs": 14,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "Haris Rauf",
+          "runs": 8,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 114.29,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Shami",
+          "overs": "8.5",
+          "balls": 53,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 4.98
+        },
+        {
+          "player": "Harshit Rana",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 3.75
+        },
+        {
+          "player": "HH Pandya",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 4.44
+        },
+        {
+          "player": "AR Patel",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 40,
+          "wickets": 3,
+          "economy": 4.44
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 5.71
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 244,
+      "extras": 11,
+      "balls": 263,
+      "batting": [
+        {
+          "player": "RG Sharma",
+          "runs": 20,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 46,
+          "balls": 52,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 88.46,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 100,
+          "balls": 114,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 87.72,
+          "out": false
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 56,
+          "balls": 70,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "HH Pandya",
+          "runs": 8,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "AR Patel",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "8.5",
+          "balls": 53,
+          "runs": 74,
+          "wickets": 2,
+          "economy": 8.38
+        },
+        {
+          "player": "Naseem Shah",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 4.53
+        },
+        {
+          "player": "Haris Rauf",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 7.09
+        },
+        {
+          "player": "Abrar Ahmed",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 2.8
+        },
+        {
+          "player": "Khushdil Shah",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 5.73
+        },
+        {
+          "player": "Agha Salman",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "947399",
+  "teams": [
+    "Lancashire",
+    "Nottinghamshire"
+  ],
+  "date": "2016-06-12",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "Stanley Park, Blackpool",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Lancashire",
+      "runs": 157,
+      "extras": 21,
+      "balls": 204,
+      "batting": [
+        {
+          "player": "TC Smith",
+          "runs": 0,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AN Petersen",
+          "runs": 73,
+          "balls": 101,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 72.28,
+          "out": false
+        },
+        {
+          "player": "LA Procter",
+          "runs": 63,
+          "balls": 87,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 72.41,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HF Gurney",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 4.06
+        },
+        {
+          "player": "LJ Fletcher",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 3.43
+        },
+        {
+          "player": "JT Ball",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 4.26
+        },
+        {
+          "player": "DT Christian",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 6.69
+        },
+        {
+          "player": "SR Patel",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 5.83
+        },
+        {
+          "player": "SJ Mullaney",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.25
+        }
+      ]
+    }
+  ]
+}

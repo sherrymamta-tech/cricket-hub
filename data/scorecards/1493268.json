@@ -1,0 +1,68 @@
+{
+  "id": "1493268",
+  "teams": [
+    "Sydney Sixers",
+    "Hobart Hurricanes"
+  ],
+  "date": "2026-01-11",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Sydney Cricket Ground",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Sixers",
+      "runs": 32,
+      "extras": 4,
+      "balls": 31,
+      "batting": [
+        {
+          "player": "Babar Azam",
+          "runs": 9,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": false
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 19,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 111.76,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Stanlake",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 4.62
+        },
+        {
+          "player": "RP Meredith",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "BJ Webster",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    }
+  ]
+}

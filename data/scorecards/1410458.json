@@ -1,0 +1,233 @@
+{
+  "id": "1410458",
+  "teams": [
+    "Surrey",
+    "Kent"
+  ],
+  "date": "2024-07-07",
+  "format": "T20",
+  "competition": "Vitality Blast",
+  "venue": "Kennington Oval, London",
+  "result": "Surrey won by 5 runs",
+  "winner": "Surrey",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Surrey",
+      "runs": 103,
+      "extras": 14,
+      "balls": 65,
+      "batting": [
+        {
+          "player": "RS Patel",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DP Sibley",
+          "runs": 20,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "LJ Evans",
+          "runs": 25,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 192.31,
+          "out": true
+        },
+        {
+          "player": "CJ Jordan",
+          "runs": 14,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 107.69,
+          "out": true
+        },
+        {
+          "player": "RJ Burns",
+          "runs": 11,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 122.22,
+          "out": false
+        },
+        {
+          "player": "J Clark",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "BBA Geddes",
+          "runs": 7,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 233.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "G Stewart",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 10.0
+        },
+        {
+          "player": "TS Rogers",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 5.54
+        },
+        {
+          "player": "NN Gilchrist",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 12.46
+        },
+        {
+          "player": "MW Parkinson",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "MK O'Riordan",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 13.0
+        },
+        {
+          "player": "JDM Evison",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 11.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 81,
+      "extras": 4,
+      "balls": 50,
+      "batting": [
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TS Muyeye",
+          "runs": 22,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 169.23,
+          "out": true
+        },
+        {
+          "player": "FIN Khushi",
+          "runs": 35,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 14,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 127.27,
+          "out": false
+        },
+        {
+          "player": "TS Rogers",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RJW Topley",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 12.46
+        },
+        {
+          "player": "DJ Worrall",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "J Clark",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "CT Steel",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 10.15
+        }
+      ]
+    }
+  ]
+}

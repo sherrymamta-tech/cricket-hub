@@ -1,0 +1,462 @@
+{
+  "id": "1233963",
+  "teams": [
+    "Pakistan",
+    "New Zealand"
+  ],
+  "date": "2021-01-03",
+  "format": "Test",
+  "competition": "Pakistan tour of New Zealand",
+  "venue": "Hagley Oval",
+  "result": "New Zealand won by 176 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 297,
+      "extras": 17,
+      "balls": 505,
+      "batting": [
+        {
+          "player": "Shan Masood",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Abid Ali",
+          "runs": 25,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 47.17,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 93,
+          "balls": 173,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 53.76,
+          "out": true
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Fawad Alam",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 61,
+          "balls": 71,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 85.92,
+          "out": true
+        },
+        {
+          "player": "Faheem Ashraf",
+          "runs": 48,
+          "balls": 88,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "Zafar Gohar",
+          "runs": 34,
+          "balls": 63,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 53.97,
+          "out": true
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 4,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 19.05,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "Naseem Shah",
+          "runs": 12,
+          "balls": 9,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 62,
+          "wickets": 2,
+          "economy": 2.7
+        },
+        {
+          "player": "TA Boult",
+          "overs": "20.5",
+          "balls": 125,
+          "runs": 86,
+          "wickets": 2,
+          "economy": 4.13
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 71,
+          "wickets": 5,
+          "economy": 3.35
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 72,
+          "wickets": 1,
+          "economy": 4.19
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 659,
+      "extras": 64,
+      "balls": 974,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 33,
+          "balls": 71,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 46.48,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 16,
+          "balls": 54,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 29.63,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 238,
+          "balls": 366,
+          "fours": 28,
+          "sixes": 0,
+          "strike_rate": 65.03,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 12,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 157,
+          "balls": 297,
+          "fours": 18,
+          "sixes": 1,
+          "strike_rate": 52.86,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 7,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 102,
+          "balls": 113,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 90.27,
+          "out": false
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 30,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 136.36,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "36.1",
+          "balls": 217,
+          "runs": 121,
+          "wickets": 2,
+          "economy": 3.35
+        },
+        {
+          "player": "Mohammad Abbas",
+          "overs": "34.3",
+          "balls": 207,
+          "runs": 104,
+          "wickets": 2,
+          "economy": 3.01
+        },
+        {
+          "player": "Naseem Shah",
+          "overs": "28.1",
+          "balls": 169,
+          "runs": 146,
+          "wickets": 0,
+          "economy": 5.18
+        },
+        {
+          "player": "Faheem Ashraf",
+          "overs": "28.3",
+          "balls": 171,
+          "runs": 110,
+          "wickets": 2,
+          "economy": 3.86
+        },
+        {
+          "player": "Shan Masood",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "Zafar Gohar",
+          "overs": "32.0",
+          "balls": 192,
+          "runs": 159,
+          "wickets": 0,
+          "economy": 4.97
+        },
+        {
+          "player": "Haris Sohail",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Pakistan",
+      "runs": 186,
+      "extras": 7,
+      "balls": 496,
+      "batting": [
+        {
+          "player": "Shan Masood",
+          "runs": 0,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Abid Ali",
+          "runs": 26,
+          "balls": 77,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.77,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 3,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.34,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 37,
+          "balls": 100,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 37.0,
+          "out": true
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 15,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.61,
+          "out": true
+        },
+        {
+          "player": "Fawad Alam",
+          "runs": 16,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.56,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 10,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "Faheem Ashraf",
+          "runs": 28,
+          "balls": 65,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.08,
+          "out": true
+        },
+        {
+          "player": "Zafar Gohar",
+          "runs": 37,
+          "balls": 64,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 57.81,
+          "out": true
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 7,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.92,
+          "out": true
+        },
+        {
+          "player": "Naseem Shah",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 2.3
+        },
+        {
+          "player": "TA Boult",
+          "overs": "18.4",
+          "balls": 112,
+          "runs": 43,
+          "wickets": 3,
+          "economy": 2.3
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "20.4",
+          "balls": 124,
+          "runs": 48,
+          "wickets": 6,
+          "economy": 2.32
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 1.65
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 1.55
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 5.33
+        }
+      ]
+    }
+  ]
+}

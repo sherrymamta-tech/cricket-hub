@@ -1,0 +1,464 @@
+{
+  "id": "1347224",
+  "teams": [
+    "Northamptonshire",
+    "Somerset"
+  ],
+  "date": "2023-05-04",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "The Cooper Associates County Ground, Taunton",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northamptonshire",
+      "runs": 255,
+      "extras": 25,
+      "balls": 477,
+      "batting": [
+        {
+          "player": "R Vasconcelos",
+          "runs": 70,
+          "balls": 104,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 67.31,
+          "out": true
+        },
+        {
+          "player": "Hassan Azad",
+          "runs": 20,
+          "balls": 67,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 29.85,
+          "out": true
+        },
+        {
+          "player": "SM Whiteman",
+          "runs": 15,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "SA Zaib",
+          "runs": 4,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "RI Keogh",
+          "runs": 19,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 61.29,
+          "out": true
+        },
+        {
+          "player": "JJG Sales",
+          "runs": 57,
+          "balls": 113,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 50.44,
+          "out": true
+        },
+        {
+          "player": "HOM Gouldstone",
+          "runs": 2,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.0,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 28,
+          "balls": 42,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "JS Buckingham",
+          "runs": 9,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "BW Sanderson",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "CJ White",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Overton",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 76,
+          "wickets": 1,
+          "economy": 3.8
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "18.2",
+          "balls": 110,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 2.56
+        },
+        {
+          "player": "L Gregory",
+          "overs": "19.4",
+          "balls": 118,
+          "runs": 68,
+          "wickets": 3,
+          "economy": 3.46
+        },
+        {
+          "player": "Kasey Aldridge",
+          "overs": "14.3",
+          "balls": 87,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 3.38
+        },
+        {
+          "player": "MJ Leach",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 2.14
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Somerset",
+      "runs": 412,
+      "extras": 22,
+      "balls": 568,
+      "batting": [
+        {
+          "player": "TA Lammonby",
+          "runs": 5,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.25,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 17,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 51.52,
+          "out": true
+        },
+        {
+          "player": "CT Bancroft",
+          "runs": 39,
+          "balls": 78,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 16,
+          "balls": 45,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 35.56,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 130,
+          "balls": 102,
+          "fours": 18,
+          "sixes": 3,
+          "strike_rate": 127.45,
+          "out": true
+        },
+        {
+          "player": "JEK Rew",
+          "runs": 89,
+          "balls": 171,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 52.05,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 23,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 69.7,
+          "out": true
+        },
+        {
+          "player": "Kasey Aldridge",
+          "runs": 24,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 26,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 78.79,
+          "out": true
+        },
+        {
+          "player": "MJ Leach",
+          "runs": 21,
+          "balls": 18,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": false
+        },
+        {
+          "player": "PM Siddle",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BW Sanderson",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 2.67
+        },
+        {
+          "player": "CJ White",
+          "overs": "22.3",
+          "balls": 135,
+          "runs": 110,
+          "wickets": 5,
+          "economy": 4.89
+        },
+        {
+          "player": "TAI Taylor",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "JS Buckingham",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 134,
+          "wickets": 1,
+          "economy": 6.09
+        },
+        {
+          "player": "RI Keogh",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 4.52
+        },
+        {
+          "player": "SA Zaib",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 1.6
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Northamptonshire",
+      "runs": 311,
+      "extras": 33,
+      "balls": 632,
+      "batting": [
+        {
+          "player": "R Vasconcelos",
+          "runs": 26,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": true
+        },
+        {
+          "player": "Hassan Azad",
+          "runs": 4,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "SM Whiteman",
+          "runs": 130,
+          "balls": 269,
+          "fours": 14,
+          "sixes": 1,
+          "strike_rate": 48.33,
+          "out": false
+        },
+        {
+          "player": "JS Buckingham",
+          "runs": 17,
+          "balls": 66,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.76,
+          "out": true
+        },
+        {
+          "player": "SA Zaib",
+          "runs": 33,
+          "balls": 45,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true
+        },
+        {
+          "player": "RI Keogh",
+          "runs": 14,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.9,
+          "out": true
+        },
+        {
+          "player": "JJG Sales",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "HOM Gouldstone",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 53,
+          "balls": 100,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 53.0,
+          "out": true
+        },
+        {
+          "player": "BW Sanderson",
+          "runs": 0,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Overton",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 3.33
+        },
+        {
+          "player": "L Gregory",
+          "overs": "20.5",
+          "balls": 125,
+          "runs": 60,
+          "wickets": 2,
+          "economy": 2.88
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 2.64
+        },
+        {
+          "player": "MJ Leach",
+          "overs": "32.0",
+          "balls": 192,
+          "runs": 84,
+          "wickets": 3,
+          "economy": 2.62
+        },
+        {
+          "player": "Kasey Aldridge",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 3.69
+        }
+      ]
+    }
+  ]
+}

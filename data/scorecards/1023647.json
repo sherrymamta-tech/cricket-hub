@@ -1,0 +1,387 @@
+{
+  "id": "1023647",
+  "teams": [
+    "Brisbane Heat",
+    "Sydney Sixers"
+  ],
+  "date": "2017-01-25",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Brisbane Cricket Ground, Woolloongabba",
+  "result": "tie",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Brisbane Heat",
+      "runs": 167,
+      "extras": 10,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "JJ Peirson",
+          "runs": 19,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 146.15,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 46,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 164.29,
+          "out": true
+        },
+        {
+          "player": "SD Heazlett",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AI Ross",
+          "runs": 17,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.71,
+          "out": true
+        },
+        {
+          "player": "JA Burns",
+          "runs": 20,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 153.85,
+          "out": true
+        },
+        {
+          "player": "BCJ Cutting",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 20,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 117.65,
+          "out": true
+        },
+        {
+          "player": "JD Wildermuth",
+          "runs": 29,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 170.59,
+          "out": true
+        },
+        {
+          "player": "MT Steketee",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "S Badree",
+          "runs": 6,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 300.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Bird",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 8.31
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 8.4
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 40,
+          "wickets": 4,
+          "economy": 10.0
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 4,
+          "economy": 5.75
+        },
+        {
+          "player": "J Botha",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 7.92
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Sixers",
+      "runs": 167,
+      "extras": 3,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "DP Hughes",
+          "runs": 46,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 102.22,
+          "out": true
+        },
+        {
+          "player": "NJ Maddinson",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 23,
+          "balls": 11,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 209.09,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 64,
+          "balls": 35,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 182.86,
+          "out": true
+        },
+        {
+          "player": "MJ Lumb",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "BJ Haddin",
+          "runs": 7,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "J Botha",
+          "runs": 16,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "SA Abbott",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Burns",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 8.5
+        },
+        {
+          "player": "S Badree",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "player": "MT Steketee",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 5.04
+        },
+        {
+          "player": "MJ Swepson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.75
+        },
+        {
+          "player": "JD Wildermuth",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 11.0
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 18.0
+        },
+        {
+          "player": "BCJ Cutting",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 6.92
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Sydney Sixers",
+      "runs": 22,
+      "extras": 4,
+      "balls": 7,
+      "batting": [
+        {
+          "player": "C Munro",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 18,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 360.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BCJ Cutting",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 18.86
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Brisbane Heat",
+      "runs": 15,
+      "extras": 1,
+      "balls": 7,
+      "batting": [
+        {
+          "player": "BB McCullum",
+          "runs": 13,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 216.67,
+          "out": false
+        },
+        {
+          "player": "BCJ Cutting",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SA Abbott",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 12.86
+        }
+      ]
+    }
+  ]
+}

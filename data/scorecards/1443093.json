@@ -1,0 +1,93 @@
+{
+  "id": "1443093",
+  "teams": [
+    "Sydney Thunder",
+    "Sydney Sixers"
+  ],
+  "date": "2025-01-17",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Sydney Cricket Ground",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Thunder",
+      "runs": 36,
+      "extras": 4,
+      "balls": 32,
+      "batting": [
+        {
+          "player": "S Konstas",
+          "runs": 9,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 22,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 157.14,
+          "out": false
+        },
+        {
+          "player": "HD Weibgen",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Edwards",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 3.23
+        },
+        {
+          "player": "H Kerr",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 13.0
+        },
+        {
+          "player": "T Murphy",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "0.1",
+          "balls": 1,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "id": "1297763",
+  "teams": [
+    "Nottinghamshire",
+    "Leicestershire"
+  ],
+  "date": "2022-09-05",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Trent Bridge, Nottingham",
+  "result": "Nottinghamshire won by 241 runs",
+  "winner": "Nottinghamshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Nottinghamshire",
+      "runs": 201,
+      "extras": 25,
+      "balls": 377,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 17,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 68.0,
+          "out": true
+        },
+        {
+          "player": "H Hameed",
+          "runs": 4,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": true
+        },
+        {
+          "player": "M Montgomery",
+          "runs": 43,
+          "balls": 86,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 20,
+          "balls": 68,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 16,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 69.57,
+          "out": true
+        },
+        {
+          "player": "SJ Mullaney",
+          "runs": 21,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.22,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 10,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.3,
+          "out": true
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 17,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.22,
+          "out": true
+        },
+        {
+          "player": "BA Hutton",
+          "runs": 8,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "LJ Fletcher",
+          "runs": 4,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": false
+        },
+        {
+          "player": "D Paterson",
+          "runs": 16,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 80.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJC Wright",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 27,
+          "wickets": 3,
+          "economy": 1.8
+        },
+        {
+          "player": "MG Finan",
+          "overs": "11.4",
+          "balls": 70,
+          "runs": 59,
+          "wickets": 1,
+          "economy": 5.06
+        },
+        {
+          "player": "E Barnes",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 37,
+          "wickets": 3,
+          "economy": 2.44
+        },
+        {
+          "player": "RI Walker",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 3.5
+        },
+        {
+          "player": "CF Parkinson",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 4.14
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Leicestershire",
+      "runs": 93,
+      "extras": 17,
+      "balls": 182,
+      "batting": [
+        {
+          "player": "ST Evans",
+          "runs": 50,
+          "balls": 71,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 70.42,
+          "out": false
+        },
+        {
+          "player": "Hassan Azad",
+          "runs": 1,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": true
+        },
+        {
+          "player": "LPJ Kimber",
+          "runs": 6,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 2,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "RK Patel",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HJ Swindells",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "E Barnes",
+          "runs": 9,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.13,
+          "out": true
+        },
+        {
+          "player": "RI Walker",
+          "runs": 0,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CF Parkinson",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "CJC Wright",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MG Finan",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LJ Fletcher",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 23,
+          "wickets": 4,
+          "economy": 2.51
+        },
+        {
+          "player": "BA Hutton",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 35,
+          "wickets": 3,
+          "economy": 3.18
+        },
+        {
+          "player": "D Paterson",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 3.64
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "0.5",
+          "balls": 5,
+          "runs": 1,
+          "wickets": 1,
+          "economy": 1.2
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Nottinghamshire",
+      "runs": 390,
+      "extras": 39,
+      "balls": 511,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 39,
+          "balls": 57,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 68.42,
+          "out": true
+        },
+        {
+          "player": "H Hameed",
+          "runs": 60,
+          "balls": 108,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "M Montgomery",
+          "runs": 44,
+          "balls": 84,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.38,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 67,
+          "balls": 72,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 93.06,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 61,
+          "balls": 82,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 74.39,
+          "out": true
+        },
+        {
+          "player": "SJ Mullaney",
+          "runs": 24,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 28,
+          "balls": 59,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.46,
+          "out": true
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 28,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 164.71,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJC Wright",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 2.89
+        },
+        {
+          "player": "E Barnes",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 83,
+          "wickets": 2,
+          "economy": 5.93
+        },
+        {
+          "player": "MG Finan",
+          "overs": "15.4",
+          "balls": 94,
+          "runs": 102,
+          "wickets": 2,
+          "economy": 6.51
+        },
+        {
+          "player": "RI Walker",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 4.35
+        },
+        {
+          "player": "CF Parkinson",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 3.33
+        },
+        {
+          "player": "LPJ Kimber",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 4.88
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Leicestershire",
+      "runs": 257,
+      "extras": 22,
+      "balls": 514,
+      "batting": [
+        {
+          "player": "ST Evans",
+          "runs": 18,
+          "balls": 74,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 24.32,
+          "out": true
+        },
+        {
+          "player": "Hassan Azad",
+          "runs": 35,
+          "balls": 106,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.02,
+          "out": true
+        },
+        {
+          "player": "LPJ Kimber",
+          "runs": 16,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 9,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "RK Patel",
+          "runs": 7,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.93,
+          "out": true
+        },
+        {
+          "player": "HJ Swindells",
+          "runs": 7,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.33,
+          "out": true
+        },
+        {
+          "player": "E Barnes",
+          "runs": 37,
+          "balls": 61,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 60.66,
+          "out": true
+        },
+        {
+          "player": "RI Walker",
+          "runs": 18,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.9,
+          "out": true
+        },
+        {
+          "player": "CF Parkinson",
+          "runs": 26,
+          "balls": 58,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 44.83,
+          "out": false
+        },
+        {
+          "player": "CJC Wright",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "MG Finan",
+          "runs": 58,
+          "balls": 46,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 126.09,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LJ Fletcher",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 2.86
+        },
+        {
+          "player": "BA Hutton",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 52,
+          "wickets": 3,
+          "economy": 2.58
+        },
+        {
+          "player": "D Paterson",
+          "overs": "21.5",
+          "balls": 131,
+          "runs": 92,
+          "wickets": 3,
+          "economy": 4.21
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 1.91
+        },
+        {
+          "player": "SJ Mullaney",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 33,
+          "wickets": 3,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "1068494",
+  "teams": [
+    "Northamptonshire",
+    "Nottinghamshire"
+  ],
+  "date": "2017-05-16",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "County Ground, Northampton",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northamptonshire",
+      "runs": 79,
+      "extras": 0,
+      "balls": 88,
+      "batting": [
+        {
+          "player": "MDE Holden",
+          "runs": 23,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 62.16,
+          "out": false
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 56,
+          "balls": 51,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 109.8,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HF Gurney",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 5.33
+        },
+        {
+          "player": "L Wood",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 4.33
+        },
+        {
+          "player": "JL Pattinson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "SJ Mullaney",
+          "overs": "1.4",
+          "balls": 10,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

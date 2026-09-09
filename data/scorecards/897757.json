@@ -1,0 +1,287 @@
+{
+  "id": "897757",
+  "teams": [
+    "Melbourne Renegades",
+    "Adelaide Strikers"
+  ],
+  "date": "2016-01-18",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Docklands Stadium",
+  "result": "Adelaide Strikers won by 27 runs",
+  "winner": "Adelaide Strikers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Adelaide Strikers",
+      "runs": 170,
+      "extras": 7,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "TP Ludeman",
+          "runs": 49,
+          "balls": 43,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 113.95,
+          "out": true
+        },
+        {
+          "player": "JR Dean",
+          "runs": 48,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 4,
+          "strike_rate": 137.14,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AI Ross",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BJ Hodge",
+          "runs": 37,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 176.19,
+          "out": false
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 24,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 141.18,
+          "out": true
+        },
+        {
+          "player": "MG Neser",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "XJ Doherty",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 7.44
+        },
+        {
+          "player": "CP Tremain",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.75
+        },
+        {
+          "player": "NJ Rimmington",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 8.64
+        },
+        {
+          "player": "CJ Gannon",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 9.6
+        },
+        {
+          "player": "DJ Bravo",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Renegades",
+      "runs": 143,
+      "extras": 3,
+      "balls": 96,
+      "batting": [
+        {
+          "player": "CH Gayle",
+          "runs": 56,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 7,
+          "strike_rate": 294.74,
+          "out": true
+        },
+        {
+          "player": "TLW Cooper",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CL White",
+          "runs": 6,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "DJ Bravo",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "PM Nevill",
+          "runs": 21,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 110.53,
+          "out": true
+        },
+        {
+          "player": "BR McDermott",
+          "runs": 7,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "TM Beaton",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "CJ Gannon",
+          "runs": 23,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 153.33,
+          "out": true
+        },
+        {
+          "player": "CP Tremain",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NJ Rimmington",
+          "runs": 26,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 136.84,
+          "out": true
+        },
+        {
+          "player": "XJ Doherty",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "GA West",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 17.54
+        },
+        {
+          "player": "MG Neser",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "player": "B Laughlin",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 10.88
+        },
+        {
+          "player": "TM Head",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 16,
+          "wickets": 3,
+          "economy": 7.38
+        },
+        {
+          "player": "JM Holland",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 8.0
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 7.0
+        }
+      ]
+    }
+  ]
+}

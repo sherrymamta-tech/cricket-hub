@@ -1,0 +1,68 @@
+{
+  "id": "1433377",
+  "teams": [
+    "West Indies",
+    "England"
+  ],
+  "date": "2024-11-17",
+  "format": "T20",
+  "competition": "England tour of West Indies",
+  "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "runs": 44,
+      "extras": 1,
+      "balls": 30,
+      "batting": [
+        {
+          "player": "E Lewis",
+          "runs": 29,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 145.0,
+          "out": false
+        },
+        {
+          "player": "SD Hope",
+          "runs": 14,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JC Archer",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "JA Turner",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "J Overton",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

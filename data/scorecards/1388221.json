@@ -1,0 +1,578 @@
+{
+  "id": "1388221",
+  "teams": [
+    "New Zealand",
+    "South Africa"
+  ],
+  "date": "2024-02-04",
+  "format": "Test",
+  "competition": "South Africa tour of New Zealand",
+  "venue": "Bay Oval, Mount Maunganui",
+  "result": "New Zealand won by 281 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 511,
+      "extras": 11,
+      "balls": 871,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 20,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.82,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 118,
+          "balls": 290,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 40.69,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 240,
+          "balls": 367,
+          "fours": 26,
+          "sixes": 3,
+          "strike_rate": 65.4,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 34,
+          "balls": 75,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 45.33,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 11,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 39,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 92.86,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 27,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 300.0,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "D Olivier",
+          "overs": "30.3",
+          "balls": 183,
+          "runs": 120,
+          "wickets": 0,
+          "economy": 3.93
+        },
+        {
+          "player": "TL Moreki",
+          "overs": "27.3",
+          "balls": 165,
+          "runs": 110,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "D Paterson",
+          "overs": "32.0",
+          "balls": 192,
+          "runs": 99,
+          "wickets": 1,
+          "economy": 3.09
+        },
+        {
+          "player": "R de Swardt",
+          "overs": "29.0",
+          "balls": 174,
+          "runs": 61,
+          "wickets": 2,
+          "economy": 2.1
+        },
+        {
+          "player": "N Brand",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 121,
+          "wickets": 6,
+          "economy": 4.62
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 162,
+      "extras": 6,
+      "balls": 438,
+      "batting": [
+        {
+          "player": "EM Moore",
+          "runs": 23,
+          "balls": 50,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 46.0,
+          "out": true
+        },
+        {
+          "player": "N Brand",
+          "runs": 4,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 17.39,
+          "out": true
+        },
+        {
+          "player": "R van Tonder",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Zubayr Hamza",
+          "runs": 22,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 57.89,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 32,
+          "balls": 58,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 55.17,
+          "out": true
+        },
+        {
+          "player": "KD Petersen",
+          "runs": 45,
+          "balls": 132,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 34.09,
+          "out": true
+        },
+        {
+          "player": "R de Swardt",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Fortuin",
+          "runs": 9,
+          "balls": 52,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.31,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 15,
+          "balls": 56,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 26.79,
+          "out": false
+        },
+        {
+          "player": "TL Moreki",
+          "runs": 5,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": true
+        },
+        {
+          "player": "D Paterson",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 3.15
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 31,
+          "wickets": 3,
+          "economy": 2.21
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 2.31
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 39,
+          "wickets": 3,
+          "economy": 1.86
+        },
+        {
+          "player": "R Ravindra",
+          "overs": "9.5",
+          "balls": 59,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 1.63
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New Zealand",
+      "runs": 179,
+      "extras": 10,
+      "balls": 262,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 29,
+          "balls": 68,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 42.65,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 109,
+          "balls": 134,
+          "fours": 12,
+          "sixes": 1,
+          "strike_rate": 81.34,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 12,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 11,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 64.71,
+          "out": false
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "D Paterson",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 4.2
+        },
+        {
+          "player": "TL Moreki",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 2.08
+        },
+        {
+          "player": "R de Swardt",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 5.88
+        },
+        {
+          "player": "D Olivier",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.56
+        },
+        {
+          "player": "N Brand",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 53,
+          "wickets": 2,
+          "economy": 4.03
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "South Africa",
+      "runs": 247,
+      "extras": 7,
+      "balls": 484,
+      "batting": [
+        {
+          "player": "EM Moore",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "N Brand",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "R van Tonder",
+          "runs": 31,
+          "balls": 83,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.35,
+          "out": true
+        },
+        {
+          "player": "Zubayr Hamza",
+          "runs": 36,
+          "balls": 93,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 38.71,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 87,
+          "balls": 96,
+          "fours": 13,
+          "sixes": 3,
+          "strike_rate": 90.62,
+          "out": true
+        },
+        {
+          "player": "KD Petersen",
+          "runs": 16,
+          "balls": 63,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.4,
+          "out": true
+        },
+        {
+          "player": "R de Swardt",
+          "runs": 34,
+          "balls": 57,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 59.65,
+          "out": false
+        },
+        {
+          "player": "C Fortuin",
+          "runs": 11,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.89,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "TL Moreki",
+          "runs": 6,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.35,
+          "out": true
+        },
+        {
+          "player": "D Paterson",
+          "runs": 15,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 88.24,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 4.6
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "17.3",
+          "balls": 105,
+          "runs": 59,
+          "wickets": 4,
+          "economy": 3.37
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 60,
+          "wickets": 3,
+          "economy": 2.31
+        },
+        {
+          "player": "GD Phillips",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 3.44
+        },
+        {
+          "player": "R Ravindra",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 2.51
+        }
+      ]
+    }
+  ]
+}

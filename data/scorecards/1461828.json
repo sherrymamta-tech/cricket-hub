@@ -1,0 +1,552 @@
+{
+  "id": "1461828",
+  "teams": [
+    "Durham",
+    "Nottinghamshire"
+  ],
+  "date": "2025-04-04",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Trent Bridge, Nottingham",
+  "result": "Nottinghamshire won by 8 wickets",
+  "winner": "Nottinghamshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 378,
+      "extras": 40,
+      "balls": 611,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 52,
+          "balls": 70,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 74.29,
+          "out": true
+        },
+        {
+          "player": "BS McKinney",
+          "runs": 5,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 116,
+          "balls": 204,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 56.86,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 16,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "WMH Rhodes",
+          "runs": 10,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 45,
+          "balls": 75,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "GS Drissell",
+          "runs": 45,
+          "balls": 70,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 27,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "P Coughlin",
+          "runs": 11,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.48,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 11,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.38,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DY Pennington",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 73,
+          "wickets": 1,
+          "economy": 3.17
+        },
+        {
+          "player": "F O'Neill",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 87,
+          "wickets": 5,
+          "economy": 3.73
+        },
+        {
+          "player": "JC Tongue",
+          "overs": "19.4",
+          "balls": 118,
+          "runs": 96,
+          "wickets": 2,
+          "economy": 4.88
+        },
+        {
+          "player": "LW James",
+          "overs": "17.4",
+          "balls": 106,
+          "runs": 69,
+          "wickets": 0,
+          "economy": 3.91
+        },
+        {
+          "player": "Farhan Ahmed",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 53,
+          "wickets": 2,
+          "economy": 2.92
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Nottinghamshire",
+      "runs": 579,
+      "extras": 27,
+      "balls": 940,
+      "batting": [
+        {
+          "player": "H Hameed",
+          "runs": 27,
+          "balls": 64,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 42.19,
+          "out": true
+        },
+        {
+          "player": "BT Slater",
+          "runs": 92,
+          "balls": 147,
+          "fours": 19,
+          "sixes": 0,
+          "strike_rate": 62.59,
+          "out": true
+        },
+        {
+          "player": "FW McCann",
+          "runs": 79,
+          "balls": 158,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 37,
+          "balls": 52,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 71.15,
+          "out": true
+        },
+        {
+          "player": "JA Haynes",
+          "runs": 30,
+          "balls": 55,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "M Montgomery",
+          "runs": 75,
+          "balls": 146,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 51.37,
+          "out": true
+        },
+        {
+          "player": "Farhan Ahmed",
+          "runs": 17,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.52,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 125,
+          "balls": 161,
+          "fours": 16,
+          "sixes": 1,
+          "strike_rate": 77.64,
+          "out": true
+        },
+        {
+          "player": "F O'Neill",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JC Tongue",
+          "runs": 55,
+          "balls": 97,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 56.7,
+          "out": true
+        },
+        {
+          "player": "DY Pennington",
+          "runs": 15,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.69,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "33.0",
+          "balls": 198,
+          "runs": 102,
+          "wickets": 1,
+          "economy": 3.09
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "35.0",
+          "balls": 210,
+          "runs": 116,
+          "wickets": 4,
+          "economy": 3.31
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "30.1",
+          "balls": 181,
+          "runs": 122,
+          "wickets": 2,
+          "economy": 4.04
+        },
+        {
+          "player": "GS Drissell",
+          "overs": "36.0",
+          "balls": 216,
+          "runs": 114,
+          "wickets": 0,
+          "economy": 3.17
+        },
+        {
+          "player": "WMH Rhodes",
+          "overs": "15.4",
+          "balls": 94,
+          "runs": 99,
+          "wickets": 2,
+          "economy": 6.32
+        },
+        {
+          "player": "CN Ackermann",
+          "overs": "6.5",
+          "balls": 41,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 3.8
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Durham",
+      "runs": 289,
+      "extras": 30,
+      "balls": 517,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 17,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 73.91,
+          "out": true
+        },
+        {
+          "player": "BS McKinney",
+          "runs": 37,
+          "balls": 74,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 124,
+          "balls": 223,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 55.61,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 7,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 29.17,
+          "out": true
+        },
+        {
+          "player": "WMH Rhodes",
+          "runs": 2,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.53,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 62,
+          "balls": 123,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 50.41,
+          "out": true
+        },
+        {
+          "player": "GS Drissell",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "P Coughlin",
+          "runs": 7,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DY Pennington",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 3.5
+        },
+        {
+          "player": "F O'Neill",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 39,
+          "wickets": 3,
+          "economy": 2.66
+        },
+        {
+          "player": "LW James",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 3.45
+        },
+        {
+          "player": "JC Tongue",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 76,
+          "wickets": 5,
+          "economy": 3.59
+        },
+        {
+          "player": "Farhan Ahmed",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 65,
+          "wickets": 0,
+          "economy": 3.42
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Nottinghamshire",
+      "runs": 89,
+      "extras": 0,
+      "balls": 103,
+      "batting": [
+        {
+          "player": "H Hameed",
+          "runs": 39,
+          "balls": 57,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 68.42,
+          "out": false
+        },
+        {
+          "player": "BT Slater",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "FW McCann",
+          "runs": 15,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 35,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 175.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 1.67
+        },
+        {
+          "player": "GS Drissell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 8.31
+        }
+      ]
+    }
+  ]
+}

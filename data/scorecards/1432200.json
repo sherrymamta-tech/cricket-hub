@@ -1,0 +1,294 @@
+{
+  "id": "1432200",
+  "teams": [
+    "France",
+    "Belgium"
+  ],
+  "date": "2024-05-12",
+  "format": "T20",
+  "competition": "Mdina Cup",
+  "venue": "Dreux Sport Cricket Club",
+  "result": "Belgium won by 15 runs",
+  "winner": "Belgium",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "France",
+      "runs": 139,
+      "extras": 7,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "H Niaz",
+          "runs": 9,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Zain Ahmad",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "G Mckeon",
+          "runs": 10,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "C Roberts",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "L Canessane",
+          "runs": 8,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "Usman Khan",
+          "runs": 15,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "Kamran Ahmadzai",
+          "runs": 56,
+          "balls": 33,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 169.7,
+          "out": true
+        },
+        {
+          "player": "Noman Amjad",
+          "runs": 7,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "Zaheer Zahiri",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "Ikbal Hossain",
+          "runs": 5,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": false
+        },
+        {
+          "player": "Dawood Ahmadzai",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "F Khaliq",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "player": "Adnan Razzaq",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.48
+        },
+        {
+          "player": "Khalid Ahmadi",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 26,
+          "wickets": 3,
+          "economy": 6.0
+        },
+        {
+          "player": "Zaki Ul Hassan",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 10.67
+        },
+        {
+          "player": "D Dewald",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.75
+        },
+        {
+          "player": "Sheraz Sheikh",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 9.43
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Belgium",
+      "runs": 112,
+      "extras": 11,
+      "balls": 93,
+      "batting": [
+        {
+          "player": "Muhammad Muneeb",
+          "runs": 48,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 109.09,
+          "out": true
+        },
+        {
+          "player": "A Raza",
+          "runs": 17,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 113.33,
+          "out": true
+        },
+        {
+          "player": "F Khaliq",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "B Niaz",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "Shaheryar Butt",
+          "runs": 25,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 119.05,
+          "out": false
+        },
+        {
+          "player": "Sheraz Sheikh",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Ikbal Hossain",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 7.85
+        },
+        {
+          "player": "Zaheer Zahiri",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 10.71
+        },
+        {
+          "player": "Noman Amjad",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 7.38
+        },
+        {
+          "player": "G Mckeon",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 6.43
+        },
+        {
+          "player": "Dawood Ahmadzai",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "player": "Usman Khan",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 8.31
+        },
+        {
+          "player": "Kamran Ahmadzai",
+          "overs": "0.2",
+          "balls": 2,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

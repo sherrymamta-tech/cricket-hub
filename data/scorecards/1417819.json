@@ -1,0 +1,183 @@
+{
+  "id": "1417819",
+  "teams": [
+    "Welsh Fire",
+    "Southern Brave"
+  ],
+  "date": "2024-08-14",
+  "format": "T20",
+  "competition": "The Hundred Men's Competition",
+  "venue": "The Rose Bowl, Southampton",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Welsh Fire",
+      "runs": 181,
+      "extras": 3,
+      "balls": 102,
+      "batting": [
+        {
+          "player": "SS Eskinazi",
+          "runs": 28,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 17,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 154.55,
+          "out": true
+        },
+        {
+          "player": "LWP Wells",
+          "runs": 53,
+          "balls": 31,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 170.97,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 23,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 191.67,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 48,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 5,
+          "strike_rate": 240.0,
+          "out": true
+        },
+        {
+          "player": "RA Whiteley",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 7,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 175.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AJ Hosein",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 6.6
+        },
+        {
+          "player": "JC Archer",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 13.2
+        },
+        {
+          "player": "TS Mills",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 10.86
+        },
+        {
+          "player": "DR Briggs",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 11.1
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 11.43
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Southern Brave",
+      "runs": 21,
+      "extras": 1,
+      "balls": 17,
+      "batting": [
+        {
+          "player": "AL Davies",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JL du Plooy",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": false
+        },
+        {
+          "player": "JM Vince",
+          "runs": 19,
+          "balls": 9,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 211.11,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Willey",
+          "overs": "1.5",
+          "balls": 11,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 10.91
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 1,
+          "economy": 1.0
+        }
+      ]
+    }
+  ]
+}

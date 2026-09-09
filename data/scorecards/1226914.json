@@ -1,0 +1,222 @@
+{
+  "id": "1226914",
+  "teams": [
+    "Melbourne Renegades",
+    "Perth Scorchers"
+  ],
+  "date": "2020-10-31",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Drummoyne Oval",
+  "result": "Perth Scorchers won by 18 runs",
+  "winner": "Perth Scorchers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Melbourne Renegades",
+      "runs": 105,
+      "extras": 9,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "L Lee",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "S Molineux",
+          "runs": 29,
+          "balls": 43,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 67.44,
+          "out": true
+        },
+        {
+          "player": "EG Fazackerley",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AE Satterthwaite",
+          "runs": 6,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "C Webb",
+          "runs": 33,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "G Wareham",
+          "runs": 22,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 157.14,
+          "out": false
+        },
+        {
+          "player": "M Brown",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "NE Bolton",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 13,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "SFM Devine",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "P Cleary",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 6.46
+        },
+        {
+          "player": "T Peschel",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "S Glenn",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.56
+        },
+        {
+          "player": "H Graham",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 7.33
+        },
+        {
+          "player": "JL Barsby",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 7.58
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Perth Scorchers",
+      "runs": 62,
+      "extras": 8,
+      "balls": 66,
+      "batting": [
+        {
+          "player": "SFM Devine",
+          "runs": 31,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "BL Mooney",
+          "runs": 23,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 65.71,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CB Neale",
+          "overs": "1.4",
+          "balls": 10,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 7.2
+        },
+        {
+          "player": "S Molineux",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "M Brown",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 2.4
+        },
+        {
+          "player": "M Strano",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "G Wareham",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "C Leeson",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

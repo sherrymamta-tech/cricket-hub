@@ -1,0 +1,455 @@
+{
+  "id": "1347222",
+  "teams": [
+    "Hampshire",
+    "Warwickshire"
+  ],
+  "date": "2023-05-04",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "The Rose Bowl, Southampton",
+  "result": "Warwickshire won by 84 runs",
+  "winner": "Warwickshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Hampshire",
+      "runs": 229,
+      "extras": 12,
+      "balls": 395,
+      "batting": [
+        {
+          "player": "FS Organ",
+          "runs": 1,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": true
+        },
+        {
+          "player": "FS Middleton",
+          "runs": 49,
+          "balls": 99,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 49.49,
+          "out": true
+        },
+        {
+          "player": "NRT Gubbins",
+          "runs": 32,
+          "balls": 56,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 75,
+          "balls": 92,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 81.52,
+          "out": false
+        },
+        {
+          "player": "TJ Prest",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "BC Brown",
+          "runs": 4,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "LA Dawson",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "IG Holland",
+          "runs": 10,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.04,
+          "out": true
+        },
+        {
+          "player": "JK Fuller",
+          "runs": 27,
+          "balls": 33,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "KJ Abbott",
+          "runs": 18,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CR Woakes",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 47,
+          "wickets": 3,
+          "economy": 3.36
+        },
+        {
+          "player": "C Rushworth",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 40,
+          "wickets": 3,
+          "economy": 3.08
+        },
+        {
+          "player": "OJ Hannon-Dalby",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 3.44
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "12.5",
+          "balls": 77,
+          "runs": 43,
+          "wickets": 2,
+          "economy": 3.35
+        },
+        {
+          "player": "DR Briggs",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 4.4
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Warwickshire",
+      "runs": 410,
+      "extras": 21,
+      "balls": 740,
+      "batting": [
+        {
+          "player": "RM Yates",
+          "runs": 26,
+          "balls": 108,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 24.07,
+          "out": true
+        },
+        {
+          "player": "AL Davies",
+          "runs": 51,
+          "balls": 92,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 55.43,
+          "out": true
+        },
+        {
+          "player": "WMH Rhodes",
+          "runs": 7,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.43,
+          "out": true
+        },
+        {
+          "player": "SR Hain",
+          "runs": 85,
+          "balls": 176,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 48.3,
+          "out": true
+        },
+        {
+          "player": "DR Mousley",
+          "runs": 23,
+          "balls": 58,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.66,
+          "out": true
+        },
+        {
+          "player": "EG Barnard",
+          "runs": 95,
+          "balls": 149,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 63.76,
+          "out": true
+        },
+        {
+          "player": "MGK Burgess",
+          "runs": 88,
+          "balls": 119,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 73.95,
+          "out": true
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "DR Briggs",
+          "runs": 13,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 144.44,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Abbas",
+          "overs": "29.3",
+          "balls": 177,
+          "runs": 57,
+          "wickets": 4,
+          "economy": 1.93
+        },
+        {
+          "player": "KJ Abbott",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 81,
+          "wickets": 2,
+          "economy": 3.22
+        },
+        {
+          "player": "JK Fuller",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 91,
+          "wickets": 0,
+          "economy": 5.57
+        },
+        {
+          "player": "IG Holland",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 73,
+          "wickets": 2,
+          "economy": 3.04
+        },
+        {
+          "player": "LA Dawson",
+          "overs": "26.2",
+          "balls": 158,
+          "runs": 104,
+          "wickets": 0,
+          "economy": 3.95
+        },
+        {
+          "player": "FS Organ",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Hampshire",
+      "runs": 97,
+      "extras": 4,
+      "balls": 211,
+      "batting": [
+        {
+          "player": "FS Organ",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NRT Gubbins",
+          "runs": 21,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 72.41,
+          "out": true
+        },
+        {
+          "player": "FS Middleton",
+          "runs": 5,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 52,
+          "balls": 84,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 61.9,
+          "out": false
+        },
+        {
+          "player": "TJ Prest",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "BC Brown",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LA Dawson",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "IG Holland",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JK Fuller",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "KJ Abbott",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 9,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 18.75,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 38,
+          "wickets": 7,
+          "economy": 2.89
+        },
+        {
+          "player": "CR Woakes",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 2.06
+        },
+        {
+          "player": "OJ Hannon-Dalby",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "DR Briggs",
+          "overs": "1.5",
+          "balls": 11,
+          "runs": 0,
+          "wickets": 1,
+          "economy": 0.0
+        }
+      ]
+    }
+  ]
+}

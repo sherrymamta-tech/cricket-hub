@@ -1,0 +1,102 @@
+{
+  "id": "1323597",
+  "teams": [
+    "Adelaide Strikers",
+    "Sydney Thunder"
+  ],
+  "date": "2022-11-13",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Nuriootpa Centennial Park",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Adelaide Strikers",
+      "runs": 92,
+      "extras": 5,
+      "balls": 91,
+      "batting": [
+        {
+          "player": "KM Mack",
+          "runs": 29,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 93.55,
+          "out": true
+        },
+        {
+          "player": "DJS Dottin",
+          "runs": 24,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "L Wolvaardt",
+          "runs": 20,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 95.24,
+          "out": true
+        },
+        {
+          "player": "TM McGrath",
+          "runs": 14,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SJ Johnson",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 5.7
+        },
+        {
+          "player": "SL Bates",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 4.4
+        },
+        {
+          "player": "HJ Darlington",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "LG Smith",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 8.33
+        },
+        {
+          "player": "CL Tryon",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 5.54
+        }
+      ]
+    }
+  ]
+}

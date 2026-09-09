@@ -1,0 +1,552 @@
+{
+  "id": "661683",
+  "teams": [
+    "New Zealand",
+    "West Indies"
+  ],
+  "date": "2013-12-19",
+  "format": "Test",
+  "competition": "West Indies in New Zealand Test Series",
+  "venue": "Seddon Park",
+  "result": "New Zealand won by 8 wickets",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "runs": 367,
+      "extras": 9,
+      "balls": 699,
+      "batting": [
+        {
+          "player": "KC Brathwaite",
+          "runs": 45,
+          "balls": 105,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "KOA Powell",
+          "runs": 26,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": true
+        },
+        {
+          "player": "KA Edwards",
+          "runs": 6,
+          "balls": 42,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 122,
+          "balls": 230,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 53.04,
+          "out": false
+        },
+        {
+          "player": "N Deonarine",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "D Ramdin",
+          "runs": 107,
+          "balls": 148,
+          "fours": 18,
+          "sixes": 0,
+          "strike_rate": 72.3,
+          "out": true
+        },
+        {
+          "player": "DJG Sammy",
+          "runs": 3,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.71,
+          "out": true
+        },
+        {
+          "player": "SP Narine",
+          "runs": 2,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.33,
+          "out": true
+        },
+        {
+          "player": "V Permaul",
+          "runs": 20,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "TL Best",
+          "runs": 25,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.82,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 88,
+          "wickets": 1,
+          "economy": 3.36
+        },
+        {
+          "player": "TG Southee",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 81,
+          "wickets": 4,
+          "economy": 2.89
+        },
+        {
+          "player": "N Wagner",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 3.19
+        },
+        {
+          "player": "CJ Anderson",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 47,
+          "wickets": 3,
+          "economy": 2.47
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 3.4
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 3.87
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 349,
+      "extras": 18,
+      "balls": 709,
+      "batting": [
+        {
+          "player": "PG Fulton",
+          "runs": 11,
+          "balls": 71,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.49,
+          "out": true
+        },
+        {
+          "player": "HD Rutherford",
+          "runs": 10,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 58,
+          "balls": 148,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 39.19,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 131,
+          "balls": 264,
+          "fours": 16,
+          "sixes": 2,
+          "strike_rate": 49.62,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 12,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 39,
+          "balls": 62,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 62.9,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 20,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.05,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 18,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 22,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 91.67,
+          "out": true
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 9,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 1,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TL Best",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 4.87
+        },
+        {
+          "player": "DJG Sammy",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 73,
+          "wickets": 2,
+          "economy": 3.13
+        },
+        {
+          "player": "V Permaul",
+          "overs": "35.0",
+          "balls": 210,
+          "runs": 103,
+          "wickets": 1,
+          "economy": 2.94
+        },
+        {
+          "player": "SP Narine",
+          "overs": "42.4",
+          "balls": 256,
+          "runs": 95,
+          "wickets": 6,
+          "economy": 2.23
+        },
+        {
+          "player": "N Deonarine",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "West Indies",
+      "runs": 103,
+      "extras": 12,
+      "balls": 191,
+      "batting": [
+        {
+          "player": "KC Brathwaite",
+          "runs": 7,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "KA Edwards",
+          "runs": 1,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.88,
+          "out": true
+        },
+        {
+          "player": "KOA Powell",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 8,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.05,
+          "out": true
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 20,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "N Deonarine",
+          "runs": 13,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "D Ramdin",
+          "runs": 18,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "DJG Sammy",
+          "runs": 24,
+          "balls": 17,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 141.18,
+          "out": true
+        },
+        {
+          "player": "SP Narine",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "V Permaul",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TL Best",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 27,
+          "wickets": 4,
+          "economy": 2.7
+        },
+        {
+          "player": "TG Southee",
+          "overs": "8.5",
+          "balls": 53,
+          "runs": 16,
+          "wickets": 3,
+          "economy": 1.81
+        },
+        {
+          "player": "CJ Anderson",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 4.33
+        },
+        {
+          "player": "N Wagner",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 4.86
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "New Zealand",
+      "runs": 124,
+      "extras": 8,
+      "balls": 245,
+      "batting": [
+        {
+          "player": "PG Fulton",
+          "runs": 10,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 27.03,
+          "out": true
+        },
+        {
+          "player": "HD Rutherford",
+          "runs": 48,
+          "balls": 117,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 41.03,
+          "out": false
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 56,
+          "balls": 83,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 67.47,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TL Best",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 3.86
+        },
+        {
+          "player": "SP Narine",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 2.5
+        },
+        {
+          "player": "DJG Sammy",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 2.29
+        },
+        {
+          "player": "V Permaul",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 4.29
+        },
+        {
+          "player": "N Deonarine",
+          "overs": "1.4",
+          "balls": 10,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 3.6
+        }
+      ]
+    }
+  ]
+}

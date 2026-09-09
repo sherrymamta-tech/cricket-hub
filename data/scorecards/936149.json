@@ -1,0 +1,589 @@
+{
+  "id": "936149",
+  "teams": [
+    "South Africa",
+    "Sri Lanka"
+  ],
+  "date": "2017-01-02",
+  "format": "Test",
+  "competition": "Sri Lanka in South Africa Test Series",
+  "venue": "Newlands",
+  "result": "South Africa won by 282 runs",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 392,
+      "extras": 9,
+      "balls": 702,
+      "batting": [
+        {
+          "player": "SC Cook",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 29,
+          "balls": 68,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 42.65,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 129,
+          "balls": 233,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 55.36,
+          "out": true
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 38,
+          "balls": 95,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 10,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 101,
+          "balls": 125,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 80.8,
+          "out": true
+        },
+        {
+          "player": "KJ Abbott",
+          "runs": 16,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "VD Philander",
+          "runs": 20,
+          "balls": 64,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.25,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 32,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 91.43,
+          "out": false
+        },
+        {
+          "player": "K Rabada",
+          "runs": 8,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RAS Lakmal",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 94,
+          "wickets": 2,
+          "economy": 3.48
+        },
+        {
+          "player": "N Pradeep",
+          "overs": "15.4",
+          "balls": 94,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 2.94
+        },
+        {
+          "player": "AD Mathews",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 2.45
+        },
+        {
+          "player": "CBRLS Kumara",
+          "overs": "25.5",
+          "balls": 155,
+          "runs": 123,
+          "wickets": 6,
+          "economy": 4.76
+        },
+        {
+          "player": "HMRKB Herath",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 57,
+          "wickets": 2,
+          "economy": 2.44
+        },
+        {
+          "player": "DM de Silva",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 3.75
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sri Lanka",
+      "runs": 110,
+      "extras": 11,
+      "balls": 260,
+      "batting": [
+        {
+          "player": "FDM Karunaratne",
+          "runs": 24,
+          "balls": 77,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 31.17,
+          "out": true
+        },
+        {
+          "player": "JK Silva",
+          "runs": 11,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.21,
+          "out": true
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 11,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 36.67,
+          "out": true
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 16,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 2,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.76,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 4,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "HMRKB Herath",
+          "runs": 1,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.14,
+          "out": true
+        },
+        {
+          "player": "WU Tharanga",
+          "runs": 26,
+          "balls": 40,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 65.0,
+          "out": false
+        },
+        {
+          "player": "RAS Lakmal",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CBRLS Kumara",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "N Pradeep",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "VD Philander",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 29,
+          "wickets": 4,
+          "economy": 2.38
+        },
+        {
+          "player": "KJ Abbott",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 1.38
+        },
+        {
+          "player": "K Rabada",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 37,
+          "wickets": 4,
+          "economy": 3.04
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "South Africa",
+      "runs": 224,
+      "extras": 4,
+      "balls": 313,
+      "batting": [
+        {
+          "player": "SC Cook",
+          "runs": 30,
+          "balls": 50,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 55,
+          "balls": 92,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 59.78,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 30,
+          "balls": 52,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 57.69,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 41,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 83.67,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 29,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 120.83,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 20,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 105.26,
+          "out": false
+        },
+        {
+          "player": "VD Philander",
+          "runs": 15,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RAS Lakmal",
+          "overs": "19.5",
+          "balls": 119,
+          "runs": 69,
+          "wickets": 4,
+          "economy": 3.48
+        },
+        {
+          "player": "N Pradeep",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 4.12
+        },
+        {
+          "player": "CBRLS Kumara",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 62,
+          "wickets": 1,
+          "economy": 5.1
+        },
+        {
+          "player": "DM de Silva",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "HMRKB Herath",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 5.33
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Sri Lanka",
+      "runs": 224,
+      "extras": 13,
+      "balls": 374,
+      "batting": [
+        {
+          "player": "FDM Karunaratne",
+          "runs": 6,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.58,
+          "out": true
+        },
+        {
+          "player": "JK Silva",
+          "runs": 29,
+          "balls": 70,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.43,
+          "out": true
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 4,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 22,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 52.38,
+          "out": true
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 49,
+          "balls": 82,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 59.76,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 30,
+          "balls": 55,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "WU Tharanga",
+          "runs": 12,
+          "balls": 7,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 171.43,
+          "out": true
+        },
+        {
+          "player": "HMRKB Herath",
+          "runs": 35,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": false
+        },
+        {
+          "player": "RAS Lakmal",
+          "runs": 10,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "CBRLS Kumara",
+          "runs": 9,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "N Pradeep",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KJ Abbott",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 3.07
+        },
+        {
+          "player": "VD Philander",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 48,
+          "wickets": 3,
+          "economy": 3.39
+        },
+        {
+          "player": "K Rabada",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 66,
+          "wickets": 6,
+          "economy": 3.84
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

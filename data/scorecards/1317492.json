@@ -1,0 +1,538 @@
+{
+  "id": "1317492",
+  "teams": [
+    "South Africa",
+    "Australia"
+  ],
+  "date": "2022-12-17",
+  "format": "Test",
+  "competition": "South Africa tour of Australia",
+  "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+  "result": "Australia won by 6 wickets",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 152,
+      "extras": 15,
+      "balls": 291,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "SJ Erwee",
+          "runs": 10,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 27.03,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 38,
+          "balls": 71,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 53.52,
+          "out": true
+        },
+        {
+          "player": "K Zondo",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "K Verreynne",
+          "runs": 64,
+          "balls": 96,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "M Jansen",
+          "runs": 2,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.53,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 10,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": false
+        },
+        {
+          "player": "A Nortje",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "L Ngidi",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 42,
+          "wickets": 3,
+          "economy": 3.0
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "12.2",
+          "balls": 74,
+          "runs": 43,
+          "wickets": 2,
+          "economy": 3.49
+        },
+        {
+          "player": "SM Boland",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 2.51
+        },
+        {
+          "player": "C Green",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 18,
+          "wickets": 3,
+          "economy": 2.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 218,
+      "extras": 13,
+      "balls": 306,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 11,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.83,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 11,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 36,
+          "balls": 68,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 92,
+          "balls": 97,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 94.85,
+          "out": true
+        },
+        {
+          "player": "SM Boland",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "C Green",
+          "runs": 18,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 94.74,
+          "out": true
+        },
+        {
+          "player": "AT Carey",
+          "runs": 22,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": false
+        },
+        {
+          "player": "MA Starc",
+          "runs": 14,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "17.4",
+          "balls": 106,
+          "runs": 76,
+          "wickets": 4,
+          "economy": 4.3
+        },
+        {
+          "player": "L Ngidi",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 3.89
+        },
+        {
+          "player": "M Jansen",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 33,
+          "wickets": 3,
+          "economy": 3.6
+        },
+        {
+          "player": "A Nortje",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 57,
+          "wickets": 2,
+          "economy": 4.33
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "South Africa",
+      "runs": 99,
+      "extras": 1,
+      "balls": 227,
+      "batting": [
+        {
+          "player": "SJ Erwee",
+          "runs": 3,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.04,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 29,
+          "balls": 61,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 47.54,
+          "out": true
+        },
+        {
+          "player": "K Zondo",
+          "runs": 36,
+          "balls": 85,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 42.35,
+          "out": false
+        },
+        {
+          "player": "K Verreynne",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Jansen",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 16,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "A Nortje",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "L Ngidi",
+          "runs": 9,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 2.36
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "12.5",
+          "balls": 77,
+          "runs": 42,
+          "wickets": 5,
+          "economy": 3.27
+        },
+        {
+          "player": "SM Boland",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 14,
+          "wickets": 2,
+          "economy": 1.75
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 2.83
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Australia",
+      "runs": 35,
+      "extras": 19,
+      "balls": 50,
+      "batting": [
+        {
+          "player": "UT Khawaja",
+          "runs": 2,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 5,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": false
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Green",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 13,
+          "wickets": 4,
+          "economy": 3.12
+        },
+        {
+          "player": "A Nortje",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 5.28
+        }
+      ]
+    }
+  ]
+}

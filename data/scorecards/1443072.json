@@ -1,0 +1,261 @@
+{
+  "id": "1443072",
+  "teams": [
+    "Sydney Thunder",
+    "Melbourne Renegades"
+  ],
+  "date": "2024-12-30",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Sydney Showground Stadium",
+  "result": "Sydney Thunder won by 8 runs",
+  "winner": "Sydney Thunder",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Thunder",
+      "runs": 156,
+      "extras": 8,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 8,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 86,
+          "balls": 58,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 148.28,
+          "out": false
+        },
+        {
+          "player": "SE Rutherford",
+          "runs": 11,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true
+        },
+        {
+          "player": "O Davies",
+          "runs": 10,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 10,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "M Gilkes",
+          "runs": 23,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 109.52,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "F O'Neill",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 8.31
+        },
+        {
+          "player": "TS Rogers",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "player": "KW Richardson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 5.76
+        },
+        {
+          "player": "W Sutherland",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 7.68
+        },
+        {
+          "player": "A Zampa",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Renegades",
+      "runs": 148,
+      "extras": 12,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "J Brown",
+          "runs": 22,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 115.79,
+          "out": true
+        },
+        {
+          "player": "J Fraser-McGurk",
+          "runs": 26,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 92.86,
+          "out": true
+        },
+        {
+          "player": "TL Seifert",
+          "runs": 9,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "JG Bethell",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "LJ Evans",
+          "runs": 40,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 4,
+          "strike_rate": 137.93,
+          "out": true
+        },
+        {
+          "player": "MW Harvey",
+          "runs": 9,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "W Sutherland",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "F O'Neill",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "TS Rogers",
+          "runs": 23,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 135.29,
+          "out": false
+        },
+        {
+          "player": "A Zampa",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LH Ferguson",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 6.89
+        },
+        {
+          "player": "WA Agar",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 32,
+          "wickets": 4,
+          "economy": 7.38
+        },
+        {
+          "player": "TD Andrews",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 8.5
+        },
+        {
+          "player": "DR Sams",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.48
+        },
+        {
+          "player": "CJ Green",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 5.76
+        }
+      ]
+    }
+  ]
+}

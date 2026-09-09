@@ -1,0 +1,87 @@
+{
+  "id": "1501506",
+  "teams": [
+    "Eswatini",
+    "Mozambique"
+  ],
+  "date": "2025-09-14",
+  "format": "T20",
+  "competition": "Mozambique tour of Eswatini",
+  "venue": "Malkerns Country Club oval",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Eswatini",
+      "runs": 27,
+      "extras": 7,
+      "balls": 34,
+      "batting": [
+        {
+          "player": "Adil Butt",
+          "runs": 10,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "Eric Phiri",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Kamrul Hasan",
+          "runs": 10,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "H Rashid",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "M Khojbariya",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AA Navicha",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 4.74
+        },
+        {
+          "player": "MA Algi",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 4.8
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "id": "1212542",
+  "teams": [
+    "Zimbabwe",
+    "Sri Lanka"
+  ],
+  "date": "2020-01-27",
+  "format": "Test",
+  "competition": "Sri Lanka tour of Zimbabwe",
+  "venue": "Harare Sports Club",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Zimbabwe",
+      "runs": 406,
+      "extras": 12,
+      "balls": 694,
+      "batting": [
+        {
+          "player": "PS Masvaure",
+          "runs": 9,
+          "balls": 44,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.45,
+          "out": true
+        },
+        {
+          "player": "KT Kasuza",
+          "runs": 38,
+          "balls": 97,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 39.18,
+          "out": true
+        },
+        {
+          "player": "CR Ervine",
+          "runs": 12,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 109.09,
+          "out": true
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 62,
+          "balls": 62,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SC Williams",
+          "runs": 107,
+          "balls": 137,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 78.1,
+          "out": true
+        },
+        {
+          "player": "Sikandar Raza",
+          "runs": 72,
+          "balls": 99,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 31,
+          "balls": 69,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 44.93,
+          "out": true
+        },
+        {
+          "player": "CT Mutombodzi",
+          "runs": 33,
+          "balls": 99,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "DT Tiripano",
+          "runs": 13,
+          "balls": 47,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.66,
+          "out": true
+        },
+        {
+          "player": "CT Mumba",
+          "runs": 11,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.89,
+          "out": false
+        },
+        {
+          "player": "VM Nyauchi",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RAS Lakmal",
+          "overs": "22.1",
+          "balls": 133,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 1.71
+        },
+        {
+          "player": "MVT Fernando",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 54,
+          "wickets": 0,
+          "economy": 3.86
+        },
+        {
+          "player": "CBRLS Kumara",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 61,
+          "wickets": 1,
+          "economy": 3.05
+        },
+        {
+          "player": "L Embuldeniya",
+          "overs": "42.3",
+          "balls": 255,
+          "runs": 182,
+          "wickets": 4,
+          "economy": 4.28
+        },
+        {
+          "player": "DM de Silva",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 71,
+          "wickets": 3,
+          "economy": 4.18
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sri Lanka",
+      "runs": 293,
+      "extras": 19,
+      "balls": 718,
+      "batting": [
+        {
+          "player": "FDM Karunaratne",
+          "runs": 44,
+          "balls": 120,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.67,
+          "out": true
+        },
+        {
+          "player": "BOP Fernando",
+          "runs": 44,
+          "balls": 119,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 36.97,
+          "out": true
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 22,
+          "balls": 73,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 30.14,
+          "out": true
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 64,
+          "balls": 158,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 40.51,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 6,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 42,
+          "balls": 64,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 65.62,
+          "out": true
+        },
+        {
+          "player": "N Dickwella",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "RAS Lakmal",
+          "runs": 5,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.52,
+          "out": true
+        },
+        {
+          "player": "L Embuldeniya",
+          "runs": 5,
+          "balls": 39,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.82,
+          "out": true
+        },
+        {
+          "player": "MVT Fernando",
+          "runs": 38,
+          "balls": 81,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 46.91,
+          "out": true
+        },
+        {
+          "player": "CBRLS Kumara",
+          "runs": 3,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.64,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CT Mumba",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 2.67
+        },
+        {
+          "player": "Sikandar Raza",
+          "overs": "42.5",
+          "balls": 257,
+          "runs": 116,
+          "wickets": 7,
+          "economy": 2.71
+        },
+        {
+          "player": "DT Tiripano",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 1.62
+        },
+        {
+          "player": "VM Nyauchi",
+          "overs": "22.5",
+          "balls": 137,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 1.75
+        },
+        {
+          "player": "CT Mutombodzi",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 50,
+          "wickets": 0,
+          "economy": 4.17
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Zimbabwe",
+      "runs": 247,
+      "extras": 21,
+      "balls": 452,
+      "batting": [
+        {
+          "player": "PS Masvaure",
+          "runs": 35,
+          "balls": 105,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "CR Ervine",
+          "runs": 13,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.23,
+          "out": true
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 15,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 67,
+          "balls": 76,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 88.16,
+          "out": true
+        },
+        {
+          "player": "T Maruma",
+          "runs": 0,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Sikandar Raza",
+          "runs": 34,
+          "balls": 74,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 45.95,
+          "out": true
+        },
+        {
+          "player": "SC Williams",
+          "runs": 53,
+          "balls": 77,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 68.83,
+          "out": false
+        },
+        {
+          "player": "CT Mutombodzi",
+          "runs": 8,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "DT Tiripano",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RAS Lakmal",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 2.42
+        },
+        {
+          "player": "DM de Silva",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 4.57
+        },
+        {
+          "player": "MVT Fernando",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 2.35
+        },
+        {
+          "player": "CBRLS Kumara",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 4.23
+        },
+        {
+          "player": "L Embuldeniya",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 81,
+          "wickets": 2,
+          "economy": 4.05
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Sri Lanka",
+      "runs": 204,
+      "extras": 3,
+      "balls": 523,
+      "batting": [
+        {
+          "player": "BOP Fernando",
+          "runs": 47,
+          "balls": 108,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 43.52,
+          "out": true
+        },
+        {
+          "player": "FDM Karunaratne",
+          "runs": 12,
+          "balls": 38,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 31.58,
+          "out": true
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 116,
+          "balls": 233,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 49.79,
+          "out": false
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 13,
+          "balls": 69,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 18.84,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 13,
+          "balls": 75,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 17.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Sikandar Raza",
+          "overs": "32.0",
+          "balls": 192,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 1.97
+        },
+        {
+          "player": "DT Tiripano",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 1.0
+        },
+        {
+          "player": "CT Mumba",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 3.25
+        },
+        {
+          "player": "SC Williams",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 3.03
+        },
+        {
+          "player": "VM Nyauchi",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 3.58
+        },
+        {
+          "player": "CT Mutombodzi",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 2.86
+        }
+      ]
+    }
+  ]
+}

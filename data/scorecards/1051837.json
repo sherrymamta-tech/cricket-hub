@@ -1,0 +1,314 @@
+{
+  "id": "1051837",
+  "teams": [
+    "Otago Volts",
+    "Wellington Firebirds"
+  ],
+  "date": "2016-11-22",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "University of Otago Oval",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Otago Volts",
+      "runs": 208,
+      "extras": 9,
+      "balls": 408,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 31,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 75.61,
+          "out": true
+        },
+        {
+          "player": "BS Wilson",
+          "runs": 33,
+          "balls": 61,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 54.1,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 43,
+          "balls": 101,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 42.57,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 24,
+          "balls": 74,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 32.43,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 11,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.93,
+          "out": true
+        },
+        {
+          "player": "JL Finnie",
+          "runs": 19,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 82.61,
+          "out": true
+        },
+        {
+          "player": "DC de Boorder",
+          "runs": 9,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.03,
+          "out": true
+        },
+        {
+          "player": "C Viljoen",
+          "runs": 28,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "MD Rae",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "JS Hunter",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RM Phillips",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HK Bennett",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 5.88
+        },
+        {
+          "player": "BJ Arnel",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 2.45
+        },
+        {
+          "player": "IG McPeake",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 3.93
+        },
+        {
+          "player": "JS Patel",
+          "overs": "26.4",
+          "balls": 160,
+          "runs": 57,
+          "wickets": 6,
+          "economy": 2.14
+        },
+        {
+          "player": "MB McEwan",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Wellington Firebirds",
+      "runs": 350,
+      "extras": 4,
+      "balls": 510,
+      "batting": [
+        {
+          "player": "MHW Papps",
+          "runs": 47,
+          "balls": 111,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 42.34,
+          "out": true
+        },
+        {
+          "player": "LJ Woodcock",
+          "runs": 19,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.5,
+          "out": true
+        },
+        {
+          "player": "SJ Murdoch",
+          "runs": 43,
+          "balls": 58,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 74.14,
+          "out": true
+        },
+        {
+          "player": "HJH Marshall",
+          "runs": 31,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 77.5,
+          "out": true
+        },
+        {
+          "player": "L Ronchi",
+          "runs": 119,
+          "balls": 109,
+          "fours": 13,
+          "sixes": 3,
+          "strike_rate": 109.17,
+          "out": false
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "MB McEwan",
+          "runs": 56,
+          "balls": 60,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 93.33,
+          "out": true
+        },
+        {
+          "player": "JS Patel",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "IG McPeake",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HK Bennett",
+          "runs": 21,
+          "balls": 68,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 30.88,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MD Rae",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 4.9
+        },
+        {
+          "player": "JS Hunter",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 2.2
+        },
+        {
+          "player": "C Viljoen",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 3.8
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 69,
+          "wickets": 2,
+          "economy": 4.81
+        },
+        {
+          "player": "RM Phillips",
+          "overs": "27.3",
+          "balls": 165,
+          "runs": 103,
+          "wickets": 2,
+          "economy": 3.75
+        },
+        {
+          "player": "JL Finnie",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 4.67
+        }
+      ]
+    }
+  ]
+}

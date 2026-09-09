@@ -1,0 +1,233 @@
+{
+  "id": "1339620",
+  "teams": [
+    "New Zealand",
+    "Pakistan"
+  ],
+  "date": "2023-04-29",
+  "format": "ODI",
+  "competition": "New Zealand tour of Pakistan",
+  "venue": "Rawalpindi Cricket Stadium",
+  "result": "Pakistan won by 7 wickets",
+  "winner": "Pakistan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 336,
+      "extras": 15,
+      "balls": 306,
+      "batting": [
+        {
+          "player": "WA Young",
+          "runs": 19,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 86.36,
+          "out": true
+        },
+        {
+          "player": "CJ Bowes",
+          "runs": 51,
+          "balls": 53,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 96.23,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 129,
+          "balls": 122,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 105.74,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 98,
+          "balls": 85,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 115.29,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 17,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 106.25,
+          "out": false
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 6,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Naseem Shah",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 5.02
+        },
+        {
+          "player": "Ihsanullah",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 7.47
+        },
+        {
+          "player": "Haris Rauf",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 81,
+          "wickets": 4,
+          "economy": 7.71
+        },
+        {
+          "player": "Mohammad Nawaz",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "Usama Mir",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 67,
+          "wickets": 0,
+          "economy": 6.59
+        },
+        {
+          "player": "Agha Salman",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 6.8
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 337,
+      "extras": 7,
+      "balls": 295,
+      "batting": [
+        {
+          "player": "Fakhar Zaman",
+          "runs": 180,
+          "balls": 146,
+          "fours": 17,
+          "sixes": 6,
+          "strike_rate": 123.29,
+          "out": false
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 24,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 92.31,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 65,
+          "balls": 67,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 97.01,
+          "out": true
+        },
+        {
+          "player": "Abdullah Shafique",
+          "runs": 7,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 54,
+          "balls": 42,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 6.32
+        },
+        {
+          "player": "HB Shipley",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 59,
+          "wickets": 1,
+          "economy": 5.8
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 64,
+          "wickets": 0,
+          "economy": 6.74
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 79,
+          "wickets": 1,
+          "economy": 7.9
+        },
+        {
+          "player": "R Ravindra",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 75,
+          "wickets": 0,
+          "economy": 7.5
+        }
+      ]
+    }
+  ]
+}

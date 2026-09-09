@@ -1,0 +1,78 @@
+{
+  "id": "1392672",
+  "teams": [
+    "Joburg Super Kings",
+    "Pretoria Capitals"
+  ],
+  "date": "2024-01-27",
+  "format": "T20",
+  "competition": "SA20",
+  "venue": "SuperSport Park, Centurion",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Joburg Super Kings",
+      "runs": 44,
+      "extras": 2,
+      "balls": 30,
+      "batting": [
+        {
+          "player": "RR Hendricks",
+          "runs": 11,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 25,
+          "balls": 13,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 192.31,
+          "out": false
+        },
+        {
+          "player": "JL du Plooy",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BS Makhanya",
+          "runs": 6,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 300.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "E Bosch",
+          "overs": "2.5",
+          "balls": 17,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 5.29
+        },
+        {
+          "player": "DM Dupavillon",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 13.38
+        }
+      ]
+    }
+  ]
+}

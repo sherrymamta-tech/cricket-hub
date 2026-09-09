@@ -1,0 +1,303 @@
+{
+  "id": "1127826",
+  "teams": [
+    "Essex",
+    "Kent"
+  ],
+  "date": "2018-06-06",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "County Ground, Chelmsford",
+  "result": "Essex won by 153 runs",
+  "winner": "Essex",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Essex",
+      "runs": 337,
+      "extras": 13,
+      "balls": 308,
+      "batting": [
+        {
+          "player": "V Chopra",
+          "runs": 13,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "AJA Wheater",
+          "runs": 25,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 96.15,
+          "out": true
+        },
+        {
+          "player": "T Westley",
+          "runs": 26,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.47,
+          "out": true
+        },
+        {
+          "player": "DW Lawrence",
+          "runs": 115,
+          "balls": 110,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 104.55,
+          "out": true
+        },
+        {
+          "player": "RS Bopara",
+          "runs": 125,
+          "balls": 89,
+          "fours": 11,
+          "sixes": 6,
+          "strike_rate": 140.45,
+          "out": true
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 8,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 160.0,
+          "out": true
+        },
+        {
+          "player": "Ashar Zaidi",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "MT Coles",
+          "runs": 7,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 233.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ME Claydon",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 75,
+          "wickets": 2,
+          "economy": 7.38
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 6.21
+        },
+        {
+          "player": "CJ Haggett",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 90,
+          "wickets": 2,
+          "economy": 8.44
+        },
+        {
+          "player": "DI Stevens",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 3.7
+        },
+        {
+          "player": "Imran Qayyum",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 6.14
+        },
+        {
+          "player": "JL Denly",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 8.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 184,
+      "extras": 8,
+      "balls": 231,
+      "batting": [
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 12,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "HG Kuhn",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 22,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 6,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 51,
+          "balls": 66,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 77.27,
+          "out": true
+        },
+        {
+          "player": "AJ Blake",
+          "runs": 41,
+          "balls": 42,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 97.62,
+          "out": true
+        },
+        {
+          "player": "DI Stevens",
+          "runs": 11,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.62,
+          "out": true
+        },
+        {
+          "player": "CJ Haggett",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 23,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 164.29,
+          "out": true
+        },
+        {
+          "player": "Imran Qayyum",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Porter",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 40,
+          "wickets": 4,
+          "economy": 4.44
+        },
+        {
+          "player": "SJ Cook",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "MT Coles",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 4.06
+        },
+        {
+          "player": "Ashar Zaidi",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 6.24
+        },
+        {
+          "player": "RS Bopara",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 6.28
+        },
+        {
+          "player": "RN ten Doeschate",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.75
+        }
+      ]
+    }
+  ]
+}

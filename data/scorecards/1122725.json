@@ -1,0 +1,534 @@
+{
+  "id": "1122725",
+  "teams": [
+    "India",
+    "Sri Lanka"
+  ],
+  "date": "2017-12-02",
+  "format": "Test",
+  "competition": "Sri Lanka tour of India",
+  "venue": "Arun Jaitley Stadium",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 536,
+      "extras": 8,
+      "balls": 774,
+      "batting": [
+        {
+          "player": "M Vijay",
+          "runs": 155,
+          "balls": 267,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 58.05,
+          "out": true
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 23,
+          "balls": 35,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 65.71,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 23,
+          "balls": 39,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 58.97,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 243,
+          "balls": 287,
+          "fours": 25,
+          "sixes": 0,
+          "strike_rate": 84.67,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 65,
+          "balls": 102,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 63.73,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 4,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "WP Saha",
+          "runs": 9,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.37,
+          "out": false
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RAS Lakmal",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 81,
+          "wickets": 0,
+          "economy": 3.8
+        },
+        {
+          "player": "PLS Gamage",
+          "overs": "25.3",
+          "balls": 153,
+          "runs": 95,
+          "wickets": 2,
+          "economy": 3.73
+        },
+        {
+          "player": "MDK Perera",
+          "overs": "31.1",
+          "balls": 187,
+          "runs": 145,
+          "wickets": 1,
+          "economy": 4.65
+        },
+        {
+          "player": "PADLR Sandakan",
+          "overs": "35.0",
+          "balls": 210,
+          "runs": 167,
+          "wickets": 4,
+          "economy": 4.77
+        },
+        {
+          "player": "DM de Silva",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sri Lanka",
+      "runs": 373,
+      "extras": 16,
+      "balls": 815,
+      "batting": [
+        {
+          "player": "FDM Karunaratne",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 1,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.14,
+          "out": true
+        },
+        {
+          "player": "MDK Perera",
+          "runs": 42,
+          "balls": 54,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 111,
+          "balls": 268,
+          "fours": 14,
+          "sixes": 2,
+          "strike_rate": 41.42,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 164,
+          "balls": 361,
+          "fours": 21,
+          "sixes": 1,
+          "strike_rate": 45.43,
+          "out": true
+        },
+        {
+          "player": "S Samarawickrama",
+          "runs": 33,
+          "balls": 61,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 54.1,
+          "out": true
+        },
+        {
+          "player": "ARS Silva",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "N Dickwella",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RAS Lakmal",
+          "runs": 5,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "PLS Gamage",
+          "runs": 1,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.25,
+          "out": true
+        },
+        {
+          "player": "PADLR Sandakan",
+          "runs": 0,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Shami",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 91,
+          "wickets": 2,
+          "economy": 3.48
+        },
+        {
+          "player": "I Sharma",
+          "overs": "29.3",
+          "balls": 177,
+          "runs": 101,
+          "wickets": 3,
+          "economy": 3.42
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "45.1",
+          "balls": 271,
+          "runs": 87,
+          "wickets": 2,
+          "economy": 1.93
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "35.0",
+          "balls": 210,
+          "runs": 94,
+          "wickets": 3,
+          "economy": 2.69
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "India",
+      "runs": 246,
+      "extras": 7,
+      "balls": 318,
+      "batting": [
+        {
+          "player": "M Vijay",
+          "runs": 9,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 67,
+          "balls": 91,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 73.63,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 10,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 27.03,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 49,
+          "balls": 66,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 74.24,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 50,
+          "balls": 58,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 86.21,
+          "out": true
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 50,
+          "balls": 50,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RAS Lakmal",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 61,
+          "wickets": 1,
+          "economy": 4.31
+        },
+        {
+          "player": "PLS Gamage",
+          "overs": "12.5",
+          "balls": 77,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 3.82
+        },
+        {
+          "player": "MDK Perera",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 4.91
+        },
+        {
+          "player": "DM de Silva",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 6.2
+        },
+        {
+          "player": "PADLR Sandakan",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 5.1
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Sri Lanka",
+      "runs": 299,
+      "extras": 7,
+      "balls": 619,
+      "batting": [
+        {
+          "player": "FDM Karunaratne",
+          "runs": 13,
+          "balls": 46,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.26,
+          "out": true
+        },
+        {
+          "player": "S Samarawickrama",
+          "runs": 5,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 119,
+          "balls": 219,
+          "fours": 15,
+          "sixes": 1,
+          "strike_rate": 54.34,
+          "out": true
+        },
+        {
+          "player": "RAS Lakmal",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 1,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.0,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 36,
+          "balls": 90,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "ARS Silva",
+          "runs": 74,
+          "balls": 154,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 48.05,
+          "out": false
+        },
+        {
+          "player": "N Dickwella",
+          "runs": 44,
+          "balls": 72,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "I Sharma",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 2.77
+        },
+        {
+          "player": "Mohammed Shami",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 3.33
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "35.0",
+          "balls": 210,
+          "runs": 128,
+          "wickets": 1,
+          "economy": 3.66
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "38.1",
+          "balls": 229,
+          "runs": 81,
+          "wickets": 3,
+          "economy": 2.12
+        },
+        {
+          "player": "M Vijay",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "V Kohli",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    }
+  ]
+}

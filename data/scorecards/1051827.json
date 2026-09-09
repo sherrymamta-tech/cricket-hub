@@ -1,0 +1,603 @@
+{
+  "id": "1051827",
+  "teams": [
+    "Auckland Aces",
+    "Wellington Firebirds"
+  ],
+  "date": "2016-11-05",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Kennards Hire Community Oval",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Wellington Firebirds",
+      "runs": 475,
+      "extras": 26,
+      "balls": 743,
+      "batting": [
+        {
+          "player": "MHW Papps",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "LJ Woodcock",
+          "runs": 203,
+          "balls": 367,
+          "fours": 29,
+          "sixes": 1,
+          "strike_rate": 55.31,
+          "out": false
+        },
+        {
+          "player": "SJ Murdoch",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HJH Marshall",
+          "runs": 27,
+          "balls": 47,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 57.45,
+          "out": true
+        },
+        {
+          "player": "MA Pollard",
+          "runs": 4,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 85,
+          "balls": 108,
+          "fours": 12,
+          "sixes": 1,
+          "strike_rate": 78.7,
+          "out": true
+        },
+        {
+          "player": "MJ Taylor",
+          "runs": 41,
+          "balls": 90,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 45.56,
+          "out": true
+        },
+        {
+          "player": "JS Patel",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MB McEwan",
+          "runs": 63,
+          "balls": 73,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 86.3,
+          "out": true
+        },
+        {
+          "player": "IG McPeake",
+          "runs": 23,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 88.46,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CW Andrews",
+          "overs": "24.3",
+          "balls": 147,
+          "runs": 101,
+          "wickets": 3,
+          "economy": 4.12
+        },
+        {
+          "player": "DJ Grobbelaar",
+          "overs": "26.2",
+          "balls": 158,
+          "runs": 103,
+          "wickets": 2,
+          "economy": 3.91
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 51,
+          "wickets": 3,
+          "economy": 2.41
+        },
+        {
+          "player": "DS Hutchinson",
+          "overs": "21.5",
+          "balls": 131,
+          "runs": 98,
+          "wickets": 0,
+          "economy": 4.49
+        },
+        {
+          "player": "TS Nethula",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 103,
+          "wickets": 0,
+          "economy": 3.68
+        },
+        {
+          "player": "MJ Guptill",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "MS Chapman",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Auckland Aces",
+      "runs": 374,
+      "extras": 22,
+      "balls": 599,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 84,
+          "balls": 177,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 47.46,
+          "out": true
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 56,
+          "balls": 89,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 62.92,
+          "out": true
+        },
+        {
+          "player": "ML Guptill-Bunce",
+          "runs": 109,
+          "balls": 139,
+          "fours": 15,
+          "sixes": 4,
+          "strike_rate": 78.42,
+          "out": true
+        },
+        {
+          "player": "TS Nethula",
+          "runs": 6,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "RJ Nicol",
+          "runs": 7,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 28,
+          "balls": 50,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 56.0,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 23,
+          "balls": 47,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 48.94,
+          "out": true
+        },
+        {
+          "player": "B Cachopa",
+          "runs": 11,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.75,
+          "out": true
+        },
+        {
+          "player": "DJ Grobbelaar",
+          "runs": 15,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "DS Hutchinson",
+          "runs": 12,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "CW Andrews",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HK Bennett",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 4.08
+        },
+        {
+          "player": "MB McEwan",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 86,
+          "wickets": 4,
+          "economy": 3.58
+        },
+        {
+          "player": "IG McPeake",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 81,
+          "wickets": 1,
+          "economy": 5.01
+        },
+        {
+          "player": "JS Patel",
+          "overs": "29.0",
+          "balls": 174,
+          "runs": 76,
+          "wickets": 1,
+          "economy": 2.62
+        },
+        {
+          "player": "LJ Woodcock",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 3.57
+        },
+        {
+          "player": "MJ Taylor",
+          "overs": "6.3",
+          "balls": 39,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 5.54
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Wellington Firebirds",
+      "runs": 240,
+      "extras": 13,
+      "balls": 327,
+      "batting": [
+        {
+          "player": "LJ Woodcock",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SJ Murdoch",
+          "runs": 52,
+          "balls": 91,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "MHW Papps",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "HJH Marshall",
+          "runs": 73,
+          "balls": 109,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 66.97,
+          "out": true
+        },
+        {
+          "player": "MA Pollard",
+          "runs": 34,
+          "balls": 50,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 68.0,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 45,
+          "balls": 36,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "MJ Taylor",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "JS Patel",
+          "runs": 8,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "MB McEwan",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "IG McPeake",
+          "runs": 6,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 42.86,
+          "out": false
+        },
+        {
+          "player": "HK Bennett",
+          "runs": 2,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CW Andrews",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 71,
+          "wickets": 1,
+          "economy": 4.73
+        },
+        {
+          "player": "DJ Grobbelaar",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "DS Hutchinson",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 3.53
+        },
+        {
+          "player": "TS Nethula",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 71,
+          "wickets": 5,
+          "economy": 5.32
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Auckland Aces",
+      "runs": 276,
+      "extras": 4,
+      "balls": 391,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 128,
+          "balls": 192,
+          "fours": 16,
+          "sixes": 4,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "JA Raval",
+          "runs": 19,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.35,
+          "out": true
+        },
+        {
+          "player": "ML Guptill-Bunce",
+          "runs": 21,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.22,
+          "out": true
+        },
+        {
+          "player": "RJ Nicol",
+          "runs": 62,
+          "balls": 66,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 93.94,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "B Cachopa",
+          "runs": 14,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "DJ Grobbelaar",
+          "runs": 11,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 11,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.38,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HK Bennett",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 3.23
+        },
+        {
+          "player": "MB McEwan",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 68,
+          "wickets": 1,
+          "economy": 6.18
+        },
+        {
+          "player": "JS Patel",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 67,
+          "wickets": 3,
+          "economy": 2.68
+        },
+        {
+          "player": "IG McPeake",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 71,
+          "wickets": 2,
+          "economy": 5.39
+        },
+        {
+          "player": "LJ Woodcock",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "MJ Taylor",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ]
+    }
+  ]
+}

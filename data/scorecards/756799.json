@@ -1,0 +1,261 @@
+{
+  "id": "756799",
+  "teams": [
+    "Adelaide Strikers",
+    "Sydney Sixers"
+  ],
+  "date": "2015-01-24",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Adelaide Oval",
+  "result": "Sydney Sixers won by 87 runs",
+  "winner": "Sydney Sixers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Sixers",
+      "runs": 181,
+      "extras": 2,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "MH Wessels",
+          "runs": 24,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MJ Lumb",
+          "runs": 32,
+          "balls": 19,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 168.42,
+          "out": true
+        },
+        {
+          "player": "NJ Maddinson",
+          "runs": 85,
+          "balls": 50,
+          "fours": 7,
+          "sixes": 5,
+          "strike_rate": 170.0,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 27,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 142.11,
+          "out": false
+        },
+        {
+          "player": "JC Silk",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "RGL Carters",
+          "runs": 8,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 160.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Botha",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 6.25
+        },
+        {
+          "player": "KW Richardson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 9.25
+        },
+        {
+          "player": "B Laughlin",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 12.75
+        },
+        {
+          "player": "SW Tait",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.2
+        },
+        {
+          "player": "A Zampa",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 9.12
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Adelaide Strikers",
+      "runs": 94,
+      "extras": 0,
+      "balls": 87,
+      "batting": [
+        {
+          "player": "CJ Simmons",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "TP Ludeman",
+          "runs": 15,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 136.36,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 8,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "BJ Hodge",
+          "runs": 20,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 142.86,
+          "out": true
+        },
+        {
+          "player": "J Botha",
+          "runs": 10,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "AI Ross",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "A Zampa",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "B Laughlin",
+          "runs": 22,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 220.0,
+          "out": true
+        },
+        {
+          "player": "KW Richardson",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Lee",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 5.33
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 2,
+          "economy": 7.0
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 6.5
+        },
+        {
+          "player": "DE Bollinger",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 21,
+          "wickets": 3,
+          "economy": 7.0
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 6.8
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "1347655",
+  "teams": [
+    "Northamptonshire",
+    "Yorkshire"
+  ],
+  "date": "2023-06-20",
+  "format": "T20",
+  "competition": "Vitality Blast",
+  "venue": "Headingley, Leeds",
+  "result": "Northamptonshire won by 78 runs",
+  "winner": "Northamptonshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northamptonshire",
+      "runs": 180,
+      "extras": 7,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "R Vasconcelos",
+          "runs": 37,
+          "balls": 24,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 154.17,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 40,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 160.0,
+          "out": true
+        },
+        {
+          "player": "CA Lynn",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "J Broad",
+          "runs": 47,
+          "balls": 33,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 142.42,
+          "out": false
+        },
+        {
+          "player": "SA Zaib",
+          "runs": 5,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 28,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 147.37,
+          "out": true
+        },
+        {
+          "player": "AJ Tye",
+          "runs": 12,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "LD McManus",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DM Bess",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "D Wiese",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 11.25
+        },
+        {
+          "player": "BWM Mike",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 10.08
+        },
+        {
+          "player": "JA Chohan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 3.25
+        },
+        {
+          "player": "ML Revis",
+          "overs": "3.4",
+          "balls": 22,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 11.18
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Yorkshire",
+      "runs": 102,
+      "extras": 11,
+      "balls": 96,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "DJ Malan",
+          "runs": 34,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 136.0,
+          "out": true
+        },
+        {
+          "player": "JH Wharton",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Shan Masood",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "ML Revis",
+          "runs": 7,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 13,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 108.33,
+          "out": true
+        },
+        {
+          "player": "D Wiese",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BWM Mike",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 13,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 144.44,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 6,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "JA Chohan",
+          "runs": 11,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 137.5,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Willey",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 4.56
+        },
+        {
+          "player": "BW Sanderson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "TAI Taylor",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 5,
+          "economy": 7.0
+        },
+        {
+          "player": "AJ Tye",
+          "overs": "2.5",
+          "balls": 17,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 9.18
+        },
+        {
+          "player": "J Broad",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

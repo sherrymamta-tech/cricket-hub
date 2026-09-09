@@ -1,0 +1,524 @@
+{
+  "id": "1347155",
+  "teams": [
+    "Durham",
+    "Worcestershire"
+  ],
+  "date": "2023-04-13",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Durham won by 121 runs",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 425,
+      "extras": 19,
+      "balls": 677,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 70,
+          "balls": 129,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 54.26,
+          "out": true
+        },
+        {
+          "player": "MA Jones",
+          "runs": 25,
+          "balls": 37,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 67.57,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 13,
+          "balls": 58,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.41,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 118,
+          "balls": 148,
+          "fours": 12,
+          "sixes": 1,
+          "strike_rate": 79.73,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 15,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 48,
+          "balls": 98,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 48.98,
+          "out": true
+        },
+        {
+          "player": "JJ Bushnell",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "P Coughlin",
+          "runs": 42,
+          "balls": 76,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 55.26,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 71,
+          "balls": 100,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 71.0,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Leach",
+          "overs": "24.2",
+          "balls": 146,
+          "runs": 83,
+          "wickets": 1,
+          "economy": 3.41
+        },
+        {
+          "player": "DY Pennington",
+          "overs": "20.3",
+          "balls": 123,
+          "runs": 92,
+          "wickets": 1,
+          "economy": 4.49
+        },
+        {
+          "player": "BJ Gibbon",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 95,
+          "wickets": 4,
+          "economy": 3.65
+        },
+        {
+          "player": "AW Finch",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 86,
+          "wickets": 3,
+          "economy": 4.1
+        },
+        {
+          "player": "MJ Waite",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 54,
+          "wickets": 0,
+          "economy": 3.6
+        },
+        {
+          "player": "BL D'Oliveira",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 2.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Worcestershire",
+      "runs": 366,
+      "extras": 24,
+      "balls": 662,
+      "batting": [
+        {
+          "player": "EJ Pollock",
+          "runs": 41,
+          "balls": 27,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 151.85,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 26,
+          "balls": 87,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 29.89,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 29,
+          "balls": 66,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 43.94,
+          "out": true
+        },
+        {
+          "player": "JA Haynes",
+          "runs": 134,
+          "balls": 255,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 52.55,
+          "out": false
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 46,
+          "balls": 69,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "GH Roderick",
+          "runs": 44,
+          "balls": 109,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 40.37,
+          "out": true
+        },
+        {
+          "player": "MJ Waite",
+          "runs": 22,
+          "balls": 49,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 44.9,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "29.2",
+          "balls": 176,
+          "runs": 92,
+          "wickets": 0,
+          "economy": 3.14
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 116,
+          "wickets": 3,
+          "economy": 4.3
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 3.05
+        },
+        {
+          "player": "JJ Bushnell",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 3.25
+        },
+        {
+          "player": "MP Kuhnemann",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 61,
+          "wickets": 1,
+          "economy": 2.65
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Durham",
+      "runs": 254,
+      "extras": 16,
+      "balls": 254,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 22,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 104.76,
+          "out": true
+        },
+        {
+          "player": "MA Jones",
+          "runs": 9,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 108,
+          "balls": 120,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": false
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 86,
+          "balls": 87,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 98.85,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 13,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 86.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Leach",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 4.03
+        },
+        {
+          "player": "DY Pennington",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 55,
+          "wickets": 0,
+          "economy": 7.86
+        },
+        {
+          "player": "BJ Gibbon",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "player": "AW Finch",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 6.16
+        },
+        {
+          "player": "BL D'Oliveira",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "MJ Waite",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 10.33
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Worcestershire",
+      "runs": 192,
+      "extras": 20,
+      "balls": 389,
+      "batting": [
+        {
+          "player": "EJ Pollock",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 33,
+          "balls": 64,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 51.56,
+          "out": true
+        },
+        {
+          "player": "JA Haynes",
+          "runs": 40,
+          "balls": 68,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 42,
+          "balls": 75,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 56.0,
+          "out": true
+        },
+        {
+          "player": "GH Roderick",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "MJ Waite",
+          "runs": 21,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "J Leach",
+          "runs": 0,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AW Finch",
+          "runs": 18,
+          "balls": 53,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.96,
+          "out": false
+        },
+        {
+          "player": "BJ Gibbon",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DY Pennington",
+          "runs": 14,
+          "balls": 47,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.79,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Potts",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 72,
+          "wickets": 3,
+          "economy": 3.96
+        },
+        {
+          "player": "BA Raine",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 2.5
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 2.8
+        },
+        {
+          "player": "MP Kuhnemann",
+          "overs": "23.4",
+          "balls": 142,
+          "runs": 58,
+          "wickets": 5,
+          "economy": 2.45
+        }
+      ]
+    }
+  ]
+}

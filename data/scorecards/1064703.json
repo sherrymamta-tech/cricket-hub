@@ -1,0 +1,311 @@
+{
+  "id": "1064703",
+  "teams": [
+    "Sydney Sixers",
+    "Hobart Hurricanes"
+  ],
+  "date": "2017-01-13",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "North Sydney Oval",
+  "result": "Sydney Sixers won by 16 runs",
+  "winner": "Sydney Sixers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Sixers",
+      "runs": 134,
+      "extras": 11,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "AJ Healy",
+          "runs": 11,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 91.67,
+          "out": true
+        },
+        {
+          "player": "EA Perry",
+          "runs": 60,
+          "balls": 58,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 103.45,
+          "out": true
+        },
+        {
+          "player": "A Gardner",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "SJ McGlashan",
+          "runs": 16,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "AE Jones",
+          "runs": 7,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "AR Reakes",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "SE Aley",
+          "runs": 16,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 145.45,
+          "out": false
+        },
+        {
+          "player": "KJ Garth",
+          "runs": 9,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "V Pyke",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 7.2
+        },
+        {
+          "player": "JL Hunter",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 13,
+          "wickets": 2,
+          "economy": 3.25
+        },
+        {
+          "player": "HK Matthews",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.31
+        },
+        {
+          "player": "B Hepburn",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.23
+        },
+        {
+          "player": "AE Satterthwaite",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 8.64
+        },
+        {
+          "player": "EA Burns",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Hobart Hurricanes",
+      "runs": 118,
+      "extras": 4,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "EA Burns",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HC Knight",
+          "runs": 31,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 103.33,
+          "out": true
+        },
+        {
+          "player": "G Redmayne",
+          "runs": 10,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "AE Satterthwaite",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "HK Matthews",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "CL Hall",
+          "runs": 42,
+          "balls": 44,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 95.45,
+          "out": true
+        },
+        {
+          "player": "V Pyke",
+          "runs": 11,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true
+        },
+        {
+          "player": "E Thompson",
+          "runs": 8,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "SK Moloney",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": false
+        },
+        {
+          "player": "B Hepburn",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "A Gardner",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "EA Perry",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 5.25
+        },
+        {
+          "player": "SE Aley",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 20,
+          "wickets": 3,
+          "economy": 4.8
+        },
+        {
+          "player": "KJ Garth",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "LG Smith",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "AR Reakes",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 6.86
+        },
+        {
+          "player": "EA Leys",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "LC Sthalekar",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    }
+  ]
+}

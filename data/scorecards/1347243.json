@@ -1,0 +1,606 @@
+{
+  "id": "1347243",
+  "teams": [
+    "Somerset",
+    "Nottinghamshire"
+  ],
+  "date": "2023-06-25",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "The Cooper Associates County Ground, Taunton",
+  "result": "Somerset won by 399 runs",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Somerset",
+      "runs": 163,
+      "extras": 9,
+      "balls": 292,
+      "batting": [
+        {
+          "player": "TA Lammonby",
+          "runs": 24,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 19,
+          "balls": 55,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 34.55,
+          "out": true
+        },
+        {
+          "player": "GA Bartlett",
+          "runs": 13,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 86.67,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 38,
+          "balls": 53,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 71.7,
+          "out": true
+        },
+        {
+          "player": "JEK Rew",
+          "runs": 10,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.26,
+          "out": true
+        },
+        {
+          "player": "Kasey Aldridge",
+          "runs": 35,
+          "balls": 63,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "JH Davey",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 7,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "Shoaib Bashir",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Hutton",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 34,
+          "wickets": 5,
+          "economy": 3.29
+        },
+        {
+          "player": "JT Ball",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 4.36
+        },
+        {
+          "player": "D Paterson",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 43,
+          "wickets": 2,
+          "economy": 3.07
+        },
+        {
+          "player": "M Carter",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 45,
+          "wickets": 3,
+          "economy": 3.21
+        },
+        {
+          "player": "LW James",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Nottinghamshire",
+      "runs": 186,
+      "extras": 10,
+      "balls": 361,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 70,
+          "balls": 141,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 49.65,
+          "out": true
+        },
+        {
+          "player": "H Hameed",
+          "runs": 0,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Montgomery",
+          "runs": 33,
+          "balls": 76,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 43.42,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 12,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SJ Mullaney",
+          "runs": 29,
+          "balls": 45,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 64.44,
+          "out": true
+        },
+        {
+          "player": "BA Hutton",
+          "runs": 4,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 10,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "M Carter",
+          "runs": 8,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "JT Ball",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false
+        },
+        {
+          "player": "D Paterson",
+          "runs": 5,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Overton",
+          "overs": "18.5",
+          "balls": 113,
+          "runs": 50,
+          "wickets": 2,
+          "economy": 2.65
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 59,
+          "wickets": 6,
+          "economy": 2.95
+        },
+        {
+          "player": "JH Davey",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 1.57
+        },
+        {
+          "player": "Kasey Aldridge",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 5.81
+        },
+        {
+          "player": "Shoaib Bashir",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 3.89
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Somerset",
+      "runs": 514,
+      "extras": 23,
+      "balls": 837,
+      "batting": [
+        {
+          "player": "TA Lammonby",
+          "runs": 73,
+          "balls": 139,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 52.52,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 26,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 78.79,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GA Bartlett",
+          "runs": 134,
+          "balls": 265,
+          "fours": 14,
+          "sixes": 1,
+          "strike_rate": 50.57,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 33,
+          "balls": 52,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 63.46,
+          "out": true
+        },
+        {
+          "player": "JEK Rew",
+          "runs": 123,
+          "balls": 216,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 56.94,
+          "out": false
+        },
+        {
+          "player": "Kasey Aldridge",
+          "runs": 50,
+          "balls": 90,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 11,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 157.14,
+          "out": true
+        },
+        {
+          "player": "JH Davey",
+          "runs": 19,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 90.48,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 22,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Hutton",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 101,
+          "wickets": 0,
+          "economy": 4.04
+        },
+        {
+          "player": "JT Ball",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 111,
+          "wickets": 1,
+          "economy": 4.09
+        },
+        {
+          "player": "D Paterson",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 106,
+          "wickets": 2,
+          "economy": 3.93
+        },
+        {
+          "player": "M Carter",
+          "overs": "36.0",
+          "balls": 216,
+          "runs": 109,
+          "wickets": 1,
+          "economy": 3.03
+        },
+        {
+          "player": "SJ Mullaney",
+          "overs": "5.5",
+          "balls": 35,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 3.94
+        },
+        {
+          "player": "LW James",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 64,
+          "wickets": 2,
+          "economy": 3.46
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Nottinghamshire",
+      "runs": 92,
+      "extras": 5,
+      "balls": 153,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "H Hameed",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Montgomery",
+          "runs": 7,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 3,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 17.65,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 8,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "SJ Mullaney",
+          "runs": 23,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 88.46,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 24,
+          "balls": 27,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "BA Hutton",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JT Ball",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        },
+        {
+          "player": "M Carter",
+          "runs": 15,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        },
+        {
+          "player": "D Paterson",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 2.5
+        },
+        {
+          "player": "C Overton",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 2.33
+        },
+        {
+          "player": "JH Davey",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 17,
+          "wickets": 4,
+          "economy": 2.76
+        },
+        {
+          "player": "Kasey Aldridge",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 7.69
+        }
+      ]
+    }
+  ]
+}

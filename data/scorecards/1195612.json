@@ -1,0 +1,234 @@
+{
+  "id": "1195612",
+  "teams": [
+    "Adelaide Strikers",
+    "Brisbane Heat"
+  ],
+  "date": "2020-01-17",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Adelaide Oval",
+  "result": "Adelaide Strikers won by 10 wickets",
+  "winner": "Adelaide Strikers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Brisbane Heat",
+      "runs": 100,
+      "extras": 6,
+      "balls": 105,
+      "batting": [
+        {
+          "player": "M Bryant",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "CA Lynn",
+          "runs": 26,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "MT Renshaw",
+          "runs": 43,
+          "balls": 32,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 134.38,
+          "out": true
+        },
+        {
+          "player": "JA Burns",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JJ Peirson",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "BCJ Cutting",
+          "runs": 9,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "JK Lalor",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MJ Swepson",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "B Laughlin",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Mujeeb Ur Rahman",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Neser",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 5.05
+        },
+        {
+          "player": "Rashid Khan",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 3.84
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 9.5
+        },
+        {
+          "player": "WA Agar",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 4.74
+        },
+        {
+          "player": "LN O'Connor",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 7.5
+        },
+        {
+          "player": "TM Head",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Adelaide Strikers",
+      "runs": 104,
+      "extras": 4,
+      "balls": 65,
+      "batting": [
+        {
+          "player": "PD Salt",
+          "runs": 67,
+          "balls": 38,
+          "fours": 5,
+          "sixes": 5,
+          "strike_rate": 176.32,
+          "out": false
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 33,
+          "balls": 27,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JK Lalor",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 7.33
+        },
+        {
+          "player": "Mujeeb Ur Rahman",
+          "overs": "3.5",
+          "balls": 23,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 13.3
+        },
+        {
+          "player": "B Laughlin",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "MJ Swepson",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        }
+      ]
+    }
+  ]
+}

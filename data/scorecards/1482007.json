@@ -1,0 +1,296 @@
+{
+  "id": "1482007",
+  "teams": [
+    "San Francisco Unicorns",
+    "Seattle Orcas"
+  ],
+  "date": "2025-06-25",
+  "format": "T20",
+  "competition": "Major League Cricket",
+  "venue": "Grand Prairie Stadium, Dallas",
+  "result": "San Francisco Unicorns won by 32 runs",
+  "winner": "San Francisco Unicorns",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "San Francisco Unicorns",
+      "runs": 176,
+      "extras": 8,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "MW Short",
+          "runs": 52,
+          "balls": 30,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 173.33,
+          "out": true
+        },
+        {
+          "player": "FH Allen",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "J Fraser-McGurk",
+          "runs": 34,
+          "balls": 22,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 154.55,
+          "out": true
+        },
+        {
+          "player": "SP Krishnamurthi",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Hassan Khan",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "XC Bartlett",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "R Shepherd",
+          "runs": 56,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 180.65,
+          "out": true
+        },
+        {
+          "player": "JN Hamilton",
+          "runs": 6,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "Haris Rauf",
+          "runs": 8,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OC McCoy",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 61,
+          "wickets": 1,
+          "economy": 14.64
+        },
+        {
+          "player": "G Coetzee",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 34,
+          "wickets": 3,
+          "economy": 8.16
+        },
+        {
+          "player": "CJ Gannon",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 8.16
+        },
+        {
+          "player": "Jasdeep Singh",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 6.25
+        },
+        {
+          "player": "Harmeet Singh",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 22,
+          "wickets": 3,
+          "economy": 5.08
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Seattle Orcas",
+      "runs": 144,
+      "extras": 5,
+      "balls": 112,
+      "batting": [
+        {
+          "player": "Shayan Jahangir",
+          "runs": 40,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 23,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 115.0,
+          "out": true
+        },
+        {
+          "player": "KR Mayers",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 7,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Sujit Nayak",
+          "runs": 15,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "SO Hetmyer",
+          "runs": 30,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 187.5,
+          "out": true
+        },
+        {
+          "player": "G Coetzee",
+          "runs": 7,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "CJ Gannon",
+          "runs": 9,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "Harmeet Singh",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Jasdeep Singh",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C le Roux",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 10.5
+        },
+        {
+          "player": "XC Bartlett",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 14.8
+        },
+        {
+          "player": "BL Couch",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 7.89
+        },
+        {
+          "player": "Haris Rauf",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 4,
+          "economy": 8.25
+        },
+        {
+          "player": "R Shepherd",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 5.33
+        },
+        {
+          "player": "MW Short",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 12,
+          "wickets": 3,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

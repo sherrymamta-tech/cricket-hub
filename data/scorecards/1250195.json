@@ -1,0 +1,277 @@
+{
+  "id": "1250195",
+  "teams": [
+    "Middlesex",
+    "Worcestershire"
+  ],
+  "date": "2021-08-01",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "County Ground, New Road, Worcester",
+  "result": "Middlesex won by 13 runs",
+  "winner": "Middlesex",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Middlesex",
+      "runs": 302,
+      "extras": 1,
+      "balls": 247,
+      "batting": [
+        {
+          "player": "MDE Holden",
+          "runs": 39,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 79.59,
+          "out": true
+        },
+        {
+          "player": "SS Eskinazi",
+          "runs": 130,
+          "balls": 101,
+          "fours": 11,
+          "sixes": 4,
+          "strike_rate": 128.71,
+          "out": true
+        },
+        {
+          "player": "SD Robson",
+          "runs": 57,
+          "balls": 53,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 107.55,
+          "out": true
+        },
+        {
+          "player": "PSP Handscomb",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "JLB Davies",
+          "runs": 19,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 135.71,
+          "out": true
+        },
+        {
+          "player": "LBK Hollman",
+          "runs": 14,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": false
+        },
+        {
+          "player": "MK Andersson",
+          "runs": 38,
+          "balls": 11,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 345.45,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CAJ Morris",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 6.25
+        },
+        {
+          "player": "J Leach",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 68,
+          "wickets": 1,
+          "economy": 9.49
+        },
+        {
+          "player": "AW Finch",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "JO Baker",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 54,
+          "wickets": 2,
+          "economy": 6.75
+        },
+        {
+          "player": "BL D'Oliveira",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 5.71
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Worcestershire",
+      "runs": 289,
+      "extras": 21,
+      "balls": 254,
+      "batting": [
+        {
+          "player": "JA Haynes",
+          "runs": 15,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.57,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 74,
+          "balls": 68,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 108.82,
+          "out": true
+        },
+        {
+          "player": "TC Fell",
+          "runs": 58,
+          "balls": 64,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 90.62,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 58,
+          "balls": 47,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 123.4,
+          "out": true
+        },
+        {
+          "player": "GH Roderick",
+          "runs": 23,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 143.75,
+          "out": true
+        },
+        {
+          "player": "EG Barnard",
+          "runs": 18,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "JJ Dell",
+          "runs": 9,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "J Leach",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        },
+        {
+          "player": "JO Baker",
+          "runs": 10,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 166.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TN Walallawita",
+          "overs": "9.4",
+          "balls": 58,
+          "runs": 56,
+          "wickets": 2,
+          "economy": 5.79
+        },
+        {
+          "player": "ER Bamber",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 7.84
+        },
+        {
+          "player": "JAR Harris",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 6.12
+        },
+        {
+          "player": "LBK Hollman",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 6.24
+        },
+        {
+          "player": "MK Andersson",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 10.62
+        },
+        {
+          "player": "SD Robson",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 7.46
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "1288314",
+  "teams": [
+    "Australia",
+    "Pakistan"
+  ],
+  "date": "2022-03-31",
+  "format": "ODI",
+  "competition": "Australia tour of Pakistan",
+  "venue": "Gaddafi Stadium, Lahore",
+  "result": "Pakistan won by 6 wickets",
+  "winner": "Pakistan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 348,
+      "extras": 8,
+      "balls": 302,
+      "batting": [
+        {
+          "player": "TM Head",
+          "runs": 89,
+          "balls": 71,
+          "fours": 6,
+          "sixes": 5,
+          "strike_rate": 125.35,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BR McDermott",
+          "runs": 104,
+          "balls": 108,
+          "fours": 10,
+          "sixes": 4,
+          "strike_rate": 96.3,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 59,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 120.41,
+          "out": true
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 49,
+          "balls": 34,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 144.12,
+          "out": true
+        },
+        {
+          "player": "AT Carey",
+          "runs": 5,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "C Green",
+          "runs": 5,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "SA Abbott",
+          "runs": 28,
+          "balls": 16,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "NT Ellis",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "A Zampa",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 64,
+          "wickets": 4,
+          "economy": 6.4
+        },
+        {
+          "player": "Haris Rauf",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 59,
+          "wickets": 0,
+          "economy": 5.9
+        },
+        {
+          "player": "Mohammad Wasim",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 5.9
+        },
+        {
+          "player": "Zahid Mahmood",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 71,
+          "wickets": 1,
+          "economy": 6.98
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "player": "Khushdil Shah",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 9.24
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 349,
+      "extras": 4,
+      "balls": 296,
+      "batting": [
+        {
+          "player": "Fakhar Zaman",
+          "runs": 67,
+          "balls": 64,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 104.69,
+          "out": true
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 106,
+          "balls": 99,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 107.07,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 114,
+          "balls": 83,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 137.35,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 23,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 88.46,
+          "out": true
+        },
+        {
+          "player": "Khushdil Shah",
+          "runs": 27,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 158.82,
+          "out": false
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "runs": 8,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SA Abbott",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 74,
+          "wickets": 0,
+          "economy": 8.07
+        },
+        {
+          "player": "C Green",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 5.83
+        },
+        {
+          "player": "NT Ellis",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 7.44
+        },
+        {
+          "player": "TM Head",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "A Zampa",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 72,
+          "wickets": 2,
+          "economy": 7.2
+        },
+        {
+          "player": "MJ Swepson",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 50,
+          "wickets": 0,
+          "economy": 6.12
+        },
+        {
+          "player": "MP Stoinis",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 7.67
+        }
+      ]
+    }
+  ]
+}

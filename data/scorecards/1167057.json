@@ -1,0 +1,269 @@
+{
+  "id": "1167057",
+  "teams": [
+    "Leicestershire",
+    "Durham"
+  ],
+  "date": "2019-04-19",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Durham won by 6 wickets",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Leicestershire",
+      "runs": 233,
+      "extras": 11,
+      "balls": 308,
+      "batting": [
+        {
+          "player": "HE Dearden",
+          "runs": 5,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "PJ Horton",
+          "runs": 11,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MJ Cosgrove",
+          "runs": 22,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 53.66,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 9,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "LJ Hill",
+          "runs": 33,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 80.49,
+          "out": true
+        },
+        {
+          "player": "HJ Swindells",
+          "runs": 15,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 51.72,
+          "out": true
+        },
+        {
+          "player": "AM Lilley",
+          "runs": 7,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 59,
+          "balls": 63,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 93.65,
+          "out": true
+        },
+        {
+          "player": "D Klein",
+          "runs": 46,
+          "balls": 73,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 63.01,
+          "out": true
+        },
+        {
+          "player": "WS Davis",
+          "runs": 15,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 83.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MET Salisbury",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 4.43
+        },
+        {
+          "player": "BA Carse",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 58,
+          "wickets": 3,
+          "economy": 5.7
+        },
+        {
+          "player": "BA Raine",
+          "overs": "10.5",
+          "balls": 65,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 4.43
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 45,
+          "wickets": 3,
+          "economy": 4.5
+        },
+        {
+          "player": "L Trevaskis",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 3.64
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Durham",
+      "runs": 234,
+      "extras": 9,
+      "balls": 277,
+      "batting": [
+        {
+          "player": "G Clark",
+          "runs": 6,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "S Steel",
+          "runs": 35,
+          "balls": 50,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 6,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "CT Bancroft",
+          "runs": 118,
+          "balls": 119,
+          "fours": 12,
+          "sixes": 2,
+          "strike_rate": 99.16,
+          "out": false
+        },
+        {
+          "player": "MJ Richardson",
+          "runs": 39,
+          "balls": 56,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 69.64,
+          "out": true
+        },
+        {
+          "player": "JTA Burnham",
+          "runs": 21,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 95.45,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TAI Taylor",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "D Klein",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 48,
+          "wickets": 2,
+          "economy": 4.5
+        },
+        {
+          "player": "GT Griffiths",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 4.89
+        },
+        {
+          "player": "AM Lilley",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 6.67
+        },
+        {
+          "player": "WS Davis",
+          "overs": "5.3",
+          "balls": 33,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 6.55
+        },
+        {
+          "player": "CN Ackermann",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 4.2
+        }
+      ]
+    }
+  ]
+}

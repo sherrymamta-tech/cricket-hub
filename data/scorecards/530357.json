@@ -1,0 +1,85 @@
+{
+  "id": "530357",
+  "teams": [
+    "Lions",
+    "Dolphins"
+  ],
+  "date": "2012-03-16",
+  "format": "T20",
+  "competition": "MiWAY T20 Challenge",
+  "venue": "New Wanderers Stadium, Johannesburg",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Lions",
+      "runs": 24,
+      "extras": 6,
+      "balls": 40,
+      "batting": [
+        {
+          "player": "JD Vandiar",
+          "runs": 6,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "GH Bodi",
+          "runs": 10,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.62,
+          "out": false
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "P Subrayen",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "FH Edwards",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 4.71
+        },
+        {
+          "player": "KJ Abbott",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "R Frylinck",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 3,
+          "wickets": 1,
+          "economy": 2.25
+        }
+      ]
+    }
+  ]
+}

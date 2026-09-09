@@ -1,0 +1,561 @@
+{
+  "id": "1277080",
+  "teams": [
+    "India",
+    "South Africa"
+  ],
+  "date": "2022-01-03",
+  "format": "Test",
+  "competition": "India tour of South Africa",
+  "venue": "The Wanderers Stadium, Johannesburg",
+  "result": "South Africa won by 7 wickets",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 202,
+      "extras": 16,
+      "balls": 384,
+      "batting": [
+        {
+          "player": "KL Rahul",
+          "runs": 50,
+          "balls": 133,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 37.59,
+          "out": true
+        },
+        {
+          "player": "MA Agarwal",
+          "runs": 26,
+          "balls": 37,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 70.27,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 3,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GH Vihari",
+          "runs": 20,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 37.74,
+          "out": true
+        },
+        {
+          "player": "RR Pant",
+          "runs": 17,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.53,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 46,
+          "balls": 50,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 92.0,
+          "out": true
+        },
+        {
+          "player": "SN Thakur",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 9,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "JJ Bumrah",
+          "runs": 14,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 127.27,
+          "out": false
+        },
+        {
+          "player": "Mohammed Siraj",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "17.4",
+          "balls": 106,
+          "runs": 65,
+          "wickets": 3,
+          "economy": 3.68
+        },
+        {
+          "player": "D Olivier",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 68,
+          "wickets": 3,
+          "economy": 3.96
+        },
+        {
+          "player": "L Ngidi",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 2.55
+        },
+        {
+          "player": "M Jansen",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 35,
+          "wickets": 4,
+          "economy": 2.04
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 229,
+      "extras": 16,
+      "balls": 485,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 28,
+          "balls": 121,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 23.14,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 7,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "KD Petersen",
+          "runs": 62,
+          "balls": 118,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 52.54,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 1,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.88,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 51,
+          "balls": 60,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 85.0,
+          "out": true
+        },
+        {
+          "player": "K Verreynne",
+          "runs": 21,
+          "balls": 74,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 28.38,
+          "out": true
+        },
+        {
+          "player": "M Jansen",
+          "runs": 21,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 61.76,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 21,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 1,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.33,
+          "out": false
+        },
+        {
+          "player": "L Ngidi",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JJ Bumrah",
+          "overs": "21.5",
+          "balls": 131,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 2.52
+        },
+        {
+          "player": "Mohammed Shami",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 53,
+          "wickets": 2,
+          "economy": 2.52
+        },
+        {
+          "player": "Mohammed Siraj",
+          "overs": "9.5",
+          "balls": 59,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 2.44
+        },
+        {
+          "player": "SN Thakur",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 62,
+          "wickets": 7,
+          "economy": 3.41
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 3.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "India",
+      "runs": 266,
+      "extras": 33,
+      "balls": 370,
+      "batting": [
+        {
+          "player": "KL Rahul",
+          "runs": 8,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.1,
+          "out": true
+        },
+        {
+          "player": "MA Agarwal",
+          "runs": 23,
+          "balls": 37,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 62.16,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 53,
+          "balls": 86,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 61.63,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 58,
+          "balls": 78,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 74.36,
+          "out": true
+        },
+        {
+          "player": "GH Vihari",
+          "runs": 40,
+          "balls": 85,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": false
+        },
+        {
+          "player": "RR Pant",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 16,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "SN Thakur",
+          "runs": 28,
+          "balls": 24,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JJ Bumrah",
+          "runs": 7,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Mohammed Siraj",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "21.3",
+          "balls": 129,
+          "runs": 85,
+          "wickets": 3,
+          "economy": 3.95
+        },
+        {
+          "player": "D Olivier",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 4.33
+        },
+        {
+          "player": "L Ngidi",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 4.33
+        },
+        {
+          "player": "M Jansen",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 77,
+          "wickets": 3,
+          "economy": 4.53
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "South Africa",
+      "runs": 243,
+      "extras": 25,
+      "balls": 411,
+      "batting": [
+        {
+          "player": "AK Markram",
+          "runs": 31,
+          "balls": 38,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 81.58,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 96,
+          "balls": 190,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 50.53,
+          "out": false
+        },
+        {
+          "player": "KD Petersen",
+          "runs": 28,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 40,
+          "balls": 94,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 42.55,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 23,
+          "balls": 45,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 51.11,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JJ Bumrah",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 73,
+          "wickets": 0,
+          "economy": 4.21
+        },
+        {
+          "player": "Mohammed Shami",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 3.2
+        },
+        {
+          "player": "SN Thakur",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 2.94
+        },
+        {
+          "player": "Mohammed Siraj",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "11.4",
+          "balls": 70,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 2.57
+        }
+      ]
+    }
+  ]
+}

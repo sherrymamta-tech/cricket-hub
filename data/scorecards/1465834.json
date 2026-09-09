@@ -1,0 +1,458 @@
+{
+  "id": "1465834",
+  "teams": [
+    "Colts Cricket Club",
+    "Ragama Cricket Club"
+  ],
+  "date": "2025-01-31",
+  "format": "MDM",
+  "competition": "Major League Tournament",
+  "venue": "Colts Cricket Club Ground, Colombo",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Colts Cricket Club",
+      "runs": 506,
+      "extras": 34,
+      "balls": 650,
+      "batting": [
+        {
+          "player": "MMMS Cooray",
+          "runs": 21,
+          "balls": 59,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.59,
+          "out": true
+        },
+        {
+          "player": "R Rasantha",
+          "runs": 14,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 48.28,
+          "out": true
+        },
+        {
+          "player": "Y Mendis",
+          "runs": 38,
+          "balls": 76,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "WRKS Darshika",
+          "runs": 101,
+          "balls": 137,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 73.72,
+          "out": true
+        },
+        {
+          "player": "D Lakshan",
+          "runs": 150,
+          "balls": 197,
+          "fours": 11,
+          "sixes": 5,
+          "strike_rate": 76.14,
+          "out": true
+        },
+        {
+          "player": "M Lakshan",
+          "runs": 117,
+          "balls": 133,
+          "fours": 8,
+          "sixes": 6,
+          "strike_rate": 87.97,
+          "out": false
+        },
+        {
+          "player": "K Anjula",
+          "runs": 31,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 163.16,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Liyanage",
+          "overs": "18.2",
+          "balls": 110,
+          "runs": 85,
+          "wickets": 1,
+          "economy": 4.64
+        },
+        {
+          "player": "S Gunathilaka",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 3.25
+        },
+        {
+          "player": "HGKD Dhanushka",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 105,
+          "wickets": 0,
+          "economy": 4.01
+        },
+        {
+          "player": "SMKS Senarathne",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 58,
+          "wickets": 0,
+          "economy": 5.27
+        },
+        {
+          "player": "H Rathnamudali",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 85,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "PWS Dulshan",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 107,
+          "wickets": 2,
+          "economy": 4.86
+        },
+        {
+          "player": "GSM Fernando",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "DT Hewathantri",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 2,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Ragama Cricket Club",
+      "runs": 292,
+      "extras": 26,
+      "balls": 553,
+      "batting": [
+        {
+          "player": "DT Hewathantri",
+          "runs": 9,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.03,
+          "out": true
+        },
+        {
+          "player": "SMKS Senarathne",
+          "runs": 6,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "S Gunathilaka",
+          "runs": 15,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.69,
+          "out": true
+        },
+        {
+          "player": "R Gamage",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "J Liyanage",
+          "runs": 67,
+          "balls": 100,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 67.0,
+          "out": true
+        },
+        {
+          "player": "GHV Dulsara",
+          "runs": 40,
+          "balls": 91,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 43.96,
+          "out": true
+        },
+        {
+          "player": "RS Sembukuttige",
+          "runs": 34,
+          "balls": 84,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 40.48,
+          "out": true
+        },
+        {
+          "player": "G Kotuwegoda",
+          "runs": 76,
+          "balls": 120,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 63.33,
+          "out": true
+        },
+        {
+          "player": "HGKD Dhanushka",
+          "runs": 4,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "PWS Dulshan",
+          "runs": 13,
+          "balls": 47,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.66,
+          "out": false
+        },
+        {
+          "player": "H Rathnamudali",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Anjula",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 2.62
+        },
+        {
+          "player": "D Lakshan",
+          "overs": "5.4",
+          "balls": 34,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 2.82
+        },
+        {
+          "player": "WPU Madushan",
+          "overs": "14.3",
+          "balls": 87,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 2.55
+        },
+        {
+          "player": "T Wimaladharma",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 61,
+          "wickets": 3,
+          "economy": 3.42
+        },
+        {
+          "player": "S Krishnashriram",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 6.83
+        },
+        {
+          "player": "M Lakshan",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 63,
+          "wickets": 3,
+          "economy": 2.74
+        },
+        {
+          "player": "MMMS Cooray",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 2.77
+        },
+        {
+          "player": "WRKS Darshika",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.08
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Ragama Cricket Club",
+      "runs": 191,
+      "extras": 2,
+      "balls": 330,
+      "batting": [
+        {
+          "player": "DT Hewathantri",
+          "runs": 47,
+          "balls": 67,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 70.15,
+          "out": true
+        },
+        {
+          "player": "R Gamage",
+          "runs": 19,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 79.17,
+          "out": true
+        },
+        {
+          "player": "S Gunathilaka",
+          "runs": 67,
+          "balls": 115,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 58.26,
+          "out": true
+        },
+        {
+          "player": "J Liyanage",
+          "runs": 13,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": true
+        },
+        {
+          "player": "RS Sembukuttige",
+          "runs": 15,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "GHV Dulsara",
+          "runs": 13,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.83,
+          "out": true
+        },
+        {
+          "player": "G Kotuwegoda",
+          "runs": 11,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.48,
+          "out": false
+        },
+        {
+          "player": "HGKD Dhanushka",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "T Wimaladharma",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "WPU Madushan",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 4.8
+        },
+        {
+          "player": "MMMS Cooray",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 2.6
+        },
+        {
+          "player": "M Lakshan",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 67,
+          "wickets": 2,
+          "economy": 3.35
+        },
+        {
+          "player": "D Lakshan",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "WRKS Darshika",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "id": "946993",
+  "teams": [
+    "Derbyshire",
+    "Kent"
+  ],
+  "date": "2016-05-22",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "County Ground, Derby",
+  "result": "Kent won by 7 wickets",
+  "winner": "Kent",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Derbyshire",
+      "runs": 492,
+      "extras": 40,
+      "balls": 768,
+      "batting": [
+        {
+          "player": "CF Hughes",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BA Godleman",
+          "runs": 3,
+          "balls": 40,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.5,
+          "out": true
+        },
+        {
+          "player": "HD Rutherford",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "WL Madsen",
+          "runs": 103,
+          "balls": 170,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 60.59,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 96,
+          "balls": 180,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "SJ Thakor",
+          "runs": 130,
+          "balls": 167,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 77.84,
+          "out": true
+        },
+        {
+          "player": "T Poynton",
+          "runs": 10,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "MJJ Critchley",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 80,
+          "balls": 115,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 69.57,
+          "out": true
+        },
+        {
+          "player": "AP Palladino",
+          "runs": 15,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "BD Cotton",
+          "runs": 7,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MT Coles",
+          "overs": "35.3",
+          "balls": 213,
+          "runs": 128,
+          "wickets": 5,
+          "economy": 3.61
+        },
+        {
+          "player": "ME Claydon",
+          "overs": "25.3",
+          "balls": 153,
+          "runs": 122,
+          "wickets": 1,
+          "economy": 4.78
+        },
+        {
+          "player": "CJ Haggett",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 103,
+          "wickets": 0,
+          "economy": 4.12
+        },
+        {
+          "player": "JC Tredwell",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 91,
+          "wickets": 2,
+          "economy": 3.25
+        },
+        {
+          "player": "AJ Ball",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 3.62
+        },
+        {
+          "player": "JL Denly",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 412,
+      "extras": 28,
+      "balls": 757,
+      "batting": [
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 4,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.12,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 207,
+          "balls": 362,
+          "fours": 24,
+          "sixes": 2,
+          "strike_rate": 57.18,
+          "out": false
+        },
+        {
+          "player": "JL Denly",
+          "runs": 34,
+          "balls": 89,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 38.2,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 12,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "AJ Blake",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "AJ Ball",
+          "runs": 40,
+          "balls": 68,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": true
+        },
+        {
+          "player": "AP Rouse",
+          "runs": 25,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "CJ Haggett",
+          "runs": 15,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 30.61,
+          "out": true
+        },
+        {
+          "player": "JC Tredwell",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MT Coles",
+          "runs": 41,
+          "balls": 70,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 58.57,
+          "out": true
+        },
+        {
+          "player": "ME Claydon",
+          "runs": 0,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AP Palladino",
+          "overs": "29.0",
+          "balls": 174,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 1.79
+        },
+        {
+          "player": "BD Cotton",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 67,
+          "wickets": 3,
+          "economy": 2.56
+        },
+        {
+          "player": "TAI Taylor",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 71,
+          "wickets": 2,
+          "economy": 4.18
+        },
+        {
+          "player": "SJ Thakor",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 75,
+          "wickets": 5,
+          "economy": 3.95
+        },
+        {
+          "player": "MJJ Critchley",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 3.75
+        },
+        {
+          "player": "CF Hughes",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "WL Madsen",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 4.67
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Derbyshire",
+      "runs": 94,
+      "extras": 2,
+      "balls": 173,
+      "batting": [
+        {
+          "player": "CF Hughes",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HD Rutherford",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WL Madsen",
+          "runs": 37,
+          "balls": 54,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 68.52,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 18,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "BA Godleman",
+          "runs": 3,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "T Poynton",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "MJJ Critchley",
+          "runs": 18,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.06,
+          "out": true
+        },
+        {
+          "player": "SJ Thakor",
+          "runs": 10,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "AP Palladino",
+          "runs": 1,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": false
+        },
+        {
+          "player": "BD Cotton",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MT Coles",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 4.16
+        },
+        {
+          "player": "JC Tredwell",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 45,
+          "wickets": 4,
+          "economy": 3.21
+        },
+        {
+          "player": "CJ Haggett",
+          "overs": "6.4",
+          "balls": 40,
+          "runs": 15,
+          "wickets": 4,
+          "economy": 2.25
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Kent",
+      "runs": 176,
+      "extras": 9,
+      "balls": 196,
+      "batting": [
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 80,
+          "balls": 99,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 80.81,
+          "out": false
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 16,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "AJ Ball",
+          "runs": 23,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 82.14,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 30,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 88.24,
+          "out": true
+        },
+        {
+          "player": "AJ Blake",
+          "runs": 18,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 600.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AP Palladino",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 3.88
+        },
+        {
+          "player": "BD Cotton",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 3.82
+        },
+        {
+          "player": "WL Madsen",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "TAI Taylor",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 7.33
+        },
+        {
+          "player": "SJ Thakor",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 6.33
+        },
+        {
+          "player": "MJJ Critchley",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 9.78
+        },
+        {
+          "player": "CF Hughes",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 11.0
+        }
+      ]
+    }
+  ]
+}

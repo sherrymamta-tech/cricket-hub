@@ -1,0 +1,623 @@
+{
+  "id": "1347166",
+  "teams": [
+    "Yorkshire",
+    "Durham"
+  ],
+  "date": "2023-05-11",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Durham won by 1 wickets",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Yorkshire",
+      "runs": 254,
+      "extras": 35,
+      "balls": 489,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Shan Masood",
+          "runs": 44,
+          "balls": 92,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 47.83,
+          "out": true
+        },
+        {
+          "player": "Saud Shakeel",
+          "runs": 8,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "DJ Malan",
+          "runs": 36,
+          "balls": 72,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 27,
+          "balls": 57,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 47.37,
+          "out": true
+        },
+        {
+          "player": "GCH Hill",
+          "runs": 28,
+          "balls": 71,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 39.44,
+          "out": true
+        },
+        {
+          "player": "ML Revis",
+          "runs": 21,
+          "balls": 53,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.62,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 13,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "MD Fisher",
+          "runs": 27,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": false
+        },
+        {
+          "player": "MW Edwards",
+          "runs": 13,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.15,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "19.4",
+          "balls": 118,
+          "runs": 66,
+          "wickets": 3,
+          "economy": 3.36
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "22.1",
+          "balls": 133,
+          "runs": 61,
+          "wickets": 4,
+          "economy": 2.75
+        },
+        {
+          "player": "BFW de Leede",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 3.45
+        },
+        {
+          "player": "BA Carse",
+          "overs": "17.3",
+          "balls": 105,
+          "runs": 64,
+          "wickets": 2,
+          "economy": 3.66
+        },
+        {
+          "player": "AY Patel",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 2.1
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Durham",
+      "runs": 227,
+      "extras": 11,
+      "balls": 390,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 15,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 46.88,
+          "out": true
+        },
+        {
+          "player": "MA Jones",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 35,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 7,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 6,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 44,
+          "balls": 63,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 69.84,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 33,
+          "balls": 80,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 41.25,
+          "out": true
+        },
+        {
+          "player": "BA Carse",
+          "runs": 14,
+          "balls": 45,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.11,
+          "out": true
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 22,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": false
+        },
+        {
+          "player": "BA Raine",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "AY Patel",
+          "runs": 34,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 113.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MD Fisher",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 3.08
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 63,
+          "wickets": 3,
+          "economy": 4.2
+        },
+        {
+          "player": "MW Edwards",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 4.41
+        },
+        {
+          "player": "GCH Hill",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 43,
+          "wickets": 4,
+          "economy": 2.87
+        },
+        {
+          "player": "ML Revis",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 3.33
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Yorkshire",
+      "runs": 218,
+      "extras": 27,
+      "balls": 403,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "FJ Bean",
+          "runs": 22,
+          "balls": 47,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.81,
+          "out": true
+        },
+        {
+          "player": "Shan Masood",
+          "runs": 10,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "DJ Malan",
+          "runs": 44,
+          "balls": 98,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 44.9,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 36,
+          "balls": 101,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 35.64,
+          "out": true
+        },
+        {
+          "player": "GCH Hill",
+          "runs": 51,
+          "balls": 52,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 98.08,
+          "out": true
+        },
+        {
+          "player": "ML Revis",
+          "runs": 8,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 7,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "MD Fisher",
+          "runs": 8,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": false
+        },
+        {
+          "player": "MW Edwards",
+          "runs": 5,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 36,
+          "wickets": 4,
+          "economy": 1.89
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 72,
+          "wickets": 4,
+          "economy": 3.6
+        },
+        {
+          "player": "BFW de Leede",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "player": "BA Carse",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 3.48
+        },
+        {
+          "player": "AY Patel",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 3.45
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Durham",
+      "runs": 246,
+      "extras": 19,
+      "balls": 486,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 38,
+          "balls": 37,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 102.7,
+          "out": true
+        },
+        {
+          "player": "MA Jones",
+          "runs": 56,
+          "balls": 138,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 40.58,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 11,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 19,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 76.0,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 13,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.22,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 9,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 32.14,
+          "out": true
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 50,
+          "balls": 114,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.86,
+          "out": false
+        },
+        {
+          "player": "AY Patel",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 25,
+          "balls": 78,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 32.05,
+          "out": true
+        },
+        {
+          "player": "BA Carse",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MD Fisher",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 74,
+          "wickets": 4,
+          "economy": 3.36
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 62,
+          "wickets": 3,
+          "economy": 4.43
+        },
+        {
+          "player": "GCH Hill",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 2.2
+        },
+        {
+          "player": "MW Edwards",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 5.25
+        },
+        {
+          "player": "ML Revis",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 3.6
+        },
+        {
+          "player": "DM Bess",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 1.69
+        }
+      ]
+    }
+  ]
+}

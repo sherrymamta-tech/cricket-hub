@@ -1,0 +1,252 @@
+{
+  "id": "1234014",
+  "teams": [
+    "Auckland",
+    "Northern Districts"
+  ],
+  "date": "2021-01-17",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "Eden Park Outer Oval",
+  "result": "Northern Districts won by 5 wickets",
+  "winner": "Northern Districts",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland",
+      "runs": 140,
+      "extras": 6,
+      "balls": 88,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 9,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 10,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 68,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 8,
+          "strike_rate": 188.89,
+          "out": true
+        },
+        {
+          "player": "WT O'Donnell",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 20,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 153.85,
+          "out": false
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 4,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 18,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "WER Somerville",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 6.95
+        },
+        {
+          "player": "TG Southee",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 10.33
+        },
+        {
+          "player": "A Verma",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 9.67
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 8.5
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 11.71
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Northern Districts",
+      "runs": 109,
+      "extras": 7,
+      "balls": 63,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 14,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "TL Seifert",
+          "runs": 14,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "AP Devcich",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 12,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 400.0,
+          "out": true
+        },
+        {
+          "player": "JF Carter",
+          "runs": 14,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 93.33,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 39,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 243.75,
+          "out": false
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "runs": 5,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KA Jamieson",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 10.62
+        },
+        {
+          "player": "BG Lister",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 13.85
+        },
+        {
+          "player": "RM ter Braak",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 10.5
+        },
+        {
+          "player": "WER Somerville",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 18,
+          "wickets": 3,
+          "economy": 9.0
+        },
+        {
+          "player": "L Delport",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 7.85
+        }
+      ]
+    }
+  ]
+}

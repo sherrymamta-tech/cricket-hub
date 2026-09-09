@@ -1,0 +1,189 @@
+{
+  "id": "1387183",
+  "teams": [
+    "Adelaide Strikers",
+    "Hobart Hurricanes"
+  ],
+  "date": "2023-10-27",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Allan Border Field, Brisbane",
+  "result": "Hobart Hurricanes won by 7 wickets",
+  "winner": "Hobart Hurricanes",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Adelaide Strikers",
+      "runs": 74,
+      "extras": 6,
+      "balls": 51,
+      "batting": [
+        {
+          "player": "KM Mack",
+          "runs": 32,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 123.08,
+          "out": true
+        },
+        {
+          "player": "L Wolvaardt",
+          "runs": 35,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 166.67,
+          "out": false
+        },
+        {
+          "player": "TM McGrath",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Strano",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "S Ismail",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 7.29
+        },
+        {
+          "player": "A Smith",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "player": "BF Smith",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "H Graham",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 9.69
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Hobart Hurricanes",
+      "runs": 76,
+      "extras": 5,
+      "balls": 46,
+      "batting": [
+        {
+          "player": "L Lee",
+          "runs": 21,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 233.33,
+          "out": true
+        },
+        {
+          "player": "EJ Villani",
+          "runs": 39,
+          "balls": 27,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 144.44,
+          "out": false
+        },
+        {
+          "player": "BF Smith",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "H Graham",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "R Johnston",
+          "runs": 8,
+          "balls": 2,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 400.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AC Mushangwe",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 12.5
+        },
+        {
+          "player": "ML Schutt",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "A Wellington",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "GL Adams",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 13.0
+        },
+        {
+          "player": "DR Gibson",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 9.75
+        }
+      ]
+    }
+  ]
+}

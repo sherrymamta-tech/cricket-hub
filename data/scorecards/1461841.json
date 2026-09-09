@@ -1,0 +1,554 @@
+{
+  "id": "1461841",
+  "teams": [
+    "Worcestershire",
+    "Durham"
+  ],
+  "date": "2025-04-25",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "County Ground, New Road, Worcester",
+  "result": "Durham won by 6 wickets",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Worcestershire",
+      "runs": 162,
+      "extras": 8,
+      "balls": 411,
+      "batting": [
+        {
+          "player": "GH Roderick",
+          "runs": 4,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 19.05,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 9,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.12,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 42,
+          "balls": 115,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.52,
+          "out": true
+        },
+        {
+          "player": "RP Jones",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "AJ Hose",
+          "runs": 23,
+          "balls": 51,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.1,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 28,
+          "balls": 77,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "MJ Waite",
+          "runs": 8,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "EA Brookes",
+          "runs": 27,
+          "balls": 59,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 45.76,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 0,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BMJ Allison",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": false
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 1.0
+        },
+        {
+          "player": "JT Ball",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 48,
+          "wickets": 5,
+          "economy": 2.94
+        },
+        {
+          "player": "JM Blatherwick",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 3.21
+        },
+        {
+          "player": "Codi Yusuf",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "WMH Rhodes",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 0.86
+        },
+        {
+          "player": "GS Drissell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Durham",
+      "runs": 136,
+      "extras": 20,
+      "balls": 336,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BS McKinney",
+          "runs": 24,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 126.32,
+          "out": true
+        },
+        {
+          "player": "WMH Rhodes",
+          "runs": 17,
+          "balls": 80,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.25,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 5,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.81,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 0,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JM Blatherwick",
+          "runs": 3,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.54,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 16,
+          "balls": 67,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 23.88,
+          "out": true
+        },
+        {
+          "player": "GS Drissell",
+          "runs": 31,
+          "balls": 63,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 49.21,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Codi Yusuf",
+          "runs": 1,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": true
+        },
+        {
+          "player": "JT Ball",
+          "runs": 13,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 108.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Duffy",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 2.71
+        },
+        {
+          "player": "TAI Taylor",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 38,
+          "wickets": 3,
+          "economy": 3.17
+        },
+        {
+          "player": "BMJ Allison",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 32,
+          "wickets": 3,
+          "economy": 2.13
+        },
+        {
+          "player": "MJ Waite",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 2.0
+        },
+        {
+          "player": "EA Brookes",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 1.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Worcestershire",
+      "runs": 81,
+      "extras": 8,
+      "balls": 143,
+      "batting": [
+        {
+          "player": "GH Roderick",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 25,
+          "balls": 40,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "RP Jones",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AJ Hose",
+          "runs": 15,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 3,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "MJ Waite",
+          "runs": 10,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "EA Brookes",
+          "runs": 9,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 81.82,
+          "out": false
+        },
+        {
+          "player": "BMJ Allison",
+          "runs": 8,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 20,
+          "wickets": 4,
+          "economy": 2.5
+        },
+        {
+          "player": "JT Ball",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 4.12
+        },
+        {
+          "player": "Codi Yusuf",
+          "overs": "7.5",
+          "balls": 47,
+          "runs": 28,
+          "wickets": 4,
+          "economy": 3.57
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Durham",
+      "runs": 108,
+      "extras": 3,
+      "balls": 159,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 2,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "BS McKinney",
+          "runs": 34,
+          "balls": 58,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 58.62,
+          "out": true
+        },
+        {
+          "player": "WMH Rhodes",
+          "runs": 21,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 110.53,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 6,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 22,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 81.48,
+          "out": false
+        },
+        {
+          "player": "G Clark",
+          "runs": 20,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 80.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Duffy",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "TAI Taylor",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 3.06
+        },
+        {
+          "player": "BMJ Allison",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 4.29
+        },
+        {
+          "player": "MJ Waite",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 4.4
+        }
+      ]
+    }
+  ]
+}

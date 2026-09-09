@@ -1,0 +1,313 @@
+{
+  "id": "1269640",
+  "teams": [
+    "Melbourne Renegades",
+    "Adelaide Strikers"
+  ],
+  "date": "2021-12-07",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Docklands Stadium, Melbourne",
+  "result": "Melbourne Renegades won by 2 runs",
+  "winner": "Melbourne Renegades",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Melbourne Renegades",
+      "runs": 153,
+      "extras": 12,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "SB Harper",
+          "runs": 33,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 117.86,
+          "out": true
+        },
+        {
+          "player": "MW Harvey",
+          "runs": 56,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "J Fraser-McGurk",
+          "runs": 8,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "J Seymour",
+          "runs": 23,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 164.29,
+          "out": true
+        },
+        {
+          "player": "Mohammad Nabi",
+          "runs": 12,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "W Sutherland",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "J Merlo",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "KW Richardson",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JL Pattinson",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "RJW Topley",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "GHS Garton",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 5.76
+        },
+        {
+          "player": "DJ Worrall",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 6.5
+        },
+        {
+          "player": "Rashid Khan",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.2
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 11.0
+        },
+        {
+          "player": "WA Agar",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "MW Short",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Adelaide Strikers",
+      "runs": 151,
+      "extras": 9,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "MW Short",
+          "runs": 29,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 161.11,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 18,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HJ Nielsen",
+          "runs": 30,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JW Wells",
+          "runs": 8,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "RJ Gibson",
+          "runs": 8,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "DR Drew",
+          "runs": 23,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 109.52,
+          "out": false
+        },
+        {
+          "player": "GHS Garton",
+          "runs": 5,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "Rashid Khan",
+          "runs": 11,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 137.5,
+          "out": true
+        },
+        {
+          "player": "DJ Worrall",
+          "runs": 9,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "WA Agar",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RJW Topley",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 10.56
+        },
+        {
+          "player": "JL Pattinson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.48
+        },
+        {
+          "player": "KW Richardson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "Zahir Khan",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 24,
+          "wickets": 3,
+          "economy": 5.54
+        },
+        {
+          "player": "Mohammad Nabi",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "player": "W Sutherland",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 13,
+          "wickets": 2,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

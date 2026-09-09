@@ -1,0 +1,112 @@
+{
+  "id": "1243930",
+  "teams": [
+    "South Africa",
+    "West Indies"
+  ],
+  "date": "2022-03-24",
+  "format": "ODI",
+  "competition": "ICC Women's World Cup",
+  "venue": "Basin Reserve, Wellington",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 61,
+      "extras": 4,
+      "balls": 69,
+      "batting": [
+        {
+          "player": "L Lee",
+          "runs": 9,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "L Wolvaardt",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "T Brits",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "S Luus",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "M du Preez",
+          "runs": 38,
+          "balls": 31,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 122.58,
+          "out": false
+        },
+        {
+          "player": "M Kapp",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SS Connell",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 4.15
+        },
+        {
+          "player": "CA Henry",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 19,
+          "wickets": 3,
+          "economy": 3.56
+        },
+        {
+          "player": "DJS Dottin",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "HK Matthews",
+          "overs": "0.5",
+          "balls": 5,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 18.0
+        }
+      ]
+    }
+  ]
+}

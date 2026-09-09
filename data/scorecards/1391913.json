@@ -1,0 +1,646 @@
+{
+  "id": "1391913",
+  "teams": [
+    "Central Stags",
+    "Canterbury"
+  ],
+  "date": "2023-11-15",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "McLean Park",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Canterbury",
+      "runs": 225,
+      "extras": 17,
+      "balls": 482,
+      "batting": [
+        {
+          "player": "CJ Bowes",
+          "runs": 6,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "MWT Boyle",
+          "runs": 54,
+          "balls": 88,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 61.36,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 28,
+          "balls": 47,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 59.57,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 8,
+          "balls": 45,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.78,
+          "out": true
+        },
+        {
+          "player": "MJ Hay",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "ZGF Foulkes",
+          "runs": 44,
+          "balls": 91,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.35,
+          "out": true
+        },
+        {
+          "player": "AW McKenzie",
+          "runs": 0,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SB Davey",
+          "runs": 22,
+          "balls": 61,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.07,
+          "out": true
+        },
+        {
+          "player": "W O'Rourke",
+          "runs": 16,
+          "balls": 52,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "FW Sheat",
+          "runs": 30,
+          "balls": 49,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.22,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DAJ Bracewell",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 1.91
+        },
+        {
+          "player": "BG Randell",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 30,
+          "wickets": 4,
+          "economy": 1.76
+        },
+        {
+          "player": "RL Toole",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 57,
+          "wickets": 0,
+          "economy": 3.76
+        },
+        {
+          "player": "BM Tickner",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 38,
+          "wickets": 3,
+          "economy": 2.35
+        },
+        {
+          "player": "JA Clarkson",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 4.14
+        },
+        {
+          "player": "AY Patel",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 3.46
+        },
+        {
+          "player": "BD Schmulian",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Central Stags",
+      "runs": 177,
+      "extras": 25,
+      "balls": 444,
+      "batting": [
+        {
+          "player": "JCT Boyle",
+          "runs": 21,
+          "balls": 76,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 27.63,
+          "out": true
+        },
+        {
+          "player": "CG Heaphy",
+          "runs": 30,
+          "balls": 129,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.26,
+          "out": true
+        },
+        {
+          "player": "GR Hay",
+          "runs": 0,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BD Schmulian",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 34,
+          "balls": 69,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 49.28,
+          "out": true
+        },
+        {
+          "player": "JA Clarkson",
+          "runs": 17,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 62.96,
+          "out": true
+        },
+        {
+          "player": "DAJ Bracewell",
+          "runs": 7,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "BG Randell",
+          "runs": 2,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.76,
+          "out": true
+        },
+        {
+          "player": "AY Patel",
+          "runs": 23,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 69.7,
+          "out": true
+        },
+        {
+          "player": "BM Tickner",
+          "runs": 10,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": false
+        },
+        {
+          "player": "RL Toole",
+          "runs": 8,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "W O'Rourke",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 29,
+          "wickets": 3,
+          "economy": 1.91
+        },
+        {
+          "player": "FW Sheat",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 2.25
+        },
+        {
+          "player": "SB Davey",
+          "overs": "15.4",
+          "balls": 94,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 2.87
+        },
+        {
+          "player": "ZGF Foulkes",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 1.93
+        },
+        {
+          "player": "AW McKenzie",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 47,
+          "wickets": 3,
+          "economy": 3.62
+        },
+        {
+          "player": "MJG Rippon",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 2,
+          "wickets": 2,
+          "economy": 0.48
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Canterbury",
+      "runs": 320,
+      "extras": 10,
+      "balls": 491,
+      "batting": [
+        {
+          "player": "CJ Bowes",
+          "runs": 9,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "MWT Boyle",
+          "runs": 41,
+          "balls": 47,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 87.23,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 30,
+          "balls": 67,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.78,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "MJ Hay",
+          "runs": 39,
+          "balls": 67,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 58.21,
+          "out": true
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 47,
+          "balls": 107,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.93,
+          "out": true
+        },
+        {
+          "player": "ZGF Foulkes",
+          "runs": 50,
+          "balls": 69,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 72.46,
+          "out": true
+        },
+        {
+          "player": "AW McKenzie",
+          "runs": 53,
+          "balls": 88,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 60.23,
+          "out": true
+        },
+        {
+          "player": "SB Davey",
+          "runs": 15,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "FW Sheat",
+          "runs": 19,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 158.33,
+          "out": false
+        },
+        {
+          "player": "W O'Rourke",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BG Randell",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "BM Tickner",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 3.62
+        },
+        {
+          "player": "JA Clarkson",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "RL Toole",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 91,
+          "wickets": 6,
+          "economy": 4.79
+        },
+        {
+          "player": "AY Patel",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 75,
+          "wickets": 2,
+          "economy": 4.17
+        },
+        {
+          "player": "BD Schmulian",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Central Stags",
+      "runs": 256,
+      "extras": 17,
+      "balls": 460,
+      "batting": [
+        {
+          "player": "CG Heaphy",
+          "runs": 2,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "JCT Boyle",
+          "runs": 72,
+          "balls": 141,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 51.06,
+          "out": true
+        },
+        {
+          "player": "GR Hay",
+          "runs": 35,
+          "balls": 59,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 59.32,
+          "out": true
+        },
+        {
+          "player": "BD Schmulian",
+          "runs": 5,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 60,
+          "balls": 113,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 53.1,
+          "out": true
+        },
+        {
+          "player": "AY Patel",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "JA Clarkson",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DAJ Bracewell",
+          "runs": 59,
+          "balls": 93,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 63.44,
+          "out": false
+        },
+        {
+          "player": "BG Randell",
+          "runs": 4,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "BM Tickner",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "W O'Rourke",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 54,
+          "wickets": 3,
+          "economy": 3.15
+        },
+        {
+          "player": "FW Sheat",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 2.71
+        },
+        {
+          "player": "ZGF Foulkes",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "SB Davey",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 4.65
+        },
+        {
+          "player": "AW McKenzie",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 3.67
+        },
+        {
+          "player": "MJG Rippon",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 3.67
+        }
+      ]
+    }
+  ]
+}

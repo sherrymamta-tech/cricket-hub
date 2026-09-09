@@ -1,0 +1,603 @@
+{
+  "id": "730277",
+  "teams": [
+    "West Indies",
+    "New Zealand"
+  ],
+  "date": "2014-06-08",
+  "format": "Test",
+  "competition": "New Zealand in West Indies Test Series",
+  "venue": "Sabina Park, Kingston",
+  "result": "New Zealand won by 186 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 508,
+      "extras": 32,
+      "balls": 1050,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 83,
+          "balls": 206,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 40.29,
+          "out": true
+        },
+        {
+          "player": "PG Fulton",
+          "runs": 1,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.26,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 113,
+          "balls": 298,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 37.92,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 55,
+          "balls": 128,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 42.97,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 7,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 107,
+          "balls": 171,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 62.57,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 89,
+          "balls": 204,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 43.63,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 21,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 300.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JE Taylor",
+          "overs": "26.2",
+          "balls": 158,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 1.41
+        },
+        {
+          "player": "KAJ Roach",
+          "overs": "29.1",
+          "balls": 175,
+          "runs": 87,
+          "wickets": 0,
+          "economy": 2.98
+        },
+        {
+          "player": "DM Bravo",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "SJ Benn",
+          "overs": "52.0",
+          "balls": 312,
+          "runs": 159,
+          "wickets": 3,
+          "economy": 3.06
+        },
+        {
+          "player": "MN Samuels",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 58,
+          "wickets": 0,
+          "economy": 3.87
+        },
+        {
+          "player": "S Shillingford",
+          "overs": "46.3",
+          "balls": 279,
+          "runs": 147,
+          "wickets": 3,
+          "economy": 3.16
+        },
+        {
+          "player": "CH Gayle",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 3.4
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "runs": 262,
+      "extras": 5,
+      "balls": 491,
+      "batting": [
+        {
+          "player": "CH Gayle",
+          "runs": 64,
+          "balls": 125,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 51.2,
+          "out": true
+        },
+        {
+          "player": "KOA Powell",
+          "runs": 28,
+          "balls": 76,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "KA Edwards",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 84,
+          "balls": 139,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 60.43,
+          "out": false
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "D Ramdin",
+          "runs": 39,
+          "balls": 77,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 50.65,
+          "out": true
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "JE Taylor",
+          "runs": 7,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "SJ Benn",
+          "runs": 17,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 80.95,
+          "out": true
+        },
+        {
+          "player": "S Shillingford",
+          "runs": 14,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 66.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 3.47
+        },
+        {
+          "player": "TG Southee",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 19,
+          "wickets": 4,
+          "economy": 1.16
+        },
+        {
+          "player": "MD Craig",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 91,
+          "wickets": 4,
+          "economy": 3.77
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 2.67
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 4.31
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New Zealand",
+      "runs": 156,
+      "extras": 8,
+      "balls": 365,
+      "batting": [
+        {
+          "player": "PG Fulton",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 2,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 73,
+          "balls": 181,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 40.33,
+          "out": true
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 4,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.39,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 17,
+          "balls": 47,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.17,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 20,
+          "balls": 45,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 22,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.97,
+          "out": false
+        },
+        {
+          "player": "TG Southee",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MD Craig",
+          "runs": 7,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 350.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JE Taylor",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 32,
+          "wickets": 3,
+          "economy": 2.67
+        },
+        {
+          "player": "KAJ Roach",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 1.0
+        },
+        {
+          "player": "SJ Benn",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 2.8
+        },
+        {
+          "player": "S Shillingford",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 3.08
+        },
+        {
+          "player": "MN Samuels",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 3.67
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "West Indies",
+      "runs": 216,
+      "extras": 7,
+      "balls": 287,
+      "batting": [
+        {
+          "player": "CH Gayle",
+          "runs": 10,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "KOA Powell",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KA Edwards",
+          "runs": 14,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true
+        },
+        {
+          "player": "DM Bravo",
+          "runs": 12,
+          "balls": 42,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 24,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "D Ramdin",
+          "runs": 34,
+          "balls": 62,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 54.84,
+          "out": true
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 19,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 57.58,
+          "out": true
+        },
+        {
+          "player": "JE Taylor",
+          "runs": 18,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 138.46,
+          "out": true
+        },
+        {
+          "player": "S Shillingford",
+          "runs": 53,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 5,
+          "strike_rate": 182.76,
+          "out": false
+        },
+        {
+          "player": "SJ Benn",
+          "runs": 25,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 92.59,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "TG Southee",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 3.56
+        },
+        {
+          "player": "MD Craig",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 97,
+          "wickets": 4,
+          "economy": 6.47
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 4.15
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 47,
+          "wickets": 3,
+          "economy": 4.27
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "0.4",
+          "balls": 4,
+          "runs": 1,
+          "wickets": 1,
+          "economy": 1.5
+        }
+      ]
+    }
+  ]
+}

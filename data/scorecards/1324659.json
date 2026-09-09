@@ -1,0 +1,251 @@
+{
+  "id": "1324659",
+  "teams": [
+    "Adelaide Strikers",
+    "Melbourne Renegades"
+  ],
+  "date": "2023-01-10",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Adelaide Oval",
+  "result": "Adelaide Strikers won by 20 runs",
+  "winner": "Adelaide Strikers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Adelaide Strikers",
+      "runs": 202,
+      "extras": 5,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "MW Short",
+          "runs": 38,
+          "balls": 22,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 172.73,
+          "out": true
+        },
+        {
+          "player": "RJ Gibson",
+          "runs": 24,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "CA Lynn",
+          "runs": 69,
+          "balls": 39,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 176.92,
+          "out": false
+        },
+        {
+          "player": "AJ Hose",
+          "runs": 33,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 126.92,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 32,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 177.78,
+          "out": true
+        },
+        {
+          "player": "T Kelly",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TS Rogers",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 7.25
+        },
+        {
+          "player": "DJM Moody",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 10.32
+        },
+        {
+          "player": "KW Richardson",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 14.0
+        },
+        {
+          "player": "MJJ Critchley",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 19.0
+        },
+        {
+          "player": "RP Kellepotha",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 8.0
+        },
+        {
+          "player": "W Sutherland",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 5.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Renegades",
+      "runs": 182,
+      "extras": 4,
+      "balls": 121,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 14,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 107.69,
+          "out": true
+        },
+        {
+          "player": "MS Harris",
+          "runs": 8,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "SB Harper",
+          "runs": 63,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "JW Wells",
+          "runs": 26,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 123.81,
+          "out": true
+        },
+        {
+          "player": "MJJ Critchley",
+          "runs": 33,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 173.68,
+          "out": false
+        },
+        {
+          "player": "W Sutherland",
+          "runs": 31,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 221.43,
+          "out": true
+        },
+        {
+          "player": "RP Kellepotha",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MW Short",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 6.5
+        },
+        {
+          "player": "HNA Conway",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 10.32
+        },
+        {
+          "player": "WA Agar",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.75
+        },
+        {
+          "player": "CJ Boyce",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "BAD Manenti",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 50,
+          "wickets": 2,
+          "economy": 12.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "id": "1447096",
+  "teams": [
+    "Sri Lanka",
+    "New Zealand"
+  ],
+  "date": "2024-09-18",
+  "format": "Test",
+  "competition": "New Zealand tour of Sri Lanka",
+  "venue": "Galle International Stadium",
+  "result": "Sri Lanka won by 63 runs",
+  "winner": "Sri Lanka",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "runs": 305,
+      "extras": 19,
+      "balls": 556,
+      "batting": [
+        {
+          "player": "P Nissanka",
+          "runs": 27,
+          "balls": 25,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 108.0,
+          "out": true
+        },
+        {
+          "player": "FDM Karunaratne",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 30,
+          "balls": 71,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 42.25,
+          "out": true
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 36,
+          "balls": 116,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 31.03,
+          "out": true
+        },
+        {
+          "player": "PHKD Mendis",
+          "runs": 114,
+          "balls": 173,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 65.9,
+          "out": true
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 11,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.83,
+          "out": true
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 50,
+          "balls": 68,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 73.53,
+          "out": true
+        },
+        {
+          "player": "RTM Mendis",
+          "runs": 14,
+          "balls": 50,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 28.0,
+          "out": true
+        },
+        {
+          "player": "NGRP Jayasuriya",
+          "runs": 0,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CBRLS Kumara",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "AM Fernando",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 3.57
+        },
+        {
+          "player": "W O'Rourke",
+          "overs": "19.4",
+          "balls": 118,
+          "runs": 57,
+          "wickets": 5,
+          "economy": 2.9
+        },
+        {
+          "player": "AY Patel",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 64,
+          "wickets": 2,
+          "economy": 3.2
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 68,
+          "wickets": 0,
+          "economy": 3.58
+        },
+        {
+          "player": "GD Phillips",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 54,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "R Ravindra",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 340,
+      "extras": 15,
+      "balls": 549,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 70,
+          "balls": 111,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 63.06,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 17,
+          "balls": 59,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.81,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 55,
+          "balls": 104,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 52.88,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 39,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 81.25,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 57,
+          "balls": 88,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 64.77,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 25,
+          "balls": 65,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 49,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 5,
+          "strike_rate": 102.08,
+          "out": false
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "AY Patel",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "W O'Rourke",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AM Fernando",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 3.87
+        },
+        {
+          "player": "CBRLS Kumara",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 2.42
+        },
+        {
+          "player": "DM de Silva",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 4.43
+        },
+        {
+          "player": "RTM Mendis",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 103,
+          "wickets": 3,
+          "economy": 4.29
+        },
+        {
+          "player": "NGRP Jayasuriya",
+          "overs": "40.0",
+          "balls": 240,
+          "runs": 140,
+          "wickets": 4,
+          "economy": 3.5
+        },
+        {
+          "player": "PHKD Mendis",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Sri Lanka",
+      "runs": 309,
+      "extras": 25,
+      "balls": 572,
+      "batting": [
+        {
+          "player": "P Nissanka",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "FDM Karunaratne",
+          "runs": 83,
+          "balls": 127,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 65.35,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 61,
+          "balls": 151,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 40.4,
+          "out": true
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 50,
+          "balls": 111,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 45.05,
+          "out": true
+        },
+        {
+          "player": "PHKD Mendis",
+          "runs": 13,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 108.33,
+          "out": true
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 40,
+          "balls": 78,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 51.28,
+          "out": true
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 23,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 76.67,
+          "out": true
+        },
+        {
+          "player": "RTM Mendis",
+          "runs": 1,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.56,
+          "out": true
+        },
+        {
+          "player": "NGRP Jayasuriya",
+          "runs": 11,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.83,
+          "out": true
+        },
+        {
+          "player": "CBRLS Kumara",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AM Fernando",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "W O'Rourke",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 56,
+          "wickets": 3,
+          "economy": 3.14
+        },
+        {
+          "player": "AY Patel",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 96,
+          "wickets": 6,
+          "economy": 3.2
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 3.56
+        },
+        {
+          "player": "TG Southee",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 2.81
+        },
+        {
+          "player": "GD Phillips",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 50,
+          "wickets": 0,
+          "economy": 4.17
+        },
+        {
+          "player": "R Ravindra",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 2.13
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "New Zealand",
+      "runs": 211,
+      "extras": 9,
+      "balls": 431,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 28,
+          "balls": 68,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.18,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 30,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 65.22,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 92,
+          "balls": 168,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 54.76,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 8,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 30,
+          "balls": 43,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 69.77,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 4,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 2,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "AY Patel",
+          "runs": 2,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": false
+        },
+        {
+          "player": "W O'Rourke",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RTM Mendis",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 83,
+          "wickets": 3,
+          "economy": 3.32
+        },
+        {
+          "player": "AM Fernando",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 2.5
+        },
+        {
+          "player": "NGRP Jayasuriya",
+          "overs": "30.5",
+          "balls": 185,
+          "runs": 76,
+          "wickets": 5,
+          "economy": 2.46
+        },
+        {
+          "player": "DM de Silva",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 2.67
+        },
+        {
+          "player": "CBRLS Kumara",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        }
+      ]
+    }
+  ]
+}

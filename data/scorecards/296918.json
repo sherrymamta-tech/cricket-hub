@@ -1,0 +1,69 @@
+{
+  "id": "296918",
+  "teams": [
+    "England",
+    "South Africa"
+  ],
+  "date": "2008-09-03",
+  "format": "ODI",
+  "competition": "NatWest Series",
+  "venue": "Sophia Gardens",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 6,
+      "extras": 0,
+      "balls": 18,
+      "batting": [
+        {
+          "player": "HH Gibbs",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 0,
+          "wickets": 1,
+          "economy": 0.0
+        }
+      ]
+    }
+  ]
+}

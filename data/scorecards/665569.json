@@ -1,0 +1,110 @@
+{
+  "id": "665569",
+  "teams": [
+    "Northern Districts",
+    "Wellington Firebirds"
+  ],
+  "date": "2014-02-07",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Karori Park, Wellington",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northern Districts",
+      "runs": 169,
+      "extras": 18,
+      "balls": 313,
+      "batting": [
+        {
+          "player": "DR Flynn",
+          "runs": 70,
+          "balls": 82,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 85.37,
+          "out": true
+        },
+        {
+          "player": "BS Wilson",
+          "runs": 14,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.17,
+          "out": true
+        },
+        {
+          "player": "JF Carter",
+          "runs": 47,
+          "balls": 120,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 39.17,
+          "out": false
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 20,
+          "balls": 63,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.75,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MR Gillespie",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 3.81
+        },
+        {
+          "player": "BJ Arnel",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 2.11
+        },
+        {
+          "player": "AJ McKay",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 4.62
+        },
+        {
+          "player": "GD Elliott",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 3.2
+        },
+        {
+          "player": "JEC Franklin",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 3.12
+        },
+        {
+          "player": "JS Patel",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    }
+  ]
+}

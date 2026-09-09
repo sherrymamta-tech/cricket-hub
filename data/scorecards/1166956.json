@@ -1,0 +1,615 @@
+{
+  "id": "1166956",
+  "teams": [
+    "Yorkshire",
+    "Nottinghamshire"
+  ],
+  "date": "2019-08-18",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "North Marine Road Ground, Scarborough",
+  "result": "Yorkshire won by 143 runs",
+  "winner": "Yorkshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Yorkshire",
+      "runs": 232,
+      "extras": 19,
+      "balls": 464,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 4,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "WAR Fraine",
+          "runs": 11,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.43,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 92,
+          "balls": 197,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 46.7,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 58,
+          "balls": 122,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 47.54,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 7,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 16,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": false
+        },
+        {
+          "player": "BO Coad",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 14,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LJ Fletcher",
+          "overs": "17.4",
+          "balls": 106,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 2.77
+        },
+        {
+          "player": "L Wood",
+          "overs": "17.3",
+          "balls": 105,
+          "runs": 67,
+          "wickets": 5,
+          "economy": 3.83
+        },
+        {
+          "player": "JT Ball",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 3.38
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 3.17
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 34,
+          "wickets": 4,
+          "economy": 1.98
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Nottinghamshire",
+      "runs": 184,
+      "extras": 9,
+      "balls": 368,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 29,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 60.42,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 18,
+          "balls": 63,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "CD Nash",
+          "runs": 33,
+          "balls": 37,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 89.19,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 8,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 13,
+          "balls": 37,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 35.14,
+          "out": true
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 15,
+          "balls": 65,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 48,
+          "balls": 49,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 97.96,
+          "out": true
+        },
+        {
+          "player": "P Coughlin",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "L Wood",
+          "runs": 6,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 24.0,
+          "out": true
+        },
+        {
+          "player": "LJ Fletcher",
+          "runs": 4,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JT Ball",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 59,
+          "wickets": 3,
+          "economy": 3.69
+        },
+        {
+          "player": "D Olivier",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 64,
+          "wickets": 4,
+          "economy": 3.69
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 3.27
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 0.92
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Yorkshire",
+      "runs": 338,
+      "extras": 27,
+      "balls": 618,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 81,
+          "balls": 143,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 56.64,
+          "out": true
+        },
+        {
+          "player": "WAR Fraine",
+          "runs": 24,
+          "balls": 58,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.38,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 61,
+          "balls": 139,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 43.88,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 9,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 59,
+          "balls": 121,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 48.76,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 18,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 7,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.21,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 2,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.33,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 35,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "BO Coad",
+          "runs": 11,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LJ Fletcher",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 67,
+          "wickets": 5,
+          "economy": 2.39
+        },
+        {
+          "player": "L Wood",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 71,
+          "wickets": 1,
+          "economy": 5.32
+        },
+        {
+          "player": "JT Ball",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 2.9
+        },
+        {
+          "player": "P Coughlin",
+          "overs": "18.4",
+          "balls": 112,
+          "runs": 62,
+          "wickets": 2,
+          "economy": 3.32
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 77,
+          "wickets": 2,
+          "economy": 3.5
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Nottinghamshire",
+      "runs": 243,
+      "extras": 18,
+      "balls": 476,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 18,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 72.0,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 11,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 28.95,
+          "out": true
+        },
+        {
+          "player": "CD Nash",
+          "runs": 30,
+          "balls": 74,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 40.54,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 75,
+          "balls": 110,
+          "fours": 10,
+          "sixes": 2,
+          "strike_rate": 68.18,
+          "out": true
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 58,
+          "balls": 134,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 43.28,
+          "out": false
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 5,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "P Coughlin",
+          "runs": 9,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 24.32,
+          "out": true
+        },
+        {
+          "player": "L Wood",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LJ Fletcher",
+          "runs": 15,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.57,
+          "out": true
+        },
+        {
+          "player": "JT Ball",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 1.91
+        },
+        {
+          "player": "D Olivier",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 3.89
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 100,
+          "wickets": 6,
+          "economy": 3.33
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 2.27
+        },
+        {
+          "player": "TT Bresnan",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 3.44
+        },
+        {
+          "player": "A Lyth",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 1.5
+        }
+      ]
+    }
+  ]
+}

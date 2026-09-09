@@ -1,0 +1,313 @@
+{
+  "id": "1235383",
+  "teams": [
+    "Warriors",
+    "Knights"
+  ],
+  "date": "2021-02-25",
+  "format": "T20",
+  "competition": "CSA T20 Challenge",
+  "venue": "Kingsmead, Durban",
+  "result": "Warriors won by 14 runs",
+  "winner": "Warriors",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Warriors",
+      "runs": 157,
+      "extras": 10,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "JT Smuts",
+          "runs": 33,
+          "balls": 21,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 157.14,
+          "out": true
+        },
+        {
+          "player": "GL Cloete",
+          "runs": 22,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 104.76,
+          "out": true
+        },
+        {
+          "player": "LC Ngoepe",
+          "runs": 41,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 132.26,
+          "out": true
+        },
+        {
+          "player": "S Qeshile",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WJ Lubbe",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "T Stubbs",
+          "runs": 11,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true
+        },
+        {
+          "player": "A Gqamane",
+          "runs": 15,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "M Jansen",
+          "runs": 9,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "A Nortje",
+          "runs": 14,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 233.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Pretorius",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 10.11
+        },
+        {
+          "player": "G Coetzee",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 7.85
+        },
+        {
+          "player": "SA Mothoa",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 12.5
+        },
+        {
+          "player": "S von Berg",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.75
+        },
+        {
+          "player": "MC Kleinveldt",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 5.37
+        },
+        {
+          "player": "M Budaza",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 22,
+          "wickets": 3,
+          "economy": 5.08
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Knights",
+      "runs": 143,
+      "extras": 9,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "MC Kleinveldt",
+          "runs": 12,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "PE Kruger",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "R van Tonder",
+          "runs": 81,
+          "balls": 60,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 135.0,
+          "out": false
+        },
+        {
+          "player": "JD Vandiar",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "PJ van Biljon",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "W Makwetu",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "M Pretorius",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "S von Berg",
+          "runs": 16,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "G Coetzee",
+          "runs": 9,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "SA Mothoa",
+          "runs": 5,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "M Budaza",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JT Smuts",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 7.33
+        },
+        {
+          "player": "WJ Lubbe",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 9.23
+        },
+        {
+          "player": "A Nortje",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 4.32
+        },
+        {
+          "player": "M Jansen",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 7.38
+        },
+        {
+          "player": "M Nabe",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 20,
+          "wickets": 3,
+          "economy": 4.8
+        },
+        {
+          "player": "L Makhosi",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 10.33
+        }
+      ]
+    }
+  ]
+}

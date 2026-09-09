@@ -1,0 +1,619 @@
+{
+  "id": "1452148",
+  "teams": [
+    "Otago Volts",
+    "Canterbury"
+  ],
+  "date": "2024-12-07",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Mainpower Oval, Rangiora",
+  "result": "Canterbury won by 5 wickets",
+  "winner": "Canterbury",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Otago Volts",
+      "runs": 117,
+      "extras": 6,
+      "balls": 228,
+      "batting": [
+        {
+          "player": "TK Parkes",
+          "runs": 17,
+          "balls": 58,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 29.31,
+          "out": true
+        },
+        {
+          "player": "JM Cumming",
+          "runs": 15,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.18,
+          "out": true
+        },
+        {
+          "player": "DN Phillips",
+          "runs": 21,
+          "balls": 54,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "D Foxcroft",
+          "runs": 9,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.0,
+          "out": true
+        },
+        {
+          "player": "LJ Carter",
+          "runs": 8,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "LC Johnson",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "LI Georgeson",
+          "runs": 25,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 75.76,
+          "out": true
+        },
+        {
+          "player": "MW Chu",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T Muller",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 10,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JD McKay",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "FW Sheat",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 3.38
+        },
+        {
+          "player": "ZGF Foulkes",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 47,
+          "wickets": 5,
+          "economy": 3.86
+        },
+        {
+          "player": "MD Rae",
+          "overs": "6.5",
+          "balls": 41,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 1.76
+        },
+        {
+          "player": "AW McKenzie",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 1.33
+        },
+        {
+          "player": "CB Paul",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 23,
+          "wickets": 3,
+          "economy": 4.6
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Canterbury",
+      "runs": 331,
+      "extras": 20,
+      "balls": 585,
+      "batting": [
+        {
+          "player": "RA Mariu",
+          "runs": 87,
+          "balls": 117,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 74.36,
+          "out": true
+        },
+        {
+          "player": "CJ Bowes",
+          "runs": 16,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 84.21,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 13,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MWT Boyle",
+          "runs": 18,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "MJ Hay",
+          "runs": 81,
+          "balls": 184,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 44.02,
+          "out": true
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 45,
+          "balls": 142,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 31.69,
+          "out": true
+        },
+        {
+          "player": "ZGF Foulkes",
+          "runs": 35,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 106.06,
+          "out": true
+        },
+        {
+          "player": "CB Paul",
+          "runs": 2,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.33,
+          "out": true
+        },
+        {
+          "player": "AW McKenzie",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "FW Sheat",
+          "runs": 8,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "MD Rae",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Duffy",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 77,
+          "wickets": 0,
+          "economy": 3.08
+        },
+        {
+          "player": "LI Georgeson",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 47,
+          "wickets": 3,
+          "economy": 3.1
+        },
+        {
+          "player": "T Muller",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 80,
+          "wickets": 3,
+          "economy": 3.43
+        },
+        {
+          "player": "JD McKay",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 84,
+          "wickets": 3,
+          "economy": 3.82
+        },
+        {
+          "player": "D Foxcroft",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 3.7
+        },
+        {
+          "player": "JM Cumming",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Otago Volts",
+      "runs": 515,
+      "extras": 27,
+      "balls": 1063,
+      "batting": [
+        {
+          "player": "TK Parkes",
+          "runs": 7,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "JM Cumming",
+          "runs": 20,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "DN Phillips",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "D Foxcroft",
+          "runs": 5,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": true
+        },
+        {
+          "player": "LJ Carter",
+          "runs": 57,
+          "balls": 50,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 114.0,
+          "out": true
+        },
+        {
+          "player": "LC Johnson",
+          "runs": 23,
+          "balls": 46,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MW Chu",
+          "runs": 130,
+          "balls": 315,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 41.27,
+          "out": true
+        },
+        {
+          "player": "LI Georgeson",
+          "runs": 159,
+          "balls": 461,
+          "fours": 22,
+          "sixes": 1,
+          "strike_rate": 34.49,
+          "out": false
+        },
+        {
+          "player": "T Muller",
+          "runs": 6,
+          "balls": 37,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.22,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 56,
+          "balls": 68,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 82.35,
+          "out": true
+        },
+        {
+          "player": "JD McKay",
+          "runs": 20,
+          "balls": 15,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "FW Sheat",
+          "overs": "30.1",
+          "balls": 181,
+          "runs": 66,
+          "wickets": 3,
+          "economy": 2.19
+        },
+        {
+          "player": "ZGF Foulkes",
+          "overs": "33.1",
+          "balls": 199,
+          "runs": 105,
+          "wickets": 2,
+          "economy": 3.17
+        },
+        {
+          "player": "MD Rae",
+          "overs": "36.2",
+          "balls": 218,
+          "runs": 110,
+          "wickets": 2,
+          "economy": 3.03
+        },
+        {
+          "player": "AW McKenzie",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 79,
+          "wickets": 2,
+          "economy": 3.02
+        },
+        {
+          "player": "CB Paul",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 3.56
+        },
+        {
+          "player": "CE McConchie",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 1.42
+        },
+        {
+          "player": "MJG Rippon",
+          "overs": "13.5",
+          "balls": 83,
+          "runs": 66,
+          "wickets": 1,
+          "economy": 4.77
+        },
+        {
+          "player": "MWT Boyle",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Canterbury",
+      "runs": 302,
+      "extras": 11,
+      "balls": 404,
+      "batting": [
+        {
+          "player": "RA Mariu",
+          "runs": 70,
+          "balls": 81,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 86.42,
+          "out": true
+        },
+        {
+          "player": "CJ Bowes",
+          "runs": 46,
+          "balls": 42,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 109.52,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 66,
+          "balls": 107,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 61.68,
+          "out": true
+        },
+        {
+          "player": "MWT Boyle",
+          "runs": 4,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": true
+        },
+        {
+          "player": "MJ Hay",
+          "runs": 55,
+          "balls": 90,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 61.11,
+          "out": true
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 46,
+          "balls": 60,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 76.67,
+          "out": false
+        },
+        {
+          "player": "ZGF Foulkes",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Duffy",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 6.24
+        },
+        {
+          "player": "T Muller",
+          "overs": "14.3",
+          "balls": 87,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 4.34
+        },
+        {
+          "player": "JD McKay",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 75,
+          "wickets": 1,
+          "economy": 5.56
+        },
+        {
+          "player": "D Foxcroft",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 65,
+          "wickets": 2,
+          "economy": 3.22
+        },
+        {
+          "player": "JM Cumming",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 4.33
+        },
+        {
+          "player": "DN Phillips",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 4.4
+        }
+      ]
+    }
+  ]
+}

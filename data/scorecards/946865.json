@@ -1,0 +1,602 @@
+{
+  "id": "946865",
+  "teams": [
+    "Durham",
+    "Yorkshire"
+  ],
+  "date": "2016-06-20",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 172,
+      "extras": 6,
+      "balls": 367,
+      "batting": [
+        {
+          "player": "MD Stoneman",
+          "runs": 45,
+          "balls": 71,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 63.38,
+          "out": true
+        },
+        {
+          "player": "KK Jennings",
+          "runs": 20,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.05,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JTA Burnham",
+          "runs": 49,
+          "balls": 134,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 36.57,
+          "out": true
+        },
+        {
+          "player": "MJ Richardson",
+          "runs": 18,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 105.88,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "RD Pringle",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "U Arshad",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "BJ McCarthy",
+          "runs": 9,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 13,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.15,
+          "out": true
+        },
+        {
+          "player": "G Onions",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TT Bresnan",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 2.57
+        },
+        {
+          "player": "BO Coad",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 2.29
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 58,
+          "wickets": 6,
+          "economy": 2.88
+        },
+        {
+          "player": "J Shaw",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 3.9
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Yorkshire",
+      "runs": 323,
+      "extras": 8,
+      "balls": 541,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 12,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 71,
+          "balls": 78,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 91.03,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 10,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 78,
+          "balls": 114,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 68.42,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AW Gale",
+          "runs": 28,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 9,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.13,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 63,
+          "balls": 124,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 50.81,
+          "out": true
+        },
+        {
+          "player": "AJ Hodd",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "J Shaw",
+          "runs": 24,
+          "balls": 65,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.92,
+          "out": true
+        },
+        {
+          "player": "BO Coad",
+          "runs": 17,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.57,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 101,
+          "wickets": 5,
+          "economy": 4.04
+        },
+        {
+          "player": "G Onions",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 90,
+          "wickets": 2,
+          "economy": 3.75
+        },
+        {
+          "player": "BJ McCarthy",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 3.9
+        },
+        {
+          "player": "U Arshad",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 2.88
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 1.5
+        },
+        {
+          "player": "RD Pringle",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Durham",
+      "runs": 507,
+      "extras": 26,
+      "balls": 874,
+      "batting": [
+        {
+          "player": "MD Stoneman",
+          "runs": 28,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "KK Jennings",
+          "runs": 221,
+          "balls": 417,
+          "fours": 23,
+          "sixes": 0,
+          "strike_rate": 53.0,
+          "out": false
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 4,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 14.81,
+          "out": true
+        },
+        {
+          "player": "JTA Burnham",
+          "runs": 8,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.86,
+          "out": true
+        },
+        {
+          "player": "MJ Richardson",
+          "runs": 13,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.14,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 61,
+          "balls": 119,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 51.26,
+          "out": true
+        },
+        {
+          "player": "RD Pringle",
+          "runs": 20,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "U Arshad",
+          "runs": 84,
+          "balls": 115,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 73.04,
+          "out": true
+        },
+        {
+          "player": "BJ McCarthy",
+          "runs": 11,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.83,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 31,
+          "balls": 53,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 58.49,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TT Bresnan",
+          "overs": "35.2",
+          "balls": 212,
+          "runs": 145,
+          "wickets": 2,
+          "economy": 4.1
+        },
+        {
+          "player": "BO Coad",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 73,
+          "wickets": 1,
+          "economy": 4.06
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "38.1",
+          "balls": 229,
+          "runs": 80,
+          "wickets": 2,
+          "economy": 2.1
+        },
+        {
+          "player": "J Shaw",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 88,
+          "wickets": 0,
+          "economy": 4.59
+        },
+        {
+          "player": "A Lyth",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 3.87
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 2.86
+        },
+        {
+          "player": "JA Leaning",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 3.83
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Yorkshire",
+      "runs": 238,
+      "extras": 16,
+      "balls": 492,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 50,
+          "balls": 102,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 49.02,
+          "out": true
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 74,
+          "balls": 145,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 51.03,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 32,
+          "balls": 40,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "AW Gale",
+          "runs": 17,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.78,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 22,
+          "balls": 84,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 26.19,
+          "out": false
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 27,
+          "balls": 75,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 2.9
+        },
+        {
+          "player": "G Onions",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 2.07
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 73,
+          "wickets": 0,
+          "economy": 3.65
+        },
+        {
+          "player": "RD Pringle",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 2.56
+        },
+        {
+          "player": "U Arshad",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 3.44
+        },
+        {
+          "player": "BJ McCarthy",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 2.55
+        },
+        {
+          "player": "MD Stoneman",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

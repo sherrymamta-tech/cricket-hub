@@ -1,0 +1,93 @@
+{
+  "id": "1068485",
+  "teams": [
+    "Northamptonshire",
+    "Leicestershire"
+  ],
+  "date": "2017-05-12",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "Grace Road, Leicester",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northamptonshire",
+      "runs": 121,
+      "extras": 7,
+      "balls": 106,
+      "batting": [
+        {
+          "player": "RI Newton",
+          "runs": 55,
+          "balls": 56,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 98.21,
+          "out": false
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RE Levi",
+          "runs": 59,
+          "balls": 49,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 120.41,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "D Klein",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 8.25
+        },
+        {
+          "player": "JS Sykes",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "CJ McKay",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.8
+        },
+        {
+          "player": "ZJ Chappell",
+          "overs": "3.4",
+          "balls": 22,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 8.73
+        },
+        {
+          "player": "TJ Wells",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

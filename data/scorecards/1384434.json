@@ -1,0 +1,259 @@
+{
+  "id": "1384434",
+  "teams": [
+    "Bangladesh",
+    "Australia"
+  ],
+  "date": "2023-11-11",
+  "format": "ODI",
+  "competition": "ICC Cricket World Cup",
+  "venue": "Maharashtra Cricket Association Stadium, Pune",
+  "result": "Australia won by 8 wickets",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Bangladesh",
+      "runs": 306,
+      "extras": 24,
+      "balls": 310,
+      "batting": [
+        {
+          "player": "Tanzid Hasan",
+          "runs": 36,
+          "balls": 35,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 102.86,
+          "out": true
+        },
+        {
+          "player": "Liton Das",
+          "runs": 36,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "Nazmul Hossain Shanto",
+          "runs": 45,
+          "balls": 58,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 77.59,
+          "out": true
+        },
+        {
+          "player": "Towhid Hridoy",
+          "runs": 74,
+          "balls": 79,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 93.67,
+          "out": true
+        },
+        {
+          "player": "Mahmudullah",
+          "runs": 32,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 106.67,
+          "out": true
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 21,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "runs": 29,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 138.1,
+          "out": true
+        },
+        {
+          "player": "Nasum Ahmed",
+          "runs": 7,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "Mahedi Hasan",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "Taskin Ahmed",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JR Hazlewood",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "8.4",
+          "balls": 52,
+          "runs": 56,
+          "wickets": 0,
+          "economy": 6.46
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 68,
+          "wickets": 2,
+          "economy": 6.69
+        },
+        {
+          "player": "MR Marsh",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 10.89
+        },
+        {
+          "player": "A Zampa",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 3.3
+        },
+        {
+          "player": "TM Head",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "player": "MP Stoinis",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 8.62
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 307,
+      "extras": 4,
+      "balls": 272,
+      "batting": [
+        {
+          "player": "TM Head",
+          "runs": 10,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 53,
+          "balls": 62,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 85.48,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 177,
+          "balls": 134,
+          "fours": 17,
+          "sixes": 9,
+          "strike_rate": 132.09,
+          "out": false
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 63,
+          "balls": 65,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 96.92,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Taskin Ahmed",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 61,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "Mahedi Hasan",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 4.15
+        },
+        {
+          "player": "Nasum Ahmed",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 85,
+          "wickets": 0,
+          "economy": 8.36
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 7.83
+        },
+        {
+          "player": "Mustafizur Rahman",
+          "overs": "9.5",
+          "balls": 59,
+          "runs": 76,
+          "wickets": 1,
+          "economy": 7.73
+        }
+      ]
+    }
+  ]
+}

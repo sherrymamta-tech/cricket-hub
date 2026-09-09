@@ -1,0 +1,285 @@
+{
+  "id": "1250161",
+  "teams": [
+    "Durham",
+    "Kent"
+  ],
+  "date": "2021-07-22",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "Kent County Cricket Ground, Beckenham",
+  "result": "Durham won by 103 runs",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 405,
+      "extras": 19,
+      "balls": 311,
+      "batting": [
+        {
+          "player": "G Clark",
+          "runs": 141,
+          "balls": 121,
+          "fours": 20,
+          "sixes": 2,
+          "strike_rate": 116.53,
+          "out": true
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 100,
+          "balls": 103,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 97.09,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 67,
+          "balls": 38,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 176.32,
+          "out": true
+        },
+        {
+          "player": "CT Bancroft",
+          "runs": 60,
+          "balls": 37,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 162.16,
+          "out": false
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 6,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "L Trevaskis",
+          "runs": 12,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 171.43,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HW Podmore",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 77,
+          "wickets": 0,
+          "economy": 8.4
+        },
+        {
+          "player": "DI Stevens",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 6.12
+        },
+        {
+          "player": "MR Quinn",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 98,
+          "wickets": 1,
+          "economy": 9.19
+        },
+        {
+          "player": "MK O'Riordan",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 78,
+          "wickets": 1,
+          "economy": 9.55
+        },
+        {
+          "player": "JEG Logan",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 63,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "Hamidullah Qadri",
+          "overs": "6.4",
+          "balls": 40,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 5.85
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 302,
+      "extras": 28,
+      "balls": 310,
+      "batting": [
+        {
+          "player": "OG Robinson",
+          "runs": 8,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "TS Muyeye",
+          "runs": 15,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "HG Kuhn",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "HG Munsey",
+          "runs": 96,
+          "balls": 81,
+          "fours": 14,
+          "sixes": 1,
+          "strike_rate": 118.52,
+          "out": true
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 64,
+          "balls": 85,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 75.29,
+          "out": true
+        },
+        {
+          "player": "DI Stevens",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "MK O'Riordan",
+          "runs": 22,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HW Podmore",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "Hamidullah Qadri",
+          "runs": 42,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 91.3,
+          "out": false
+        },
+        {
+          "player": "JEG Logan",
+          "runs": 16,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 59.26,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 4.0
+        },
+        {
+          "player": "JOI Campbell",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 7.3
+        },
+        {
+          "player": "PA van Meekeren",
+          "overs": "8.4",
+          "balls": 52,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 6.46
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 64,
+          "wickets": 0,
+          "economy": 6.3
+        },
+        {
+          "player": "L Trevaskis",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 4.4
+        },
+        {
+          "player": "L Doneathy",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 6.32
+        },
+        {
+          "player": "G Clark",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

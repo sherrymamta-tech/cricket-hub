@@ -1,0 +1,111 @@
+{
+  "id": "914213",
+  "teams": [
+    "New Zealand",
+    "Sri Lanka"
+  ],
+  "date": "2016-01-02",
+  "format": "ODI",
+  "competition": "Sri Lanka in New Zealand ODI Series",
+  "venue": "Saxton Oval",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 75,
+      "extras": 3,
+      "balls": 57,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 27,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 192.86,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 9,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 12,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 20,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "PVD Chameera",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 10.11
+        },
+        {
+          "player": "NLTC Perera",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "KMDN Kulasekara",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "TAM Siriwardana",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 4.71
+        },
+        {
+          "player": "JDF Vandersay",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 15.0
+        }
+      ]
+    }
+  ]
+}

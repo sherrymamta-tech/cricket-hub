@@ -1,0 +1,612 @@
+{
+  "id": "1410302",
+  "teams": [
+    "Sussex",
+    "Yorkshire"
+  ],
+  "date": "2024-08-22",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "North Marine Road Ground, Scarborough",
+  "result": "Yorkshire won by 4 wickets",
+  "winner": "Yorkshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sussex",
+      "runs": 189,
+      "extras": 3,
+      "balls": 444,
+      "batting": [
+        {
+          "player": "DP Hughes",
+          "runs": 53,
+          "balls": 87,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 60.92,
+          "out": true
+        },
+        {
+          "player": "TJ Haines",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TGR Clark",
+          "runs": 5,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.23,
+          "out": true
+        },
+        {
+          "player": "TP Alsop",
+          "runs": 86,
+          "balls": 187,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 45.99,
+          "out": false
+        },
+        {
+          "player": "JM Coles",
+          "runs": 5,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "JA Simpson",
+          "runs": 16,
+          "balls": 42,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.1,
+          "out": true
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "runs": 6,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "JJ Carson",
+          "runs": 12,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "JD Unadkat",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SF Hunt",
+          "runs": 1,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 4.76,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 52,
+          "wickets": 2,
+          "economy": 2.74
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 2.56
+        },
+        {
+          "player": "GCH Hill",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 2.12
+        },
+        {
+          "player": "ML Revis",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 38,
+          "wickets": 3,
+          "economy": 2.38
+        },
+        {
+          "player": "D Moriarty",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 3.8
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Yorkshire",
+      "runs": 326,
+      "extras": 24,
+      "balls": 502,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 24,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 64.86,
+          "out": true
+        },
+        {
+          "player": "FJ Bean",
+          "runs": 3,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.54,
+          "out": true
+        },
+        {
+          "player": "JH Wharton",
+          "runs": 40,
+          "balls": 51,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 78.43,
+          "out": true
+        },
+        {
+          "player": "W Luxton",
+          "runs": 59,
+          "balls": 130,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 45.38,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 57,
+          "balls": 72,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 79.17,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 16,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 64.0,
+          "out": true
+        },
+        {
+          "player": "ML Revis",
+          "runs": 34,
+          "balls": 64,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 53.12,
+          "out": true
+        },
+        {
+          "player": "GCH Hill",
+          "runs": 14,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 51.85,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 44,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 4,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "BO Coad",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "D Moriarty",
+          "runs": 3,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OE Robinson",
+          "overs": "22.3",
+          "balls": 135,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 2.8
+        },
+        {
+          "player": "JD Unadkat",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 2.5
+        },
+        {
+          "player": "SF Hunt",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 7.57
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 5.45
+        },
+        {
+          "player": "TJ Haines",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "JJ Carson",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 87,
+          "wickets": 5,
+          "economy": 4.35
+        },
+        {
+          "player": "TGR Clark",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.25
+        },
+        {
+          "player": "JM Coles",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Sussex",
+      "runs": 239,
+      "extras": 9,
+      "balls": 545,
+      "batting": [
+        {
+          "player": "TJ Haines",
+          "runs": 26,
+          "balls": 68,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 38.24,
+          "out": true
+        },
+        {
+          "player": "DP Hughes",
+          "runs": 12,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 38.71,
+          "out": true
+        },
+        {
+          "player": "TGR Clark",
+          "runs": 17,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 28.33,
+          "out": true
+        },
+        {
+          "player": "TP Alsop",
+          "runs": 61,
+          "balls": 157,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 38.85,
+          "out": true
+        },
+        {
+          "player": "JM Coles",
+          "runs": 13,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 59.09,
+          "out": true
+        },
+        {
+          "player": "JA Simpson",
+          "runs": 67,
+          "balls": 151,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 44.37,
+          "out": true
+        },
+        {
+          "player": "FJ Hudson-Prentice",
+          "runs": 6,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "JJ Carson",
+          "runs": 0,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 28,
+          "balls": 21,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "JD Unadkat",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SF Hunt",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 71,
+          "wickets": 5,
+          "economy": 3.04
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 3.18
+        },
+        {
+          "player": "D Moriarty",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 1.62
+        },
+        {
+          "player": "GCH Hill",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 1.9
+        },
+        {
+          "player": "ML Revis",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 2.87
+        },
+        {
+          "player": "A Lyth",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 3.48
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Yorkshire",
+      "runs": 103,
+      "extras": 2,
+      "balls": 167,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 40,
+          "balls": 60,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "FJ Bean",
+          "runs": 10,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "D Moriarty",
+          "runs": 17,
+          "balls": 35,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 48.57,
+          "out": true
+        },
+        {
+          "player": "JH Wharton",
+          "runs": 18,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "W Luxton",
+          "runs": 13,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 92.86,
+          "out": false
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JD Unadkat",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 3.29
+        },
+        {
+          "player": "OE Robinson",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "JJ Carson",
+          "overs": "7.5",
+          "balls": 47,
+          "runs": 37,
+          "wickets": 4,
+          "economy": 4.72
+        },
+        {
+          "player": "JM Coles",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 3.8
+        }
+      ]
+    }
+  ]
+}

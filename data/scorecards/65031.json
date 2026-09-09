@@ -1,0 +1,277 @@
+{
+  "id": "65031",
+  "teams": [
+    "Pakistan",
+    "England"
+  ],
+  "date": "2003-06-22",
+  "format": "ODI",
+  "competition": "Pakistan tour of England and Scotland",
+  "venue": "Lord's, London",
+  "result": "England won by 4 wickets",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 229,
+      "extras": 22,
+      "balls": 307,
+      "batting": [
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 19,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.18,
+          "out": true
+        },
+        {
+          "player": "Imran Nazir",
+          "runs": 8,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "Yasir Hameed",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "Yousuf Youhana",
+          "runs": 5,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.73,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 63,
+          "balls": 87,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 72.41,
+          "out": true
+        },
+        {
+          "player": "Shoaib Malik",
+          "runs": 23,
+          "balls": 47,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 48.94,
+          "out": true
+        },
+        {
+          "player": "Abdul Razzaq",
+          "runs": 64,
+          "balls": 54,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 118.52,
+          "out": true
+        },
+        {
+          "player": "Azhar Mahmood",
+          "runs": 20,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 5.43
+        },
+        {
+          "player": "D Gough",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 4.55
+        },
+        {
+          "player": "A Flintoff",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 39,
+          "wickets": 4,
+          "economy": 3.9
+        },
+        {
+          "player": "R Clarke",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 4.7
+        },
+        {
+          "player": "A McGrath",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 4.2
+        },
+        {
+          "player": "AF Giles",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 3.93
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 231,
+      "extras": 27,
+      "balls": 303,
+      "batting": [
+        {
+          "player": "ME Trescothick",
+          "runs": 108,
+          "balls": 146,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 73.97,
+          "out": false
+        },
+        {
+          "player": "VS Solanki",
+          "runs": 12,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "MP Vaughan",
+          "runs": 29,
+          "balls": 43,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 67.44,
+          "out": true
+        },
+        {
+          "player": "JO Troughton",
+          "runs": 20,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "A Flintoff",
+          "runs": 4,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "A McGrath",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "R Clarke",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "CMW Read",
+          "runs": 25,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.98,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shoaib Akhtar",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 4.52
+        },
+        {
+          "player": "Mohammad Sami",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 5.26
+        },
+        {
+          "player": "Abdul Razzaq",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 3.73
+        },
+        {
+          "player": "Azhar Mahmood",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 5.86
+        },
+        {
+          "player": "Shoaib Malik",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 3.77
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 38,
+          "wickets": 3,
+          "economy": 4.22
+        }
+      ]
+    }
+  ]
+}

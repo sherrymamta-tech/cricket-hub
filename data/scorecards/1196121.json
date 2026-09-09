@@ -1,0 +1,615 @@
+{
+  "id": "1196121",
+  "teams": [
+    "New South Wales",
+    "South Australia"
+  ],
+  "date": "2019-11-01",
+  "format": "MDM",
+  "competition": "Marsh Sheffield Shield",
+  "venue": "Adelaide Oval",
+  "result": "New South Wales won by 96 runs",
+  "winner": "New South Wales",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New South Wales",
+      "runs": 289,
+      "extras": 13,
+      "balls": 632,
+      "batting": [
+        {
+          "player": "DP Hughes",
+          "runs": 0,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NCR Larkin",
+          "runs": 16,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 76.19,
+          "out": true
+        },
+        {
+          "player": "DL Solway",
+          "runs": 133,
+          "balls": 303,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 43.89,
+          "out": false
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 30,
+          "balls": 66,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "M Gilkes",
+          "runs": 0,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NL Bertus",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "PM Nevill",
+          "runs": 53,
+          "balls": 122,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 43.44,
+          "out": true
+        },
+        {
+          "player": "TA Copeland",
+          "runs": 11,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 91.67,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 31,
+          "balls": 55,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 56.36,
+          "out": true
+        },
+        {
+          "player": "HNA Conway",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JR Hazlewood",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJ Sayers",
+          "overs": "27.3",
+          "balls": 165,
+          "runs": 64,
+          "wickets": 8,
+          "economy": 2.33
+        },
+        {
+          "player": "NP Winter",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 73,
+          "wickets": 0,
+          "economy": 2.92
+        },
+        {
+          "player": "WA Agar",
+          "overs": "20.4",
+          "balls": 124,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 2.42
+        },
+        {
+          "player": "LJ Robins",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 50,
+          "wickets": 0,
+          "economy": 2.75
+        },
+        {
+          "player": "TD Andrews",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 3.71
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Australia",
+      "runs": 245,
+      "extras": 8,
+      "balls": 603,
+      "batting": [
+        {
+          "player": "HJ Hunt",
+          "runs": 19,
+          "balls": 78,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 24.36,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 17,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 65.38,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 109,
+          "balls": 214,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 50.93,
+          "out": true
+        },
+        {
+          "player": "TLW Cooper",
+          "runs": 37,
+          "balls": 82,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 45.12,
+          "out": true
+        },
+        {
+          "player": "HJ Nielsen",
+          "runs": 19,
+          "balls": 52,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.54,
+          "out": true
+        },
+        {
+          "player": "TD Andrews",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NP Winter",
+          "runs": 7,
+          "balls": 79,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.86,
+          "out": false
+        },
+        {
+          "player": "CJ Sayers",
+          "runs": 15,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "LJ Robins",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        },
+        {
+          "player": "WA Agar",
+          "runs": 12,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JR Hazlewood",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 62,
+          "wickets": 1,
+          "economy": 2.57
+        },
+        {
+          "player": "TA Copeland",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 71,
+          "wickets": 3,
+          "economy": 2.54
+        },
+        {
+          "player": "HNA Conway",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 56,
+          "wickets": 3,
+          "economy": 2.95
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 2.01
+        },
+        {
+          "player": "MC Henriques",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 1.57
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New South Wales",
+      "runs": 253,
+      "extras": 5,
+      "balls": 435,
+      "batting": [
+        {
+          "player": "DP Hughes",
+          "runs": 12,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "NCR Larkin",
+          "runs": 91,
+          "balls": 143,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "DL Solway",
+          "runs": 10,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 38,
+          "balls": 46,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 82.61,
+          "out": true
+        },
+        {
+          "player": "M Gilkes",
+          "runs": 30,
+          "balls": 73,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 41.1,
+          "out": true
+        },
+        {
+          "player": "NL Bertus",
+          "runs": 16,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "PM Nevill",
+          "runs": 29,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 67.44,
+          "out": true
+        },
+        {
+          "player": "TA Copeland",
+          "runs": 4,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.05,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 16,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 59.26,
+          "out": true
+        },
+        {
+          "player": "HNA Conway",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        },
+        {
+          "player": "JR Hazlewood",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJ Sayers",
+          "overs": "18.2",
+          "balls": 110,
+          "runs": 68,
+          "wickets": 5,
+          "economy": 3.71
+        },
+        {
+          "player": "NP Winter",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 3.33
+        },
+        {
+          "player": "WA Agar",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 3.32
+        },
+        {
+          "player": "LJ Robins",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 3.77
+        },
+        {
+          "player": "TD Andrews",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 3.25
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "South Australia",
+      "runs": 201,
+      "extras": 7,
+      "balls": 406,
+      "batting": [
+        {
+          "player": "J Weatherald",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NP Winter",
+          "runs": 6,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "HJ Hunt",
+          "runs": 6,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 25,
+          "balls": 97,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 25.77,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 29,
+          "balls": 32,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 90.62,
+          "out": true
+        },
+        {
+          "player": "TLW Cooper",
+          "runs": 77,
+          "balls": 133,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 57.89,
+          "out": true
+        },
+        {
+          "player": "HJ Nielsen",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TD Andrews",
+          "runs": 4,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.05,
+          "out": true
+        },
+        {
+          "player": "CJ Sayers",
+          "runs": 47,
+          "balls": 57,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 82.46,
+          "out": true
+        },
+        {
+          "player": "LJ Robins",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WA Agar",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JR Hazlewood",
+          "overs": "18.4",
+          "balls": 112,
+          "runs": 40,
+          "wickets": 6,
+          "economy": 2.14
+        },
+        {
+          "player": "TA Copeland",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 50,
+          "wickets": 3,
+          "economy": 2.78
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 3.4
+        },
+        {
+          "player": "HNA Conway",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 3.77
+        },
+        {
+          "player": "MC Henriques",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 3.67
+        }
+      ]
+    }
+  ]
+}

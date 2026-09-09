@@ -1,0 +1,269 @@
+{
+  "id": "1324634",
+  "teams": [
+    "Sydney Sixers",
+    "Hobart Hurricanes"
+  ],
+  "date": "2022-12-22",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Sydney Cricket Ground",
+  "result": "Sydney Sixers won by 6 runs",
+  "winner": "Sydney Sixers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Sixers",
+      "runs": 137,
+      "extras": 5,
+      "balls": 89,
+      "batting": [
+        {
+          "player": "KR Patterson",
+          "runs": 38,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 152.0,
+          "out": true
+        },
+        {
+          "player": "JR Philippe",
+          "runs": 43,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 204.76,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 19,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 105.56,
+          "out": false
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JC Silk",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DT Christian",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "H Kerr",
+          "runs": 32,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 160.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JS Paris",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "PG Dooley",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "NT Ellis",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 11.37
+        },
+        {
+          "player": "RP Meredith",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 8.86
+        },
+        {
+          "player": "Shadab Khan",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 10.67
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Hobart Hurricanes",
+      "runs": 131,
+      "extras": 8,
+      "balls": 89,
+      "batting": [
+        {
+          "player": "BR McDermott",
+          "runs": 17,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 130.77,
+          "out": true
+        },
+        {
+          "player": "DJM Short",
+          "runs": 13,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 108.33,
+          "out": true
+        },
+        {
+          "player": "MS Wade",
+          "runs": 15,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 88.24,
+          "out": true
+        },
+        {
+          "player": "Shadab Khan",
+          "runs": 14,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 127.27,
+          "out": true
+        },
+        {
+          "player": "TH David",
+          "runs": 8,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Asif Ali",
+          "runs": 41,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 292.86,
+          "out": true
+        },
+        {
+          "player": "JS Paris",
+          "runs": 7,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 233.33,
+          "out": false
+        },
+        {
+          "player": "NT Ellis",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "T Murphy",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "Naveen-ul-Haq",
+          "overs": "3.5",
+          "balls": 23,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 9.65
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 11.0
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "H Kerr",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 12.0
+        }
+      ]
+    }
+  ]
+}

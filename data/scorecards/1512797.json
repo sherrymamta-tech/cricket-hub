@@ -1,0 +1,267 @@
+{
+  "id": "1512797",
+  "teams": [
+    "Derbyshire",
+    "Nottinghamshire"
+  ],
+  "date": "2026-05-29",
+  "format": "T20",
+  "competition": "Vitality Blast Men",
+  "venue": "County Ground, Derby",
+  "result": "Derbyshire won by 23 runs",
+  "winner": "Derbyshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Derbyshire",
+      "runs": 234,
+      "extras": 8,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "AHT Donald",
+          "runs": 84,
+          "balls": 32,
+          "fours": 7,
+          "sixes": 8,
+          "strike_rate": 262.5,
+          "out": true
+        },
+        {
+          "player": "MK Andersson",
+          "runs": 69,
+          "balls": 44,
+          "fours": 5,
+          "sixes": 5,
+          "strike_rate": 156.82,
+          "out": false
+        },
+        {
+          "player": "CP Jewell",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "WL Madsen",
+          "runs": 24,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 141.18,
+          "out": true
+        },
+        {
+          "player": "RA Whiteley",
+          "runs": 33,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 206.25,
+          "out": true
+        },
+        {
+          "player": "M Montgomery",
+          "runs": 12,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 240.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DY Pennington",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "GF Linde",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 52,
+          "wickets": 2,
+          "economy": 12.48
+        },
+        {
+          "player": "Mohammad Ali",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 8.75
+        },
+        {
+          "player": "OP Stone",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 18.86
+        },
+        {
+          "player": "BAC Howell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 11.5
+        },
+        {
+          "player": "FW McCann",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "JA Pocklington",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Nottinghamshire",
+      "runs": 211,
+      "extras": 9,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "HG Munsey",
+          "runs": 18,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 9,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "JA Haynes",
+          "runs": 45,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "FW McCann",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 75,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 7,
+          "strike_rate": 208.33,
+          "out": false
+        },
+        {
+          "player": "GF Linde",
+          "runs": 29,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 152.63,
+          "out": true
+        },
+        {
+          "player": "BAC Howell",
+          "runs": 19,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 172.73,
+          "out": true
+        },
+        {
+          "player": "JA Pocklington",
+          "runs": 6,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 600.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JP Morley",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "BW Aitchison",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 11.0
+        },
+        {
+          "player": "Akif Javed",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "player": "N Potts",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 10.44
+        },
+        {
+          "player": "MK Andersson",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 9.23
+        },
+        {
+          "player": "M Montgomery",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 17.0
+        }
+      ]
+    }
+  ]
+}

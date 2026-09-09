@@ -1,0 +1,631 @@
+{
+  "id": "1234919",
+  "teams": [
+    "Central Stags",
+    "Wellington Firebirds"
+  ],
+  "date": "2021-03-11",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "McLean Park, Napier",
+  "result": "Central Stags won by 60 runs",
+  "winner": "Central Stags",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Central Stags",
+      "runs": 175,
+      "extras": 7,
+      "balls": 422,
+      "batting": [
+        {
+          "player": "GH Worker",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 10,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.48,
+          "out": true
+        },
+        {
+          "player": "GR Hay",
+          "runs": 18,
+          "balls": 55,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 32.73,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 37,
+          "balls": 103,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.92,
+          "out": true
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 63,
+          "balls": 94,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 67.02,
+          "out": true
+        },
+        {
+          "player": "JA Clarkson",
+          "runs": 10,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "AY Patel",
+          "runs": 2,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "BM Tickner",
+          "runs": 19,
+          "balls": 55,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 34.55,
+          "out": true
+        },
+        {
+          "player": "SHA Rance",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "RL Toole",
+          "runs": 2,
+          "balls": 43,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 4.65,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "IG McPeake",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 1.83
+        },
+        {
+          "player": "LV van Beek",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 2.33
+        },
+        {
+          "player": "JD Gibson",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "MW Snedden",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 37,
+          "wickets": 3,
+          "economy": 3.58
+        },
+        {
+          "player": "LI Georgeson",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 2.5
+        },
+        {
+          "player": "MG Bracewell",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 0.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Wellington Firebirds",
+      "runs": 104,
+      "extras": 10,
+      "balls": 279,
+      "batting": [
+        {
+          "player": "LI Georgeson",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 10,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 27,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 11,
+          "balls": 52,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.15,
+          "out": true
+        },
+        {
+          "player": "TM Johnson",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "JD Gibson",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "PF Younghusband",
+          "runs": 17,
+          "balls": 66,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.76,
+          "out": true
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 7,
+          "balls": 31,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.58,
+          "out": true
+        },
+        {
+          "player": "LR Johns",
+          "runs": 20,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "IG McPeake",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MW Snedden",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SHA Rance",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 48,
+          "wickets": 4,
+          "economy": 3.27
+        },
+        {
+          "player": "BM Tickner",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 12,
+          "wickets": 3,
+          "economy": 1.26
+        },
+        {
+          "player": "RL Toole",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 1.75
+        },
+        {
+          "player": "JA Clarkson",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 2.29
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Central Stags",
+      "runs": 245,
+      "extras": 16,
+      "balls": 371,
+      "batting": [
+        {
+          "player": "GH Worker",
+          "runs": 49,
+          "balls": 85,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 57.65,
+          "out": true
+        },
+        {
+          "player": "GR Hay",
+          "runs": 5,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.83,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 3,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.79,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 50,
+          "balls": 45,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 14,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "JA Clarkson",
+          "runs": 35,
+          "balls": 80,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true
+        },
+        {
+          "player": "AY Patel",
+          "runs": 52,
+          "balls": 67,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 77.61,
+          "out": true
+        },
+        {
+          "player": "SHA Rance",
+          "runs": 13,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 185.71,
+          "out": true
+        },
+        {
+          "player": "BM Tickner",
+          "runs": 6,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        },
+        {
+          "player": "RL Toole",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "IG McPeake",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 77,
+          "wickets": 0,
+          "economy": 6.42
+        },
+        {
+          "player": "LV van Beek",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 2.4
+        },
+        {
+          "player": "LI Georgeson",
+          "overs": "11.3",
+          "balls": 69,
+          "runs": 40,
+          "wickets": 3,
+          "economy": 3.48
+        },
+        {
+          "player": "JD Gibson",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 3.17
+        },
+        {
+          "player": "MW Snedden",
+          "overs": "9.5",
+          "balls": 59,
+          "runs": 50,
+          "wickets": 0,
+          "economy": 5.08
+        },
+        {
+          "player": "PF Younghusband",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 3.25
+        },
+        {
+          "player": "MG Bracewell",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 2.77
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Wellington Firebirds",
+      "runs": 256,
+      "extras": 6,
+      "balls": 544,
+      "batting": [
+        {
+          "player": "LI Georgeson",
+          "runs": 36,
+          "balls": 120,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 2,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.0,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 19,
+          "balls": 53,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 35.85,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 56,
+          "balls": 89,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 62.92,
+          "out": true
+        },
+        {
+          "player": "TM Johnson",
+          "runs": 30,
+          "balls": 89,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.71,
+          "out": true
+        },
+        {
+          "player": "JD Gibson",
+          "runs": 56,
+          "balls": 93,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 60.22,
+          "out": true
+        },
+        {
+          "player": "PF Younghusband",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LV van Beek",
+          "runs": 39,
+          "balls": 60,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 65.0,
+          "out": true
+        },
+        {
+          "player": "LR Johns",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "IG McPeake",
+          "runs": 6,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "MW Snedden",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SHA Rance",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 2.25
+        },
+        {
+          "player": "AY Patel",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 2.68
+        },
+        {
+          "player": "RL Toole",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 2.41
+        },
+        {
+          "player": "BM Tickner",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 74,
+          "wickets": 4,
+          "economy": 3.89
+        },
+        {
+          "player": "JA Clarkson",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 2.79
+        }
+      ]
+    }
+  ]
+}

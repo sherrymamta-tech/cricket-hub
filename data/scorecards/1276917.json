@@ -1,0 +1,464 @@
+{
+  "id": "1276917",
+  "teams": [
+    "South Africa",
+    "England"
+  ],
+  "date": "2022-08-25",
+  "format": "Test",
+  "competition": "South Africa tour of England",
+  "venue": "Old Trafford, Manchester",
+  "result": "England won by 85 runs",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 151,
+      "extras": 12,
+      "balls": 326,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 12,
+          "balls": 42,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "SJ Erwee",
+          "runs": 3,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "KD Petersen",
+          "runs": 21,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 72.41,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 14,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 51.85,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 16,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.61,
+          "out": true
+        },
+        {
+          "player": "K Verreynne",
+          "runs": 21,
+          "balls": 49,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "SR Harmer",
+          "runs": 2,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 36,
+          "balls": 72,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "A Nortje",
+          "runs": 10,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 27.03,
+          "out": true
+        },
+        {
+          "player": "L Ngidi",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 33,
+          "wickets": 3,
+          "economy": 2.2
+        },
+        {
+          "player": "OE Robinson",
+          "overs": "14.3",
+          "balls": 87,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 3.38
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "11.3",
+          "balls": 69,
+          "runs": 40,
+          "wickets": 3,
+          "economy": 3.48
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 2.57
+        },
+        {
+          "player": "MJ Leach",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 1.74
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 415,
+      "extras": 27,
+      "balls": 648,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 4,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 38,
+          "balls": 103,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 36.89,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 23,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 85.19,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 9,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 49,
+          "balls": 63,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 103,
+          "balls": 163,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 63.19,
+          "out": true
+        },
+        {
+          "player": "BT Foakes",
+          "runs": 113,
+          "balls": 217,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 52.07,
+          "out": false
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 21,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 17,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 77.27,
+          "out": true
+        },
+        {
+          "player": "MJ Leach",
+          "runs": 11,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 64.71,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "23.5",
+          "balls": 143,
+          "runs": 112,
+          "wickets": 2,
+          "economy": 4.7
+        },
+        {
+          "player": "L Ngidi",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "A Nortje",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 89,
+          "wickets": 3,
+          "economy": 4.38
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "22.4",
+          "balls": 136,
+          "runs": 78,
+          "wickets": 2,
+          "economy": 3.44
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 73,
+          "wickets": 1,
+          "economy": 3.15
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "South Africa",
+      "runs": 179,
+      "extras": 17,
+      "balls": 518,
+      "batting": [
+        {
+          "player": "SJ Erwee",
+          "runs": 25,
+          "balls": 59,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.37,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 11,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.95,
+          "out": true
+        },
+        {
+          "player": "KD Petersen",
+          "runs": 42,
+          "balls": 159,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.42,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 6,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 41,
+          "balls": 132,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 31.06,
+          "out": true
+        },
+        {
+          "player": "K Verreynne",
+          "runs": 17,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.96,
+          "out": false
+        },
+        {
+          "player": "SR Harmer",
+          "runs": 16,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "A Nortje",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "L Ngidi",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 31,
+          "wickets": 3,
+          "economy": 2.07
+        },
+        {
+          "player": "OE Robinson",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 48,
+          "wickets": 4,
+          "economy": 3.0
+        },
+        {
+          "player": "MJ Leach",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 1.13
+        },
+        {
+          "player": "JE Root",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 1.82
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 2.12
+        }
+      ]
+    }
+  ]
+}

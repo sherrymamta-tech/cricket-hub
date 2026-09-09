@@ -1,0 +1,101 @@
+{
+  "id": "1456445",
+  "teams": [
+    "New Zealand",
+    "Sri Lanka"
+  ],
+  "date": "2024-11-19",
+  "format": "ODI",
+  "competition": "New Zealand tour of Sri Lanka",
+  "venue": "Pallekele International Cricket Stadium",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 112,
+      "extras": 1,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "WA Young",
+          "runs": 56,
+          "balls": 68,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 82.35,
+          "out": false
+        },
+        {
+          "player": "TB Robinson",
+          "runs": 9,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 46,
+          "balls": 51,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 90.2,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "D Madushanka",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "M Shiraz",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 4.6
+        },
+        {
+          "player": "C Wickramasinghe",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "M Theekshana",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 3.75
+        },
+        {
+          "player": "JDF Vandersay",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 3.6
+        },
+        {
+          "player": "KIC Asalanka",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

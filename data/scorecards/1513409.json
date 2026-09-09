@@ -1,0 +1,623 @@
+{
+  "id": "1513409",
+  "teams": [
+    "Kent",
+    "Derbyshire"
+  ],
+  "date": "2026-05-01",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "St Lawrence Ground, Canterbury",
+  "result": "Kent won by 225 runs",
+  "winner": "Kent",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Kent",
+      "runs": 352,
+      "extras": 6,
+      "balls": 538,
+      "batting": [
+        {
+          "player": "BJ Dawkins",
+          "runs": 6,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 44,
+          "balls": 61,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 72.13,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 28,
+          "balls": 59,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 47.46,
+          "out": true
+        },
+        {
+          "player": "TS Muyeye",
+          "runs": 9,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.37,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 129,
+          "balls": 142,
+          "fours": 23,
+          "sixes": 1,
+          "strike_rate": 90.85,
+          "out": true
+        },
+        {
+          "player": "Ekansh Singh",
+          "runs": 20,
+          "balls": 46,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 43.48,
+          "out": true
+        },
+        {
+          "player": "CG Benjamin",
+          "runs": 56,
+          "balls": 71,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 78.87,
+          "out": true
+        },
+        {
+          "player": "JDM Evison",
+          "runs": 21,
+          "balls": 44,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 47.73,
+          "out": true
+        },
+        {
+          "player": "ME Milnes",
+          "runs": 19,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.78,
+          "out": false
+        },
+        {
+          "player": "KJ Dudgeon",
+          "runs": 13,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 81.25,
+          "out": true
+        },
+        {
+          "player": "Jaskaran Singh",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BW Aitchison",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 94,
+          "wickets": 2,
+          "economy": 3.92
+        },
+        {
+          "player": "ROL Haydon",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 82,
+          "wickets": 5,
+          "economy": 3.54
+        },
+        {
+          "player": "ZJ Chappell",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 115,
+          "wickets": 2,
+          "economy": 5.43
+        },
+        {
+          "player": "MK Andersson",
+          "overs": "12.2",
+          "balls": 74,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 2.59
+        },
+        {
+          "player": "Shoaib Bashir",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 3.22
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Derbyshire",
+      "runs": 304,
+      "extras": 13,
+      "balls": 399,
+      "batting": [
+        {
+          "player": "HRC Came",
+          "runs": 27,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 84.38,
+          "out": true
+        },
+        {
+          "player": "CP Jewell",
+          "runs": 12,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "M Montgomery",
+          "runs": 19,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 79.17,
+          "out": true
+        },
+        {
+          "player": "WL Madsen",
+          "runs": 35,
+          "balls": 61,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 57.38,
+          "out": true
+        },
+        {
+          "player": "MK Andersson",
+          "runs": 37,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 75.51,
+          "out": true
+        },
+        {
+          "player": "LM Reece",
+          "runs": 84,
+          "balls": 105,
+          "fours": 8,
+          "sixes": 5,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "BD Guest",
+          "runs": 28,
+          "balls": 37,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 75.68,
+          "out": true
+        },
+        {
+          "player": "ZJ Chappell",
+          "runs": 11,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 84.62,
+          "out": true
+        },
+        {
+          "player": "BW Aitchison",
+          "runs": 26,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 96.3,
+          "out": true
+        },
+        {
+          "player": "ROL Haydon",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Shoaib Bashir",
+          "runs": 12,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.17,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ME Milnes",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 87,
+          "wickets": 3,
+          "economy": 4.35
+        },
+        {
+          "player": "KJ Dudgeon",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 80,
+          "wickets": 4,
+          "economy": 3.75
+        },
+        {
+          "player": "JDM Evison",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "player": "Jaskaran Singh",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 59,
+          "wickets": 1,
+          "economy": 7.38
+        },
+        {
+          "player": "Ekansh Singh",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 4.06
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Kent",
+      "runs": 335,
+      "extras": 30,
+      "balls": 557,
+      "batting": [
+        {
+          "player": "BJ Dawkins",
+          "runs": 11,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 28.95,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 15,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "TS Muyeye",
+          "runs": 36,
+          "balls": 90,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Ekansh Singh",
+          "runs": 5,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.25,
+          "out": true
+        },
+        {
+          "player": "CG Benjamin",
+          "runs": 123,
+          "balls": 187,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 65.78,
+          "out": true
+        },
+        {
+          "player": "JDM Evison",
+          "runs": 88,
+          "balls": 160,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 55.0,
+          "out": true
+        },
+        {
+          "player": "ME Milnes",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KJ Dudgeon",
+          "runs": 15,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "Jaskaran Singh",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BW Aitchison",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 80,
+          "wickets": 2,
+          "economy": 3.58
+        },
+        {
+          "player": "ROL Haydon",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 93,
+          "wickets": 5,
+          "economy": 3.88
+        },
+        {
+          "player": "MK Andersson",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 3.24
+        },
+        {
+          "player": "ZJ Chappell",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 3.27
+        },
+        {
+          "player": "Shoaib Bashir",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 59,
+          "wickets": 0,
+          "economy": 3.47
+        },
+        {
+          "player": "M Montgomery",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Derbyshire",
+      "runs": 158,
+      "extras": 10,
+      "balls": 314,
+      "batting": [
+        {
+          "player": "HRC Came",
+          "runs": 18,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.86,
+          "out": true
+        },
+        {
+          "player": "CP Jewell",
+          "runs": 3,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.54,
+          "out": true
+        },
+        {
+          "player": "M Montgomery",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WL Madsen",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "MK Andersson",
+          "runs": 15,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "LM Reece",
+          "runs": 67,
+          "balls": 88,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 76.14,
+          "out": true
+        },
+        {
+          "player": "BD Guest",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "ZJ Chappell",
+          "runs": 20,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "BW Aitchison",
+          "runs": 12,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.91,
+          "out": true
+        },
+        {
+          "player": "ROL Haydon",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "Shoaib Bashir",
+          "runs": 8,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 24.24,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ME Milnes",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 13,
+          "wickets": 6,
+          "economy": 0.87
+        },
+        {
+          "player": "KJ Dudgeon",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 4.27
+        },
+        {
+          "player": "JDM Evison",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 3.57
+        },
+        {
+          "player": "Jaskaran Singh",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 5.14
+        },
+        {
+          "player": "Ekansh Singh",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 1.95
+        }
+      ]
+    }
+  ]
+}

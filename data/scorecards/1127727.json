@@ -1,0 +1,590 @@
+{
+  "id": "1127727",
+  "teams": [
+    "Durham",
+    "Sussex"
+  ],
+  "date": "2018-09-10",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Durham won by 186 runs",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 103,
+      "extras": 11,
+      "balls": 191,
+      "batting": [
+        {
+          "player": "CT Steel",
+          "runs": 25,
+          "balls": 68,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.76,
+          "out": true
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "WR Smith",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "MJ Richardson",
+          "runs": 23,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 74.19,
+          "out": true
+        },
+        {
+          "player": "AR Patel",
+          "runs": 8,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 5,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "SW Poynter",
+          "runs": 14,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "NJ Rimmington",
+          "runs": 5,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "MET Salisbury",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OE Robinson",
+          "overs": "11.4",
+          "balls": 70,
+          "runs": 34,
+          "wickets": 5,
+          "economy": 2.91
+        },
+        {
+          "player": "JC Archer",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 3.83
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 4.05
+        },
+        {
+          "player": "D Wiese",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 21,
+          "wickets": 3,
+          "economy": 2.62
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sussex",
+      "runs": 122,
+      "extras": 1,
+      "balls": 152,
+      "batting": [
+        {
+          "player": "TJ Haines",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LWP Wells",
+          "runs": 9,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "PD Salt",
+          "runs": 20,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 86.96,
+          "out": true
+        },
+        {
+          "player": "MGK Burgess",
+          "runs": 18,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 12,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "BC Brown",
+          "runs": 10,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "D Wiese",
+          "runs": 25,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "CJ Jordan",
+          "runs": 9,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "JC Archer",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 14,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DR Briggs",
+          "runs": 4,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 51,
+          "wickets": 8,
+          "economy": 3.92
+        },
+        {
+          "player": "MET Salisbury",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 5.04
+        },
+        {
+          "player": "NJ Rimmington",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Durham",
+      "runs": 340,
+      "extras": 7,
+      "balls": 655,
+      "batting": [
+        {
+          "player": "CT Steel",
+          "runs": 160,
+          "balls": 273,
+          "fours": 19,
+          "sixes": 0,
+          "strike_rate": 58.61,
+          "out": true
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 43,
+          "balls": 95,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 45.26,
+          "out": true
+        },
+        {
+          "player": "WR Smith",
+          "runs": 4,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 21,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 67.74,
+          "out": true
+        },
+        {
+          "player": "MJ Richardson",
+          "runs": 19,
+          "balls": 66,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.79,
+          "out": true
+        },
+        {
+          "player": "AR Patel",
+          "runs": 14,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.16,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 47,
+          "balls": 96,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 48.96,
+          "out": true
+        },
+        {
+          "player": "SW Poynter",
+          "runs": 21,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.76,
+          "out": true
+        },
+        {
+          "player": "NJ Rimmington",
+          "runs": 4,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "MET Salisbury",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "OE Robinson",
+          "overs": "25.5",
+          "balls": 155,
+          "runs": 75,
+          "wickets": 4,
+          "economy": 2.9
+        },
+        {
+          "player": "JC Archer",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 94,
+          "wickets": 2,
+          "economy": 4.62
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 2.68
+        },
+        {
+          "player": "D Wiese",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 63,
+          "wickets": 0,
+          "economy": 3.94
+        },
+        {
+          "player": "TJ Haines",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "DR Briggs",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 35,
+          "wickets": 3,
+          "economy": 1.67
+        },
+        {
+          "player": "LWP Wells",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 3.5
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Sussex",
+      "runs": 135,
+      "extras": 11,
+      "balls": 192,
+      "batting": [
+        {
+          "player": "TJ Haines",
+          "runs": 40,
+          "balls": 43,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 93.02,
+          "out": true
+        },
+        {
+          "player": "PD Salt",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LWP Wells",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MGK Burgess",
+          "runs": 22,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 81.48,
+          "out": true
+        },
+        {
+          "player": "BC Brown",
+          "runs": 11,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "D Wiese",
+          "runs": 24,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 109.09,
+          "out": true
+        },
+        {
+          "player": "CJ Jordan",
+          "runs": 9,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.71,
+          "out": true
+        },
+        {
+          "player": "JC Archer",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 14,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "DR Briggs",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 50,
+          "wickets": 4,
+          "economy": 4.17
+        },
+        {
+          "player": "MET Salisbury",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "player": "NJ Rimmington",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "AR Patel",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 27,
+          "wickets": 3,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

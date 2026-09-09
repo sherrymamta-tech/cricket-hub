@@ -1,0 +1,260 @@
+{
+  "id": "1394573",
+  "teams": [
+    "Lions",
+    "Boland"
+  ],
+  "date": "2024-03-08",
+  "format": "T20",
+  "competition": "CSA T20 Challenge",
+  "venue": "The Wanderers Stadium, Johannesburg",
+  "result": "Lions won by 44 runs",
+  "winner": "Lions",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Lions",
+      "runs": 223,
+      "extras": 19,
+      "balls": 129,
+      "batting": [
+        {
+          "player": "RR Hendricks",
+          "runs": 28,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "RD Rickelton",
+          "runs": 75,
+          "balls": 43,
+          "fours": 6,
+          "sixes": 5,
+          "strike_rate": 174.42,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 26,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 152.94,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 42,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 175.0,
+          "out": false
+        },
+        {
+          "player": "M Van Buuren",
+          "runs": 11,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "PWA Mulder",
+          "runs": 22,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "GC Viljoen",
+          "overs": "4.5",
+          "balls": 29,
+          "runs": 49,
+          "wickets": 3,
+          "economy": 10.14
+        },
+        {
+          "player": "I Manack",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 6.24
+        },
+        {
+          "player": "Siyabonga Mahima",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 11.75
+        },
+        {
+          "player": "FD Adams",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 10.44
+        },
+        {
+          "player": "A Mnyaka",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 12.67
+        },
+        {
+          "player": "M Copeland",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 16.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Boland",
+      "runs": 179,
+      "extras": 10,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "PJ Malan",
+          "runs": 14,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "JN Malan",
+          "runs": 61,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 148.78,
+          "out": true
+        },
+        {
+          "player": "KD Petersen",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Fortuin",
+          "runs": 16,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 160.0,
+          "out": true
+        },
+        {
+          "player": "M Copeland",
+          "runs": 21,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 95.45,
+          "out": true
+        },
+        {
+          "player": "C Jonker",
+          "runs": 24,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 114.29,
+          "out": false
+        },
+        {
+          "player": "FD Adams",
+          "runs": 25,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 250.0,
+          "out": true
+        },
+        {
+          "player": "GC Viljoen",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "I Manack",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 7.44
+        },
+        {
+          "player": "BC Fortuin",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.75
+        },
+        {
+          "player": "E Jones",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 8.08
+        },
+        {
+          "player": "KT Maphaka",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 3,
+          "economy": 5.75
+        },
+        {
+          "player": "TL Moreki",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 67,
+          "wickets": 0,
+          "economy": 15.46
+        }
+      ]
+    }
+  ]
+}

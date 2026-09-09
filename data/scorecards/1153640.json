@@ -1,0 +1,592 @@
+{
+  "id": "1153640",
+  "teams": [
+    "Bangladesh",
+    "Zimbabwe"
+  ],
+  "date": "2018-11-11",
+  "format": "Test",
+  "competition": "Zimbabwe tour of Bangladesh",
+  "venue": "Shere Bangla National Stadium, Mirpur",
+  "result": "Bangladesh won by 218 runs",
+  "winner": "Bangladesh",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Bangladesh",
+      "runs": 522,
+      "extras": 21,
+      "balls": 964,
+      "batting": [
+        {
+          "player": "Liton Das",
+          "runs": 9,
+          "balls": 36,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Imrul Kayes",
+          "runs": 0,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mominul Haque",
+          "runs": 161,
+          "balls": 247,
+          "fours": 19,
+          "sixes": 0,
+          "strike_rate": 65.18,
+          "out": true
+        },
+        {
+          "player": "Mohammad Mithun",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 219,
+          "balls": 421,
+          "fours": 18,
+          "sixes": 1,
+          "strike_rate": 52.02,
+          "out": false
+        },
+        {
+          "player": "Taijul Islam",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "Mahmudullah",
+          "runs": 36,
+          "balls": 110,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.73,
+          "out": true
+        },
+        {
+          "player": "Ariful Haque",
+          "runs": 4,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "runs": 68,
+          "balls": 102,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KM Jarvis",
+          "overs": "28.2",
+          "balls": 170,
+          "runs": 74,
+          "wickets": 5,
+          "economy": 2.61
+        },
+        {
+          "player": "TL Chatara",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 2.01
+        },
+        {
+          "player": "DT Tiripano",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 2.68
+        },
+        {
+          "player": "Sikandar Raza",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 111,
+          "wickets": 0,
+          "economy": 5.05
+        },
+        {
+          "player": "SC Williams",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 81,
+          "wickets": 0,
+          "economy": 2.7
+        },
+        {
+          "player": "B Mavuta",
+          "overs": "31.0",
+          "balls": 186,
+          "runs": 137,
+          "wickets": 0,
+          "economy": 4.42
+        },
+        {
+          "player": "H Masakadza",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 3.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Zimbabwe",
+      "runs": 304,
+      "extras": 6,
+      "balls": 633,
+      "batting": [
+        {
+          "player": "H Masakadza",
+          "runs": 14,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 31.82,
+          "out": true
+        },
+        {
+          "player": "BB Chari",
+          "runs": 53,
+          "balls": 128,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 41.41,
+          "out": true
+        },
+        {
+          "player": "DT Tiripano",
+          "runs": 8,
+          "balls": 46,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.39,
+          "out": true
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 110,
+          "balls": 194,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 56.7,
+          "out": true
+        },
+        {
+          "player": "SC Williams",
+          "runs": 11,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.29,
+          "out": true
+        },
+        {
+          "player": "Sikandar Raza",
+          "runs": 0,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "PJ Moor",
+          "runs": 83,
+          "balls": 114,
+          "fours": 12,
+          "sixes": 1,
+          "strike_rate": 72.81,
+          "out": true
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 10,
+          "balls": 42,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.81,
+          "out": true
+        },
+        {
+          "player": "B Mavuta",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KM Jarvis",
+          "runs": 9,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 39.13,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mustafizur Rahman",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 58,
+          "wickets": 0,
+          "economy": 2.76
+        },
+        {
+          "player": "Khaled Ahmed",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 2.94
+        },
+        {
+          "player": "Taijul Islam",
+          "overs": "40.3",
+          "balls": 243,
+          "runs": 107,
+          "wickets": 5,
+          "economy": 2.64
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 62,
+          "wickets": 3,
+          "economy": 3.1
+        },
+        {
+          "player": "Mahmudullah",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "Ariful Haque",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 2.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Bangladesh",
+      "runs": 224,
+      "extras": 7,
+      "balls": 325,
+      "batting": [
+        {
+          "player": "Liton Das",
+          "runs": 6,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "Imrul Kayes",
+          "runs": 3,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Mominul Haque",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Mithun",
+          "runs": 67,
+          "balls": 110,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 60.91,
+          "out": true
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 7,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "Mahmudullah",
+          "runs": 101,
+          "balls": 122,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 82.79,
+          "out": false
+        },
+        {
+          "player": "Ariful Haque",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "runs": 27,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 77.14,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KM Jarvis",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 2.55
+        },
+        {
+          "player": "DT Tiripano",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 2.82
+        },
+        {
+          "player": "SC Williams",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 4.33
+        },
+        {
+          "player": "Sikandar Raza",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 5.86
+        },
+        {
+          "player": "B Mavuta",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 54,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Zimbabwe",
+      "runs": 224,
+      "extras": 9,
+      "balls": 500,
+      "batting": [
+        {
+          "player": "H Masakadza",
+          "runs": 25,
+          "balls": 68,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.76,
+          "out": true
+        },
+        {
+          "player": "BB Chari",
+          "runs": 43,
+          "balls": 82,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 52.44,
+          "out": true
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 106,
+          "balls": 167,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 63.47,
+          "out": false
+        },
+        {
+          "player": "SC Williams",
+          "runs": 13,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.39,
+          "out": true
+        },
+        {
+          "player": "Sikandar Raza",
+          "runs": 12,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "PJ Moor",
+          "runs": 13,
+          "balls": 79,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 16.46,
+          "out": true
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "DT Tiripano",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "B Mavuta",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KM Jarvis",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mustafizur Rahman",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 2.1
+        },
+        {
+          "player": "Taijul Islam",
+          "overs": "37.0",
+          "balls": 222,
+          "runs": 93,
+          "wickets": 2,
+          "economy": 2.51
+        },
+        {
+          "player": "Khaled Ahmed",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 3.7
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 40,
+          "wickets": 5,
+          "economy": 2.2
+        },
+        {
+          "player": "Ariful Haque",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 2.33
+        },
+        {
+          "player": "Mahmudullah",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        },
+        {
+          "player": "Mominul Haque",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        }
+      ]
+    }
+  ]
+}

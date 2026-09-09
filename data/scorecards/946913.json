@@ -1,0 +1,578 @@
+{
+  "id": "946913",
+  "teams": [
+    "Yorkshire",
+    "Nottinghamshire"
+  ],
+  "date": "2016-08-23",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "North Marine Road Ground, Scarborough",
+  "result": "Yorkshire won by 305 runs",
+  "winner": "Yorkshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Yorkshire",
+      "runs": 282,
+      "extras": 16,
+      "balls": 492,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 12,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 13,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 1,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.88,
+          "out": true
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 5,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 10,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.48,
+          "out": true
+        },
+        {
+          "player": "AJ Hodd",
+          "runs": 96,
+          "balls": 185,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 51.89,
+          "out": false
+        },
+        {
+          "player": "Azeem Rafiq",
+          "runs": 74,
+          "balls": 93,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 79.57,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 2,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.76,
+          "out": true
+        },
+        {
+          "player": "JA Brooks",
+          "runs": 48,
+          "balls": 66,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "RJ Sidebottom",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Wood",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 4.22
+        },
+        {
+          "player": "LJ Fletcher",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 2.44
+        },
+        {
+          "player": "SJ Mullaney",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 60,
+          "wickets": 3,
+          "economy": 3.71
+        },
+        {
+          "player": "BA Hutton",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 67,
+          "wickets": 3,
+          "economy": 4.57
+        },
+        {
+          "player": "Imran Tahir",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 3.8
+        },
+        {
+          "player": "SR Patel",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 2.09
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Nottinghamshire",
+      "runs": 94,
+      "extras": 1,
+      "balls": 223,
+      "batting": [
+        {
+          "player": "SJ Mullaney",
+          "runs": 25,
+          "balls": 43,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 58.14,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 23,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.1,
+          "out": true
+        },
+        {
+          "player": "MJ Lumb",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 14,
+          "balls": 53,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 26.42,
+          "out": true
+        },
+        {
+          "player": "SR Patel",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "CMW Read",
+          "runs": 7,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true
+        },
+        {
+          "player": "BA Hutton",
+          "runs": 5,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.81,
+          "out": true
+        },
+        {
+          "player": "L Wood",
+          "runs": 7,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "LJ Fletcher",
+          "runs": 6,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "Imran Tahir",
+          "runs": 2,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RJ Sidebottom",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 22,
+          "wickets": 3,
+          "economy": 1.83
+        },
+        {
+          "player": "JA Brooks",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 41,
+          "wickets": 3,
+          "economy": 3.73
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 2.29
+        },
+        {
+          "player": "TT Bresnan",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 2.09
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Yorkshire",
+      "runs": 263,
+      "extras": 6,
+      "balls": 442,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 41,
+          "balls": 53,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 77.36,
+          "out": true
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 30,
+          "balls": 51,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 101,
+          "balls": 164,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 61.59,
+          "out": false
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 35,
+          "balls": 60,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 15,
+          "balls": 55,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 35,
+          "balls": 59,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 59.32,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SJ Mullaney",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 4.9
+        },
+        {
+          "player": "LJ Fletcher",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 58,
+          "wickets": 0,
+          "economy": 3.62
+        },
+        {
+          "player": "L Wood",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 3.83
+        },
+        {
+          "player": "BA Hutton",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 3.21
+        },
+        {
+          "player": "Imran Tahir",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 2.5
+        },
+        {
+          "player": "SR Patel",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Nottinghamshire",
+      "runs": 146,
+      "extras": 14,
+      "balls": 346,
+      "batting": [
+        {
+          "player": "SJ Mullaney",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 9,
+          "balls": 46,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.57,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 41,
+          "balls": 65,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 63.08,
+          "out": true
+        },
+        {
+          "player": "MJ Lumb",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 38,
+          "balls": 117,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 32.48,
+          "out": true
+        },
+        {
+          "player": "SR Patel",
+          "runs": 5,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.83,
+          "out": true
+        },
+        {
+          "player": "CMW Read",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "BA Hutton",
+          "runs": 20,
+          "balls": 66,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.3,
+          "out": true
+        },
+        {
+          "player": "L Wood",
+          "runs": 16,
+          "balls": 9,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 177.78,
+          "out": false
+        },
+        {
+          "player": "LJ Fletcher",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Imran Tahir",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RJ Sidebottom",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 2.31
+        },
+        {
+          "player": "JA Brooks",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 41,
+          "wickets": 4,
+          "economy": 3.04
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 1.87
+        },
+        {
+          "player": "TT Bresnan",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 40,
+          "wickets": 5,
+          "economy": 3.29
+        },
+        {
+          "player": "Azeem Rafiq",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "id": "1127694",
+  "teams": [
+    "Durham",
+    "Derbyshire"
+  ],
+  "date": "2018-06-09",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Durham won by 95 runs",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 96,
+      "extras": 10,
+      "balls": 262,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 6,
+          "balls": 39,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "CT Steel",
+          "runs": 1,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 3.7,
+          "out": true
+        },
+        {
+          "player": "MA Jones",
+          "runs": 10,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 19,
+          "balls": 45,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 42.22,
+          "out": true
+        },
+        {
+          "player": "WR Smith",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "GJ Harte",
+          "runs": 20,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "RC Davies",
+          "runs": 2,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "J Coughlin",
+          "runs": 19,
+          "balls": 52,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.54,
+          "out": true
+        },
+        {
+          "player": "NJ Rimmington",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MET Salisbury",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 7,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "D Olivier",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 21,
+          "wickets": 5,
+          "economy": 1.31
+        },
+        {
+          "player": "GC Viljoen",
+          "overs": "16.4",
+          "balls": 100,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 2.16
+        },
+        {
+          "player": "AP Palladino",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 2.83
+        },
+        {
+          "player": "AF Gleadall",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 4.4
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Derbyshire",
+      "runs": 205,
+      "extras": 24,
+      "balls": 352,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 32,
+          "balls": 46,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 69.57,
+          "out": true
+        },
+        {
+          "player": "BA Godleman",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "WL Madsen",
+          "runs": 36,
+          "balls": 62,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 58.06,
+          "out": true
+        },
+        {
+          "player": "AL Hughes",
+          "runs": 4,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.05,
+          "out": true
+        },
+        {
+          "player": "MJJ Critchley",
+          "runs": 38,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 84.44,
+          "out": true
+        },
+        {
+          "player": "CAJ Brodrick",
+          "runs": 0,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "D Smit",
+          "runs": 0,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GC Viljoen",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "AP Palladino",
+          "runs": 32,
+          "balls": 63,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 50.79,
+          "out": true
+        },
+        {
+          "player": "AF Gleadall",
+          "runs": 27,
+          "balls": 50,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.0,
+          "out": false
+        },
+        {
+          "player": "D Olivier",
+          "runs": 5,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 57,
+          "wickets": 3,
+          "economy": 2.69
+        },
+        {
+          "player": "MET Salisbury",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 80,
+          "wickets": 3,
+          "economy": 3.93
+        },
+        {
+          "player": "J Coughlin",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 4.38
+        },
+        {
+          "player": "NJ Rimmington",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 3.6
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Durham",
+      "runs": 376,
+      "extras": 81,
+      "balls": 767,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 67,
+          "balls": 137,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 48.91,
+          "out": true
+        },
+        {
+          "player": "MA Jones",
+          "runs": 3,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.71,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 22,
+          "balls": 50,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 44.0,
+          "out": true
+        },
+        {
+          "player": "WR Smith",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        },
+        {
+          "player": "GJ Harte",
+          "runs": 114,
+          "balls": 259,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 44.02,
+          "out": true
+        },
+        {
+          "player": "RC Davies",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "J Coughlin",
+          "runs": 9,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "CT Steel",
+          "runs": 6,
+          "balls": 36,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "NJ Rimmington",
+          "runs": 42,
+          "balls": 76,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 55.26,
+          "out": true
+        },
+        {
+          "player": "MET Salisbury",
+          "runs": 25,
+          "balls": 147,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.01,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "D Olivier",
+          "overs": "40.5",
+          "balls": 245,
+          "runs": 108,
+          "wickets": 5,
+          "economy": 2.64
+        },
+        {
+          "player": "GC Viljoen",
+          "overs": "31.2",
+          "balls": 188,
+          "runs": 111,
+          "wickets": 2,
+          "economy": 3.54
+        },
+        {
+          "player": "AP Palladino",
+          "overs": "24.3",
+          "balls": 147,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "AL Hughes",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 1.89
+        },
+        {
+          "player": "AF Gleadall",
+          "overs": "8.5",
+          "balls": 53,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 4.87
+        },
+        {
+          "player": "MJJ Critchley",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 3.66
+        },
+        {
+          "player": "WL Madsen",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 3.38
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Derbyshire",
+      "runs": 172,
+      "extras": 11,
+      "balls": 354,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 68,
+          "balls": 136,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "BA Godleman",
+          "runs": 10,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "WL Madsen",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AL Hughes",
+          "runs": 4,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "MJJ Critchley",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CAJ Brodrick",
+          "runs": 19,
+          "balls": 56,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.93,
+          "out": true
+        },
+        {
+          "player": "D Smit",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "GC Viljoen",
+          "runs": 10,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "AP Palladino",
+          "runs": 29,
+          "balls": 47,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 61.7,
+          "out": false
+        },
+        {
+          "player": "AF Gleadall",
+          "runs": 2,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 18,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "19.4",
+          "balls": 118,
+          "runs": 48,
+          "wickets": 5,
+          "economy": 2.44
+        },
+        {
+          "player": "MET Salisbury",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 69,
+          "wickets": 4,
+          "economy": 3.83
+        },
+        {
+          "player": "J Coughlin",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 2.25
+        },
+        {
+          "player": "NJ Rimmington",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 2.89
+        },
+        {
+          "player": "GJ Harte",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "WR Smith",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 0.5
+        },
+        {
+          "player": "G Clark",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

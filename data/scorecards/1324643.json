@@ -1,0 +1,270 @@
+{
+  "id": "1324643",
+  "teams": [
+    "Melbourne Stars",
+    "Perth Scorchers"
+  ],
+  "date": "2022-12-29",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Perth Stadium",
+  "result": "Perth Scorchers won by 6 wickets",
+  "winner": "Perth Scorchers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Melbourne Stars",
+      "runs": 135,
+      "extras": 4,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "JM Clarke",
+          "runs": 33,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 110.0,
+          "out": true
+        },
+        {
+          "player": "TF Rogers",
+          "runs": 20,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 142.86,
+          "out": true
+        },
+        {
+          "player": "BJ Webster",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NCR Larkin",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 10,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 36,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 109.09,
+          "out": true
+        },
+        {
+          "player": "C Kellaway",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "NM Coulter-Nile",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "L Wood",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 23,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 143.75,
+          "out": false
+        },
+        {
+          "player": "A Zampa",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JP Behrendorff",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.5
+        },
+        {
+          "player": "JA Richardson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 25,
+          "wickets": 4,
+          "economy": 6.0
+        },
+        {
+          "player": "P Hatzoglou",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.75
+        },
+        {
+          "player": "AC Agar",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 8.64
+        },
+        {
+          "player": "AJ Tye",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Perth Scorchers",
+      "runs": 136,
+      "extras": 8,
+      "balls": 111,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 35,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 109.38,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "AM Hardie",
+          "runs": 17,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 89.47,
+          "out": true
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 19,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 73.08,
+          "out": false
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 53,
+          "balls": 26,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 203.85,
+          "out": true
+        },
+        {
+          "player": "NR Hobson",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "L Wood",
+          "overs": "3.4",
+          "balls": 22,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 7.91
+        },
+        {
+          "player": "A Zampa",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 8.64
+        },
+        {
+          "player": "NM Coulter-Nile",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 5.77
+        },
+        {
+          "player": "MP Stoinis",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 10.33
+        }
+      ]
+    }
+  ]
+}

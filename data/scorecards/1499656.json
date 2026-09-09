@@ -1,0 +1,128 @@
+{
+  "id": "1499656",
+  "teams": [
+    "Northern Districts",
+    "Canterbury"
+  ],
+  "date": "2026-01-25",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "Hagley Oval, Christchurch",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northern Districts",
+      "runs": 124,
+      "extras": 5,
+      "balls": 91,
+      "batting": [
+        {
+          "player": "KD Clarke",
+          "runs": 38,
+          "balls": 23,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 165.22,
+          "out": true
+        },
+        {
+          "player": "BR Hampton",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JF Carter",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 42,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 144.83,
+          "out": true
+        },
+        {
+          "player": "XE Bell",
+          "runs": 32,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 145.45,
+          "out": false
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "FW Sheat",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 2.8
+        },
+        {
+          "player": "MD Rae",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 6.86
+        },
+        {
+          "player": "LLB Harper",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 10.42
+        },
+        {
+          "player": "T Muller",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 7.58
+        },
+        {
+          "player": "CE McConchie",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 8.67
+        },
+        {
+          "player": "MWT Boyle",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 18.0
+        }
+      ]
+    }
+  ]
+}

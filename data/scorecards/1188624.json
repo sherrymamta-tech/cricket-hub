@@ -1,0 +1,93 @@
+{
+  "id": "1188624",
+  "teams": [
+    "West Indies",
+    "India"
+  ],
+  "date": "2019-08-08",
+  "format": "ODI",
+  "competition": "India tour of United States of America and West Indies",
+  "venue": "Providence Stadium, Guyana",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "runs": 54,
+      "extras": 4,
+      "balls": 80,
+      "batting": [
+        {
+          "player": "CH Gayle",
+          "runs": 4,
+          "balls": 31,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.9,
+          "out": true
+        },
+        {
+          "player": "E Lewis",
+          "runs": 40,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 105.26,
+          "out": false
+        },
+        {
+          "player": "SD Hope",
+          "runs": 6,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Kumar",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 2.54
+        },
+        {
+          "player": "Mohammed Shami",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 2.33
+        },
+        {
+          "player": "KK Ahmed",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 3,
+          "wickets": 1,
+          "economy": 1.5
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

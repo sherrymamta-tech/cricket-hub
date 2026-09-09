@@ -1,0 +1,522 @@
+{
+  "id": "1434290",
+  "teams": [
+    "India",
+    "South Africa"
+  ],
+  "date": "2024-06-28",
+  "format": "Test",
+  "competition": "South Africa Women tour of India",
+  "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+  "result": "India won by 10 wickets",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 603,
+      "extras": 22,
+      "balls": 691,
+      "batting": [
+        {
+          "player": "Shafali Verma",
+          "runs": 205,
+          "balls": 197,
+          "fours": 23,
+          "sixes": 8,
+          "strike_rate": 104.06,
+          "out": true
+        },
+        {
+          "player": "S Mandhana",
+          "runs": 149,
+          "balls": 161,
+          "fours": 27,
+          "sixes": 1,
+          "strike_rate": 92.55,
+          "out": true
+        },
+        {
+          "player": "S Shubha",
+          "runs": 15,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "JI Rodrigues",
+          "runs": 55,
+          "balls": 94,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 58.51,
+          "out": true
+        },
+        {
+          "player": "H Kaur",
+          "runs": 69,
+          "balls": 115,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "RM Ghosh",
+          "runs": 86,
+          "balls": 90,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 95.56,
+          "out": true
+        },
+        {
+          "player": "DB Sharma",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Klaas",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 83,
+          "wickets": 0,
+          "economy": 4.88
+        },
+        {
+          "player": "A Dercksen",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 85,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "N de Klerk",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 86,
+          "wickets": 1,
+          "economy": 7.17
+        },
+        {
+          "player": "TS Sekhukhune",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "N Mlaba",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 122,
+          "wickets": 1,
+          "economy": 4.66
+        },
+        {
+          "player": "D Tucker",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 142,
+          "wickets": 2,
+          "economy": 5.46
+        },
+        {
+          "player": "S Luus",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 266,
+      "extras": 20,
+      "balls": 509,
+      "batting": [
+        {
+          "player": "L Wolvaardt",
+          "runs": 20,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "A Bosch",
+          "runs": 39,
+          "balls": 73,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 53.42,
+          "out": true
+        },
+        {
+          "player": "S Luus",
+          "runs": 65,
+          "balls": 164,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 39.63,
+          "out": true
+        },
+        {
+          "player": "M Kapp",
+          "runs": 74,
+          "balls": 141,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 52.48,
+          "out": true
+        },
+        {
+          "player": "D Tucker",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "N de Klerk",
+          "runs": 39,
+          "balls": 44,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 88.64,
+          "out": true
+        },
+        {
+          "player": "S Jafta",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Dercksen",
+          "runs": 5,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "M Klaas",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "TS Sekhukhune",
+          "runs": 1,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.14,
+          "out": false
+        },
+        {
+          "player": "N Mlaba",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Renuka Singh",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 3.07
+        },
+        {
+          "player": "P Vastrakar",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 3.67
+        },
+        {
+          "player": "S Rana",
+          "overs": "25.3",
+          "balls": 153,
+          "runs": 86,
+          "wickets": 8,
+          "economy": 3.37
+        },
+        {
+          "player": "RS Gayakwad",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 3.12
+        },
+        {
+          "player": "DB Sharma",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 2.6
+        },
+        {
+          "player": "H Kaur",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "S Mandhana",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "South Africa",
+      "runs": 373,
+      "extras": 12,
+      "balls": 931,
+      "batting": [
+        {
+          "player": "L Wolvaardt",
+          "runs": 122,
+          "balls": 314,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 38.85,
+          "out": true
+        },
+        {
+          "player": "A Bosch",
+          "runs": 9,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "S Luus",
+          "runs": 109,
+          "balls": 203,
+          "fours": 18,
+          "sixes": 0,
+          "strike_rate": 53.69,
+          "out": true
+        },
+        {
+          "player": "M Kapp",
+          "runs": 31,
+          "balls": 82,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 37.8,
+          "out": true
+        },
+        {
+          "player": "D Tucker",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "N de Klerk",
+          "runs": 61,
+          "balls": 185,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 32.97,
+          "out": true
+        },
+        {
+          "player": "S Jafta",
+          "runs": 15,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "A Dercksen",
+          "runs": 5,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": true
+        },
+        {
+          "player": "TS Sekhukhune",
+          "runs": 6,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.14,
+          "out": true
+        },
+        {
+          "player": "M Klaas",
+          "runs": 2,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.06,
+          "out": true
+        },
+        {
+          "player": "N Mlaba",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Renuka Singh",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "S Rana",
+          "overs": "40.1",
+          "balls": 241,
+          "runs": 112,
+          "wickets": 2,
+          "economy": 2.79
+        },
+        {
+          "player": "P Vastrakar",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 2.25
+        },
+        {
+          "player": "DB Sharma",
+          "overs": "45.2",
+          "balls": 272,
+          "runs": 98,
+          "wickets": 2,
+          "economy": 2.16
+        },
+        {
+          "player": "RS Gayakwad",
+          "overs": "30.4",
+          "balls": 184,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 1.92
+        },
+        {
+          "player": "Shafali Verma",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 2.33
+        },
+        {
+          "player": "H Kaur",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 3.1
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "India",
+      "runs": 37,
+      "extras": 0,
+      "balls": 56,
+      "batting": [
+        {
+          "player": "S Shubha",
+          "runs": 13,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "Shafali Verma",
+          "runs": 24,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 80.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "N Mlaba",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 3.6
+        },
+        {
+          "player": "D Tucker",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.38
+        }
+      ]
+    }
+  ]
+}

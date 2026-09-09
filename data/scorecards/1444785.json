@@ -1,0 +1,295 @@
+{
+  "id": "1444785",
+  "teams": [
+    "Boland",
+    "Warriors"
+  ],
+  "date": "2024-10-16",
+  "format": "T20",
+  "competition": "CSA T20 Challenge",
+  "venue": "Boland Park, Paarl",
+  "result": "Boland won by 11 runs",
+  "winner": "Boland",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Boland",
+      "runs": 171,
+      "extras": 9,
+      "balls": 129,
+      "batting": [
+        {
+          "player": "C Fortuin",
+          "runs": 50,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 138.89,
+          "out": true
+        },
+        {
+          "player": "G Roelofsen",
+          "runs": 26,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "G Kaplan",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "A Mgijima",
+          "runs": 40,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "L Botha",
+          "runs": 18,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 94.74,
+          "out": true
+        },
+        {
+          "player": "S von Berg",
+          "runs": 6,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "KJ Dudgeon",
+          "runs": 18,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 360.0,
+          "out": false
+        },
+        {
+          "player": "A Gqamane",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Swanepoel",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 12.24
+        },
+        {
+          "player": "S Simetu",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.56
+        },
+        {
+          "player": "SA Mothoa",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 7.56
+        },
+        {
+          "player": "PE Kruger",
+          "overs": "3.4",
+          "balls": 22,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 8.45
+        },
+        {
+          "player": "L Alder",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "JP King",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Warriors",
+      "runs": 160,
+      "extras": 10,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "J Hermann",
+          "runs": 19,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 118.75,
+          "out": true
+        },
+        {
+          "player": "JP King",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "B Swanepoel",
+          "runs": 15,
+          "balls": 9,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "J du Plessis",
+          "runs": 34,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 106.25,
+          "out": true
+        },
+        {
+          "player": "S Qeshile",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "J Pillay",
+          "runs": 17,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 113.33,
+          "out": true
+        },
+        {
+          "player": "PE Kruger",
+          "runs": 51,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 175.86,
+          "out": true
+        },
+        {
+          "player": "A Mokgakane",
+          "runs": 9,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "L Alder",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "S Simetu",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KJ Dudgeon",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.15
+        },
+        {
+          "player": "GA Stuurman",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 34,
+          "wickets": 5,
+          "economy": 8.16
+        },
+        {
+          "player": "I Manack",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "S von Berg",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.67
+        },
+        {
+          "player": "Siyabonga Mahima",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "A Gqamane",
+          "overs": "3.5",
+          "balls": 23,
+          "runs": 37,
+          "wickets": 3,
+          "economy": 9.65
+        }
+      ]
+    }
+  ]
+}

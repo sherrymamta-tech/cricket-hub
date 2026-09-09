@@ -1,0 +1,621 @@
+{
+  "id": "1347245",
+  "teams": [
+    "Northamptonshire",
+    "Middlesex"
+  ],
+  "date": "2023-07-10",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Merchant Taylors' School Ground, Northwood",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northamptonshire",
+      "runs": 219,
+      "extras": 13,
+      "balls": 535,
+      "batting": [
+        {
+          "player": "R Vasconcelos",
+          "runs": 24,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 24,
+          "balls": 81,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 29.63,
+          "out": true
+        },
+        {
+          "player": "J Broad",
+          "runs": 31,
+          "balls": 78,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 39.74,
+          "out": true
+        },
+        {
+          "player": "SM Whiteman",
+          "runs": 11,
+          "balls": 46,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.91,
+          "out": true
+        },
+        {
+          "player": "LA Procter",
+          "runs": 25,
+          "balls": 78,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 32.05,
+          "out": true
+        },
+        {
+          "player": "RI Keogh",
+          "runs": 12,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "SA Zaib",
+          "runs": 49,
+          "balls": 83,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 59.04,
+          "out": true
+        },
+        {
+          "player": "LD McManus",
+          "runs": 24,
+          "balls": 67,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.82,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "BW Sanderson",
+          "runs": 4,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": true
+        },
+        {
+          "player": "CJ White",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TS Roland-Jones",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 2.45
+        },
+        {
+          "player": "TG Helm",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 67,
+          "wickets": 2,
+          "economy": 3.35
+        },
+        {
+          "player": "RF Higgins",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 1.78
+        },
+        {
+          "player": "ER Bamber",
+          "overs": "18.4",
+          "balls": 112,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 1.98
+        },
+        {
+          "player": "JM De Caires",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 2.75
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Middlesex",
+      "runs": 277,
+      "extras": 27,
+      "balls": 446,
+      "batting": [
+        {
+          "player": "MD Stoneman",
+          "runs": 51,
+          "balls": 72,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 70.83,
+          "out": true
+        },
+        {
+          "player": "ER Bamber",
+          "runs": 11,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 28.21,
+          "out": true
+        },
+        {
+          "player": "SD Robson",
+          "runs": 28,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "PJ Malan",
+          "runs": 15,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 78.95,
+          "out": true
+        },
+        {
+          "player": "MDE Holden",
+          "runs": 41,
+          "balls": 69,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 59.42,
+          "out": true
+        },
+        {
+          "player": "JA Simpson",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "RF Higgins",
+          "runs": 64,
+          "balls": 105,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 60.95,
+          "out": false
+        },
+        {
+          "player": "JM De Caires",
+          "runs": 10,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "SS Eskinazi",
+          "runs": 8,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.63,
+          "out": true
+        },
+        {
+          "player": "TS Roland-Jones",
+          "runs": 16,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.19,
+          "out": true
+        },
+        {
+          "player": "TG Helm",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BW Sanderson",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 83,
+          "wickets": 3,
+          "economy": 4.15
+        },
+        {
+          "player": "CJ White",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 65,
+          "wickets": 2,
+          "economy": 3.39
+        },
+        {
+          "player": "TAI Taylor",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 3.82
+        },
+        {
+          "player": "LA Procter",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 3.33
+        },
+        {
+          "player": "RI Keogh",
+          "overs": "15.4",
+          "balls": 94,
+          "runs": 56,
+          "wickets": 3,
+          "economy": 3.57
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Northamptonshire",
+      "runs": 380,
+      "extras": 24,
+      "balls": 715,
+      "batting": [
+        {
+          "player": "R Vasconcelos",
+          "runs": 22,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 62.86,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 89,
+          "balls": 173,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 51.45,
+          "out": true
+        },
+        {
+          "player": "J Broad",
+          "runs": 5,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.78,
+          "out": true
+        },
+        {
+          "player": "SM Whiteman",
+          "runs": 114,
+          "balls": 248,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 45.97,
+          "out": true
+        },
+        {
+          "player": "LA Procter",
+          "runs": 63,
+          "balls": 166,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.95,
+          "out": true
+        },
+        {
+          "player": "SA Zaib",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 11,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 68.75,
+          "out": true
+        },
+        {
+          "player": "RI Keogh",
+          "runs": 48,
+          "balls": 46,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 104.35,
+          "out": true
+        },
+        {
+          "player": "LD McManus",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "BW Sanderson",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CJ White",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TS Roland-Jones",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 68,
+          "wickets": 1,
+          "economy": 3.09
+        },
+        {
+          "player": "TG Helm",
+          "overs": "26.2",
+          "balls": 158,
+          "runs": 85,
+          "wickets": 3,
+          "economy": 3.23
+        },
+        {
+          "player": "RF Higgins",
+          "overs": "22.3",
+          "balls": 135,
+          "runs": 81,
+          "wickets": 2,
+          "economy": 3.6
+        },
+        {
+          "player": "ER Bamber",
+          "overs": "18.2",
+          "balls": 110,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 2.4
+        },
+        {
+          "player": "JM De Caires",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 69,
+          "wickets": 2,
+          "economy": 3.14
+        },
+        {
+          "player": "SD Robson",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 4.12
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Middlesex",
+      "runs": 322,
+      "extras": 12,
+      "balls": 556,
+      "batting": [
+        {
+          "player": "SS Eskinazi",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "MD Stoneman",
+          "runs": 12,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "SD Robson",
+          "runs": 126,
+          "balls": 252,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "PJ Malan",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MDE Holden",
+          "runs": 37,
+          "balls": 63,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 58.73,
+          "out": true
+        },
+        {
+          "player": "JA Simpson",
+          "runs": 75,
+          "balls": 158,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 47.47,
+          "out": true
+        },
+        {
+          "player": "RF Higgins",
+          "runs": 5,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "TS Roland-Jones",
+          "runs": 34,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 178.95,
+          "out": true
+        },
+        {
+          "player": "JM De Caires",
+          "runs": 17,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.95,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BW Sanderson",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 64,
+          "wickets": 2,
+          "economy": 3.2
+        },
+        {
+          "player": "CJ White",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 3.15
+        },
+        {
+          "player": "TAI Taylor",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 79,
+          "wickets": 1,
+          "economy": 4.27
+        },
+        {
+          "player": "RI Keogh",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 71,
+          "wickets": 1,
+          "economy": 3.23
+        },
+        {
+          "player": "SA Zaib",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 1.75
+        },
+        {
+          "player": "J Broad",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 2.31
+        },
+        {
+          "player": "LA Procter",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 5.5
+        }
+      ]
+    }
+  ]
+}

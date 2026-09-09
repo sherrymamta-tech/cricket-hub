@@ -1,0 +1,502 @@
+{
+  "id": "1426556",
+  "teams": [
+    "India",
+    "Australia"
+  ],
+  "date": "2024-12-06",
+  "format": "Test",
+  "competition": "India tour of Australia",
+  "venue": "Adelaide Oval",
+  "result": "Australia won by 10 wickets",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 180,
+      "extras": 13,
+      "balls": 273,
+      "batting": [
+        {
+          "player": "YBK Jaiswal",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 31,
+          "balls": 51,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 60.78,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 37,
+          "balls": 64,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 57.81,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "RR Pant",
+          "runs": 21,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 3,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.04,
+          "out": true
+        },
+        {
+          "player": "Nithish Kumar Reddy",
+          "runs": 42,
+          "balls": 55,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 76.36,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 22,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Harshit Rana",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JJ Bumrah",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammed Siraj",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 48,
+          "wickets": 6,
+          "economy": 3.27
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 3.75
+        },
+        {
+          "player": "SM Boland",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 4.07
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "MR Marsh",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 337,
+      "extras": 21,
+      "balls": 532,
+      "batting": [
+        {
+          "player": "UT Khawaja",
+          "runs": 13,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.14,
+          "out": true
+        },
+        {
+          "player": "NA McSweeney",
+          "runs": 39,
+          "balls": 109,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 35.78,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 64,
+          "balls": 126,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 50.79,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 140,
+          "balls": 141,
+          "fours": 17,
+          "sixes": 4,
+          "strike_rate": 99.29,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 9,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.62,
+          "out": true
+        },
+        {
+          "player": "AT Carey",
+          "runs": 15,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.88,
+          "out": true
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 12,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 18,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "SM Boland",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JJ Bumrah",
+          "overs": "23.5",
+          "balls": 143,
+          "runs": 70,
+          "wickets": 4,
+          "economy": 2.94
+        },
+        {
+          "player": "Mohammed Siraj",
+          "overs": "24.5",
+          "balls": 149,
+          "runs": 102,
+          "wickets": 4,
+          "economy": 4.11
+        },
+        {
+          "player": "Harshit Rana",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 87,
+          "wickets": 0,
+          "economy": 5.44
+        },
+        {
+          "player": "Nithish Kumar Reddy",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 4.17
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 2.94
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "India",
+      "runs": 175,
+      "extras": 13,
+      "balls": 227,
+      "batting": [
+        {
+          "player": "YBK Jaiswal",
+          "runs": 24,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 77.42,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 7,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 28,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 93.33,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 11,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 52.38,
+          "out": true
+        },
+        {
+          "player": "RR Pant",
+          "runs": 28,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 90.32,
+          "out": true
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 6,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "Nithish Kumar Reddy",
+          "runs": 42,
+          "balls": 47,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 89.36,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 7,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Harshit Rana",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JJ Bumrah",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": false
+        },
+        {
+          "player": "Mohammed Siraj",
+          "runs": 7,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 64,
+          "wickets": 2,
+          "economy": 4.47
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "14.3",
+          "balls": 87,
+          "runs": 57,
+          "wickets": 5,
+          "economy": 3.93
+        },
+        {
+          "player": "SM Boland",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 54,
+          "wickets": 3,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Australia",
+      "runs": 19,
+      "extras": 0,
+      "balls": 20,
+      "batting": [
+        {
+          "player": "NA McSweeney",
+          "runs": 10,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 9,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JJ Bumrah",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "Mohammed Siraj",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 6.75
+        },
+        {
+          "player": "Nithish Kumar Reddy",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

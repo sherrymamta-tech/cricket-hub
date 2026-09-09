@@ -1,0 +1,559 @@
+{
+  "id": "1166987",
+  "teams": [
+    "Glamorgan",
+    "Sussex"
+  ],
+  "date": "2019-05-27",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "County Ground, Hove",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Glamorgan",
+      "runs": 186,
+      "extras": 18,
+      "balls": 336,
+      "batting": [
+        {
+          "player": "NJ Selman",
+          "runs": 76,
+          "balls": 156,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 48.72,
+          "out": false
+        },
+        {
+          "player": "CR Hemphrey",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 14,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 82.35,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 6,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 12,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "DA Douthwaite",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "GG Wagg",
+          "runs": 44,
+          "balls": 76,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 57.89,
+          "out": true
+        },
+        {
+          "player": "TN Cullen",
+          "runs": 6,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "M de Lange",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T van der Gugten",
+          "runs": 1,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.25,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mir Hamza",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 53,
+          "wickets": 2,
+          "economy": 4.08
+        },
+        {
+          "player": "D Wiese",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 3.23
+        },
+        {
+          "player": "JD Warner",
+          "overs": "7.5",
+          "balls": 47,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 4.6
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 2.96
+        },
+        {
+          "player": "DR Briggs",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 1.9
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sussex",
+      "runs": 420,
+      "extras": 26,
+      "balls": 567,
+      "batting": [
+        {
+          "player": "PD Salt",
+          "runs": 103,
+          "balls": 106,
+          "fours": 12,
+          "sixes": 3,
+          "strike_rate": 97.17,
+          "out": true
+        },
+        {
+          "player": "LWP Wells",
+          "runs": 30,
+          "balls": 44,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 68.18,
+          "out": true
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 31,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "S van Zyl",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LJ Evans",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "BC Brown",
+          "runs": 131,
+          "balls": 190,
+          "fours": 15,
+          "sixes": 1,
+          "strike_rate": 68.95,
+          "out": true
+        },
+        {
+          "player": "D Wiese",
+          "runs": 34,
+          "balls": 76,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 44.74,
+          "out": true
+        },
+        {
+          "player": "CJ Jordan",
+          "runs": 35,
+          "balls": 50,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "DR Briggs",
+          "runs": 24,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "JD Warner",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": false
+        },
+        {
+          "player": "Mir Hamza",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M de Lange",
+          "overs": "21.5",
+          "balls": 131,
+          "runs": 90,
+          "wickets": 3,
+          "economy": 4.12
+        },
+        {
+          "player": "T van der Gugten",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 103,
+          "wickets": 2,
+          "economy": 3.94
+        },
+        {
+          "player": "GG Wagg",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "DA Douthwaite",
+          "overs": "12.3",
+          "balls": 75,
+          "runs": 78,
+          "wickets": 2,
+          "economy": 6.24
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 61,
+          "wickets": 3,
+          "economy": 3.81
+        },
+        {
+          "player": "CR Hemphrey",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 4.33
+        },
+        {
+          "player": "DL Lloyd",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Glamorgan",
+      "runs": 466,
+      "extras": 49,
+      "balls": 759,
+      "batting": [
+        {
+          "player": "CR Hemphrey",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NJ Selman",
+          "runs": 99,
+          "balls": 252,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 39.29,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 182,
+          "balls": 245,
+          "fours": 31,
+          "sixes": 0,
+          "strike_rate": 74.29,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 17,
+          "balls": 47,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.17,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DA Douthwaite",
+          "runs": 63,
+          "balls": 55,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 114.55,
+          "out": true
+        },
+        {
+          "player": "GG Wagg",
+          "runs": 25,
+          "balls": 51,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 49.02,
+          "out": true
+        },
+        {
+          "player": "TN Cullen",
+          "runs": 28,
+          "balls": 77,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": false
+        },
+        {
+          "player": "M de Lange",
+          "runs": 0,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T van der Gugten",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mir Hamza",
+          "overs": "29.0",
+          "balls": 174,
+          "runs": 103,
+          "wickets": 2,
+          "economy": 3.55
+        },
+        {
+          "player": "D Wiese",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 93,
+          "wickets": 2,
+          "economy": 4.04
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "20.3",
+          "balls": 123,
+          "runs": 93,
+          "wickets": 0,
+          "economy": 4.54
+        },
+        {
+          "player": "JD Warner",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 4.38
+        },
+        {
+          "player": "DR Briggs",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 68,
+          "wickets": 1,
+          "economy": 3.34
+        },
+        {
+          "player": "LWP Wells",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 63,
+          "wickets": 5,
+          "economy": 2.72
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Sussex",
+      "runs": 47,
+      "extras": 4,
+      "balls": 91,
+      "batting": [
+        {
+          "player": "PD Salt",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "LWP Wells",
+          "runs": 16,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": false
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 22,
+          "balls": 47,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.81,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M de Lange",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 3.86
+        },
+        {
+          "player": "DA Douthwaite",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 3.6
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 1.0
+        },
+        {
+          "player": "CR Hemphrey",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    }
+  ]
+}

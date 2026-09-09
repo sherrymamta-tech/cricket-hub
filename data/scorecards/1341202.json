@@ -1,0 +1,259 @@
+{
+  "id": "1341202",
+  "teams": [
+    "Canterbury",
+    "Wellington"
+  ],
+  "date": "2023-01-01",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "Hagley Oval, Christchurch",
+  "result": "Wellington won by 8 wickets",
+  "winner": "Wellington",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Canterbury",
+      "runs": 132,
+      "extras": 20,
+      "balls": 132,
+      "batting": [
+        {
+          "player": "CJ Bowes",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LJ Carter",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "MWT Boyle",
+          "runs": 6,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 35,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 92.11,
+          "out": true
+        },
+        {
+          "player": "CD Fletcher",
+          "runs": 29,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 111.54,
+          "out": true
+        },
+        {
+          "player": "MJ Hay",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "HB Shipley",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "TD Astle",
+          "runs": 18,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BP Coburn",
+          "runs": 12,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 92.31,
+          "out": false
+        },
+        {
+          "player": "W O'Rourke",
+          "runs": 6,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LV van Beek",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "NG Smith",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 4.57
+        },
+        {
+          "player": "IG McPeake",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 7.43
+        },
+        {
+          "player": "MW Snedden",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 4.62
+        },
+        {
+          "player": "R Ravindra",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 5.76
+        },
+        {
+          "player": "PF Younghusband",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 5.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Wellington",
+      "runs": 133,
+      "extras": 3,
+      "balls": 74,
+      "batting": [
+        {
+          "player": "FH Allen",
+          "runs": 78,
+          "balls": 38,
+          "fours": 9,
+          "sixes": 3,
+          "strike_rate": 205.26,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 24,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 171.43,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 19,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 118.75,
+          "out": false
+        },
+        {
+          "player": "TM Johnson",
+          "runs": 9,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HB Shipley",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 8.7
+        },
+        {
+          "player": "W O'Rourke",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 14.33
+        },
+        {
+          "player": "EJ Nuttall",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 11.14
+        },
+        {
+          "player": "TD Astle",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 13.0
+        },
+        {
+          "player": "BP Coburn",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "CE McConchie",
+          "overs": "1.5",
+          "balls": 11,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.64
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "id": "804377",
+  "teams": [
+    "Glamorgan",
+    "Leicestershire"
+  ],
+  "date": "2015-06-22",
+  "format": "MDM",
+  "competition": "LV= County Championship",
+  "venue": "Sophia Gardens, Cardiff",
+  "result": "Glamorgan won by 137 runs",
+  "winner": "Glamorgan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Glamorgan",
+      "runs": 278,
+      "extras": 6,
+      "balls": 475,
+      "batting": [
+        {
+          "player": "JA Rudolph",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "WD Bragg",
+          "runs": 17,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.95,
+          "out": true
+        },
+        {
+          "player": "BJ Wright",
+          "runs": 18,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 84,
+          "balls": 141,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 59.57,
+          "out": true
+        },
+        {
+          "player": "CAJ Meschede",
+          "runs": 24,
+          "balls": 59,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 40.68,
+          "out": true
+        },
+        {
+          "player": "MA Wallace",
+          "runs": 14,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.85,
+          "out": true
+        },
+        {
+          "player": "GG Wagg",
+          "runs": 94,
+          "balls": 113,
+          "fours": 7,
+          "sixes": 6,
+          "strike_rate": 83.19,
+          "out": true
+        },
+        {
+          "player": "AG Salter",
+          "runs": 10,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.26,
+          "out": true
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Carter",
+          "runs": 10,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.63,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJ McKay",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 62,
+          "wickets": 3,
+          "economy": 3.84
+        },
+        {
+          "player": "BA Raine",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 52,
+          "wickets": 2,
+          "economy": 2.74
+        },
+        {
+          "player": "CE Shreck",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 67,
+          "wickets": 2,
+          "economy": 3.53
+        },
+        {
+          "player": "JKH Naik",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 3.2
+        },
+        {
+          "player": "AP Agathangelou",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 5.67
+        },
+        {
+          "player": "TJ Wells",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 4.57
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Leicestershire",
+      "runs": 253,
+      "extras": 15,
+      "balls": 523,
+      "batting": [
+        {
+          "player": "AJ Robson",
+          "runs": 11,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true
+        },
+        {
+          "player": "MAG Boyce",
+          "runs": 50,
+          "balls": 141,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 35.46,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 10,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.64,
+          "out": true
+        },
+        {
+          "player": "MJ Cosgrove",
+          "runs": 38,
+          "balls": 51,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 74.51,
+          "out": true
+        },
+        {
+          "player": "AP Agathangelou",
+          "runs": 42,
+          "balls": 77,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "NJ O'Brien",
+          "runs": 39,
+          "balls": 61,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 63.93,
+          "out": true
+        },
+        {
+          "player": "TJ Wells",
+          "runs": 17,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.95,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 16,
+          "balls": 65,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 24.62,
+          "out": true
+        },
+        {
+          "player": "CJ McKay",
+          "runs": 13,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.0,
+          "out": true
+        },
+        {
+          "player": "JKH Naik",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "CE Shreck",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Hogan",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 54,
+          "wickets": 3,
+          "economy": 3.34
+        },
+        {
+          "player": "GG Wagg",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 3.9
+        },
+        {
+          "player": "A Carter",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 1.88
+        },
+        {
+          "player": "AG Salter",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 64,
+          "wickets": 2,
+          "economy": 2.13
+        },
+        {
+          "player": "CAJ Meschede",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 4.5
+        },
+        {
+          "player": "CA Ingram",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 4.2
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Glamorgan",
+      "runs": 298,
+      "extras": 23,
+      "balls": 527,
+      "batting": [
+        {
+          "player": "JA Rudolph",
+          "runs": 74,
+          "balls": 230,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 32.17,
+          "out": true
+        },
+        {
+          "player": "WD Bragg",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BJ Wright",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 60,
+          "balls": 102,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 8,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "CAJ Meschede",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MA Wallace",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GG Wagg",
+          "runs": 32,
+          "balls": 51,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 62.75,
+          "out": true
+        },
+        {
+          "player": "AG Salter",
+          "runs": 54,
+          "balls": 81,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "MG Hogan",
+          "runs": 37,
+          "balls": 27,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 137.04,
+          "out": true
+        },
+        {
+          "player": "A Carter",
+          "runs": 10,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 142.86,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJ McKay",
+          "overs": "29.1",
+          "balls": 175,
+          "runs": 86,
+          "wickets": 1,
+          "economy": 2.95
+        },
+        {
+          "player": "BA Raine",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 52,
+          "wickets": 5,
+          "economy": 3.25
+        },
+        {
+          "player": "JKH Naik",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 4.2
+        },
+        {
+          "player": "CE Shreck",
+          "overs": "25.2",
+          "balls": 152,
+          "runs": 77,
+          "wickets": 3,
+          "economy": 3.04
+        },
+        {
+          "player": "TJ Wells",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 6.32
+        },
+        {
+          "player": "AP Agathangelou",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Leicestershire",
+      "runs": 186,
+      "extras": 15,
+      "balls": 442,
+      "batting": [
+        {
+          "player": "MAG Boyce",
+          "runs": 60,
+          "balls": 148,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 40.54,
+          "out": true
+        },
+        {
+          "player": "AJ Robson",
+          "runs": 8,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 9,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.91,
+          "out": true
+        },
+        {
+          "player": "MJ Cosgrove",
+          "runs": 14,
+          "balls": 43,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.56,
+          "out": true
+        },
+        {
+          "player": "JKH Naik",
+          "runs": 6,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "AP Agathangelou",
+          "runs": 6,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "NJ O'Brien",
+          "runs": 41,
+          "balls": 91,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 45.05,
+          "out": true
+        },
+        {
+          "player": "TJ Wells",
+          "runs": 0,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 14,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true
+        },
+        {
+          "player": "CJ McKay",
+          "runs": 13,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.94,
+          "out": false
+        },
+        {
+          "player": "CE Shreck",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Hogan",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 2.05
+        },
+        {
+          "player": "CAJ Meschede",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 3.33
+        },
+        {
+          "player": "A Carter",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "GG Wagg",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 1.32
+        },
+        {
+          "player": "AG Salter",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 2.72
+        },
+        {
+          "player": "CA Ingram",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

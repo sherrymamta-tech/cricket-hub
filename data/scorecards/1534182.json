@@ -1,0 +1,260 @@
+{
+  "id": "1534182",
+  "teams": [
+    "Barbados Tridents",
+    "Jamaica Kingsmen"
+  ],
+  "date": "2026-08-11",
+  "format": "T20",
+  "competition": "Caribbean Premier League",
+  "venue": "Sabina Park, Kingston, Jamaica",
+  "result": "Barbados Tridents won by 5 runs",
+  "winner": "Barbados Tridents",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Barbados Tridents",
+      "runs": 206,
+      "extras": 14,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "BA King",
+          "runs": 73,
+          "balls": 52,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 140.38,
+          "out": true
+        },
+        {
+          "player": "ZN Carter",
+          "runs": 27,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 158.82,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 42,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 161.54,
+          "out": true
+        },
+        {
+          "player": "SE Rutherford",
+          "runs": 50,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 178.57,
+          "out": false
+        },
+        {
+          "player": "G Motie",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Blades",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 9.86
+        },
+        {
+          "player": "AD Russell",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 12.72
+        },
+        {
+          "player": "KMA Paul",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 8.88
+        },
+        {
+          "player": "Hunain Shah",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 8.25
+        },
+        {
+          "player": "Hassan Khan",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 6.33
+        },
+        {
+          "player": "VO Lawes",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 13.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Jamaica Kingsmen",
+      "runs": 201,
+      "extras": 16,
+      "balls": 132,
+      "batting": [
+        {
+          "player": "RR Hendricks",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Shayan Jahangir",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KU Carty",
+          "runs": 45,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 4,
+          "strike_rate": 160.71,
+          "out": true
+        },
+        {
+          "player": "KSA McKenzie",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "R Powell",
+          "runs": 38,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 4,
+          "strike_rate": 158.33,
+          "out": true
+        },
+        {
+          "player": "Hassan Khan",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AD Russell",
+          "runs": 68,
+          "balls": 44,
+          "fours": 0,
+          "sixes": 9,
+          "strike_rate": 154.55,
+          "out": true
+        },
+        {
+          "player": "KMA Paul",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "VO Lawes",
+          "runs": 32,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 4,
+          "strike_rate": 145.45,
+          "out": true
+        },
+        {
+          "player": "Hunain Shah",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJ Green",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 7.2
+        },
+        {
+          "player": "DR Sams",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 20,
+          "wickets": 4,
+          "economy": 4.44
+        },
+        {
+          "player": "Mujeeb Ur Rahman",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 12.24
+        },
+        {
+          "player": "RR Simmonds",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 10.07
+        },
+        {
+          "player": "G Motie",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 11.78
+        }
+      ]
+    }
+  ]
+}

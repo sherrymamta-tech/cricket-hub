@@ -1,0 +1,304 @@
+{
+  "id": "1299603",
+  "teams": [
+    "Warriors",
+    "Titans"
+  ],
+  "date": "2022-02-07",
+  "format": "T20",
+  "competition": "CSA T20 Challenge",
+  "venue": "St George's Park, Port Elizabeth",
+  "result": "Warriors won by 8 runs",
+  "winner": "Warriors",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Warriors",
+      "runs": 163,
+      "extras": 6,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "MP Breetzke",
+          "runs": 36,
+          "balls": 21,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 171.43,
+          "out": true
+        },
+        {
+          "player": "WJ Lubbe",
+          "runs": 56,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "JT Smuts",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "DS Rosier",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "T Stubbs",
+          "runs": 51,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 4,
+          "strike_rate": 175.86,
+          "out": true
+        },
+        {
+          "player": "LC Ngoepe",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "S Qeshile",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "T van Vuuren",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "D Paterson",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "D Ferreira",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "C Bosch",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 8.31
+        },
+        {
+          "player": "LB Williams",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 6.96
+        },
+        {
+          "player": "AM Phangiso",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "T Shamsi",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.75
+        },
+        {
+          "player": "A Gqamane",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 12.8
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Titans",
+      "runs": 155,
+      "extras": 13,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "Q de Kock",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TB de Bruyn",
+          "runs": 17,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 170.0,
+          "out": true
+        },
+        {
+          "player": "GL Cloete",
+          "runs": 23,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 104.55,
+          "out": true
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 20,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BS Makhanya",
+          "runs": 18,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "D Ferreira",
+          "runs": 60,
+          "balls": 40,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        },
+        {
+          "player": "A Gqamane",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "C Bosch",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "AM Phangiso",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LB Williams",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WJ Lubbe",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 6.92
+        },
+        {
+          "player": "D Paterson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 43,
+          "wickets": 2,
+          "economy": 10.32
+        },
+        {
+          "player": "M Nabe",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 13.38
+        },
+        {
+          "player": "Tsepo Ndwandwa",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "T van Vuuren",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "JT Smuts",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "1250178",
+  "teams": [
+    "Lancashire",
+    "Kent"
+  ],
+  "date": "2021-07-28",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "Kent County Cricket Ground, Beckenham",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Lancashire",
+      "runs": 71,
+      "extras": 8,
+      "balls": 92,
+      "batting": [
+        {
+          "player": "KK Jennings",
+          "runs": 24,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 64.86,
+          "out": false
+        },
+        {
+          "player": "JJ Bohannon",
+          "runs": 39,
+          "balls": 55,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 70.91,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DI Stevens",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 1.78
+        },
+        {
+          "player": "ME Milnes",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "NN Gilchrist",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.67
+        },
+        {
+          "player": "G Stewart",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 8.77
+        }
+      ]
+    }
+  ]
+}

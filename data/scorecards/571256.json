@@ -1,0 +1,234 @@
+{
+  "id": "571256",
+  "teams": [
+    "Perth Scorchers",
+    "Sydney Thunder"
+  ],
+  "date": "2013-01-04",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Western Australia Cricket Association Ground",
+  "result": "Perth Scorchers won by 9 wickets",
+  "winner": "Perth Scorchers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Thunder",
+      "runs": 113,
+      "extras": 5,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "CH Gayle",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "SJC Keen",
+          "runs": 14,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "MJ Prior",
+          "runs": 4,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "RGL Carters",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 56,
+          "balls": 45,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 124.44,
+          "out": true
+        },
+        {
+          "player": "MJ Cosgrove",
+          "runs": 18,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "CJ Borgas",
+          "runs": 6,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SJ Coyte",
+          "runs": 6,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "A Zampa",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GS Sandhu",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AC Thomas",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 4.85
+        },
+        {
+          "player": "JP Behrendorff",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 3.84
+        },
+        {
+          "player": "NM Coulter-Nile",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "player": "MA Beer",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.75
+        },
+        {
+          "player": "GB Hogg",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 4,
+          "economy": 7.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Perth Scorchers",
+      "runs": 117,
+      "extras": 16,
+      "balls": 88,
+      "batting": [
+        {
+          "player": "SE Marsh",
+          "runs": 56,
+          "balls": 49,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 114.29,
+          "out": false
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 6,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "MJ North",
+          "runs": 39,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 121.88,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DP Nannes",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "player": "GS Sandhu",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 5.77
+        },
+        {
+          "player": "SJ Coyte",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "A Zampa",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 10.2
+        },
+        {
+          "player": "CH Gayle",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

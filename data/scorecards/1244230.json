@@ -1,0 +1,615 @@
+{
+  "id": "1244230",
+  "teams": [
+    "Essex",
+    "Durham"
+  ],
+  "date": "2021-04-15",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "County Ground, Chelmsford",
+  "result": "Essex won by 44 runs",
+  "winner": "Essex",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Essex",
+      "runs": 96,
+      "extras": 5,
+      "balls": 251,
+      "batting": [
+        {
+          "player": "NLJ Browne",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T Westley",
+          "runs": 4,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "AN Cook",
+          "runs": 6,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "DW Lawrence",
+          "runs": 32,
+          "balls": 68,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true
+        },
+        {
+          "player": "PI Walter",
+          "runs": 7,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "AJA Wheater",
+          "runs": 18,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 40.91,
+          "out": true
+        },
+        {
+          "player": "SR Harmer",
+          "runs": 0,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BMJ Allison",
+          "runs": 4,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "SJ Cook",
+          "runs": 15,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "JA Porter",
+          "runs": 1,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 13,
+          "wickets": 3,
+          "economy": 1.18
+        },
+        {
+          "player": "MET Salisbury",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 2.36
+        },
+        {
+          "player": "BA Raine",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 1.67
+        },
+        {
+          "player": "BA Carse",
+          "overs": "7.5",
+          "balls": 47,
+          "runs": 37,
+          "wickets": 3,
+          "economy": 4.72
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Durham",
+      "runs": 259,
+      "extras": 16,
+      "balls": 495,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 5,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 24,
+          "balls": 79,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 30.38,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 100,
+          "balls": 129,
+          "fours": 16,
+          "sixes": 0,
+          "strike_rate": 77.52,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JTA Burnham",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 4,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.05,
+          "out": true
+        },
+        {
+          "player": "SW Poynter",
+          "runs": 52,
+          "balls": 102,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 50.98,
+          "out": false
+        },
+        {
+          "player": "BA Carse",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "MET Salisbury",
+          "runs": 41,
+          "balls": 101,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 40.59,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 15,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Porter",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 59,
+          "wickets": 0,
+          "economy": 3.93
+        },
+        {
+          "player": "SJ Cook",
+          "overs": "20.3",
+          "balls": 123,
+          "runs": 63,
+          "wickets": 3,
+          "economy": 3.07
+        },
+        {
+          "player": "BMJ Allison",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 3.67
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "34.0",
+          "balls": 204,
+          "runs": 87,
+          "wickets": 5,
+          "economy": 2.56
+        },
+        {
+          "player": "DW Lawrence",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Essex",
+      "runs": 330,
+      "extras": 3,
+      "balls": 734,
+      "batting": [
+        {
+          "player": "NLJ Browne",
+          "runs": 4,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": true
+        },
+        {
+          "player": "AN Cook",
+          "runs": 12,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.43,
+          "out": true
+        },
+        {
+          "player": "T Westley",
+          "runs": 38,
+          "balls": 113,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 33.63,
+          "out": true
+        },
+        {
+          "player": "DW Lawrence",
+          "runs": 76,
+          "balls": 123,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 61.79,
+          "out": true
+        },
+        {
+          "player": "PI Walter",
+          "runs": 77,
+          "balls": 134,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 57.46,
+          "out": true
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 16,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "AJA Wheater",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "SR Harmer",
+          "runs": 6,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "BMJ Allison",
+          "runs": 52,
+          "balls": 163,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 31.9,
+          "out": true
+        },
+        {
+          "player": "SJ Cook",
+          "runs": 37,
+          "balls": 76,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.68,
+          "out": true
+        },
+        {
+          "player": "JA Porter",
+          "runs": 3,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 2.33
+        },
+        {
+          "player": "MET Salisbury",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 2.56
+        },
+        {
+          "player": "BA Raine",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 2.68
+        },
+        {
+          "player": "BA Carse",
+          "overs": "27.2",
+          "balls": 164,
+          "runs": 82,
+          "wickets": 5,
+          "economy": 3.0
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 52,
+          "wickets": 2,
+          "economy": 3.06
+        },
+        {
+          "player": "EJH Eckersley",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Durham",
+      "runs": 123,
+      "extras": 2,
+      "balls": 340,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 24,
+          "balls": 120,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 18,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.86,
+          "out": true
+        },
+        {
+          "player": "JTA Burnham",
+          "runs": 43,
+          "balls": 82,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 52.44,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 13,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.43,
+          "out": true
+        },
+        {
+          "player": "SW Poynter",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "BA Carse",
+          "runs": 15,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 65.22,
+          "out": true
+        },
+        {
+          "player": "MET Salisbury",
+          "runs": 2,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "C Rushworth",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Porter",
+          "overs": "13.4",
+          "balls": 82,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 2.41
+        },
+        {
+          "player": "SJ Cook",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 19,
+          "wickets": 3,
+          "economy": 1.46
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 57,
+          "wickets": 5,
+          "economy": 2.38
+        },
+        {
+          "player": "BMJ Allison",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 1.4
+        },
+        {
+          "player": "DW Lawrence",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    }
+  ]
+}

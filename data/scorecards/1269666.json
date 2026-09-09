@@ -1,0 +1,296 @@
+{
+  "id": "1269666",
+  "teams": [
+    "Brisbane Heat",
+    "Hobart Hurricanes"
+  ],
+  "date": "2022-01-01",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Bellerive Oval, Hobart",
+  "result": "Brisbane Heat won by 14 runs",
+  "winner": "Brisbane Heat",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Brisbane Heat",
+      "runs": 150,
+      "extras": 3,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "CA Lynn",
+          "runs": 13,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 86.67,
+          "out": true
+        },
+        {
+          "player": "JJ Peirson",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "SD Heazlett",
+          "runs": 26,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 92.86,
+          "out": true
+        },
+        {
+          "player": "M Bryant",
+          "runs": 9,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "XC Bartlett",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JD Wildermuth",
+          "runs": 28,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "JJ Bazley",
+          "runs": 44,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 151.72,
+          "out": false
+        },
+        {
+          "player": "MT Steketee",
+          "runs": 10,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TS Rogers",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 3.75
+        },
+        {
+          "player": "RP Meredith",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.52
+        },
+        {
+          "player": "TH David",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "NT Ellis",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 41,
+          "wickets": 3,
+          "economy": 9.46
+        },
+        {
+          "player": "S Lamichhane",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 9.25
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Hobart Hurricanes",
+      "runs": 136,
+      "extras": 4,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "MS Wade",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "BR McDermott",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DJM Short",
+          "runs": 27,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 71.05,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 22,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 110.0,
+          "out": true
+        },
+        {
+          "player": "PSP Handscomb",
+          "runs": 14,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "TH David",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 7,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "NT Ellis",
+          "runs": 18,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 163.64,
+          "out": true
+        },
+        {
+          "player": "TS Rogers",
+          "runs": 33,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 157.14,
+          "out": false
+        },
+        {
+          "player": "RP Meredith",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MT Steketee",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "XC Bartlett",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 30,
+          "wickets": 4,
+          "economy": 7.2
+        },
+        {
+          "player": "JD Wildermuth",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 8.64
+        },
+        {
+          "player": "JJ Bazley",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "Mujeeb Ur Rahman",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 3,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

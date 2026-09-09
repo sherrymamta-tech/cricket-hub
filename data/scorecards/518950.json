@@ -1,0 +1,607 @@
+{
+  "id": "518950",
+  "teams": [
+    "Australia",
+    "India"
+  ],
+  "date": "2011-12-26",
+  "format": "Test",
+  "competition": "Border-Gavaskar Trophy",
+  "venue": "Melbourne Cricket Ground",
+  "result": "Australia won by 122 runs",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 333,
+      "extras": 24,
+      "balls": 663,
+      "batting": [
+        {
+          "player": "EJM Cowan",
+          "runs": 68,
+          "balls": 178,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 38.2,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 37,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 75.51,
+          "out": true
+        },
+        {
+          "player": "SE Marsh",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 62,
+          "balls": 94,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 65.96,
+          "out": true
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 31,
+          "balls": 69,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 44.93,
+          "out": true
+        },
+        {
+          "player": "MEK Hussey",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BJ Haddin",
+          "runs": 27,
+          "balls": 70,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.57,
+          "out": true
+        },
+        {
+          "player": "PM Siddle",
+          "runs": 41,
+          "balls": 99,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 41.41,
+          "out": true
+        },
+        {
+          "player": "JL Pattinson",
+          "runs": 18,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        },
+        {
+          "player": "BW Hilfenhaus",
+          "runs": 19,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 59.38,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Z Khan",
+          "overs": "31.2",
+          "balls": 188,
+          "runs": 86,
+          "wickets": 4,
+          "economy": 2.74
+        },
+        {
+          "player": "I Sharma",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 54,
+          "wickets": 0,
+          "economy": 2.25
+        },
+        {
+          "player": "UT Yadav",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 112,
+          "wickets": 3,
+          "economy": 4.28
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "29.0",
+          "balls": 174,
+          "runs": 81,
+          "wickets": 3,
+          "economy": 2.79
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 282,
+      "extras": 4,
+      "balls": 569,
+      "batting": [
+        {
+          "player": "G Gambhir",
+          "runs": 3,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.04,
+          "out": true
+        },
+        {
+          "player": "V Sehwag",
+          "runs": 67,
+          "balls": 83,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 80.72,
+          "out": true
+        },
+        {
+          "player": "R Dravid",
+          "runs": 68,
+          "balls": 188,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 36.17,
+          "out": true
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 73,
+          "balls": 98,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 74.49,
+          "out": true
+        },
+        {
+          "player": "I Sharma",
+          "runs": 11,
+          "balls": 69,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.94,
+          "out": true
+        },
+        {
+          "player": "VVS Laxman",
+          "runs": 2,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 11,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 52.38,
+          "out": true
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 6,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 31,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 88.57,
+          "out": true
+        },
+        {
+          "player": "Z Khan",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "UT Yadav",
+          "runs": 2,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JL Pattinson",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 2.37
+        },
+        {
+          "player": "BW Hilfenhaus",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 75,
+          "wickets": 5,
+          "economy": 2.87
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "21.3",
+          "balls": 129,
+          "runs": 63,
+          "wickets": 3,
+          "economy": 2.93
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 66,
+          "wickets": 0,
+          "economy": 3.88
+        },
+        {
+          "player": "MEK Hussey",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "DA Warner",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Australia",
+      "runs": 240,
+      "extras": 13,
+      "balls": 465,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 5,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.52,
+          "out": true
+        },
+        {
+          "player": "EJM Cowan",
+          "runs": 8,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true
+        },
+        {
+          "player": "SE Marsh",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 60,
+          "balls": 98,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 61.22,
+          "out": true
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "MEK Hussey",
+          "runs": 89,
+          "balls": 151,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 58.94,
+          "out": true
+        },
+        {
+          "player": "BJ Haddin",
+          "runs": 6,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "PM Siddle",
+          "runs": 4,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JL Pattinson",
+          "runs": 37,
+          "balls": 81,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 45.68,
+          "out": false
+        },
+        {
+          "player": "BW Hilfenhaus",
+          "runs": 14,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.28,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Z Khan",
+          "overs": "20.4",
+          "balls": 124,
+          "runs": 54,
+          "wickets": 3,
+          "economy": 2.61
+        },
+        {
+          "player": "UT Yadav",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 70,
+          "wickets": 4,
+          "economy": 3.5
+        },
+        {
+          "player": "I Sharma",
+          "overs": "12.5",
+          "balls": 77,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 3.51
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 2.91
+        },
+        {
+          "player": "V Sehwag",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 3.5
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "India",
+      "runs": 169,
+      "extras": 13,
+      "balls": 290,
+      "batting": [
+        {
+          "player": "G Gambhir",
+          "runs": 13,
+          "balls": 47,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.66,
+          "out": true
+        },
+        {
+          "player": "V Sehwag",
+          "runs": 7,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "R Dravid",
+          "runs": 10,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.48,
+          "out": true
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 32,
+          "balls": 46,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 69.57,
+          "out": true
+        },
+        {
+          "player": "VVS Laxman",
+          "runs": 1,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.14,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 23,
+          "balls": 45,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 51.11,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 30,
+          "balls": 35,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "Z Khan",
+          "runs": 13,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 59.09,
+          "out": true
+        },
+        {
+          "player": "I Sharma",
+          "runs": 6,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": false
+        },
+        {
+          "player": "UT Yadav",
+          "runs": 21,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 84.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JL Pattinson",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 57,
+          "wickets": 4,
+          "economy": 3.72
+        },
+        {
+          "player": "BW Hilfenhaus",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 2.42
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 43,
+          "wickets": 3,
+          "economy": 4.78
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "5.5",
+          "balls": 35,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 4.29
+        }
+      ]
+    }
+  ]
+}

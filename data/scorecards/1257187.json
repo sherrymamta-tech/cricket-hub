@@ -1,0 +1,455 @@
+{
+  "id": "1257187",
+  "teams": [
+    "Pakistan",
+    "Zimbabwe"
+  ],
+  "date": "2021-05-07",
+  "format": "Test",
+  "competition": "Pakistan tour of Zimbabwe",
+  "venue": "Harare Sports Club",
+  "result": "Pakistan won by 147 runs",
+  "winner": "Pakistan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 510,
+      "extras": 22,
+      "balls": 890,
+      "batting": [
+        {
+          "player": "Imran Butt",
+          "runs": 2,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "Abid Ali",
+          "runs": 215,
+          "balls": 409,
+          "fours": 29,
+          "sixes": 0,
+          "strike_rate": 52.57,
+          "out": false
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 126,
+          "balls": 240,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 52.5,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Fawad Alam",
+          "runs": 5,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "Sajid Khan",
+          "runs": 20,
+          "balls": 55,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 21,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 65.62,
+          "out": true
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Nauman Ali",
+          "runs": 97,
+          "balls": 105,
+          "fours": 9,
+          "sixes": 5,
+          "strike_rate": 92.38,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Muzarabani",
+          "overs": "29.1",
+          "balls": 175,
+          "runs": 85,
+          "wickets": 3,
+          "economy": 2.91
+        },
+        {
+          "player": "R Ngarava",
+          "overs": "24.3",
+          "balls": 147,
+          "runs": 59,
+          "wickets": 1,
+          "economy": 2.41
+        },
+        {
+          "player": "LM Jongwe",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 68,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "DT Tiripano",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 92,
+          "wickets": 1,
+          "economy": 4.12
+        },
+        {
+          "player": "TS Chisoro",
+          "overs": "40.2",
+          "balls": 242,
+          "runs": 133,
+          "wickets": 2,
+          "economy": 3.3
+        },
+        {
+          "player": "M Shumba",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 73,
+          "wickets": 0,
+          "economy": 4.87
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Zimbabwe",
+      "runs": 132,
+      "extras": 8,
+      "balls": 365,
+      "batting": [
+        {
+          "player": "KT Kasuza",
+          "runs": 4,
+          "balls": 44,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "TK Musakanda",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 33,
+          "balls": 92,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 35.87,
+          "out": true
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 9,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "M Shumba",
+          "runs": 2,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.0,
+          "out": true
+        },
+        {
+          "player": "TS Chisoro",
+          "runs": 1,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 4.76,
+          "out": true
+        },
+        {
+          "player": "LM Jongwe",
+          "runs": 19,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 79.17,
+          "out": true
+        },
+        {
+          "player": "DT Tiripano",
+          "runs": 23,
+          "balls": 56,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 41.07,
+          "out": true
+        },
+        {
+          "player": "R Kaia",
+          "runs": 11,
+          "balls": 52,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.15,
+          "out": true
+        },
+        {
+          "player": "B Muzarabani",
+          "runs": 7,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "R Ngarava",
+          "runs": 15,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 107.14,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 2.54
+        },
+        {
+          "player": "Tabish Khan",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 1.8
+        },
+        {
+          "player": "Hasan Ali",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 27,
+          "wickets": 5,
+          "economy": 2.08
+        },
+        {
+          "player": "Nauman Ali",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 0.5
+        },
+        {
+          "player": "Sajid Khan",
+          "overs": "12.4",
+          "balls": 76,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 3.08
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Zimbabwe",
+      "runs": 231,
+      "extras": 7,
+      "balls": 409,
+      "batting": [
+        {
+          "player": "KT Kasuza",
+          "runs": 22,
+          "balls": 73,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 30.14,
+          "out": true
+        },
+        {
+          "player": "TK Musakanda",
+          "runs": 8,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "RW Chakabva",
+          "runs": 80,
+          "balls": 137,
+          "fours": 13,
+          "sixes": 2,
+          "strike_rate": 58.39,
+          "out": true
+        },
+        {
+          "player": "BRM Taylor",
+          "runs": 49,
+          "balls": 31,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 158.06,
+          "out": true
+        },
+        {
+          "player": "M Shumba",
+          "runs": 16,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.02,
+          "out": true
+        },
+        {
+          "player": "LM Jongwe",
+          "runs": 37,
+          "balls": 70,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 52.86,
+          "out": true
+        },
+        {
+          "player": "DT Tiripano",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "R Kaia",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TS Chisoro",
+          "runs": 8,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "R Ngarava",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "B Muzarabani",
+          "runs": 4,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 57,
+          "wickets": 5,
+          "economy": 2.83
+        },
+        {
+          "player": "Tabish Khan",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 4.18
+        },
+        {
+          "player": "Hasan Ali",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 1.0
+        },
+        {
+          "player": "Sajid Khan",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 5.33
+        },
+        {
+          "player": "Nauman Ali",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 86,
+          "wickets": 5,
+          "economy": 4.1
+        }
+      ]
+    }
+  ]
+}

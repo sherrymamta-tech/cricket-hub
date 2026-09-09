@@ -1,0 +1,597 @@
+{
+  "id": "1166960",
+  "teams": [
+    "Somerset",
+    "Yorkshire"
+  ],
+  "date": "2019-09-10",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "County Ground, Taunton",
+  "result": "Somerset won by 298 runs",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Somerset",
+      "runs": 199,
+      "extras": 23,
+      "balls": 439,
+      "batting": [
+        {
+          "player": "M Vijay",
+          "runs": 7,
+          "balls": 46,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 15.22,
+          "out": true
+        },
+        {
+          "player": "SM Davies",
+          "runs": 11,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.29,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 66,
+          "balls": 193,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 34.2,
+          "out": true
+        },
+        {
+          "player": "JC Hildreth",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "T Banton",
+          "runs": 2,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "GA Bartlett",
+          "runs": 12,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 12,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 15,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.59,
+          "out": true
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 10,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.62,
+          "out": true
+        },
+        {
+          "player": "J Overton",
+          "runs": 40,
+          "balls": 40,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "JH Davey",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 1.92
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 2.67
+        },
+        {
+          "player": "TT Bresnan",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 2.7
+        },
+        {
+          "player": "D Olivier",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 57,
+          "wickets": 2,
+          "economy": 3.98
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "23.5",
+          "balls": 143,
+          "runs": 58,
+          "wickets": 5,
+          "economy": 2.43
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Yorkshire",
+      "runs": 103,
+      "extras": 5,
+      "balls": 203,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 21,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 105.0,
+          "out": true
+        },
+        {
+          "player": "WAR Fraine",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 35,
+          "balls": 51,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 68.63,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 14,
+          "balls": 53,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 26.42,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 8,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 6,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 4,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Gregory",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 3.48
+        },
+        {
+          "player": "JH Davey",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 31,
+          "wickets": 3,
+          "economy": 5.17
+        },
+        {
+          "player": "J Overton",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "DM Bess",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 2.17
+        },
+        {
+          "player": "RE van der Merwe",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 14,
+          "wickets": 3,
+          "economy": 1.65
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Somerset",
+      "runs": 329,
+      "extras": 26,
+      "balls": 503,
+      "batting": [
+        {
+          "player": "M Vijay",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SM Davies",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 62,
+          "balls": 135,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 45.93,
+          "out": true
+        },
+        {
+          "player": "JC Hildreth",
+          "runs": 58,
+          "balls": 105,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 55.24,
+          "out": true
+        },
+        {
+          "player": "T Banton",
+          "runs": 43,
+          "balls": 48,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 89.58,
+          "out": true
+        },
+        {
+          "player": "GA Bartlett",
+          "runs": 47,
+          "balls": 83,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 56.63,
+          "out": true
+        },
+        {
+          "player": "L Gregory",
+          "runs": 39,
+          "balls": 57,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 68.42,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 30,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 103.45,
+          "out": true
+        },
+        {
+          "player": "J Overton",
+          "runs": 18,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "JH Davey",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KA Maharaj",
+          "overs": "36.0",
+          "balls": 216,
+          "runs": 139,
+          "wickets": 5,
+          "economy": 3.86
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 66,
+          "wickets": 2,
+          "economy": 4.95
+        },
+        {
+          "player": "D Olivier",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 5.53
+        },
+        {
+          "player": "A Lyth",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 2.89
+        },
+        {
+          "player": "TT Bresnan",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Yorkshire",
+      "runs": 127,
+      "extras": 12,
+      "balls": 275,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 1,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.33,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 20,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 37.74,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 23,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.1,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 11,
+          "balls": 55,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 10,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 17,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 53.12,
+          "out": true
+        },
+        {
+          "player": "WAR Fraine",
+          "runs": 5,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.25,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 24,
+          "balls": 33,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": false
+        },
+        {
+          "player": "D Olivier",
+          "runs": 4,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Gregory",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 2.32
+        },
+        {
+          "player": "JH Davey",
+          "overs": "11.2",
+          "balls": 68,
+          "runs": 22,
+          "wickets": 5,
+          "economy": 1.94
+        },
+        {
+          "player": "DM Bess",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "J Overton",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 3.5
+        },
+        {
+          "player": "RE van der Merwe",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 3.07
+        }
+      ]
+    }
+  ]
+}

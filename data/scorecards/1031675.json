@@ -1,0 +1,224 @@
+{
+  "id": "1031675",
+  "teams": [
+    "West Indies",
+    "England"
+  ],
+  "date": "2017-09-29",
+  "format": "ODI",
+  "competition": "West Indies tour of England",
+  "venue": "The Rose Bowl",
+  "result": "England won by 9 wickets",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "runs": 288,
+      "extras": 6,
+      "balls": 306,
+      "batting": [
+        {
+          "player": "CH Gayle",
+          "runs": 40,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 5,
+          "strike_rate": 137.93,
+          "out": true
+        },
+        {
+          "player": "KA Hope",
+          "runs": 33,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 82.5,
+          "out": true
+        },
+        {
+          "player": "SD Hope",
+          "runs": 72,
+          "balls": 95,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 75.79,
+          "out": true
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 32,
+          "balls": 62,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 51.61,
+          "out": true
+        },
+        {
+          "player": "JN Mohammed",
+          "runs": 25,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "SW Ambris",
+          "runs": 38,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 131.03,
+          "out": false
+        },
+        {
+          "player": "R Powell",
+          "runs": 11,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 122.22,
+          "out": true
+        },
+        {
+          "player": "AR Nurse",
+          "runs": 31,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 258.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JT Ball",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 94,
+          "wickets": 1,
+          "economy": 9.25
+        },
+        {
+          "player": "TK Curran",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 62,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "LE Plunkett",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 54,
+          "wickets": 2,
+          "economy": 5.23
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 4.13
+        },
+        {
+          "player": "MM Ali",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 3.6
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 294,
+      "extras": 11,
+      "balls": 233,
+      "batting": [
+        {
+          "player": "JJ Roy",
+          "runs": 96,
+          "balls": 71,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 135.21,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 141,
+          "balls": 118,
+          "fours": 17,
+          "sixes": 0,
+          "strike_rate": 119.49,
+          "out": false
+        },
+        {
+          "player": "JE Root",
+          "runs": 46,
+          "balls": 44,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 104.55,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JE Taylor",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "player": "AS Joseph",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 54,
+          "wickets": 0,
+          "economy": 7.71
+        },
+        {
+          "player": "ML Cummins",
+          "overs": "8.5",
+          "balls": 53,
+          "runs": 72,
+          "wickets": 1,
+          "economy": 8.15
+        },
+        {
+          "player": "AR Nurse",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 56,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "MN Samuels",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 10.25
+        },
+        {
+          "player": "R Powell",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 6.33
+        }
+      ]
+    }
+  ]
+}

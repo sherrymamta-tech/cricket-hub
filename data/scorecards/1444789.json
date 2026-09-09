@@ -1,0 +1,284 @@
+{
+  "id": "1444789",
+  "teams": [
+    "Knights",
+    "Western Province"
+  ],
+  "date": "2024-10-18",
+  "format": "T20",
+  "competition": "CSA T20 Challenge",
+  "venue": "Newlands, Cape Town",
+  "result": "Western Province won by 6 wickets",
+  "winner": "Western Province",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Knights",
+      "runs": 157,
+      "extras": 8,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "GJ Snyman",
+          "runs": 28,
+          "balls": 21,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "G Tarr",
+          "runs": 15,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 93.75,
+          "out": true
+        },
+        {
+          "player": "L Senokwane",
+          "runs": 25,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "D Forrester",
+          "runs": 39,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "AR Swanepoel",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "S Fledermaus",
+          "runs": 13,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 108.33,
+          "out": true
+        },
+        {
+          "player": "P Botha",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T van Vuuren",
+          "runs": 15,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 136.36,
+          "out": false
+        },
+        {
+          "player": "AM Phangiso",
+          "runs": 13,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 185.71,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BE Hendricks",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 6.72
+        },
+        {
+          "player": "KI Simmonds",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "player": "M Mpongwana",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "W Bedja",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 9.5
+        },
+        {
+          "player": "GF Linde",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 8.75
+        },
+        {
+          "player": "M Nabe",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 6.92
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Western Province",
+      "runs": 163,
+      "extras": 4,
+      "balls": 114,
+      "batting": [
+        {
+          "player": "JA Bird",
+          "runs": 16,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 94.12,
+          "out": true
+        },
+        {
+          "player": "D Smith",
+          "runs": 57,
+          "balls": 34,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 167.65,
+          "out": true
+        },
+        {
+          "player": "SV Kitime",
+          "runs": 15,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "EM Moore",
+          "runs": 31,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 134.78,
+          "out": false
+        },
+        {
+          "player": "M Mpongwana",
+          "runs": 22,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 110.0,
+          "out": true
+        },
+        {
+          "player": "GF Linde",
+          "runs": 18,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 360.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "GJ Snyman",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 6.24
+        },
+        {
+          "player": "T van Vuuren",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 14.0
+        },
+        {
+          "player": "S Langa",
+          "overs": "2.5",
+          "balls": 17,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 9.18
+        },
+        {
+          "player": "D Forrester",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "MP Siboto",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 14.0
+        },
+        {
+          "player": "AM Phangiso",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "player": "AR Swanepoel",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "S Fledermaus",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 10.67
+        }
+      ]
+    }
+  ]
+}

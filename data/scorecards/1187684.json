@@ -1,0 +1,269 @@
+{
+  "id": "1187684",
+  "teams": [
+    "New Zealand",
+    "India"
+  ],
+  "date": "2020-02-11",
+  "format": "ODI",
+  "competition": "India tour of New Zealand",
+  "venue": "Bay Oval",
+  "result": "New Zealand won by 5 wickets",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 296,
+      "extras": 7,
+      "balls": 306,
+      "batting": [
+        {
+          "player": "PP Shaw",
+          "runs": 40,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "MA Agarwal",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 9,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 62,
+          "balls": 64,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 96.88,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 112,
+          "balls": 113,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 99.12,
+          "out": true
+        },
+        {
+          "player": "MK Pandey",
+          "runs": 42,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 8,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": false
+        },
+        {
+          "player": "SN Thakur",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Navdeep Saini",
+          "runs": 8,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 6.32
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 5.21
+        },
+        {
+          "player": "HK Bennett",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 64,
+          "wickets": 4,
+          "economy": 6.3
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 3.33
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 6.25
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 59,
+          "wickets": 0,
+          "economy": 5.8
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 300,
+      "extras": 11,
+      "balls": 291,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 66,
+          "balls": 48,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 137.5,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 80,
+          "balls": 104,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 22,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.97,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 12,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 32,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 91.43,
+          "out": false
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 19,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 76.0,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 58,
+          "balls": 29,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JJ Bumrah",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 5.1
+        },
+        {
+          "player": "Navdeep Saini",
+          "overs": "8.4",
+          "balls": 52,
+          "runs": 69,
+          "wickets": 0,
+          "economy": 7.96
+        },
+        {
+          "player": "YS Chahal",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 48,
+          "wickets": 3,
+          "economy": 4.8
+        },
+        {
+          "player": "SN Thakur",
+          "overs": "9.5",
+          "balls": 59,
+          "runs": 87,
+          "wickets": 1,
+          "economy": 8.85
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 4.5
+        }
+      ]
+    }
+  ]
+}

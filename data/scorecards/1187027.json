@@ -1,0 +1,225 @@
+{
+  "id": "1187027",
+  "teams": [
+    "India",
+    "Australia"
+  ],
+  "date": "2020-01-14",
+  "format": "ODI",
+  "competition": "Australia tour of India",
+  "venue": "Wankhede Stadium",
+  "result": "Australia won by 10 wickets",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 255,
+      "extras": 11,
+      "balls": 303,
+      "batting": [
+        {
+          "player": "RG Sharma",
+          "runs": 10,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 74,
+          "balls": 92,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 80.43,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 47,
+          "balls": 62,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 75.81,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 16,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "RR Pant",
+          "runs": 28,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 25,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 75.76,
+          "out": true
+        },
+        {
+          "player": "SN Thakur",
+          "runs": 13,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 130.0,
+          "out": true
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 10,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "runs": 17,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 106.25,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 57,
+          "wickets": 3,
+          "economy": 5.52
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 4.26
+        },
+        {
+          "player": "KW Richardson",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 43,
+          "wickets": 2,
+          "economy": 4.53
+        },
+        {
+          "player": "A Zampa",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 5.21
+        },
+        {
+          "player": "AC Agar",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 5.7
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 258,
+      "extras": 20,
+      "balls": 235,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 128,
+          "balls": 117,
+          "fours": 17,
+          "sixes": 3,
+          "strike_rate": 109.4,
+          "out": false
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 110,
+          "balls": 118,
+          "fours": 13,
+          "sixes": 2,
+          "strike_rate": 93.22,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Shami",
+          "overs": "7.5",
+          "balls": 47,
+          "runs": 59,
+          "wickets": 0,
+          "economy": 7.53
+        },
+        {
+          "player": "JJ Bumrah",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 56,
+          "wickets": 0,
+          "economy": 7.81
+        },
+        {
+          "player": "SN Thakur",
+          "overs": "5.4",
+          "balls": 34,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 7.76
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 55,
+          "wickets": 0,
+          "economy": 5.32
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 5.39
+        }
+      ]
+    }
+  ]
+}

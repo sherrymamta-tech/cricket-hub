@@ -1,0 +1,259 @@
+{
+  "id": "1482003",
+  "teams": [
+    "Seattle Orcas",
+    "Los Angeles Knight Riders"
+  ],
+  "date": "2025-06-22",
+  "format": "T20",
+  "competition": "Major League Cricket",
+  "venue": "Grand Prairie Stadium, Dallas",
+  "result": "Los Angeles Knight Riders won by 6 wickets",
+  "winner": "Los Angeles Knight Riders",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Seattle Orcas",
+      "runs": 177,
+      "extras": 15,
+      "balls": 133,
+      "batting": [
+        {
+          "player": "Shayan Jahangir",
+          "runs": 26,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 162.5,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 38,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 126.67,
+          "out": true
+        },
+        {
+          "player": "Aaron Jones",
+          "runs": 44,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 115.79,
+          "out": true
+        },
+        {
+          "player": "KR Mayers",
+          "runs": 14,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 107.69,
+          "out": true
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "SO Hetmyer",
+          "runs": 19,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 135.71,
+          "out": true
+        },
+        {
+          "player": "Sikandar Raza",
+          "runs": 16,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 123.08,
+          "out": false
+        },
+        {
+          "player": "G Coetzee",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "NR Kumar",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "CA Dry",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 11.04
+        },
+        {
+          "player": "SC van Schalkwyk",
+          "overs": "4.5",
+          "balls": 29,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 5.59
+        },
+        {
+          "player": "JO Holder",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 7.78
+        },
+        {
+          "player": "AD Russell",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 6.92
+        },
+        {
+          "player": "T Sangha",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 8.1
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Los Angeles Knight Riders",
+      "runs": 178,
+      "extras": 15,
+      "balls": 119,
+      "batting": [
+        {
+          "player": "UBT Chand",
+          "runs": 86,
+          "balls": 63,
+          "fours": 10,
+          "sixes": 4,
+          "strike_rate": 136.51,
+          "out": false
+        },
+        {
+          "player": "AD Hales",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "NR Kumar",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Saif Badar",
+          "runs": 54,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 4,
+          "strike_rate": 158.82,
+          "out": true
+        },
+        {
+          "player": "R Powell",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "SE Rutherford",
+          "runs": 20,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CJ Gannon",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 8.44
+        },
+        {
+          "player": "Harmeet Singh",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 7.85
+        },
+        {
+          "player": "Jasdeep Singh",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 8.7
+        },
+        {
+          "player": "G Coetzee",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 10.29
+        },
+        {
+          "player": "Sikandar Raza",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 8.53
+        },
+        {
+          "player": "KR Mayers",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 14.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "1533396",
+  "teams": [
+    "Guernsey",
+    "Isle of Man"
+  ],
+  "date": "2026-05-03",
+  "format": "T20",
+  "competition": "Isle of Man tour of Guernsey",
+  "venue": "King George V Sports Ground, Castel",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Guernsey",
+      "runs": 27,
+      "extras": 0,
+      "balls": 9,
+      "batting": [
+        {
+          "player": "LJ Barker",
+          "runs": 17,
+          "balls": 5,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 340.0,
+          "out": false
+        },
+        {
+          "player": "J Butler",
+          "runs": 10,
+          "balls": 4,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 250.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Ansell",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 18.0
+        },
+        {
+          "player": "G Newton",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 18.0
+        }
+      ]
+    }
+  ]
+}

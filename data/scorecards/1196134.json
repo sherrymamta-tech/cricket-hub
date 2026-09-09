@@ -1,0 +1,526 @@
+{
+  "id": "1196134",
+  "teams": [
+    "Tasmania",
+    "Queensland"
+  ],
+  "date": "2020-02-14",
+  "format": "MDM",
+  "competition": "Marsh Sheffield Shield",
+  "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+  "result": "Queensland won by 10 wickets",
+  "winner": "Queensland",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Tasmania",
+      "runs": 78,
+      "extras": 31,
+      "balls": 229,
+      "batting": [
+        {
+          "player": "JC Silk",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CA Wakim",
+          "runs": 11,
+          "balls": 50,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.0,
+          "out": true
+        },
+        {
+          "player": "AJ Doolan",
+          "runs": 5,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.83,
+          "out": true
+        },
+        {
+          "player": "JR Doran",
+          "runs": 7,
+          "balls": 57,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 12.28,
+          "out": true
+        },
+        {
+          "player": "BR McDermott",
+          "runs": 7,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.0,
+          "out": true
+        },
+        {
+          "player": "TD Paine",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "BJ Webster",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JM Bird",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "S Milenko",
+          "runs": 9,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.0,
+          "out": true
+        },
+        {
+          "player": "SL Rainbird",
+          "runs": 3,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.0,
+          "out": false
+        },
+        {
+          "player": "GT Bell",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Neser",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 21,
+          "wickets": 4,
+          "economy": 1.73
+        },
+        {
+          "player": "MT Steketee",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 2.47
+        },
+        {
+          "player": "JD Wildermuth",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 24,
+          "wickets": 3,
+          "economy": 2.36
+        },
+        {
+          "player": "CJ Gannon",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 1.64
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Queensland",
+      "runs": 257,
+      "extras": 12,
+      "balls": 677,
+      "batting": [
+        {
+          "player": "BE Street",
+          "runs": 46,
+          "balls": 172,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 26.74,
+          "out": true
+        },
+        {
+          "player": "JA Burns",
+          "runs": 23,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 60.53,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 26,
+          "balls": 63,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.27,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 56,
+          "balls": 174,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 32.18,
+          "out": true
+        },
+        {
+          "player": "SD Heazlett",
+          "runs": 17,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.95,
+          "out": true
+        },
+        {
+          "player": "JD Wildermuth",
+          "runs": 20,
+          "balls": 47,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 42.55,
+          "out": true
+        },
+        {
+          "player": "JJ Peirson",
+          "runs": 6,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MG Neser",
+          "runs": 4,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 17.39,
+          "out": true
+        },
+        {
+          "player": "CJ Gannon",
+          "runs": 22,
+          "balls": 69,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 31.88,
+          "out": false
+        },
+        {
+          "player": "MT Steketee",
+          "runs": 20,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": true
+        },
+        {
+          "player": "MJ Swepson",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Bird",
+          "overs": "25.2",
+          "balls": 152,
+          "runs": 68,
+          "wickets": 4,
+          "economy": 2.68
+        },
+        {
+          "player": "GT Bell",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 2.04
+        },
+        {
+          "player": "SL Rainbird",
+          "overs": "24.4",
+          "balls": 148,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 1.82
+        },
+        {
+          "player": "S Milenko",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 2.24
+        },
+        {
+          "player": "BJ Webster",
+          "overs": "15.5",
+          "balls": 95,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 2.78
+        },
+        {
+          "player": "JC Silk",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Tasmania",
+      "runs": 236,
+      "extras": 15,
+      "balls": 540,
+      "batting": [
+        {
+          "player": "JC Silk",
+          "runs": 0,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AJ Doolan",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CA Wakim",
+          "runs": 27,
+          "balls": 72,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "JR Doran",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BR McDermott",
+          "runs": 69,
+          "balls": 191,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 36.13,
+          "out": true
+        },
+        {
+          "player": "GT Bell",
+          "runs": 2,
+          "balls": 43,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 4.65,
+          "out": true
+        },
+        {
+          "player": "TD Paine",
+          "runs": 61,
+          "balls": 134,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 45.52,
+          "out": true
+        },
+        {
+          "player": "BJ Webster",
+          "runs": 50,
+          "balls": 57,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 87.72,
+          "out": true
+        },
+        {
+          "player": "S Milenko",
+          "runs": 4,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JM Bird",
+          "runs": 8,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "SL Rainbird",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MG Neser",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 49,
+          "wickets": 3,
+          "economy": 2.33
+        },
+        {
+          "player": "JD Wildermuth",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 2.8
+        },
+        {
+          "player": "MT Steketee",
+          "overs": "16.5",
+          "balls": 101,
+          "runs": 62,
+          "wickets": 3,
+          "economy": 3.68
+        },
+        {
+          "player": "CJ Gannon",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 1.63
+        },
+        {
+          "player": "MJ Swepson",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 2.85
+        },
+        {
+          "player": "BE Street",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Queensland",
+      "runs": 58,
+      "extras": 3,
+      "balls": 60,
+      "batting": [
+        {
+          "player": "BE Street",
+          "runs": 9,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.0,
+          "out": false
+        },
+        {
+          "player": "JA Burns",
+          "runs": 46,
+          "balls": 35,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 131.43,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Bird",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "GT Bell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "SL Rainbird",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

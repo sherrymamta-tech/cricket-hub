@@ -1,0 +1,102 @@
+{
+  "id": "1322343",
+  "teams": [
+    "New Zealand",
+    "Bangladesh"
+  ],
+  "date": "2022-12-17",
+  "format": "ODI",
+  "competition": "Bangladesh Women tour of New Zealand",
+  "venue": "Seddon Park, Hamilton",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 123,
+      "extras": 3,
+      "balls": 164,
+      "batting": [
+        {
+          "player": "SFM Devine",
+          "runs": 42,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 102.44,
+          "out": true
+        },
+        {
+          "player": "SW Bates",
+          "runs": 51,
+          "balls": 81,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.96,
+          "out": true
+        },
+        {
+          "player": "AC Kerr",
+          "runs": 22,
+          "balls": 38,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.89,
+          "out": false
+        },
+        {
+          "player": "ML Green",
+          "runs": 5,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Jahanara Alam",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 4.38
+        },
+        {
+          "player": "Marufa Akter",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 5.54
+        },
+        {
+          "player": "Salma Khatun",
+          "overs": "5.5",
+          "balls": 35,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 4.63
+        },
+        {
+          "player": "Nahida Akter",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "Ritu Moni",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 4.2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "1234005",
+  "teams": [
+    "Auckland",
+    "Canterbury"
+  ],
+  "date": "2021-01-03",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "Eden Park Outer Oval",
+  "result": "Canterbury won by 10 wickets",
+  "winner": "Canterbury",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland",
+      "runs": 52,
+      "extras": 4,
+      "balls": 33,
+      "batting": [
+        {
+          "player": "GD Phillips",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 25,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 156.25,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 13,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 185.71,
+          "out": false
+        },
+        {
+          "player": "SM Solia",
+          "runs": 5,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "EJ Nuttall",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 7.71
+        },
+        {
+          "player": "SB Davey",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 6.86
+        },
+        {
+          "player": "TD Astle",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 12.86
+        },
+        {
+          "player": "WSA Williams",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "player": "FW Sheat",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 11.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Canterbury",
+      "runs": 55,
+      "extras": 1,
+      "balls": 28,
+      "batting": [
+        {
+          "player": "KJ McClure",
+          "runs": 15,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 107.14,
+          "out": false
+        },
+        {
+          "player": "CJ Bowes",
+          "runs": 39,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 4,
+          "strike_rate": 278.57,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BG Lister",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 1.71
+        },
+        {
+          "player": "RM ter Braak",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 15.0
+        },
+        {
+          "player": "L Delport",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "WER Somerville",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 17.0
+        },
+        {
+          "player": "DK Ferns",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 22.0
+        }
+      ]
+    }
+  ]
+}

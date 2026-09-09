@@ -1,0 +1,68 @@
+{
+  "id": "473924",
+  "teams": [
+    "New Zealand",
+    "Pakistan"
+  ],
+  "date": "2011-01-26",
+  "format": "ODI",
+  "competition": "Pakistan in New Zealand ODI Series",
+  "venue": "Queenstown Events Centre",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 31,
+      "extras": 2,
+      "balls": 28,
+      "batting": [
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 4,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": false
+        },
+        {
+          "player": "Ahmed Shehzad",
+          "runs": 25,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 147.06,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JEC Franklin",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 7.38
+        },
+        {
+          "player": "TG Southee",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 4.62
+        },
+        {
+          "player": "JDP Oram",
+          "overs": "0.2",
+          "balls": 2,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 15.0
+        }
+      ]
+    }
+  ]
+}

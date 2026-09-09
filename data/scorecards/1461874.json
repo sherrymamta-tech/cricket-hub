@@ -1,0 +1,595 @@
+{
+  "id": "1461874",
+  "teams": [
+    "Durham",
+    "Surrey"
+  ],
+  "date": "2025-07-29",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Surrey won by 5 wickets",
+  "winner": "Surrey",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 153,
+      "extras": 7,
+      "balls": 335,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 34,
+          "balls": 80,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 42.5,
+          "out": true
+        },
+        {
+          "player": "BS McKinney",
+          "runs": 7,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 14,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.28,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 51,
+          "balls": 104,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 49.04,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 4,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 32,
+          "balls": 68,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true
+        },
+        {
+          "player": "Codi Yusuf",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "CF Parkinson",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Worrall",
+          "overs": "12.2",
+          "balls": 74,
+          "runs": 31,
+          "wickets": 4,
+          "economy": 2.51
+        },
+        {
+          "player": "J Clark",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 3.76
+        },
+        {
+          "player": "SM Curran",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 22,
+          "wickets": 3,
+          "economy": 2.16
+        },
+        {
+          "player": "TE Lawes",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 3.15
+        },
+        {
+          "player": "R Sai Kishore",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 2.17
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Surrey",
+      "runs": 322,
+      "extras": 20,
+      "balls": 414,
+      "batting": [
+        {
+          "player": "RJ Burns",
+          "runs": 2,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "DP Sibley",
+          "runs": 12,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "RS Patel",
+          "runs": 58,
+          "balls": 72,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 80.56,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "DW Lawrence",
+          "runs": 88,
+          "balls": 117,
+          "fours": 12,
+          "sixes": 1,
+          "strike_rate": 75.21,
+          "out": true
+        },
+        {
+          "player": "BT Foakes",
+          "runs": 11,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "J Clark",
+          "runs": 82,
+          "balls": 76,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 107.89,
+          "out": true
+        },
+        {
+          "player": "CT Steel",
+          "runs": 27,
+          "balls": 59,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 45.76,
+          "out": true
+        },
+        {
+          "player": "TE Lawes",
+          "runs": 8,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "R Sai Kishore",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "DJ Worrall",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 73,
+          "wickets": 5,
+          "economy": 3.59
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 83,
+          "wickets": 1,
+          "economy": 4.15
+        },
+        {
+          "player": "Codi Yusuf",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 74,
+          "wickets": 2,
+          "economy": 7.16
+        },
+        {
+          "player": "BFW de Leede",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 4.56
+        },
+        {
+          "player": "CF Parkinson",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 54,
+          "wickets": 2,
+          "economy": 5.4
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Durham",
+      "runs": 344,
+      "extras": 10,
+      "balls": 686,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 20,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "BS McKinney",
+          "runs": 24,
+          "balls": 64,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 99,
+          "balls": 108,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 91.67,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 43,
+          "balls": 121,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 35.54,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 25,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 69.44,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 42,
+          "balls": 124,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 33.87,
+          "out": true
+        },
+        {
+          "player": "Codi Yusuf",
+          "runs": 43,
+          "balls": 119,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 36.13,
+          "out": true
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 5,
+          "balls": 42,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.9,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 27,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 93.1,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 6,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "CF Parkinson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Worrall",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 63,
+          "wickets": 0,
+          "economy": 4.45
+        },
+        {
+          "player": "J Clark",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 3.42
+        },
+        {
+          "player": "SM Curran",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 48,
+          "wickets": 2,
+          "economy": 3.43
+        },
+        {
+          "player": "TE Lawes",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 6.25
+        },
+        {
+          "player": "R Sai Kishore",
+          "overs": "42.0",
+          "balls": 252,
+          "runs": 73,
+          "wickets": 5,
+          "economy": 1.74
+        },
+        {
+          "player": "DW Lawrence",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 79,
+          "wickets": 2,
+          "economy": 3.16
+        },
+        {
+          "player": "CT Steel",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.5
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Surrey",
+      "runs": 176,
+      "extras": 8,
+      "balls": 232,
+      "batting": [
+        {
+          "player": "RJ Burns",
+          "runs": 24,
+          "balls": 64,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "DP Sibley",
+          "runs": 35,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 72.92,
+          "out": true
+        },
+        {
+          "player": "RS Patel",
+          "runs": 28,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "DW Lawrence",
+          "runs": 32,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "SM Curran",
+          "runs": 40,
+          "balls": 40,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BT Foakes",
+          "runs": 7,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "J Clark",
+          "runs": 2,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 3.2
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "11.3",
+          "balls": 69,
+          "runs": 69,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "CF Parkinson",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 58,
+          "wickets": 3,
+          "economy": 3.62
+        },
+        {
+          "player": "Codi Yusuf",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.32
+        },
+        {
+          "player": "CN Ackermann",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 4.33
+        }
+      ]
+    }
+  ]
+}

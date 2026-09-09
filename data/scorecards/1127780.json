@@ -1,0 +1,304 @@
+{
+  "id": "1127780",
+  "teams": [
+    "Worcestershire",
+    "Yorkshire"
+  ],
+  "date": "2018-05-23",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "Headingley, Leeds",
+  "result": "Worcestershire won by 4 runs",
+  "winner": "Worcestershire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Worcestershire",
+      "runs": 350,
+      "extras": 27,
+      "balls": 310,
+      "batting": [
+        {
+          "player": "DKH Mitchell",
+          "runs": 11,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true
+        },
+        {
+          "player": "JM Clarke",
+          "runs": 61,
+          "balls": 64,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 95.31,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 77,
+          "balls": 98,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "TC Fell",
+          "runs": 32,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 82.05,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 23,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 143.75,
+          "out": true
+        },
+        {
+          "player": "RA Whiteley",
+          "runs": 66,
+          "balls": 43,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 153.49,
+          "out": false
+        },
+        {
+          "player": "OB Cox",
+          "runs": 50,
+          "balls": 33,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 151.52,
+          "out": true
+        },
+        {
+          "player": "EG Barnard",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "TT Bresnan",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 85,
+          "wickets": 0,
+          "economy": 8.1
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 56,
+          "wickets": 2,
+          "economy": 5.6
+        },
+        {
+          "player": "JC Wainman",
+          "overs": "8.5",
+          "balls": 53,
+          "runs": 56,
+          "wickets": 0,
+          "economy": 6.34
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 87,
+          "wickets": 2,
+          "economy": 8.56
+        },
+        {
+          "player": "A Lyth",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 3.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Yorkshire",
+      "runs": 346,
+      "extras": 10,
+      "balls": 308,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 29,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 80.56,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 89,
+          "balls": 87,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 102.3,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 101,
+          "balls": 95,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 106.32,
+          "out": true
+        },
+        {
+          "player": "JC Wainman",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 5,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 25,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 26,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 173.33,
+          "out": true
+        },
+        {
+          "player": "AU Rashid",
+          "runs": 24,
+          "balls": 10,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 240.0,
+          "out": true
+        },
+        {
+          "player": "AJ Hodd",
+          "runs": 17,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 154.55,
+          "out": false
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 17,
+          "balls": 11,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 154.55,
+          "out": true
+        },
+        {
+          "player": "BO Coad",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Leach",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 61,
+          "wickets": 2,
+          "economy": 6.42
+        },
+        {
+          "player": "CAJ Morris",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 72,
+          "wickets": 1,
+          "economy": 8.64
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 75,
+          "wickets": 3,
+          "economy": 7.38
+        },
+        {
+          "player": "BL D'Oliveira",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 48,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "DKH Mitchell",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 4.64
+        },
+        {
+          "player": "PR Brown",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 7.0
+        }
+      ]
+    }
+  ]
+}

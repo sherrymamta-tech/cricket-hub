@@ -1,0 +1,296 @@
+{
+  "id": "1420227",
+  "teams": [
+    "India",
+    "Zimbabwe"
+  ],
+  "date": "2024-07-14",
+  "format": "T20",
+  "competition": "India tour of Zimbabwe",
+  "venue": "Harare Sports Club",
+  "result": "India won by 42 runs",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 167,
+      "extras": 10,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "YBK Jaiswal",
+          "runs": 12,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 240.0,
+          "out": true
+        },
+        {
+          "player": "Abhishek Sharma",
+          "runs": 14,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 127.27,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 13,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 92.86,
+          "out": true
+        },
+        {
+          "player": "SV Samson",
+          "runs": 58,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 4,
+          "strike_rate": 120.83,
+          "out": true
+        },
+        {
+          "player": "R Parag",
+          "runs": 22,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 88.0,
+          "out": true
+        },
+        {
+          "player": "S Dube",
+          "runs": 26,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "RK Singh",
+          "runs": 11,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 122.22,
+          "out": false
+        },
+        {
+          "player": "Washington Sundar",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Sikandar Raza",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 8.22
+        },
+        {
+          "player": "R Ngarava",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 7.25
+        },
+        {
+          "player": "M Faraz Akram",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 10.32
+        },
+        {
+          "player": "B Muzarabani",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 4.75
+        },
+        {
+          "player": "B Mavuta",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Zimbabwe",
+      "runs": 125,
+      "extras": 9,
+      "balls": 117,
+      "batting": [
+        {
+          "player": "W Madhevere",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BJ Bennett",
+          "runs": 10,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "T Marumani",
+          "runs": 27,
+          "balls": 24,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 112.5,
+          "out": true
+        },
+        {
+          "player": "D Myers",
+          "runs": 34,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 103.03,
+          "out": true
+        },
+        {
+          "player": "Sikandar Raza",
+          "runs": 8,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "J Campbell",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "C Madande",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "M Faraz Akram",
+          "runs": 27,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 207.69,
+          "out": true
+        },
+        {
+          "player": "B Mavuta",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "B Muzarabani",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "R Ngarava",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mukesh Kumar",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 22,
+          "wickets": 4,
+          "economy": 5.08
+        },
+        {
+          "player": "TU Deshpande",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 8.33
+        },
+        {
+          "player": "Ravi Bishnoi",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 8.67
+        },
+        {
+          "player": "Washington Sundar",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "Abhishek Sharma",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 6.67
+        },
+        {
+          "player": "S Dube",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

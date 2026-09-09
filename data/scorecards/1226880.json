@@ -1,0 +1,250 @@
+{
+  "id": "1226880",
+  "teams": [
+    "Sydney Thunder",
+    "Sydney Sixers"
+  ],
+  "date": "2021-01-22",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Adelaide Oval",
+  "result": "Sydney Thunder won by 46 runs",
+  "winner": "Sydney Thunder",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Thunder",
+      "runs": 232,
+      "extras": 5,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "UT Khawaja",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "AD Hales",
+          "runs": 110,
+          "balls": 57,
+          "fours": 9,
+          "sixes": 8,
+          "strike_rate": 192.98,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 42,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 182.61,
+          "out": true
+        },
+        {
+          "player": "SW Billings",
+          "runs": 33,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "BCJ Cutting",
+          "runs": 33,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 206.25,
+          "out": true
+        },
+        {
+          "player": "N McAndrew",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Bird",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 14.0
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 39,
+          "wickets": 3,
+          "economy": 9.75
+        },
+        {
+          "player": "CR Brathwaite",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 9.6
+        },
+        {
+          "player": "DT Christian",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 16.0
+        },
+        {
+          "player": "L Pope",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 9.78
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Sixers",
+      "runs": 186,
+      "extras": 6,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "JR Philippe",
+          "runs": 20,
+          "balls": 12,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 38,
+          "balls": 23,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 165.22,
+          "out": true
+        },
+        {
+          "player": "DP Hughes",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 56,
+          "balls": 38,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 147.37,
+          "out": true
+        },
+        {
+          "player": "JC Silk",
+          "runs": 42,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "DT Christian",
+          "runs": 21,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 131.25,
+          "out": false
+        },
+        {
+          "player": "CR Brathwaite",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AF Milne",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 8.88
+        },
+        {
+          "player": "N McAndrew",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 57,
+          "wickets": 0,
+          "economy": 13.68
+        },
+        {
+          "player": "B Doggett",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 6.25
+        },
+        {
+          "player": "T Sangha",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 8.08
+        },
+        {
+          "player": "BCJ Cutting",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 8.67
+        },
+        {
+          "player": "CJ Green",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

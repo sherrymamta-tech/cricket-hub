@@ -1,0 +1,286 @@
+{
+  "id": "1452565",
+  "teams": [
+    "Otago",
+    "Canterbury"
+  ],
+  "date": "2025-01-07",
+  "format": "T20",
+  "competition": "Women's Super Smash",
+  "venue": "Hagley Oval, Christchurch",
+  "result": "Otago won by 15 runs",
+  "winner": "Otago",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Otago",
+      "runs": 150,
+      "extras": 10,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "SW Bates",
+          "runs": 9,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": true
+        },
+        {
+          "player": "IR James",
+          "runs": 16,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 94.12,
+          "out": true
+        },
+        {
+          "player": "ON Gain",
+          "runs": 48,
+          "balls": 43,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 111.63,
+          "out": true
+        },
+        {
+          "player": "CG Blakely",
+          "runs": 43,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 130.3,
+          "out": true
+        },
+        {
+          "player": "PM Inglis",
+          "runs": 19,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 126.67,
+          "out": false
+        },
+        {
+          "player": "FC Leydon-Davis",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "AS Browning",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Banks",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 8.4
+        },
+        {
+          "player": "S Pandey",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.11
+        },
+        {
+          "player": "GES Sullivan",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.44
+        },
+        {
+          "player": "M Penna",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "KE Ebrahim",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 8.75
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Canterbury",
+      "runs": 135,
+      "extras": 11,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "KG Anderson",
+          "runs": 43,
+          "balls": 38,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 113.16,
+          "out": true
+        },
+        {
+          "player": "J Dean",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Penna",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "IG Sharp",
+          "runs": 11,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 110.0,
+          "out": true
+        },
+        {
+          "player": "KE Ebrahim",
+          "runs": 10,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "S Pandey",
+          "runs": 37,
+          "balls": 26,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 142.31,
+          "out": true
+        },
+        {
+          "player": "NB Cox",
+          "runs": 16,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 123.08,
+          "out": true
+        },
+        {
+          "player": "AG Gerken",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": false
+        },
+        {
+          "player": "LEV Hughes",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MJ Banks",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "EJ Black",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.23
+        },
+        {
+          "player": "HNK Jensen",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.08
+        },
+        {
+          "player": "EJ Carson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 5.75
+        },
+        {
+          "player": "KL Gordon",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "FC Leydon-Davis",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "SW Bates",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 9.43
+        },
+        {
+          "player": "AS Browning",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ]
+    }
+  ]
+}

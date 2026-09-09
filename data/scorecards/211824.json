@@ -1,0 +1,234 @@
+{
+  "id": "211824",
+  "teams": [
+    "Bangladesh",
+    "Australia"
+  ],
+  "date": "2005-06-25",
+  "format": "ODI",
+  "competition": "NatWest Challenge",
+  "venue": "Old Trafford",
+  "result": "Australia won by 10 wickets",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Bangladesh",
+      "runs": 139,
+      "extras": 16,
+      "balls": 222,
+      "batting": [
+        {
+          "player": "Javed Omar",
+          "runs": 3,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.0,
+          "out": true
+        },
+        {
+          "player": "Shahriar Nafees",
+          "runs": 47,
+          "balls": 58,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 81.03,
+          "out": true
+        },
+        {
+          "player": "Tushar Imran",
+          "runs": 4,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "Mohammad Ashraful",
+          "runs": 58,
+          "balls": 88,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 65.91,
+          "out": true
+        },
+        {
+          "player": "Habibul Bashar",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Aftab Ahmed",
+          "runs": 5,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "Khaled Mashud",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Manjural Islam Rana",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rafique",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mashrafe Mortaza",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Nazmul Hossain",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Lee",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 5.58
+        },
+        {
+          "player": "GD McGrath",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 3.17
+        },
+        {
+          "player": "JN Gillespie",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "SR Watson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 3.36
+        },
+        {
+          "player": "GB Hogg",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 3.27
+        },
+        {
+          "player": "A Symonds",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 18,
+          "wickets": 5,
+          "economy": 2.4
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 140,
+      "extras": 8,
+      "balls": 117,
+      "batting": [
+        {
+          "player": "AC Gilchrist",
+          "runs": 66,
+          "balls": 60,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 110.0,
+          "out": false
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 66,
+          "balls": 57,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 115.79,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mashrafe Mortaza",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 5.33
+        },
+        {
+          "player": "Nazmul Hossain",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 8.7
+        },
+        {
+          "player": "Mohammad Rafique",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 8.83
+        },
+        {
+          "player": "Manjural Islam Rana",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 6.24
+        }
+      ]
+    }
+  ]
+}

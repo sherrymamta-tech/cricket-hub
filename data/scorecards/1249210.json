@@ -1,0 +1,550 @@
+{
+  "id": "1249210",
+  "teams": [
+    "New Zealand",
+    "England"
+  ],
+  "date": "2021-06-02",
+  "format": "Test",
+  "competition": "New Zealand tour of England",
+  "venue": "Lord's, London",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 378,
+      "extras": 24,
+      "balls": 738,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 23,
+          "balls": 57,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.35,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 200,
+          "balls": 347,
+          "fours": 22,
+          "sixes": 1,
+          "strike_rate": 57.64,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 13,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.39,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 14,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 61,
+          "balls": 175,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 34.86,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 9,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 8,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 25,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 119.05,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 87,
+          "wickets": 2,
+          "economy": 3.11
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 91,
+          "wickets": 0,
+          "economy": 3.37
+        },
+        {
+          "player": "OE Robinson",
+          "overs": "28.2",
+          "balls": 170,
+          "runs": 78,
+          "wickets": 4,
+          "economy": 2.75
+        },
+        {
+          "player": "MA Wood",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 84,
+          "wickets": 3,
+          "economy": 3.11
+        },
+        {
+          "player": "JE Root",
+          "overs": "12.4",
+          "balls": 76,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 275,
+      "extras": 17,
+      "balls": 616,
+      "batting": [
+        {
+          "player": "RJ Burns",
+          "runs": 132,
+          "balls": 298,
+          "fours": 16,
+          "sixes": 1,
+          "strike_rate": 44.3,
+          "out": true
+        },
+        {
+          "player": "DP Sibley",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 42,
+          "balls": 113,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 37.17,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 22,
+          "balls": 32,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 68.75,
+          "out": true
+        },
+        {
+          "player": "DW Lawrence",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "James Bracey",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 42,
+          "balls": 101,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 41.58,
+          "out": true
+        },
+        {
+          "player": "MA Wood",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 10,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 8,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 44,
+          "wickets": 6,
+          "economy": 1.75
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "26.2",
+          "balls": 158,
+          "runs": 86,
+          "wickets": 3,
+          "economy": 3.27
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 1.57
+        },
+        {
+          "player": "N Wagner",
+          "overs": "24.3",
+          "balls": 147,
+          "runs": 85,
+          "wickets": 1,
+          "economy": 3.47
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 3.15
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 3.43
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New Zealand",
+      "runs": 169,
+      "extras": 19,
+      "balls": 316,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 36,
+          "balls": 99,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 23,
+          "balls": 64,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.94,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 1,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.26,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 10,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 31.25,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 33,
+          "balls": 35,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 94.29,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 23,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.89,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 15,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.69,
+          "out": false
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 9,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 180.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "15.3",
+          "balls": 93,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 2.9
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 3.25
+        },
+        {
+          "player": "OE Robinson",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 2.54
+        },
+        {
+          "player": "MA Wood",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 4.71
+        },
+        {
+          "player": "JE Root",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "England",
+      "runs": 170,
+      "extras": 23,
+      "balls": 425,
+      "batting": [
+        {
+          "player": "RJ Burns",
+          "runs": 25,
+          "balls": 81,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 30.86,
+          "out": true
+        },
+        {
+          "player": "DP Sibley",
+          "runs": 60,
+          "balls": 207,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 28.99,
+          "out": false
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 2,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 8.0,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 40,
+          "balls": 71,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 56.34,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 20,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.78,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 2.47
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "15.2",
+          "balls": 92,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 2.15
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 1.71
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 3.54
+        },
+        {
+          "player": "N Wagner",
+          "overs": "16.3",
+          "balls": 99,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 1.64
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

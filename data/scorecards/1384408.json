@@ -1,0 +1,276 @@
+{
+  "id": "1384408",
+  "teams": [
+    "Bangladesh",
+    "India"
+  ],
+  "date": "2023-10-19",
+  "format": "ODI",
+  "competition": "ICC Cricket World Cup",
+  "venue": "Maharashtra Cricket Association Stadium, Pune",
+  "result": "India won by 7 wickets",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Bangladesh",
+      "runs": 256,
+      "extras": 6,
+      "balls": 305,
+      "batting": [
+        {
+          "player": "Tanzid Hasan",
+          "runs": 51,
+          "balls": 45,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 113.33,
+          "out": true
+        },
+        {
+          "player": "Liton Das",
+          "runs": 66,
+          "balls": 83,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 79.52,
+          "out": true
+        },
+        {
+          "player": "Nazmul Hossain Shanto",
+          "runs": 8,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 47.06,
+          "out": true
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "Towhid Hridoy",
+          "runs": 16,
+          "balls": 36,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "Mushfiqur Rahim",
+          "runs": 38,
+          "balls": 46,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 82.61,
+          "out": true
+        },
+        {
+          "player": "Mahmudullah",
+          "runs": 46,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 124.32,
+          "out": true
+        },
+        {
+          "player": "Nasum Ahmed",
+          "runs": 14,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "Mustafizur Rahman",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": false
+        },
+        {
+          "player": "Shoriful Islam",
+          "runs": 7,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 233.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JJ Bumrah",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 4.03
+        },
+        {
+          "player": "Mohammed Siraj",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 61,
+          "wickets": 2,
+          "economy": 5.81
+        },
+        {
+          "player": "HH Pandya",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 16.0
+        },
+        {
+          "player": "V Kohli",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "SN Thakur",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 59,
+          "wickets": 1,
+          "economy": 6.56
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 4.62
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 3.8
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 261,
+      "extras": 4,
+      "balls": 253,
+      "batting": [
+        {
+          "player": "RG Sharma",
+          "runs": 48,
+          "balls": 40,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 53,
+          "balls": 55,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 96.36,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 103,
+          "balls": 98,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 105.1,
+          "out": false
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 19,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.0,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 34,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 97.14,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shoriful Islam",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 54,
+          "wickets": 0,
+          "economy": 6.75
+        },
+        {
+          "player": "Mustafizur Rahman",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 5.8
+        },
+        {
+          "player": "Nasum Ahmed",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 6.32
+        },
+        {
+          "player": "Hasan Mahmud",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 65,
+          "wickets": 1,
+          "economy": 7.65
+        },
+        {
+          "player": "Mehedi Hasan Miraz",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 4.62
+        },
+        {
+          "player": "Mahmudullah",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

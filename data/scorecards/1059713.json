@@ -1,0 +1,102 @@
+{
+  "id": "1059713",
+  "teams": [
+    "Zimbabwe",
+    "Sri Lanka"
+  ],
+  "date": "2016-11-21",
+  "format": "ODI",
+  "competition": "Zimbabwe Tri-Nation Series",
+  "venue": "Queens Sports Club",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Zimbabwe",
+      "runs": 55,
+      "extras": 9,
+      "balls": 85,
+      "batting": [
+        {
+          "player": "BB Chari",
+          "runs": 11,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.29,
+          "out": true
+        },
+        {
+          "player": "CJ Chibhabha",
+          "runs": 8,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "CR Ervine",
+          "runs": 23,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 76.67,
+          "out": false
+        },
+        {
+          "player": "Sikandar Raza",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KMDN Kulasekara",
+          "overs": "5.3",
+          "balls": 33,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "RAS Lakmal",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "MD Shanaka",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 2.31
+        },
+        {
+          "player": "DM de Silva",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "SS Pathirana",
+          "overs": "1.3",
+          "balls": 9,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 6.67
+        }
+      ]
+    }
+  ]
+}

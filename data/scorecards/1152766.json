@@ -1,0 +1,111 @@
+{
+  "id": "1152766",
+  "teams": [
+    "Sydney Thunder",
+    "Melbourne Stars"
+  ],
+  "date": "2019-01-05",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Blacktown International Sportspark",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Thunder",
+      "runs": 92,
+      "extras": 18,
+      "balls": 69,
+      "batting": [
+        {
+          "player": "RH Priest",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "NE Stalenberg",
+          "runs": 7,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true
+        },
+        {
+          "player": "RL Haynes",
+          "runs": 21,
+          "balls": 16,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 131.25,
+          "out": true
+        },
+        {
+          "player": "H Kaur",
+          "runs": 21,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 123.53,
+          "out": false
+        },
+        {
+          "player": "AJ Blackwell",
+          "runs": 20,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 181.82,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "A Sutherland",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "HL Ferling",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 7.14
+        },
+        {
+          "player": "A King",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "EA Osborne",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "GA Elwiss",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 5.14
+        }
+      ]
+    }
+  ]
+}

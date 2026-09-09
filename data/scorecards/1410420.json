@@ -1,0 +1,68 @@
+{
+  "id": "1410420",
+  "teams": [
+    "Durham",
+    "Nottinghamshire"
+  ],
+  "date": "2024-06-15",
+  "format": "T20",
+  "competition": "Vitality Blast",
+  "venue": "Trent Bridge, Nottingham",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 58,
+      "extras": 5,
+      "balls": 33,
+      "batting": [
+        {
+          "player": "G Clark",
+          "runs": 31,
+          "balls": 16,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 193.75,
+          "out": false
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 22,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 129.41,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Montgomery",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 10.29
+        },
+        {
+          "player": "OP Stone",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 12.92
+        },
+        {
+          "player": "BG Lister",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 8.31
+        }
+      ]
+    }
+  ]
+}

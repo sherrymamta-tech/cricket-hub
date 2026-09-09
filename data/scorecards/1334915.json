@@ -1,0 +1,292 @@
+{
+  "id": "1334915",
+  "teams": [
+    "Titans",
+    "Knights"
+  ],
+  "date": "2022-10-31",
+  "format": "T20",
+  "competition": "CSA T20 Challenge",
+  "venue": "Senwes Park, Potchefstroom",
+  "result": "Titans won by 41 runs",
+  "winner": "Titans",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Titans",
+      "runs": 271,
+      "extras": 12,
+      "balls": 131,
+      "batting": [
+        {
+          "player": "D Brevis",
+          "runs": 162,
+          "balls": 61,
+          "fours": 13,
+          "sixes": 13,
+          "strike_rate": 265.57,
+          "out": true
+        },
+        {
+          "player": "J Pillay",
+          "runs": 52,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 108.33,
+          "out": true
+        },
+        {
+          "player": "D Ferreira",
+          "runs": 33,
+          "balls": 15,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 220.0,
+          "out": true
+        },
+        {
+          "player": "Dayyaan Galiem",
+          "runs": 7,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 175.0,
+          "out": false
+        },
+        {
+          "player": "TB de Bruyn",
+          "runs": 5,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Budaza",
+          "overs": "4.5",
+          "balls": 29,
+          "runs": 62,
+          "wickets": 0,
+          "economy": 12.83
+        },
+        {
+          "player": "M Pretorius",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 9.84
+        },
+        {
+          "player": "G Coetzee",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 10.5
+        },
+        {
+          "player": "GJ Snyman",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 13.85
+        },
+        {
+          "player": "PE Kruger",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 14.31
+        },
+        {
+          "player": "AR Swanepoel",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 14.0
+        },
+        {
+          "player": "O Motlhoaring",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 18.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Knights",
+      "runs": 230,
+      "extras": 7,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "GL Cloete",
+          "runs": 51,
+          "balls": 33,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 154.55,
+          "out": true
+        },
+        {
+          "player": "GJ Snyman",
+          "runs": 28,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "R van Tonder",
+          "runs": 12,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "PE Kruger",
+          "runs": 22,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 169.23,
+          "out": true
+        },
+        {
+          "player": "AR Swanepoel",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "PJ van Biljon",
+          "runs": 12,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "G Coetzee",
+          "runs": 37,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 5,
+          "strike_rate": 336.36,
+          "out": true
+        },
+        {
+          "player": "M Pretorius",
+          "runs": 29,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 193.33,
+          "out": true
+        },
+        {
+          "player": "I Dikgale",
+          "runs": 28,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 186.67,
+          "out": true
+        },
+        {
+          "player": "O Motlhoaring",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "A Gqamane",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 13.29
+        },
+        {
+          "player": "CJ Dala",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 12.86
+        },
+        {
+          "player": "AM Phangiso",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 11.0
+        },
+        {
+          "player": "N Brand",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 3,
+          "economy": 7.0
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 10.0
+        },
+        {
+          "player": "Dayyaan Galiem",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 10.5
+        },
+        {
+          "player": "BS Makhanya",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "D Brevis",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 18.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "1481996",
+  "teams": [
+    "Texas Super Kings",
+    "Los Angeles Knight Riders"
+  ],
+  "date": "2025-06-15",
+  "format": "T20",
+  "competition": "Major League Cricket",
+  "venue": "Oakland Coliseum,Oakland",
+  "result": "Texas Super Kings won by 57 runs",
+  "winner": "Texas Super Kings",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Texas Super Kings",
+      "runs": 181,
+      "extras": 16,
+      "balls": 128,
+      "batting": [
+        {
+          "player": "DP Conway",
+          "runs": 34,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 154.55,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 8,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "SR Mukkamalla",
+          "runs": 31,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 134.78,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 36,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 102.86,
+          "out": false
+        },
+        {
+          "player": "Shubham Ranjane",
+          "runs": 24,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "D Ferreira",
+          "runs": 32,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 177.78,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Ali Khan",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 8.14
+        },
+        {
+          "player": "SC van Schalkwyk",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 8.33
+        },
+        {
+          "player": "AD Russell",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 12.72
+        },
+        {
+          "player": "SP Narine",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 6.24
+        },
+        {
+          "player": "T Sangha",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 7.92
+        },
+        {
+          "player": "Saif Badar",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 5.14
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Los Angeles Knight Riders",
+      "runs": 124,
+      "extras": 6,
+      "balls": 108,
+      "batting": [
+        {
+          "player": "ADS Fletcher",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "AD Hales",
+          "runs": 25,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 138.89,
+          "out": true
+        },
+        {
+          "player": "UBT Chand",
+          "runs": 22,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 95.65,
+          "out": true
+        },
+        {
+          "player": "NR Kumar",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Saif Badar",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MW Tromp",
+          "runs": 23,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 191.67,
+          "out": true
+        },
+        {
+          "player": "AD Russell",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "SP Narine",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SC van Schalkwyk",
+          "runs": 27,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "Ali Khan",
+          "runs": 16,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 114.29,
+          "out": false
+        },
+        {
+          "player": "T Sangha",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Zia-ul-Haq",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 8.7
+        },
+        {
+          "player": "AF Milne",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 8,
+          "wickets": 2,
+          "economy": 2.4
+        },
+        {
+          "player": "SV Wiig",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 8.33
+        },
+        {
+          "player": "Noor Ahmad",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 25,
+          "wickets": 4,
+          "economy": 5.77
+        },
+        {
+          "player": "Shubham Ranjane",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 17.0
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 6.67
+        }
+      ]
+    }
+  ]
+}

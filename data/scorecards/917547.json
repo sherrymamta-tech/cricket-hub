@@ -1,0 +1,636 @@
+{
+  "id": "917547",
+  "teams": [
+    "Auckland Aces",
+    "Otago Volts"
+  ],
+  "date": "2016-02-20",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Eden Park Outer Oval, Auckland",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland Aces",
+      "runs": 277,
+      "extras": 12,
+      "balls": 464,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 10,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "ML Guptill-Bunce",
+          "runs": 25,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 75.76,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 10,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "RJ Nicol",
+          "runs": 60,
+          "balls": 173,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 34.68,
+          "out": true
+        },
+        {
+          "player": "B Cachopa",
+          "runs": 13,
+          "balls": 55,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 23.64,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 59,
+          "balls": 54,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 109.26,
+          "out": true
+        },
+        {
+          "player": "N McAndrew",
+          "runs": 42,
+          "balls": 52,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 80.77,
+          "out": true
+        },
+        {
+          "player": "DJ Grobbelaar",
+          "runs": 11,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.0,
+          "out": true
+        },
+        {
+          "player": "MD Bates",
+          "runs": 23,
+          "balls": 24,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 95.83,
+          "out": true
+        },
+        {
+          "player": "TS Nethula",
+          "runs": 11,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "LH Ferguson",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Duffy",
+          "overs": "17.4",
+          "balls": 106,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 2.32
+        },
+        {
+          "player": "CM Smith",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 3.25
+        },
+        {
+          "player": "JS Hunter",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 4.18
+        },
+        {
+          "player": "SR Wells",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 59,
+          "wickets": 3,
+          "economy": 3.65
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 4.62
+        },
+        {
+          "player": "RM Phillips",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 62,
+          "wickets": 3,
+          "economy": 4.38
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Otago Volts",
+      "runs": 265,
+      "extras": 24,
+      "balls": 477,
+      "batting": [
+        {
+          "player": "BS Wilson",
+          "runs": 42,
+          "balls": 120,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 35.0,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 53,
+          "balls": 70,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 75.71,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 6,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 29,
+          "balls": 63,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 46.03,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 39,
+          "balls": 65,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "DC de Boorder",
+          "runs": 52,
+          "balls": 82,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 63.41,
+          "out": true
+        },
+        {
+          "player": "SR Wells",
+          "runs": 6,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "CM Smith",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "RM Phillips",
+          "runs": 6,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 4,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "JS Hunter",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LH Ferguson",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "N McAndrew",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 58,
+          "wickets": 2,
+          "economy": 4.83
+        },
+        {
+          "player": "MD Bates",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 3.13
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 1.79
+        },
+        {
+          "player": "DJ Grobbelaar",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 4.11
+        },
+        {
+          "player": "TS Nethula",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 68,
+          "wickets": 3,
+          "economy": 3.19
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Auckland Aces",
+      "runs": 431,
+      "extras": 17,
+      "balls": 683,
+      "batting": [
+        {
+          "player": "ML Guptill-Bunce",
+          "runs": 29,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 65.91,
+          "out": true
+        },
+        {
+          "player": "JA Raval",
+          "runs": 202,
+          "balls": 314,
+          "fours": 28,
+          "sixes": 0,
+          "strike_rate": 64.33,
+          "out": false
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 12,
+          "balls": 45,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.67,
+          "out": true
+        },
+        {
+          "player": "TS Nethula",
+          "runs": 3,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.64,
+          "out": true
+        },
+        {
+          "player": "RJ Nicol",
+          "runs": 53,
+          "balls": 123,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 43.09,
+          "out": true
+        },
+        {
+          "player": "B Cachopa",
+          "runs": 24,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 52,
+          "balls": 43,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 120.93,
+          "out": true
+        },
+        {
+          "player": "N McAndrew",
+          "runs": 15,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "DJ Grobbelaar",
+          "runs": 9,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "MD Bates",
+          "runs": 15,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 53.57,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Duffy",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 81,
+          "wickets": 2,
+          "economy": 4.02
+        },
+        {
+          "player": "CM Smith",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 3.12
+        },
+        {
+          "player": "JS Hunter",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "SR Wells",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 2.47
+        },
+        {
+          "player": "RM Phillips",
+          "overs": "28.1",
+          "balls": 169,
+          "runs": 127,
+          "wickets": 2,
+          "economy": 4.51
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 4.94
+        },
+        {
+          "player": "AK Kitchen",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 3.0
+        },
+        {
+          "player": "MG Bracewell",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.67
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Otago Volts",
+      "runs": 338,
+      "extras": 32,
+      "balls": 670,
+      "batting": [
+        {
+          "player": "BS Wilson",
+          "runs": 107,
+          "balls": 240,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 44.58,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 19,
+          "balls": 51,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 37.25,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 65,
+          "balls": 117,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 84,
+          "balls": 140,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "DC de Boorder",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "SR Wells",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CM Smith",
+          "runs": 23,
+          "balls": 87,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 26.44,
+          "out": false
+        },
+        {
+          "player": "RM Phillips",
+          "runs": 4,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.05,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MD Bates",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 3.36
+        },
+        {
+          "player": "N McAndrew",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 2.46
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "18.2",
+          "balls": 110,
+          "runs": 56,
+          "wickets": 0,
+          "economy": 3.05
+        },
+        {
+          "player": "DJ Grobbelaar",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 3.54
+        },
+        {
+          "player": "TS Nethula",
+          "overs": "38.1",
+          "balls": 229,
+          "runs": 123,
+          "wickets": 1,
+          "economy": 3.22
+        },
+        {
+          "player": "LH Ferguson",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 2.42
+        }
+      ]
+    }
+  ]
+}

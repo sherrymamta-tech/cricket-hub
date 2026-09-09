@@ -1,0 +1,285 @@
+{
+  "id": "1298174",
+  "teams": [
+    "Netherlands",
+    "South Africa"
+  ],
+  "date": "2022-11-06",
+  "format": "T20",
+  "competition": "ICC Men's T20 World Cup",
+  "venue": "Adelaide Oval",
+  "result": "Netherlands won by 13 runs",
+  "winner": "Netherlands",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Netherlands",
+      "runs": 158,
+      "extras": 3,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "SJ Myburgh",
+          "runs": 37,
+          "balls": 30,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 123.33,
+          "out": true
+        },
+        {
+          "player": "MP O'Dowd",
+          "runs": 29,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 87.88,
+          "out": true
+        },
+        {
+          "player": "TLW Cooper",
+          "runs": 35,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 184.21,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 41,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 157.69,
+          "out": false
+        },
+        {
+          "player": "BFW de Leede",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "SA Edwards",
+          "runs": 12,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 171.43,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WD Parnell",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 7.68
+        },
+        {
+          "player": "K Rabada",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 12.33
+        },
+        {
+          "player": "L Ngidi",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 11.67
+        },
+        {
+          "player": "A Nortje",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 2.5
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 7.0
+        },
+        {
+          "player": "AK Markram",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 7.38
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 145,
+      "extras": 6,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "Q de Kock",
+          "runs": 13,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 20,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "RR Rossouw",
+          "runs": 25,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 131.58,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 17,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 130.77,
+          "out": true
+        },
+        {
+          "player": "DA Miller",
+          "runs": 17,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 94.44,
+          "out": true
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 21,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "WD Parnell",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 13,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 108.33,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 9,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "A Nortje",
+          "runs": 4,
+          "balls": 1,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 400.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "FJ Klaassen",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "player": "PA van Meekeren",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 9.9
+        },
+        {
+          "player": "CN Ackermann",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 5.33
+        },
+        {
+          "player": "RE van der Merwe",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "player": "BD Glover",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 9,
+          "wickets": 3,
+          "economy": 4.15
+        },
+        {
+          "player": "LV van Beek",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.67
+        },
+        {
+          "player": "BFW de Leede",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 7.14
+        }
+      ]
+    }
+  ]
+}

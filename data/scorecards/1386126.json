@@ -1,0 +1,241 @@
+{
+  "id": "1386126",
+  "teams": [
+    "Hobart Hurricanes",
+    "Adelaide Strikers"
+  ],
+  "date": "2024-01-11",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Bellerive Oval, Hobart",
+  "result": "Adelaide Strikers won by 8 wickets",
+  "winner": "Adelaide Strikers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Hobart Hurricanes",
+      "runs": 167,
+      "extras": 8,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "BR McDermott",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MS Wade",
+          "runs": 14,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "M Wright",
+          "runs": 37,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 132.14,
+          "out": true
+        },
+        {
+          "player": "CP Jewell",
+          "runs": 32,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 106.67,
+          "out": true
+        },
+        {
+          "player": "Nikhil Chaudhary",
+          "runs": 22,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 115.79,
+          "out": true
+        },
+        {
+          "player": "TH David",
+          "runs": 22,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 220.0,
+          "out": true
+        },
+        {
+          "player": "CJ Anderson",
+          "runs": 18,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": false
+        },
+        {
+          "player": "CJ Jordan",
+          "runs": 7,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MW Short",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "DA Payne",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "HTRY Thornton",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 11.68
+        },
+        {
+          "player": "J Overton",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 8.0
+        },
+        {
+          "player": "L Pope",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 8.67
+        },
+        {
+          "player": "CJ Boyce",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 4.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Adelaide Strikers",
+      "runs": 169,
+      "extras": 5,
+      "balls": 96,
+      "batting": [
+        {
+          "player": "MW Short",
+          "runs": 39,
+          "balls": 25,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 156.0,
+          "out": true
+        },
+        {
+          "player": "DJM Short",
+          "runs": 20,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 117.65,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 80,
+          "balls": 32,
+          "fours": 9,
+          "sixes": 5,
+          "strike_rate": 250.0,
+          "out": false
+        },
+        {
+          "player": "AJ Hose",
+          "runs": 25,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 113.64,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Nikhil Chaudhary",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "NT Ellis",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 9.33
+        },
+        {
+          "player": "RP Meredith",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 9.67
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 10.42
+        },
+        {
+          "player": "PG Dooley",
+          "overs": "2.5",
+          "balls": 17,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 18.71
+        },
+        {
+          "player": "TH David",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "id": "1030213",
+  "teams": [
+    "India",
+    "New Zealand"
+  ],
+  "date": "2016-09-22",
+  "format": "Test",
+  "competition": "New Zealand in India Test Series",
+  "venue": "Green Park",
+  "result": "India won by 197 runs",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 318,
+      "extras": 6,
+      "balls": 582,
+      "batting": [
+        {
+          "player": "KL Rahul",
+          "runs": 32,
+          "balls": 39,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 82.05,
+          "out": true
+        },
+        {
+          "player": "M Vijay",
+          "runs": 65,
+          "balls": 170,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 38.24,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 62,
+          "balls": 109,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 56.88,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 9,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 18,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 35,
+          "balls": 67,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 52.24,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 40,
+          "balls": 76,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 52.63,
+          "out": true
+        },
+        {
+          "player": "WP Saha",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 42,
+          "balls": 44,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 95.45,
+          "out": false
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "UT Yadav",
+          "runs": 9,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 71,
+          "wickets": 3,
+          "economy": 3.55
+        },
+        {
+          "player": "N Wagner",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 2.8
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 96,
+          "wickets": 3,
+          "economy": 4.17
+        },
+        {
+          "player": "MD Craig",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 59,
+          "wickets": 1,
+          "economy": 2.46
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 3.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 262,
+      "extras": 15,
+      "balls": 577,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 21,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 67.74,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 58,
+          "balls": 151,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 38.41,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 75,
+          "balls": 137,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 54.74,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "L Ronchi",
+          "runs": 38,
+          "balls": 83,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 45.78,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 32,
+          "balls": 107,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 29.91,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 21,
+          "balls": 54,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "MD Craig",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Shami",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 3.55
+        },
+        {
+          "player": "UT Yadav",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 2.2
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "34.2",
+          "balls": 206,
+          "runs": 77,
+          "wickets": 5,
+          "economy": 2.24
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "30.5",
+          "balls": 185,
+          "runs": 94,
+          "wickets": 4,
+          "economy": 3.05
+        },
+        {
+          "player": "M Vijay",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "RG Sharma",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "India",
+      "runs": 377,
+      "extras": 9,
+      "balls": 644,
+      "batting": [
+        {
+          "player": "KL Rahul",
+          "runs": 38,
+          "balls": 50,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 76.0,
+          "out": true
+        },
+        {
+          "player": "M Vijay",
+          "runs": 76,
+          "balls": 170,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 44.71,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 78,
+          "balls": 152,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 51.32,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 18,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 45.0,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 40,
+          "balls": 81,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 49.38,
+          "out": true
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 68,
+          "balls": 93,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 73.12,
+          "out": false
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 50,
+          "balls": 58,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 86.21,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 3.78
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "32.2",
+          "balls": 194,
+          "runs": 80,
+          "wickets": 2,
+          "economy": 2.47
+        },
+        {
+          "player": "MD Craig",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 81,
+          "wickets": 1,
+          "economy": 3.52
+        },
+        {
+          "player": "N Wagner",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 57,
+          "wickets": 0,
+          "economy": 3.56
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 101,
+          "wickets": 2,
+          "economy": 5.05
+        },
+        {
+          "player": "MJ Guptill",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.25
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 2.33
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "New Zealand",
+      "runs": 236,
+      "extras": 3,
+      "balls": 526,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 2,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.33,
+          "out": true
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 25,
+          "balls": 59,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 42.37,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 17,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.22,
+          "out": true
+        },
+        {
+          "player": "L Ronchi",
+          "runs": 80,
+          "balls": 120,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 71,
+          "balls": 179,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 39.66,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 18,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "MD Craig",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 17,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 44.74,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 2,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": false
+        },
+        {
+          "player": "N Wagner",
+          "runs": 0,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Shami",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 2.25
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "35.3",
+          "balls": 213,
+          "runs": 133,
+          "wickets": 6,
+          "economy": 3.75
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "34.1",
+          "balls": 205,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 1.7
+        },
+        {
+          "player": "UT Yadav",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "M Vijay",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 1.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "id": "1234003",
+  "teams": [
+    "Northern Districts",
+    "Wellington"
+  ],
+  "date": "2021-01-01",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "Bay Oval",
+  "result": "Wellington won by 9 wickets",
+  "winner": "Wellington",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northern Districts",
+      "runs": 148,
+      "extras": 12,
+      "balls": 130,
+      "batting": [
+        {
+          "player": "KD Clarke",
+          "runs": 7,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "TL Seifert",
+          "runs": 46,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 93.88,
+          "out": true
+        },
+        {
+          "player": "DG Brownlie",
+          "runs": 8,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "AP Devcich",
+          "runs": 19,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 135.71,
+          "out": true
+        },
+        {
+          "player": "HR Cooper",
+          "runs": 9,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "BR Hampton",
+          "runs": 28,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 112.0,
+          "out": true
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "runs": 18,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 138.46,
+          "out": false
+        },
+        {
+          "player": "ZN Gibson",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HK Bennett",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 8.08
+        },
+        {
+          "player": "BV Sears",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 7.88
+        },
+        {
+          "player": "LV van Beek",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.15
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "PF Younghusband",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 5.04
+        },
+        {
+          "player": "R Ravindra",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 7.38
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Wellington",
+      "runs": 152,
+      "extras": 8,
+      "balls": 97,
+      "batting": [
+        {
+          "player": "DP Conway",
+          "runs": 13,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 86.67,
+          "out": true
+        },
+        {
+          "player": "FH Allen",
+          "runs": 91,
+          "balls": 51,
+          "fours": 7,
+          "sixes": 5,
+          "strike_rate": 178.43,
+          "out": false
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 40,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 129.03,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "FL Walker",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 7.75
+        },
+        {
+          "player": "BG Randell",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 13.5
+        },
+        {
+          "player": "SC Kuggeleijn",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "ZN Gibson",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 13.85
+        },
+        {
+          "player": "JG Walker",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 10.33
+        },
+        {
+          "player": "BR Hampton",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    }
+  ]
+}

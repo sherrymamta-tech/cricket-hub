@@ -1,0 +1,94 @@
+{
+  "id": "1386097",
+  "teams": [
+    "Perth Scorchers",
+    "Melbourne Renegades"
+  ],
+  "date": "2023-12-10",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "GMHBA Stadium, South Geelong, Victoria",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Perth Scorchers",
+      "runs": 30,
+      "extras": 1,
+      "balls": 42,
+      "batting": [
+        {
+          "player": "SS Eskinazi",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AM Hardie",
+          "runs": 20,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": false
+        },
+        {
+          "player": "C Connolly",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TS Rogers",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 3.23
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "W Sutherland",
+          "overs": "1.5",
+          "balls": 11,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 4.91
+        },
+        {
+          "player": "Mujeeb Ur Rahman",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

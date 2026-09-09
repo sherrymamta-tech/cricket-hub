@@ -1,0 +1,101 @@
+{
+  "id": "1544610",
+  "teams": [
+    "Uganda",
+    "Tanzania"
+  ],
+  "date": "2026-07-28",
+  "format": "T20",
+  "competition": "Women's T20 Quadrangular Series (in Namibia)",
+  "venue": "Namibia Cricket Ground, Windhoek",
+  "result": "Uganda won",
+  "winner": "Uganda",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Uganda",
+      "runs": 116,
+      "extras": 7,
+      "balls": 103,
+      "batting": [
+        {
+          "player": "J Mbabazi",
+          "runs": 57,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 129.55,
+          "out": false
+        },
+        {
+          "player": "S Nampiina",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "P Alako",
+          "runs": 52,
+          "balls": 59,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 88.14,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AS Qwele",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "player": "NN Saidi",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "PZ Kamunya",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 8.67
+        },
+        {
+          "player": "S Kizito",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 11.54
+        },
+        {
+          "player": "MJ Massawe",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "SF Jerome",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 4.5
+        }
+      ]
+    }
+  ]
+}

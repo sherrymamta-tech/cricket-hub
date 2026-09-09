@@ -1,0 +1,312 @@
+{
+  "id": "64882",
+  "teams": [
+    "Pakistan",
+    "India"
+  ],
+  "date": "2004-03-16",
+  "format": "ODI",
+  "competition": "India tour of Pakistan",
+  "venue": "Rawalpindi Cricket Stadium",
+  "result": "Pakistan won by 12 runs",
+  "winner": "Pakistan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 329,
+      "extras": 21,
+      "balls": 311,
+      "batting": [
+        {
+          "player": "Yasir Hameed",
+          "runs": 86,
+          "balls": 113,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 76.11,
+          "out": true
+        },
+        {
+          "player": "Shahid Afridi",
+          "runs": 80,
+          "balls": 59,
+          "fours": 10,
+          "sixes": 4,
+          "strike_rate": 135.59,
+          "out": true
+        },
+        {
+          "player": "Yousuf Youhana",
+          "runs": 24,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "Inzamam-ul-Haq",
+          "runs": 29,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 80.56,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 28,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Moin Khan",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Shoaib Malik",
+          "runs": 30,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 107.14,
+          "out": false
+        },
+        {
+          "player": "Abdul Razzaq",
+          "runs": 31,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 163.16,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Balaji",
+          "overs": "6.4",
+          "balls": 40,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 7.05
+        },
+        {
+          "player": "Z Khan",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 76,
+          "wickets": 0,
+          "economy": 10.36
+        },
+        {
+          "player": "A Nehra",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 45,
+          "wickets": 3,
+          "economy": 4.5
+        },
+        {
+          "player": "V Sehwag",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 7.74
+        },
+        {
+          "player": "Yuvraj Singh",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 4.03
+        },
+        {
+          "player": "RR Powar",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 5.68
+        },
+        {
+          "player": "SR Tendulkar",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 7.11
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 317,
+      "extras": 37,
+      "balls": 303,
+      "batting": [
+        {
+          "player": "V Sehwag",
+          "runs": 26,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 123.81,
+          "out": true
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 141,
+          "balls": 138,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 102.17,
+          "out": true
+        },
+        {
+          "player": "VVS Laxman",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "SC Ganguly",
+          "runs": 15,
+          "balls": 40,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "R Dravid",
+          "runs": 36,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "Yuvraj Singh",
+          "runs": 19,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 95.0,
+          "out": true
+        },
+        {
+          "player": "M Kaif",
+          "runs": 7,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "RR Powar",
+          "runs": 18,
+          "balls": 11,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 163.64,
+          "out": false
+        },
+        {
+          "player": "Z Khan",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "L Balaji",
+          "runs": 14,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "A Nehra",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shoaib Akhtar",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 49,
+          "wickets": 3,
+          "economy": 5.35
+        },
+        {
+          "player": "Shabbir Ahmed",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 70,
+          "wickets": 0,
+          "economy": 7.78
+        },
+        {
+          "player": "Mohammad Sami",
+          "overs": "10.5",
+          "balls": 65,
+          "runs": 43,
+          "wickets": 3,
+          "economy": 3.97
+        },
+        {
+          "player": "Shoaib Malik",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 69,
+          "wickets": 1,
+          "economy": 6.79
+        },
+        {
+          "player": "Shahid Afridi",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 7.56
+        },
+        {
+          "player": "Abdul Razzaq",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.67
+        }
+      ]
+    }
+  ]
+}

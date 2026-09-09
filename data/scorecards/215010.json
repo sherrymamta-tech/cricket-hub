@@ -1,0 +1,599 @@
+{
+  "id": "215010",
+  "teams": [
+    "England",
+    "Australia"
+  ],
+  "date": "2005-08-04",
+  "format": "Test",
+  "competition": "Australia tour of England and Scotland",
+  "venue": "Edgbaston, Birmingham",
+  "result": "England won by 2 runs",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 407,
+      "extras": 24,
+      "balls": 490,
+      "batting": [
+        {
+          "player": "ME Trescothick",
+          "runs": 90,
+          "balls": 103,
+          "fours": 15,
+          "sixes": 2,
+          "strike_rate": 87.38,
+          "out": true
+        },
+        {
+          "player": "AJ Strauss",
+          "runs": 48,
+          "balls": 76,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "MP Vaughan",
+          "runs": 24,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 58.54,
+          "out": true
+        },
+        {
+          "player": "IR Bell",
+          "runs": 6,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 71,
+          "balls": 76,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 93.42,
+          "out": true
+        },
+        {
+          "player": "A Flintoff",
+          "runs": 68,
+          "balls": 62,
+          "fours": 6,
+          "sixes": 5,
+          "strike_rate": 109.68,
+          "out": true
+        },
+        {
+          "player": "GO Jones",
+          "runs": 1,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": true
+        },
+        {
+          "player": "AF Giles",
+          "runs": 23,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 76.67,
+          "out": true
+        },
+        {
+          "player": "MJ Hoggard",
+          "runs": 16,
+          "balls": 49,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.65,
+          "out": true
+        },
+        {
+          "player": "SJ Harmison",
+          "runs": 17,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 154.55,
+          "out": true
+        },
+        {
+          "player": "SP Jones",
+          "runs": 19,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 79.17,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Lee",
+          "overs": "17.3",
+          "balls": 105,
+          "runs": 111,
+          "wickets": 1,
+          "economy": 6.34
+        },
+        {
+          "player": "JN Gillespie",
+          "overs": "22.3",
+          "balls": 135,
+          "runs": 91,
+          "wickets": 2,
+          "economy": 4.04
+        },
+        {
+          "player": "MS Kasprowicz",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 80,
+          "wickets": 3,
+          "economy": 4.9
+        },
+        {
+          "player": "SK Warne",
+          "overs": "25.2",
+          "balls": 152,
+          "runs": 125,
+          "wickets": 4,
+          "economy": 4.93
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 308,
+      "extras": 31,
+      "balls": 467,
+      "batting": [
+        {
+          "player": "JL Langer",
+          "runs": 82,
+          "balls": 155,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 52.9,
+          "out": true
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 61,
+          "balls": 76,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 80.26,
+          "out": true
+        },
+        {
+          "player": "DR Martyn",
+          "runs": 20,
+          "balls": 18,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 40,
+          "balls": 68,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": true
+        },
+        {
+          "player": "SM Katich",
+          "runs": 4,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "AC Gilchrist",
+          "runs": 49,
+          "balls": 69,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 71.01,
+          "out": false
+        },
+        {
+          "player": "SK Warne",
+          "runs": 8,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "B Lee",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "JN Gillespie",
+          "runs": 7,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 18.92,
+          "out": true
+        },
+        {
+          "player": "MS Kasprowicz",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SJ Harmison",
+          "overs": "11.2",
+          "balls": 68,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 4.32
+        },
+        {
+          "player": "MJ Hoggard",
+          "overs": "8.4",
+          "balls": 52,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 4.73
+        },
+        {
+          "player": "SP Jones",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 74,
+          "wickets": 2,
+          "economy": 4.53
+        },
+        {
+          "player": "A Flintoff",
+          "overs": "15.3",
+          "balls": 93,
+          "runs": 53,
+          "wickets": 3,
+          "economy": 3.42
+        },
+        {
+          "player": "AF Giles",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 91,
+          "wickets": 3,
+          "economy": 3.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "England",
+      "runs": 182,
+      "extras": 10,
+      "balls": 322,
+      "batting": [
+        {
+          "player": "ME Trescothick",
+          "runs": 21,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 55.26,
+          "out": true
+        },
+        {
+          "player": "AJ Strauss",
+          "runs": 6,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MJ Hoggard",
+          "runs": 1,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 3.7,
+          "out": true
+        },
+        {
+          "player": "MP Vaughan",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "IR Bell",
+          "runs": 21,
+          "balls": 43,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.84,
+          "out": true
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 20,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "A Flintoff",
+          "runs": 73,
+          "balls": 86,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 84.88,
+          "out": true
+        },
+        {
+          "player": "GO Jones",
+          "runs": 9,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.37,
+          "out": true
+        },
+        {
+          "player": "AF Giles",
+          "runs": 8,
+          "balls": 36,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "SJ Harmison",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SP Jones",
+          "runs": 12,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 52.17,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Lee",
+          "overs": "18.5",
+          "balls": 113,
+          "runs": 82,
+          "wickets": 4,
+          "economy": 4.35
+        },
+        {
+          "player": "JN Gillespie",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 2.94
+        },
+        {
+          "player": "MS Kasprowicz",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 8.29
+        },
+        {
+          "player": "SK Warne",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 47,
+          "wickets": 6,
+          "economy": 2.03
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Australia",
+      "runs": 279,
+      "extras": 40,
+      "balls": 402,
+      "batting": [
+        {
+          "player": "JL Langer",
+          "runs": 28,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 31,
+          "balls": 64,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 48.44,
+          "out": true
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DR Martyn",
+          "runs": 28,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "MJ Clarke",
+          "runs": 30,
+          "balls": 57,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 52.63,
+          "out": true
+        },
+        {
+          "player": "SM Katich",
+          "runs": 16,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 76.19,
+          "out": true
+        },
+        {
+          "player": "AC Gilchrist",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "JN Gillespie",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SK Warne",
+          "runs": 42,
+          "balls": 59,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 71.19,
+          "out": true
+        },
+        {
+          "player": "B Lee",
+          "runs": 43,
+          "balls": 75,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 57.33,
+          "out": false
+        },
+        {
+          "player": "MS Kasprowicz",
+          "runs": 20,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 64.52,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SJ Harmison",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 75,
+          "wickets": 2,
+          "economy": 4.21
+        },
+        {
+          "player": "MJ Hoggard",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 5.2
+        },
+        {
+          "player": "AF Giles",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 69,
+          "wickets": 2,
+          "economy": 4.6
+        },
+        {
+          "player": "A Flintoff",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 86,
+          "wickets": 4,
+          "economy": 3.56
+        },
+        {
+          "player": "SP Jones",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 4.6
+        }
+      ]
+    }
+  ]
+}

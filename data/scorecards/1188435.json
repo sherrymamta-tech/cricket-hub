@@ -1,0 +1,302 @@
+{
+  "id": "1188435",
+  "teams": [
+    "Sydney Sixers",
+    "Adelaide Strikers"
+  ],
+  "date": "2019-12-01",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Hurstville Oval",
+  "result": "Sydney Sixers won by 13 runs",
+  "winner": "Sydney Sixers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Sixers",
+      "runs": 177,
+      "extras": 11,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "AJ Healy",
+          "runs": 84,
+          "balls": 38,
+          "fours": 7,
+          "sixes": 7,
+          "strike_rate": 221.05,
+          "out": true
+        },
+        {
+          "player": "EA Burns",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "A Gardner",
+          "runs": 23,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 92.0,
+          "out": true
+        },
+        {
+          "player": "HJ Armitage",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "M Kapp",
+          "runs": 24,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "D van Niekerk",
+          "runs": 10,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "LG Smith",
+          "runs": 17,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 141.67,
+          "out": false
+        },
+        {
+          "player": "J Hicks",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ML Schutt",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "player": "SFM Devine",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 8.31
+        },
+        {
+          "player": "SJ Coyte",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.75
+        },
+        {
+          "player": "TM McGrath",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 7.62
+        },
+        {
+          "player": "SW Bates",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 9.67
+        },
+        {
+          "player": "A Wellington",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 16.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Adelaide Strikers",
+      "runs": 164,
+      "extras": 17,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "SFM Devine",
+          "runs": 60,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 142.86,
+          "out": true
+        },
+        {
+          "player": "SW Bates",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TM McGrath",
+          "runs": 6,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "BE Patterson",
+          "runs": 30,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "L Winfield",
+          "runs": 20,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "KM Mack",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "A Wellington",
+          "runs": 22,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 169.23,
+          "out": true
+        },
+        {
+          "player": "TJ McPharlin",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "SJ Coyte",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Kapp",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 6.72
+        },
+        {
+          "player": "S Campbell",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 4.74
+        },
+        {
+          "player": "H Silver-holmes",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "D van Niekerk",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "SE Aley",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "A Gardner",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 9.5
+        },
+        {
+          "player": "EA Burns",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 10.15
+        },
+        {
+          "player": "LG Smith",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 7.85
+        }
+      ]
+    }
+  ]
+}

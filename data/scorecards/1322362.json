@@ -1,0 +1,361 @@
+{
+  "id": "1322362",
+  "teams": [
+    "Sri Lanka",
+    "New Zealand"
+  ],
+  "date": "2023-04-02",
+  "format": "T20",
+  "competition": "Sri Lanka tour of New Zealand",
+  "venue": "Eden Park, Auckland",
+  "result": "tie",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "runs": 196,
+      "extras": 14,
+      "balls": 129,
+      "batting": [
+        {
+          "player": "P Nissanka",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MDKJ Perera",
+          "runs": 53,
+          "balls": 52,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 101.92,
+          "out": false
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 25,
+          "balls": 9,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 277.78,
+          "out": true
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 15,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 136.36,
+          "out": true
+        },
+        {
+          "player": "KIC Asalanka",
+          "runs": 67,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 6,
+          "strike_rate": 159.52,
+          "out": true
+        },
+        {
+          "player": "MD Shanaka",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "PWH de Silva",
+          "runs": 21,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 190.91,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AF Milne",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 9.92
+        },
+        {
+          "player": "BG Lister",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 9.78
+        },
+        {
+          "player": "HB Shipley",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 10.22
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 7.5
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 7.92
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 196,
+      "extras": 9,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "CJ Bowes",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "TL Seifert",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 27,
+          "balls": 16,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 168.75,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 66,
+          "balls": 44,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 33,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 143.48,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 19,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 190.0,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 26,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "AF Milne",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 10,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 250.0,
+          "out": false
+        },
+        {
+          "player": "HB Shipley",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Theekshana",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.75
+        },
+        {
+          "player": "D Madushanka",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 14.21
+        },
+        {
+          "player": "PM Liyanagamage",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 8.54
+        },
+        {
+          "player": "C Karunaratne",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "PWH de Silva",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 7.5
+        },
+        {
+          "player": "MD Shanaka",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 10.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New Zealand",
+      "runs": 8,
+      "extras": 1,
+      "balls": 7,
+      "batting": [
+        {
+          "player": "DJ Mitchell",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Theekshana",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 8,
+          "wickets": 2,
+          "economy": 6.86
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Sri Lanka",
+      "runs": 12,
+      "extras": 1,
+      "balls": 3,
+      "batting": [
+        {
+          "player": "BKG Mendis",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "KIC Asalanka",
+          "runs": 10,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 500.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AF Milne",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 24.0
+        }
+      ]
+    }
+  ]
+}

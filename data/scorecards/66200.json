@@ -1,0 +1,227 @@
+{
+  "id": "66200",
+  "teams": [
+    "United States of America",
+    "Australia"
+  ],
+  "date": "2004-09-13",
+  "format": "ODI",
+  "competition": "ICC Champions Trophy",
+  "venue": "The Rose Bowl",
+  "result": "Australia won by 9 wickets",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "United States of America",
+      "runs": 65,
+      "extras": 14,
+      "balls": 156,
+      "batting": [
+        {
+          "player": "RP Alexander",
+          "runs": 8,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.59,
+          "out": true
+        },
+        {
+          "player": "MR Johnson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LC Romero",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "SJ Massiah",
+          "runs": 23,
+          "balls": 45,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 51.11,
+          "out": true
+        },
+        {
+          "player": "RW Staple",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "CA Reid",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Aijaz Ali",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "Rashid Zia",
+          "runs": 1,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.88,
+          "out": true
+        },
+        {
+          "player": "Nasir Javed",
+          "runs": 2,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": false
+        },
+        {
+          "player": "DL Blake",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HR Johnson",
+          "runs": 9,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Lee",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "player": "GD McGrath",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 2.11
+        },
+        {
+          "player": "MS Kasprowicz",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 14,
+          "wickets": 4,
+          "economy": 1.91
+        },
+        {
+          "player": "JN Gillespie",
+          "overs": "6.3",
+          "balls": 39,
+          "runs": 17,
+          "wickets": 4,
+          "economy": 2.62
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 66,
+      "extras": 11,
+      "balls": 52,
+      "batting": [
+        {
+          "player": "AC Gilchrist",
+          "runs": 24,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 96.0,
+          "out": false
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 23,
+          "balls": 18,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 127.78,
+          "out": true
+        },
+        {
+          "player": "RT Ponting",
+          "runs": 8,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HR Johnson",
+          "overs": "3.4",
+          "balls": 22,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 7.09
+        },
+        {
+          "player": "CA Reid",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 8.21
+        },
+        {
+          "player": "DL Blake",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "Rashid Zia",
+          "overs": "0.5",
+          "balls": 5,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 7.2
+        }
+      ]
+    }
+  ]
+}

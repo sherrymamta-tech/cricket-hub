@@ -1,0 +1,286 @@
+{
+  "id": "1260107",
+  "teams": [
+    "England",
+    "New Zealand"
+  ],
+  "date": "2021-09-26",
+  "format": "ODI",
+  "competition": "New Zealand Women tour of England",
+  "venue": "St Lawrence Ground, Canterbury",
+  "result": "England won by 203 runs",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 347,
+      "extras": 27,
+      "balls": 316,
+      "batting": [
+        {
+          "player": "L Winfield-Hill",
+          "runs": 43,
+          "balls": 60,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 71.67,
+          "out": true
+        },
+        {
+          "player": "TT Beaumont",
+          "runs": 102,
+          "balls": 119,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "HC Knight",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NR Sciver",
+          "runs": 39,
+          "balls": 41,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 95.12,
+          "out": true
+        },
+        {
+          "player": "AE Jones",
+          "runs": 60,
+          "balls": 46,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 130.43,
+          "out": true
+        },
+        {
+          "player": "SIR Dunkley",
+          "runs": 33,
+          "balls": 27,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": false
+        },
+        {
+          "player": "DN Wyatt",
+          "runs": 43,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 204.76,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LMM Tahuhu",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 6.3
+        },
+        {
+          "player": "SFM Devine",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 79,
+          "wickets": 1,
+          "economy": 7.41
+        },
+        {
+          "player": "MM Penfold",
+          "overs": "7.4",
+          "balls": 46,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "HM Rowe",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 65,
+          "wickets": 2,
+          "economy": 6.29
+        },
+        {
+          "player": "HNK Jensen",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 62,
+          "wickets": 1,
+          "economy": 6.2
+        },
+        {
+          "player": "AE Satterthwaite",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 144,
+      "extras": 8,
+      "balls": 218,
+      "batting": [
+        {
+          "player": "SW Bates",
+          "runs": 6,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "LR Down",
+          "runs": 27,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 62.79,
+          "out": true
+        },
+        {
+          "player": "ML Green",
+          "runs": 22,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 75.86,
+          "out": true
+        },
+        {
+          "player": "AE Satterthwaite",
+          "runs": 6,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "SFM Devine",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "KJ Martin",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "BM Halliday",
+          "runs": 27,
+          "balls": 51,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "HNK Jensen",
+          "runs": 19,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 135.71,
+          "out": true
+        },
+        {
+          "player": "HM Rowe",
+          "runs": 20,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.97,
+          "out": true
+        },
+        {
+          "player": "LMM Tahuhu",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "A Shrubsole",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 3.75
+        },
+        {
+          "player": "NR Sciver",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 2.5
+        },
+        {
+          "player": "S Ecclestone",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 3.92
+        },
+        {
+          "player": "KL Cross",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 45,
+          "wickets": 3,
+          "economy": 5.62
+        },
+        {
+          "player": "CE Dean",
+          "overs": "5.3",
+          "balls": 33,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 2.36
+        },
+        {
+          "player": "HC Knight",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 24,
+          "wickets": 3,
+          "economy": 4.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "id": "1317913",
+  "teams": [
+    "West Indies",
+    "New Zealand"
+  ],
+  "date": "2022-08-21",
+  "format": "ODI",
+  "competition": "New Zealand tour of West Indies",
+  "venue": "Kensington Oval, Bridgetown, Barbados",
+  "result": "New Zealand won by 5 wickets",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "runs": 301,
+      "extras": 21,
+      "balls": 309,
+      "batting": [
+        {
+          "player": "SD Hope",
+          "runs": 51,
+          "balls": 102,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "KR Mayers",
+          "runs": 105,
+          "balls": 117,
+          "fours": 12,
+          "sixes": 3,
+          "strike_rate": 89.74,
+          "out": true
+        },
+        {
+          "player": "N Pooran",
+          "runs": 91,
+          "balls": 55,
+          "fours": 4,
+          "sixes": 9,
+          "strike_rate": 165.45,
+          "out": true
+        },
+        {
+          "player": "BA King",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "SSJ Brooks",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "KU Carty",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "AJ Hosein",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "AS Joseph",
+          "runs": 20,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 333.33,
+          "out": false
+        },
+        {
+          "player": "Y Cariah",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "10.5",
+          "balls": 65,
+          "runs": 55,
+          "wickets": 3,
+          "economy": 5.08
+        },
+        {
+          "player": "TG Southee",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 5.02
+        },
+        {
+          "player": "MG Bracewell",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 7.17
+        },
+        {
+          "player": "LH Ferguson",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 80,
+          "wickets": 1,
+          "economy": 7.87
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 4.13
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.2
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 307,
+      "extras": 11,
+      "balls": 289,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 57,
+          "balls": 64,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 89.06,
+          "out": true
+        },
+        {
+          "player": "FH Allen",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 56,
+          "balls": 63,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 69,
+          "balls": 76,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 90.79,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 63,
+          "balls": 50,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 126.0,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 14,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": false
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 34,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 4,
+          "strike_rate": 309.09,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KR Mayers",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 5.67
+        },
+        {
+          "player": "JO Holder",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 5.16
+        },
+        {
+          "player": "AJ Hosein",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 6.67
+        },
+        {
+          "player": "AS Joseph",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 6.74
+        },
+        {
+          "player": "K Sinclair",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 4.45
+        },
+        {
+          "player": "Y Cariah",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 77,
+          "wickets": 2,
+          "economy": 8.56
+        },
+        {
+          "player": "N Pooran",
+          "overs": "0.1",
+          "balls": 1,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 36.0
+        }
+      ]
+    }
+  ]
+}

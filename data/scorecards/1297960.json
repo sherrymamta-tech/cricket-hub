@@ -1,0 +1,313 @@
+{
+  "id": "1297960",
+  "teams": [
+    "Nottinghamshire",
+    "Sussex"
+  ],
+  "date": "2022-08-02",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "Trent Bridge, Nottingham",
+  "result": "Nottinghamshire won by 65 runs",
+  "winner": "Nottinghamshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Nottinghamshire",
+      "runs": 290,
+      "extras": 18,
+      "balls": 308,
+      "batting": [
+        {
+          "player": "BT Slater",
+          "runs": 8,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "SG Budinger",
+          "runs": 10,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "H Hameed",
+          "runs": 13,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 48.15,
+          "out": true
+        },
+        {
+          "player": "M Montgomery",
+          "runs": 87,
+          "balls": 95,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 91.58,
+          "out": true
+        },
+        {
+          "player": "LW James",
+          "runs": 37,
+          "balls": 47,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 78.72,
+          "out": true
+        },
+        {
+          "player": "D Schadendorf",
+          "runs": 15,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "LA Patterson-White",
+          "runs": 62,
+          "balls": 47,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 131.91,
+          "out": false
+        },
+        {
+          "player": "BA Hutton",
+          "runs": 29,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 207.14,
+          "out": true
+        },
+        {
+          "player": "ZJ Chappell",
+          "runs": 11,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "A Karvelas",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 72,
+          "wickets": 2,
+          "economy": 6.97
+        },
+        {
+          "player": "BJ Currie",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 4.44
+        },
+        {
+          "player": "D Ibrahim",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 4.15
+        },
+        {
+          "player": "SF Hunt",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 6.1
+        },
+        {
+          "player": "AC Lenham",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 6.16
+        },
+        {
+          "player": "DMW Rawlins",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sussex",
+      "runs": 225,
+      "extras": 4,
+      "balls": 268,
+      "batting": [
+        {
+          "player": "HD Ward",
+          "runs": 28,
+          "balls": 18,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 155.56,
+          "out": true
+        },
+        {
+          "player": "AGH Orr",
+          "runs": 5,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "TGR Clark",
+          "runs": 13,
+          "balls": 37,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.14,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 9,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "TP Alsop",
+          "runs": 75,
+          "balls": 70,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 107.14,
+          "out": true
+        },
+        {
+          "player": "DMW Rawlins",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "D Ibrahim",
+          "runs": 40,
+          "balls": 50,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "A Karvelas",
+          "runs": 26,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 89.66,
+          "out": true
+        },
+        {
+          "player": "AC Lenham",
+          "runs": 18,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "SF Hunt",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "BJ Currie",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Hutton",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 24,
+          "wickets": 3,
+          "economy": 2.67
+        },
+        {
+          "player": "ZJ Chappell",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 6.38
+        },
+        {
+          "player": "D Paterson",
+          "overs": "8.4",
+          "balls": 52,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 4.62
+        },
+        {
+          "player": "LA Patterson-White",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 5.2
+        },
+        {
+          "player": "F Singh",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 6.17
+        },
+        {
+          "player": "M Montgomery",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    }
+  ]
+}

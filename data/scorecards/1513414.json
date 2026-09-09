@@ -1,0 +1,550 @@
+{
+  "id": "1513414",
+  "teams": [
+    "Worcestershire",
+    "Durham"
+  ],
+  "date": "2026-05-08",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "County Ground, New Road, Worcester",
+  "result": "Durham won by 9 wickets",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Worcestershire",
+      "runs": 308,
+      "extras": 18,
+      "balls": 677,
+      "batting": [
+        {
+          "player": "DH Lategan",
+          "runs": 2,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 9,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "GH Roderick",
+          "runs": 6,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.75,
+          "out": true
+        },
+        {
+          "player": "Kashif Ali",
+          "runs": 27,
+          "balls": 33,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "AJ Hose",
+          "runs": 59,
+          "balls": 92,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 64.13,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 41,
+          "balls": 100,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 41.0,
+          "out": true
+        },
+        {
+          "player": "MJ Waite",
+          "runs": 18,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.91,
+          "out": true
+        },
+        {
+          "player": "EA Brookes",
+          "runs": 28,
+          "balls": 74,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 37.84,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 25,
+          "balls": 61,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.98,
+          "out": true
+        },
+        {
+          "player": "JE Home",
+          "runs": 63,
+          "balls": 106,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 59.43,
+          "out": false
+        },
+        {
+          "player": "HC Darley",
+          "runs": 12,
+          "balls": 108,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "30.5",
+          "balls": 185,
+          "runs": 66,
+          "wickets": 5,
+          "economy": 2.14
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "20.4",
+          "balls": 124,
+          "runs": 56,
+          "wickets": 2,
+          "economy": 2.71
+        },
+        {
+          "player": "LS Robinson",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 76,
+          "wickets": 1,
+          "economy": 3.17
+        },
+        {
+          "player": "Kasey Aldridge",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 72,
+          "wickets": 1,
+          "economy": 3.72
+        },
+        {
+          "player": "CF Parkinson",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 2.11
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Durham",
+      "runs": 268,
+      "extras": 11,
+      "balls": 453,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 9,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "BS McKinney",
+          "runs": 14,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.87,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 28,
+          "balls": 59,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 47.46,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 83,
+          "balls": 125,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 66.4,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 14,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 82.35,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 78,
+          "balls": 112,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 69.64,
+          "out": true
+        },
+        {
+          "player": "CF Parkinson",
+          "runs": 0,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 5,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": true
+        },
+        {
+          "player": "Kasey Aldridge",
+          "runs": 13,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.62,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 13,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 72.22,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TAI Taylor",
+          "overs": "21.3",
+          "balls": 129,
+          "runs": 64,
+          "wickets": 3,
+          "economy": 2.98
+        },
+        {
+          "player": "HC Darley",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 4.14
+        },
+        {
+          "player": "MJ Waite",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 2.59
+        },
+        {
+          "player": "JE Home",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 7.05
+        },
+        {
+          "player": "BL D'Oliveira",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 4.17
+        },
+        {
+          "player": "EA Brookes",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 10,
+          "wickets": 2,
+          "economy": 1.33
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Worcestershire",
+      "runs": 102,
+      "extras": 12,
+      "balls": 241,
+      "batting": [
+        {
+          "player": "DH Lategan",
+          "runs": 20,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.82,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 28,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.87,
+          "out": true
+        },
+        {
+          "player": "GH Roderick",
+          "runs": 15,
+          "balls": 46,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 32.61,
+          "out": true
+        },
+        {
+          "player": "Kashif Ali",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "AJ Hose",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 8,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 32.0,
+          "out": true
+        },
+        {
+          "player": "EA Brookes",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "MJ Waite",
+          "runs": 4,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JE Home",
+          "runs": 4,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": false
+        },
+        {
+          "player": "HC Darley",
+          "runs": 5,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 1.8
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 3.6
+        },
+        {
+          "player": "Kasey Aldridge",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 3.4
+        },
+        {
+          "player": "CF Parkinson",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 13,
+          "wickets": 5,
+          "economy": 1.3
+        },
+        {
+          "player": "LS Robinson",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 3.5
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Durham",
+      "runs": 143,
+      "extras": 1,
+      "balls": 147,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 51,
+          "balls": 71,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 71.83,
+          "out": false
+        },
+        {
+          "player": "BS McKinney",
+          "runs": 87,
+          "balls": 72,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 120.83,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TAI Taylor",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 5.2
+        },
+        {
+          "player": "MJ Waite",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 3.8
+        },
+        {
+          "player": "HC Darley",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 7.6
+        },
+        {
+          "player": "JE Home",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.48
+        },
+        {
+          "player": "EA Brookes",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "BL D'Oliveira",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 2.25
+        }
+      ]
+    }
+  ]
+}

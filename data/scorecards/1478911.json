@@ -1,0 +1,68 @@
+{
+  "id": "1478911",
+  "teams": [
+    "India",
+    "Australia"
+  ],
+  "date": "2025-11-08",
+  "format": "T20",
+  "competition": "India tour of Australia",
+  "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 52,
+      "extras": 0,
+      "balls": 29,
+      "batting": [
+        {
+          "player": "Abhishek Sharma",
+          "runs": 23,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 176.92,
+          "out": false
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 29,
+          "balls": 16,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 181.25,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 13.5
+        },
+        {
+          "player": "XC Bartlett",
+          "overs": "1.5",
+          "balls": 11,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 7.09
+        },
+        {
+          "player": "NT Ellis",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        }
+      ]
+    }
+  ]
+}

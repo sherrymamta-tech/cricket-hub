@@ -1,0 +1,128 @@
+{
+  "id": "66296",
+  "teams": [
+    "England",
+    "Zimbabwe"
+  ],
+  "date": "2003-07-01",
+  "format": "ODI",
+  "competition": "NatWest Series",
+  "venue": "Headingley, Leeds",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 81,
+      "extras": 13,
+      "balls": 105,
+      "batting": [
+        {
+          "player": "ME Trescothick",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "VS Solanki",
+          "runs": 8,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "CMW Read",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "MP Vaughan",
+          "runs": 35,
+          "balls": 48,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 72.92,
+          "out": false
+        },
+        {
+          "player": "A Flintoff",
+          "runs": 6,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "A McGrath",
+          "runs": 15,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 65.22,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HH Streak",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 13,
+          "wickets": 2,
+          "economy": 3.12
+        },
+        {
+          "player": "DT Hondo",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.08
+        },
+        {
+          "player": "AM Blignaut",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 3.84
+        },
+        {
+          "player": "SM Ervine",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 7.2
+        },
+        {
+          "player": "GB Brent",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "TJ Friend",
+          "overs": "0.4",
+          "balls": 4,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 10.5
+        }
+      ]
+    }
+  ]
+}

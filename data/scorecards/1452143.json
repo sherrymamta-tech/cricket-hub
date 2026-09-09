@@ -1,0 +1,294 @@
+{
+  "id": "1452143",
+  "teams": [
+    "Auckland Aces",
+    "Canterbury"
+  ],
+  "date": "2024-11-28",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Eden Park Outer Oval, Auckland",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland Aces",
+      "runs": 567,
+      "extras": 20,
+      "balls": 845,
+      "batting": [
+        {
+          "player": "SM Solia",
+          "runs": 29,
+          "balls": 46,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 63.04,
+          "out": true
+        },
+        {
+          "player": "S Dixit",
+          "runs": 8,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 24.24,
+          "out": true
+        },
+        {
+          "player": "WT O'Donnell",
+          "runs": 60,
+          "balls": 157,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 38.22,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 276,
+          "balls": 327,
+          "fours": 28,
+          "sixes": 10,
+          "strike_rate": 84.4,
+          "out": true
+        },
+        {
+          "player": "M Sclanders",
+          "runs": 31,
+          "balls": 43,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 72.09,
+          "out": true
+        },
+        {
+          "player": "BJ Jacobs",
+          "runs": 80,
+          "balls": 132,
+          "fours": 12,
+          "sixes": 2,
+          "strike_rate": 60.61,
+          "out": true
+        },
+        {
+          "player": "SB Keene",
+          "runs": 13,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 81.25,
+          "out": true
+        },
+        {
+          "player": "QLM Sunde",
+          "runs": 6,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "A Ashok",
+          "runs": 44,
+          "balls": 56,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "DK Ferns",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "J Sussex",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ZGF Foulkes",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 92,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "FW Sheat",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 63,
+          "wickets": 0,
+          "economy": 2.72
+        },
+        {
+          "player": "MD Rae",
+          "overs": "31.0",
+          "balls": 186,
+          "runs": 99,
+          "wickets": 2,
+          "economy": 3.19
+        },
+        {
+          "player": "AW McKenzie",
+          "overs": "24.3",
+          "balls": 147,
+          "runs": 82,
+          "wickets": 2,
+          "economy": 3.35
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 111,
+          "wickets": 0,
+          "economy": 6.47
+        },
+        {
+          "player": "MJG Rippon",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 120,
+          "wickets": 4,
+          "economy": 5.45
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Canterbury",
+      "runs": 446,
+      "extras": 15,
+      "balls": 664,
+      "batting": [
+        {
+          "player": "RA Mariu",
+          "runs": 185,
+          "balls": 241,
+          "fours": 28,
+          "sixes": 1,
+          "strike_rate": 76.76,
+          "out": true
+        },
+        {
+          "player": "SJG Janett",
+          "runs": 93,
+          "balls": 174,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 53.45,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 103,
+          "balls": 116,
+          "fours": 10,
+          "sixes": 4,
+          "strike_rate": 88.79,
+          "out": true
+        },
+        {
+          "player": "MWT Boyle",
+          "runs": 6,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "MJ Hay",
+          "runs": 24,
+          "balls": 69,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 34.78,
+          "out": false
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 20,
+          "balls": 49,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.82,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Sussex",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 83,
+          "wickets": 2,
+          "economy": 3.46
+        },
+        {
+          "player": "SB Keene",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 94,
+          "wickets": 0,
+          "economy": 4.41
+        },
+        {
+          "player": "DK Ferns",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 69,
+          "wickets": 2,
+          "economy": 3.39
+        },
+        {
+          "player": "SM Solia",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "A Ashok",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 121,
+          "wickets": 0,
+          "economy": 4.48
+        },
+        {
+          "player": "S Dixit",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 4.29
+        },
+        {
+          "player": "WT O'Donnell",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    }
+  ]
+}

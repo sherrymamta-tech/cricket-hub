@@ -1,0 +1,234 @@
+{
+  "id": "1152555",
+  "teams": [
+    "Sydney Sixers",
+    "Adelaide Strikers"
+  ],
+  "date": "2019-01-29",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Sydney Cricket Ground",
+  "result": "Sydney Sixers won by 8 wickets",
+  "winner": "Sydney Sixers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Adelaide Strikers",
+      "runs": 124,
+      "extras": 8,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "AT Carey",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 46,
+          "balls": 46,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 7,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JW Wells",
+          "runs": 23,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 109.52,
+          "out": true
+        },
+        {
+          "player": "MW Short",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "MG Neser",
+          "runs": 31,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 147.62,
+          "out": true
+        },
+        {
+          "player": "Rashid Khan",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "PM Siddle",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BAD Manenti",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 5.25
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 11,
+          "wickets": 3,
+          "economy": 2.75
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 6.25
+        },
+        {
+          "player": "SNJ O'Keefe",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 6.72
+        },
+        {
+          "player": "TK Curran",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 9.36
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Sixers",
+      "runs": 130,
+      "extras": 5,
+      "balls": 86,
+      "batting": [
+        {
+          "player": "DP Hughes",
+          "runs": 51,
+          "balls": 45,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 113.33,
+          "out": false
+        },
+        {
+          "player": "JR Philippe",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 9,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 61,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 196.77,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Stanlake",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 11.68
+        },
+        {
+          "player": "MG Neser",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "PM Siddle",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "Rashid Khan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 9.75
+        },
+        {
+          "player": "B Laughlin",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 5.67
+        }
+      ]
+    }
+  ]
+}

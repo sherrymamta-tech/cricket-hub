@@ -1,0 +1,548 @@
+{
+  "id": "1227584",
+  "teams": [
+    "Gloucestershire",
+    "Worcestershire"
+  ],
+  "date": "2020-08-01",
+  "format": "MDM",
+  "competition": "Bob Willis Trophy",
+  "venue": "County Ground, Bristol",
+  "result": "Worcestershire won by 8 wickets",
+  "winner": "Worcestershire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Gloucestershire",
+      "runs": 267,
+      "extras": 23,
+      "balls": 586,
+      "batting": [
+        {
+          "player": "Miles Hammond",
+          "runs": 14,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "CDJ Dent",
+          "runs": 92,
+          "balls": 184,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "GL van Buuren",
+          "runs": 60,
+          "balls": 140,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "GT Hankins",
+          "runs": 30,
+          "balls": 91,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 32.97,
+          "out": true
+        },
+        {
+          "player": "RF Higgins",
+          "runs": 18,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.9,
+          "out": true
+        },
+        {
+          "player": "JMR Taylor",
+          "runs": 0,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GH Roderick",
+          "runs": 25,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 60.98,
+          "out": false
+        },
+        {
+          "player": "TJ Price",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DA Payne",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "J Shaw",
+          "runs": 3,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "MD Taylor",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Leach",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 2.53
+        },
+        {
+          "player": "CAJ Morris",
+          "overs": "22.5",
+          "balls": 137,
+          "runs": 53,
+          "wickets": 4,
+          "economy": 2.32
+        },
+        {
+          "player": "JC Tongue",
+          "overs": "21.3",
+          "balls": 129,
+          "runs": 76,
+          "wickets": 3,
+          "economy": 3.53
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 1.88
+        },
+        {
+          "player": "BL D'Oliveira",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 57,
+          "wickets": 2,
+          "economy": 3.35
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Worcestershire",
+      "runs": 428,
+      "extras": 26,
+      "balls": 726,
+      "batting": [
+        {
+          "player": "DKH Mitchell",
+          "runs": 80,
+          "balls": 162,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 49.38,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 77,
+          "balls": 181,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 42.54,
+          "out": true
+        },
+        {
+          "player": "TC Fell",
+          "runs": 39,
+          "balls": 114,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 34.21,
+          "out": true
+        },
+        {
+          "player": "JA Haynes",
+          "runs": 51,
+          "balls": 115,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 44.35,
+          "out": true
+        },
+        {
+          "player": "BL D'Oliveira",
+          "runs": 91,
+          "balls": 105,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 86.67,
+          "out": false
+        },
+        {
+          "player": "MH Wessels",
+          "runs": 19,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 111.76,
+          "out": true
+        },
+        {
+          "player": "OB Cox",
+          "runs": 45,
+          "balls": 32,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 140.62,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DA Payne",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 2.5
+        },
+        {
+          "player": "RF Higgins",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 76,
+          "wickets": 1,
+          "economy": 3.02
+        },
+        {
+          "player": "MD Taylor",
+          "overs": "20.5",
+          "balls": 125,
+          "runs": 84,
+          "wickets": 1,
+          "economy": 4.03
+        },
+        {
+          "player": "TJ Price",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 70,
+          "wickets": 1,
+          "economy": 4.04
+        },
+        {
+          "player": "J Shaw",
+          "overs": "23.4",
+          "balls": 142,
+          "runs": 103,
+          "wickets": 1,
+          "economy": 4.35
+        },
+        {
+          "player": "GL van Buuren",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 3.33
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Gloucestershire",
+      "runs": 270,
+      "extras": 24,
+      "balls": 631,
+      "batting": [
+        {
+          "player": "CDJ Dent",
+          "runs": 67,
+          "balls": 133,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 50.38,
+          "out": true
+        },
+        {
+          "player": "Miles Hammond",
+          "runs": 9,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.13,
+          "out": true
+        },
+        {
+          "player": "GL van Buuren",
+          "runs": 9,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.0,
+          "out": true
+        },
+        {
+          "player": "GT Hankins",
+          "runs": 69,
+          "balls": 196,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 35.2,
+          "out": true
+        },
+        {
+          "player": "J Shaw",
+          "runs": 21,
+          "balls": 42,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RF Higgins",
+          "runs": 6,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.69,
+          "out": true
+        },
+        {
+          "player": "JMR Taylor",
+          "runs": 23,
+          "balls": 120,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 19.17,
+          "out": true
+        },
+        {
+          "player": "GH Roderick",
+          "runs": 9,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.0,
+          "out": true
+        },
+        {
+          "player": "TJ Price",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DA Payne",
+          "runs": 14,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "MD Taylor",
+          "runs": 19,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 118.75,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Leach",
+          "overs": "26.5",
+          "balls": 161,
+          "runs": 72,
+          "wickets": 4,
+          "economy": 2.68
+        },
+        {
+          "player": "CAJ Morris",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 57,
+          "wickets": 2,
+          "economy": 2.59
+        },
+        {
+          "player": "JC Tongue",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 68,
+          "wickets": 3,
+          "economy": 3.37
+        },
+        {
+          "player": "EG Barnard",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 2.25
+        },
+        {
+          "player": "BL D'Oliveira",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 2.06
+        },
+        {
+          "player": "DKH Mitchell",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 1.56
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Worcestershire",
+      "runs": 113,
+      "extras": 8,
+      "balls": 160,
+      "batting": [
+        {
+          "player": "DKH Mitchell",
+          "runs": 20,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JD Libby",
+          "runs": 25,
+          "balls": 58,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 43.1,
+          "out": true
+        },
+        {
+          "player": "TC Fell",
+          "runs": 32,
+          "balls": 32,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "JA Haynes",
+          "runs": 28,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 93.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DA Payne",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 1.5
+        },
+        {
+          "player": "RF Higgins",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 3.57
+        },
+        {
+          "player": "J Shaw",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 5.2
+        },
+        {
+          "player": "MD Taylor",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "TJ Price",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 8.25
+        },
+        {
+          "player": "GL van Buuren",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 4.33
+        },
+        {
+          "player": "JMR Taylor",
+          "overs": "0.1",
+          "balls": 1,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 24.0
+        }
+      ]
+    }
+  ]
+}

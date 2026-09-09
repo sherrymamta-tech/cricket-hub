@@ -1,0 +1,595 @@
+{
+  "id": "64051",
+  "teams": [
+    "South Africa",
+    "Pakistan"
+  ],
+  "date": "2003-10-24",
+  "format": "Test",
+  "competition": "South Africa tour of Pakistan",
+  "venue": "Iqbal Stadium, Faisalabad",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 278,
+      "extras": 6,
+      "balls": 600,
+      "batting": [
+        {
+          "player": "GC Smith",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 98,
+          "balls": 219,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 44.75,
+          "out": true
+        },
+        {
+          "player": "HH Dippenaar",
+          "runs": 4,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 10,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.62,
+          "out": true
+        },
+        {
+          "player": "G Kirsten",
+          "runs": 54,
+          "balls": 115,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 46.96,
+          "out": true
+        },
+        {
+          "player": "ND McKenzie",
+          "runs": 27,
+          "balls": 92,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 29.35,
+          "out": true
+        },
+        {
+          "player": "MV Boucher",
+          "runs": 27,
+          "balls": 27,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SM Pollock",
+          "runs": 16,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "RJ Peterson",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "PR Adams",
+          "runs": 14,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "M Ntini",
+          "runs": 16,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.03,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shabbir Ahmed",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 74,
+          "wickets": 4,
+          "economy": 2.83
+        },
+        {
+          "player": "Abdul Razzaq",
+          "overs": "22.4",
+          "balls": 136,
+          "runs": 68,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "Danish Kaneria",
+          "overs": "33.1",
+          "balls": 199,
+          "runs": 69,
+          "wickets": 2,
+          "economy": 2.08
+        },
+        {
+          "player": "Shoaib Malik",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 3.8
+        },
+        {
+          "player": "Mushtaq Ahmed",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 3.69
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Pakistan",
+      "runs": 348,
+      "extras": 13,
+      "balls": 700,
+      "batting": [
+        {
+          "player": "Taufeeq Umar",
+          "runs": 68,
+          "balls": 167,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 40.72,
+          "out": true
+        },
+        {
+          "player": "Imran Farhat",
+          "runs": 128,
+          "balls": 226,
+          "fours": 18,
+          "sixes": 0,
+          "strike_rate": 56.64,
+          "out": true
+        },
+        {
+          "player": "Yasir Hameed",
+          "runs": 21,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "Inzamam-ul-Haq",
+          "runs": 23,
+          "balls": 64,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.94,
+          "out": true
+        },
+        {
+          "player": "Asim Kamal",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        },
+        {
+          "player": "Shoaib Malik",
+          "runs": 9,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "Abdul Razzaq",
+          "runs": 37,
+          "balls": 77,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 48.05,
+          "out": true
+        },
+        {
+          "player": "Moin Khan",
+          "runs": 18,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 51.43,
+          "out": true
+        },
+        {
+          "player": "Mushtaq Ahmed",
+          "runs": 6,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "Shabbir Ahmed",
+          "runs": 24,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 48.98,
+          "out": false
+        },
+        {
+          "player": "Danish Kaneria",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SM Pollock",
+          "overs": "29.3",
+          "balls": 177,
+          "runs": 79,
+          "wickets": 6,
+          "economy": 2.68
+        },
+        {
+          "player": "M Ntini",
+          "overs": "29.1",
+          "balls": 175,
+          "runs": 70,
+          "wickets": 2,
+          "economy": 2.4
+        },
+        {
+          "player": "JH Kallis",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 2.73
+        },
+        {
+          "player": "RJ Peterson",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "PR Adams",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 83,
+          "wickets": 1,
+          "economy": 3.32
+        },
+        {
+          "player": "GC Smith",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 5.33
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "South Africa",
+      "runs": 371,
+      "extras": 13,
+      "balls": 770,
+      "batting": [
+        {
+          "player": "GC Smith",
+          "runs": 65,
+          "balls": 117,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "HH Gibbs",
+          "runs": 20,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "HH Dippenaar",
+          "runs": 21,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.62,
+          "out": true
+        },
+        {
+          "player": "G Kirsten",
+          "runs": 118,
+          "balls": 232,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 50.86,
+          "out": true
+        },
+        {
+          "player": "ND McKenzie",
+          "runs": 35,
+          "balls": 120,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 29.17,
+          "out": true
+        },
+        {
+          "player": "JH Kallis",
+          "runs": 43,
+          "balls": 113,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.05,
+          "out": true
+        },
+        {
+          "player": "MV Boucher",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SM Pollock",
+          "runs": 30,
+          "balls": 62,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 48.39,
+          "out": false
+        },
+        {
+          "player": "RJ Peterson",
+          "runs": 17,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.67,
+          "out": true
+        },
+        {
+          "player": "PR Adams",
+          "runs": 9,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shabbir Ahmed",
+          "overs": "35.0",
+          "balls": 210,
+          "runs": 73,
+          "wickets": 2,
+          "economy": 2.09
+        },
+        {
+          "player": "Abdul Razzaq",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 70,
+          "wickets": 3,
+          "economy": 3.85
+        },
+        {
+          "player": "Danish Kaneria",
+          "overs": "37.0",
+          "balls": 222,
+          "runs": 103,
+          "wickets": 2,
+          "economy": 2.78
+        },
+        {
+          "player": "Shoaib Malik",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 72,
+          "wickets": 1,
+          "economy": 2.77
+        },
+        {
+          "player": "Mushtaq Ahmed",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 4.36
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Pakistan",
+      "runs": 242,
+      "extras": 6,
+      "balls": 592,
+      "batting": [
+        {
+          "player": "Taufeeq Umar",
+          "runs": 71,
+          "balls": 183,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 38.8,
+          "out": true
+        },
+        {
+          "player": "Imran Farhat",
+          "runs": 8,
+          "balls": 62,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.9,
+          "out": true
+        },
+        {
+          "player": "Yasir Hameed",
+          "runs": 17,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 56.67,
+          "out": true
+        },
+        {
+          "player": "Inzamam-ul-Haq",
+          "runs": 60,
+          "balls": 144,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "Asim Kamal",
+          "runs": 38,
+          "balls": 58,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 65.52,
+          "out": true
+        },
+        {
+          "player": "Abdul Razzaq",
+          "runs": 10,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.63,
+          "out": true
+        },
+        {
+          "player": "Moin Khan",
+          "runs": 9,
+          "balls": 46,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.57,
+          "out": false
+        },
+        {
+          "player": "Shoaib Malik",
+          "runs": 23,
+          "balls": 50,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 46.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SM Pollock",
+          "overs": "22.3",
+          "balls": 135,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 1.24
+        },
+        {
+          "player": "M Ntini",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 2.23
+        },
+        {
+          "player": "JH Kallis",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 2.68
+        },
+        {
+          "player": "PR Adams",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 75,
+          "wickets": 1,
+          "economy": 3.75
+        },
+        {
+          "player": "RJ Peterson",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 1.47
+        },
+        {
+          "player": "GC Smith",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 10.5
+        }
+      ]
+    }
+  ]
+}

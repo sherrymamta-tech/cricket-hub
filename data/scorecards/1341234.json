@@ -1,0 +1,305 @@
+{
+  "id": "1341234",
+  "teams": [
+    "Wellington",
+    "Canterbury"
+  ],
+  "date": "2023-01-01",
+  "format": "T20",
+  "competition": "Women's Super Smash",
+  "venue": "Hagley Oval, Christchurch",
+  "result": "Wellington won by 11 runs",
+  "winner": "Wellington",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Wellington",
+      "runs": 146,
+      "extras": 6,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "TMM Newton",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "RM Burns",
+          "runs": 40,
+          "balls": 29,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 137.93,
+          "out": true
+        },
+        {
+          "player": "SFM Devine",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AC Kerr",
+          "runs": 38,
+          "balls": 35,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 108.57,
+          "out": true
+        },
+        {
+          "player": "ML Green",
+          "runs": 6,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "GE Plimmer",
+          "runs": 25,
+          "balls": 18,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 138.89,
+          "out": true
+        },
+        {
+          "player": "JM Kerr",
+          "runs": 13,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 162.5,
+          "out": true
+        },
+        {
+          "player": "JT McFadyen",
+          "runs": 11,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 137.5,
+          "out": true
+        },
+        {
+          "player": "XA Jetly",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "N Baird",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MP Singh",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Banks",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 25,
+          "wickets": 3,
+          "economy": 6.0
+        },
+        {
+          "player": "LMM Tahuhu",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 8.25
+        },
+        {
+          "player": "GES Sullivan",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 6.96
+        },
+        {
+          "player": "SR Asmussen",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 7.75
+        },
+        {
+          "player": "AE Satterthwaite",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 7.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Canterbury",
+      "runs": 135,
+      "extras": 6,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "KG Anderson",
+          "runs": 83,
+          "balls": 65,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 127.69,
+          "out": false
+        },
+        {
+          "player": "NB Cox",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LEV Hughes",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "IG Sharp",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "AE Satterthwaite",
+          "runs": 11,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 84.62,
+          "out": true
+        },
+        {
+          "player": "FC Wilson",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "AG Gerken",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "LMM Tahuhu",
+          "runs": 16,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 145.45,
+          "out": true
+        },
+        {
+          "player": "MJ Banks",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MP Singh",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 5.68
+        },
+        {
+          "player": "JM Kerr",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 6.25
+        },
+        {
+          "player": "SFM Devine",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 5.33
+        },
+        {
+          "player": "XA Jetly",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 7.62
+        },
+        {
+          "player": "AC Kerr",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "N Baird",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

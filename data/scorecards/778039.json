@@ -1,0 +1,111 @@
+{
+  "id": "778039",
+  "teams": [
+    "Bangladesh",
+    "Sri Lanka"
+  ],
+  "date": "2014-10-02",
+  "format": "IT20",
+  "competition": "Asian Games Men's Cricket Competition",
+  "venue": "Yeonhui Cricket Ground",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Bangladesh",
+      "runs": 59,
+      "extras": 7,
+      "balls": 70,
+      "batting": [
+        {
+          "player": "Tamim Iqbal",
+          "runs": 24,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 64.86,
+          "out": false
+        },
+        {
+          "player": "Anamul Haque",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Mithun",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Shakib Al Hasan",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Sabbir Rahman",
+          "runs": 27,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 108.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LHD Dilhara",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 4,
+          "wickets": 2,
+          "economy": 2.0
+        },
+        {
+          "player": "I Udana",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 3.16
+        },
+        {
+          "player": "CKB Kulasekara",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.26
+        },
+        {
+          "player": "RLB Rambukwella",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 7.38
+        },
+        {
+          "player": "BMAJ Mendis",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 5.14
+        }
+      ]
+    }
+  ]
+}

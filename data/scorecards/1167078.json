@@ -1,0 +1,94 @@
+{
+  "id": "1167078",
+  "teams": [
+    "Glamorgan",
+    "Kent"
+  ],
+  "date": "2019-04-25",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "Sophia Gardens, Cardiff",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Glamorgan",
+      "runs": 68,
+      "extras": 8,
+      "balls": 95,
+      "batting": [
+        {
+          "player": "JL Lawlor",
+          "runs": 3,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 27,
+          "balls": 51,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 52.94,
+          "out": false
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 29,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 103.57,
+          "out": true
+        },
+        {
+          "player": "DL Lloyd",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HW Podmore",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 2.9
+        },
+        {
+          "player": "ME Milnes",
+          "overs": "5.4",
+          "balls": 34,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 3.35
+        },
+        {
+          "player": "ME Claydon",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "FJ Klaassen",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "id": "1216494",
+  "teams": [
+    "Kolkata Knight Riders",
+    "Royal Challengers Bangalore"
+  ],
+  "date": "2020-10-21",
+  "format": "T20",
+  "competition": "Indian Premier League",
+  "venue": "Sheikh Zayed Stadium",
+  "result": "Royal Challengers Bangalore won by 8 wickets",
+  "winner": "Royal Challengers Bangalore",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Kolkata Knight Riders",
+      "runs": 84,
+      "extras": 3,
+      "balls": 121,
+      "batting": [
+        {
+          "player": "Shubman Gill",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "RA Tripathi",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "N Rana",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T Banton",
+          "runs": 10,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "KD Karthik",
+          "runs": 4,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 30,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 88.24,
+          "out": true
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 4,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": true
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "runs": 12,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 63.16,
+          "out": true
+        },
+        {
+          "player": "LH Ferguson",
+          "runs": 19,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 118.75,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CH Morris",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.08
+        },
+        {
+          "player": "Mohammed Siraj",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 9,
+          "wickets": 3,
+          "economy": 2.25
+        },
+        {
+          "player": "Navdeep Saini",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 7.67
+        },
+        {
+          "player": "I Udana",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "YS Chahal",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 3.75
+        },
+        {
+          "player": "Washington Sundar",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 3.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Royal Challengers Bangalore",
+      "runs": 85,
+      "extras": 5,
+      "balls": 84,
+      "batting": [
+        {
+          "player": "D Padikkal",
+          "runs": 25,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 147.06,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 16,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Gurkeerat Singh",
+          "runs": 21,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 80.77,
+          "out": false
+        },
+        {
+          "player": "V Kohli",
+          "runs": 18,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 105.88,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "PJ Cummins",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.32
+        },
+        {
+          "player": "M Prasidh Krishna",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "CV Varun",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "LH Ferguson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 4.08
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "433577",
+  "teams": [
+    "Sri Lanka",
+    "Australia"
+  ],
+  "date": "2011-03-05",
+  "format": "ODI",
+  "competition": "ICC Cricket World Cup",
+  "venue": "R Premadasa Stadium",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "runs": 146,
+      "extras": 6,
+      "balls": 202,
+      "batting": [
+        {
+          "player": "WU Tharanga",
+          "runs": 6,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 31.58,
+          "out": true
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 73,
+          "balls": 103,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 70.87,
+          "out": false
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 23,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 85.19,
+          "out": true
+        },
+        {
+          "player": "TT Samaraweera",
+          "runs": 34,
+          "balls": 49,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 69.39,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Lee",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 5.06
+        },
+        {
+          "player": "SW Tait",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 4.6
+        },
+        {
+          "player": "SR Watson",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 4.14
+        },
+        {
+          "player": "MG Johnson",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 3.69
+        },
+        {
+          "player": "JJ Krejza",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 4.25
+        },
+        {
+          "player": "SPD Smith",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.25
+        }
+      ]
+    }
+  ]
+}

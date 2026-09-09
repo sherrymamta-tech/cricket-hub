@@ -1,0 +1,224 @@
+{
+  "id": "1388225",
+  "teams": [
+    "Australia",
+    "New Zealand"
+  ],
+  "date": "2024-02-25",
+  "format": "T20",
+  "competition": "Australia tour of New Zealand",
+  "venue": "Eden Park, Auckland",
+  "result": "Australia won by 27 runs",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 118,
+      "extras": 12,
+      "balls": 66,
+      "batting": [
+        {
+          "player": "TM Head",
+          "runs": 33,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 106.45,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "MW Short",
+          "runs": 27,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 245.45,
+          "out": true
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 20,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 14,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 175.0,
+          "out": false
+        },
+        {
+          "player": "TH David",
+          "runs": 8,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 266.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 12.5
+        },
+        {
+          "player": "AF Milne",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 10.0
+        },
+        {
+          "player": "BV Sears",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 10.15
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "1.4",
+          "balls": 10,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 13.2
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 9.23
+        },
+        {
+          "player": "JA Clarkson",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 98,
+      "extras": 12,
+      "balls": 63,
+      "batting": [
+        {
+          "player": "FH Allen",
+          "runs": 13,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 144.44,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 14,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "TL Seifert",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 40,
+          "balls": 24,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 166.67,
+          "out": false
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 17,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 106.25,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "MW Short",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 15.23
+        },
+        {
+          "player": "SH Johnson",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 6.43
+        },
+        {
+          "player": "A Zampa",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 10.0
+        },
+        {
+          "player": "NT Ellis",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.5
+        }
+      ]
+    }
+  ]
+}

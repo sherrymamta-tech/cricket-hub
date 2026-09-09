@@ -1,0 +1,639 @@
+{
+  "id": "1166921",
+  "teams": [
+    "Yorkshire",
+    "Kent"
+  ],
+  "date": "2019-05-14",
+  "format": "MDM",
+  "competition": "Specsavers County Championship",
+  "venue": "St Lawrence Ground, Canterbury",
+  "result": "Yorkshire won by 172 runs",
+  "winner": "Yorkshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Yorkshire",
+      "runs": 210,
+      "extras": 20,
+      "balls": 343,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 11,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 29,
+          "balls": 26,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 111.54,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 28,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 52.83,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 17,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 47.22,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 29,
+          "balls": 76,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 38.16,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 25,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 104.17,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 23,
+          "balls": 60,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.33,
+          "out": true
+        },
+        {
+          "player": "BO Coad",
+          "runs": 7,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 21,
+          "balls": 21,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HW Podmore",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 2.2
+        },
+        {
+          "player": "ME Milnes",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 63,
+          "wickets": 3,
+          "economy": 3.94
+        },
+        {
+          "player": "FJ Klaassen",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 4.65
+        },
+        {
+          "player": "ME Claydon",
+          "overs": "11.5",
+          "balls": 71,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 4.39
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 3.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 296,
+      "extras": 17,
+      "balls": 527,
+      "batting": [
+        {
+          "player": "SR Dickson",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 81,
+          "balls": 128,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 63.28,
+          "out": true
+        },
+        {
+          "player": "MT Renshaw",
+          "runs": 16,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 76.19,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 3,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 17.65,
+          "out": true
+        },
+        {
+          "player": "HG Kuhn",
+          "runs": 15,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 103,
+          "balls": 181,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 56.91,
+          "out": true
+        },
+        {
+          "player": "AJ Blake",
+          "runs": 34,
+          "balls": 80,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 42.5,
+          "out": true
+        },
+        {
+          "player": "HW Podmore",
+          "runs": 9,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "ME Milnes",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "FJ Klaassen",
+          "runs": 10,
+          "balls": 38,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": true
+        },
+        {
+          "player": "ME Claydon",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 70,
+          "wickets": 3,
+          "economy": 3.33
+        },
+        {
+          "player": "D Olivier",
+          "overs": "21.4",
+          "balls": 130,
+          "runs": 83,
+          "wickets": 3,
+          "economy": 3.83
+        },
+        {
+          "player": "TT Bresnan",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 47,
+          "wickets": 2,
+          "economy": 2.74
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 2.93
+        },
+        {
+          "player": "DM Bess",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Yorkshire",
+      "runs": 469,
+      "extras": 45,
+      "balls": 798,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 44,
+          "balls": 72,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 13,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": true
+        },
+        {
+          "player": "GS Ballance",
+          "runs": 159,
+          "balls": 292,
+          "fours": 25,
+          "sixes": 0,
+          "strike_rate": 54.45,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 28,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 68.29,
+          "out": true
+        },
+        {
+          "player": "JA Leaning",
+          "runs": 69,
+          "balls": 195,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 35.38,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 19,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 45.24,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 23,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 56.1,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 34,
+          "balls": 55,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 61.82,
+          "out": true
+        },
+        {
+          "player": "SA Patterson",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BO Coad",
+          "runs": 35,
+          "balls": 27,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 129.63,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HW Podmore",
+          "overs": "32.1",
+          "balls": 193,
+          "runs": 94,
+          "wickets": 2,
+          "economy": 2.92
+        },
+        {
+          "player": "ME Milnes",
+          "overs": "28.1",
+          "balls": 169,
+          "runs": 116,
+          "wickets": 2,
+          "economy": 4.12
+        },
+        {
+          "player": "ME Claydon",
+          "overs": "27.3",
+          "balls": 165,
+          "runs": 87,
+          "wickets": 3,
+          "economy": 3.16
+        },
+        {
+          "player": "FJ Klaassen",
+          "overs": "19.5",
+          "balls": 119,
+          "runs": 94,
+          "wickets": 1,
+          "economy": 4.74
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 2.66
+        },
+        {
+          "player": "MT Renshaw",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 3.04
+        },
+        {
+          "player": "AJ Blake",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Kent",
+      "runs": 211,
+      "extras": 30,
+      "balls": 543,
+      "batting": [
+        {
+          "player": "SR Dickson",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 9,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MT Renshaw",
+          "runs": 13,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.42,
+          "out": true
+        },
+        {
+          "player": "FJ Klaassen",
+          "runs": 13,
+          "balls": 110,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 11.82,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 41,
+          "balls": 121,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 33.88,
+          "out": true
+        },
+        {
+          "player": "HG Kuhn",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 35,
+          "balls": 46,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 76.09,
+          "out": true
+        },
+        {
+          "player": "AJ Blake",
+          "runs": 22,
+          "balls": 87,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 25.29,
+          "out": true
+        },
+        {
+          "player": "HW Podmore",
+          "runs": 29,
+          "balls": 99,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 29.29,
+          "out": true
+        },
+        {
+          "player": "ME Milnes",
+          "runs": 14,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": false
+        },
+        {
+          "player": "ME Claydon",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "24.5",
+          "balls": 149,
+          "runs": 53,
+          "wickets": 6,
+          "economy": 2.13
+        },
+        {
+          "player": "D Olivier",
+          "overs": "26.4",
+          "balls": 160,
+          "runs": 98,
+          "wickets": 2,
+          "economy": 3.68
+        },
+        {
+          "player": "SA Patterson",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 1.84
+        },
+        {
+          "player": "TT Bresnan",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 0.5
+        },
+        {
+          "player": "DM Bess",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 1.0
+        },
+        {
+          "player": "JA Leaning",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "1019643",
+  "teams": [
+    "Jamaica Tallawahs",
+    "Barbados Tridents"
+  ],
+  "date": "2016-07-11",
+  "format": "T20",
+  "competition": "Caribbean Premier League",
+  "venue": "Kensington Oval, Bridgetown",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Jamaica Tallawahs",
+      "runs": 116,
+      "extras": 13,
+      "balls": 64,
+      "batting": [
+        {
+          "player": "CAK Walton",
+          "runs": 25,
+          "balls": 22,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 113.64,
+          "out": true
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 47,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 5,
+          "strike_rate": 204.35,
+          "out": false
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 25,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 178.57,
+          "out": true
+        },
+        {
+          "player": "R Powell",
+          "runs": 6,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 120.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WD Parnell",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 6.46
+        },
+        {
+          "player": "R Rampaul",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 10.0
+        },
+        {
+          "player": "D Wiese",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 14.14
+        },
+        {
+          "player": "Shoaib Malik",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 14.31
+        },
+        {
+          "player": "RA Reifer",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

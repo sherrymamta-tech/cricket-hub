@@ -1,0 +1,102 @@
+{
+  "id": "1127415",
+  "teams": [
+    "Southern Vipers",
+    "Western Storm"
+  ],
+  "date": "2018-08-11",
+  "format": "T20",
+  "competition": "Women's Cricket Super League",
+  "venue": "County Ground, Bristol",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Southern Vipers",
+      "runs": 62,
+      "extras": 4,
+      "balls": 53,
+      "batting": [
+        {
+          "player": "DN Wyatt",
+          "runs": 27,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 135.0,
+          "out": true
+        },
+        {
+          "player": "TT Beaumont",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SW Bates",
+          "runs": 26,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 108.33,
+          "out": false
+        },
+        {
+          "player": "M du Preez",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "A Shrubsole",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "FR Davies",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "C Nicholas",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "DR Gibson",
+          "overs": "1.5",
+          "balls": 11,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 4.36
+        },
+        {
+          "player": "SR Taylor",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ]
+    }
+  ]
+}

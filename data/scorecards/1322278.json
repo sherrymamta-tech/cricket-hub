@@ -1,0 +1,234 @@
+{
+  "id": "1322278",
+  "teams": [
+    "India",
+    "New Zealand"
+  ],
+  "date": "2022-11-25",
+  "format": "ODI",
+  "competition": "India tour of New Zealand",
+  "venue": "Eden Park, Auckland",
+  "result": "New Zealand won by 7 wickets",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 306,
+      "extras": 11,
+      "balls": 308,
+      "batting": [
+        {
+          "player": "S Dhawan",
+          "runs": 72,
+          "balls": 78,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 92.31,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 50,
+          "balls": 66,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 75.76,
+          "out": true
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 80,
+          "balls": 78,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 102.56,
+          "out": true
+        },
+        {
+          "player": "RR Pant",
+          "runs": 15,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 65.22,
+          "out": true
+        },
+        {
+          "player": "SA Yadav",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "SV Samson",
+          "runs": 36,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 87.8,
+          "out": true
+        },
+        {
+          "player": "Washington Sundar",
+          "runs": 37,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 217.65,
+          "out": false
+        },
+        {
+          "player": "SN Thakur",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 73,
+          "wickets": 3,
+          "economy": 7.3
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 4.65
+        },
+        {
+          "player": "LH Ferguson",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 59,
+          "wickets": 3,
+          "economy": 5.71
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 58,
+          "wickets": 0,
+          "economy": 5.7
+        },
+        {
+          "player": "AF Milne",
+          "overs": "10.3",
+          "balls": 63,
+          "runs": 68,
+          "wickets": 1,
+          "economy": 6.48
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 309,
+      "extras": 13,
+      "balls": 293,
+      "batting": [
+        {
+          "player": "FH Allen",
+          "runs": 22,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 84.62,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 24,
+          "balls": 42,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 94,
+          "balls": 100,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 94.0,
+          "out": false
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 11,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 68.75,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 145,
+          "balls": 109,
+          "fours": 19,
+          "sixes": 5,
+          "strike_rate": 133.03,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Arshdeep Singh",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 68,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "SN Thakur",
+          "overs": "9.3",
+          "balls": 57,
+          "runs": 63,
+          "wickets": 1,
+          "economy": 6.63
+        },
+        {
+          "player": "Washington Sundar",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 4.13
+        },
+        {
+          "player": "Umran Malik",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 67,
+          "wickets": 2,
+          "economy": 6.48
+        },
+        {
+          "player": "YS Chahal",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 69,
+          "wickets": 0,
+          "economy": 6.68
+        }
+      ]
+    }
+  ]
+}

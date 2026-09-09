@@ -1,0 +1,223 @@
+{
+  "id": "1273756",
+  "teams": [
+    "New Zealand",
+    "Australia"
+  ],
+  "date": "2021-11-14",
+  "format": "T20",
+  "competition": "ICC Men's T20 World Cup",
+  "venue": "Dubai International Cricket Stadium",
+  "result": "Australia won by 8 wickets",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 172,
+      "extras": 9,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 28,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 11,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 137.5,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 85,
+          "balls": 48,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 177.08,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 18,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 13,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 144.44,
+          "out": false
+        },
+        {
+          "player": "TL Seifert",
+          "runs": 8,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 13.85
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 16,
+          "wickets": 3,
+          "economy": 4.0
+        },
+        {
+          "player": "GJ Maxwell",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 10.33
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 6.46
+        },
+        {
+          "player": "A Zampa",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "MR Marsh",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 173,
+      "extras": 10,
+      "balls": 119,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 53,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 139.47,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 5,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 77,
+          "balls": 53,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 145.28,
+          "out": false
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 28,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 4.32
+        },
+        {
+          "player": "TG Southee",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "AF Milne",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 7.68
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 11.43
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 15.0
+        }
+      ]
+    }
+  ]
+}

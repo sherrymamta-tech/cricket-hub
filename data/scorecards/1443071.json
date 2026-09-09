@@ -1,0 +1,260 @@
+{
+  "id": "1443071",
+  "teams": [
+    "Brisbane Heat",
+    "Sydney Sixers"
+  ],
+  "date": "2024-12-29",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+  "result": "Sydney Sixers won by 8 wickets",
+  "winner": "Sydney Sixers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Brisbane Heat",
+      "runs": 138,
+      "extras": 4,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "T Banton",
+          "runs": 19,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 158.33,
+          "out": true
+        },
+        {
+          "player": "JJ Peirson",
+          "runs": 24,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 96.0,
+          "out": true
+        },
+        {
+          "player": "C Munro",
+          "runs": 9,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "NA McSweeney",
+          "runs": 34,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 117.24,
+          "out": true
+        },
+        {
+          "player": "MT Renshaw",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "M Bryant",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "PI Walter",
+          "runs": 22,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 115.79,
+          "out": true
+        },
+        {
+          "player": "XC Bartlett",
+          "runs": 11,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 157.14,
+          "out": true
+        },
+        {
+          "player": "MJ Swepson",
+          "runs": 11,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 275.0,
+          "out": false
+        },
+        {
+          "player": "SH Johnson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MP Kuhnemann",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AJ Hosein",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.24
+        },
+        {
+          "player": "JM Bird",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 32,
+          "wickets": 4,
+          "economy": 7.38
+        },
+        {
+          "player": "H Kerr",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 4.75
+        },
+        {
+          "player": "MC Henriques",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "T Murphy",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 8.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Sixers",
+      "runs": 142,
+      "extras": 5,
+      "balls": 99,
+      "batting": [
+        {
+          "player": "JR Philippe",
+          "runs": 66,
+          "balls": 42,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 157.14,
+          "out": false
+        },
+        {
+          "player": "JM Vince",
+          "runs": 10,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "KR Patterson",
+          "runs": 32,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 152.38,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 29,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 107.41,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "XC Bartlett",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 6.63
+        },
+        {
+          "player": "SH Johnson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "MP Kuhnemann",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 10.33
+        },
+        {
+          "player": "PI Walter",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 8.53
+        },
+        {
+          "player": "MJ Swepson",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 9.79
+        }
+      ]
+    }
+  ]
+}

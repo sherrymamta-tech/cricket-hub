@@ -1,0 +1,457 @@
+{
+  "id": "1119536",
+  "teams": [
+    "Pakistan",
+    "England"
+  ],
+  "date": "2018-06-01",
+  "format": "Test",
+  "competition": "Pakistan tour of Ireland, England and Scotland",
+  "venue": "Headingley",
+  "result": "England won by 55 runs",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 174,
+      "extras": 5,
+      "balls": 289,
+      "batting": [
+        {
+          "player": "Azhar Ali",
+          "runs": 2,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.9,
+          "out": true
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 28,
+          "balls": 57,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 49.12,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 27,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "Usman Salahuddin",
+          "runs": 4,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 14,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 107.69,
+          "out": true
+        },
+        {
+          "player": "Shadab Khan",
+          "runs": 56,
+          "balls": 52,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 107.69,
+          "out": true
+        },
+        {
+          "player": "Faheem Ashraf",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Amir",
+          "runs": 13,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.62,
+          "out": true
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 24,
+          "balls": 16,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 3.07
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 38,
+          "wickets": 3,
+          "economy": 2.53
+        },
+        {
+          "player": "CR Woakes",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 56,
+          "wickets": 3,
+          "economy": 5.09
+        },
+        {
+          "player": "SM Curran",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 4.74
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 363,
+      "extras": 21,
+      "balls": 638,
+      "batting": [
+        {
+          "player": "AN Cook",
+          "runs": 46,
+          "balls": 106,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 43.4,
+          "out": true
+        },
+        {
+          "player": "KK Jennings",
+          "runs": 29,
+          "balls": 57,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.88,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 45,
+          "balls": 72,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "DM Bess",
+          "runs": 49,
+          "balls": 95,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 51.58,
+          "out": true
+        },
+        {
+          "player": "DJ Malan",
+          "runs": 28,
+          "balls": 71,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 39.44,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 21,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 80,
+          "balls": 101,
+          "fours": 11,
+          "sixes": 2,
+          "strike_rate": 79.21,
+          "out": false
+        },
+        {
+          "player": "CR Woakes",
+          "runs": 17,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 54.84,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 20,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 52.63,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 2,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.33,
+          "out": true
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Amir",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 82,
+          "wickets": 2,
+          "economy": 3.57
+        },
+        {
+          "player": "Mohammad Abbas",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 84,
+          "wickets": 2,
+          "economy": 3.23
+        },
+        {
+          "player": "Hasan Ali",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 87,
+          "wickets": 2,
+          "economy": 4.28
+        },
+        {
+          "player": "Faheem Ashraf",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 60,
+          "wickets": 3,
+          "economy": 3.0
+        },
+        {
+          "player": "Shadab Khan",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 2.94
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Pakistan",
+      "runs": 134,
+      "extras": 11,
+      "balls": 277,
+      "batting": [
+        {
+          "player": "Azhar Ali",
+          "runs": 11,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 78.57,
+          "out": true
+        },
+        {
+          "player": "Imam-ul-Haq",
+          "runs": 34,
+          "balls": 64,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 53.12,
+          "out": true
+        },
+        {
+          "player": "Haris Sohail",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Usman Salahuddin",
+          "runs": 33,
+          "balls": 102,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.35,
+          "out": true
+        },
+        {
+          "player": "Sarfraz Ahmed",
+          "runs": 8,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.54,
+          "out": true
+        },
+        {
+          "player": "Shadab Khan",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "Faheem Ashraf",
+          "runs": 3,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.79,
+          "out": true
+        },
+        {
+          "player": "Mohammad Amir",
+          "runs": 7,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.0,
+          "out": false
+        },
+        {
+          "player": "Hasan Ali",
+          "runs": 9,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 28,
+          "wickets": 3,
+          "economy": 2.3
+        },
+        {
+          "player": "SM Curran",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 1.43
+        },
+        {
+          "player": "CR Woakes",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "DM Bess",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 38,
+          "wickets": 3,
+          "economy": 3.45
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "1185311",
+  "teams": [
+    "South Africa",
+    "England"
+  ],
+  "date": "2020-02-07",
+  "format": "ODI",
+  "competition": "England tour of South Africa",
+  "venue": "Kingsmead",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 71,
+      "extras": 4,
+      "balls": 70,
+      "batting": [
+        {
+          "player": "Q de Kock",
+          "runs": 11,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 64.71,
+          "out": true
+        },
+        {
+          "player": "RR Hendricks",
+          "runs": 35,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 97.22,
+          "out": false
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 21,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 123.53,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CR Woakes",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "player": "SM Curran",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 7.38
+        },
+        {
+          "player": "JE Root",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "TK Curran",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "player": "MW Parkinson",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 6.92
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "0.2",
+          "balls": 2,
+          "runs": 1,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

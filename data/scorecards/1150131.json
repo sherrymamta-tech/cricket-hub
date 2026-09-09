@@ -1,0 +1,562 @@
+{
+  "id": "1150131",
+  "teams": [
+    "South Australia",
+    "Western Australia"
+  ],
+  "date": "2019-03-03",
+  "format": "MDM",
+  "competition": "Sheffield Shield",
+  "venue": "Western Australia Cricket Association Ground, Perth",
+  "result": "Western Australia won by 6 wickets",
+  "winner": "Western Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Australia",
+      "runs": 159,
+      "extras": 24,
+      "balls": 379,
+      "batting": [
+        {
+          "player": "CJ McInerney",
+          "runs": 43,
+          "balls": 144,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 29.86,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 25,
+          "balls": 69,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 36.23,
+          "out": true
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 29,
+          "balls": 50,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 58.0,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 16,
+          "balls": 51,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.37,
+          "out": true
+        },
+        {
+          "player": "TLW Cooper",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HJ Nielsen",
+          "runs": 1,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.14,
+          "out": true
+        },
+        {
+          "player": "NP Winter",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JM Mennie",
+          "runs": 12,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.17,
+          "out": true
+        },
+        {
+          "player": "DJ Worrall",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LJ Robins",
+          "runs": 9,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JS Paris",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 1.91
+        },
+        {
+          "player": "M Kelly",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 2.35
+        },
+        {
+          "player": "DJM Moody",
+          "overs": "14.3",
+          "balls": 87,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 1.93
+        },
+        {
+          "player": "L Guthrie",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 59,
+          "wickets": 4,
+          "economy": 3.93
+        },
+        {
+          "player": "HWR Cartwright",
+          "overs": "1.3",
+          "balls": 9,
+          "runs": 3,
+          "wickets": 2,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Western Australia",
+      "runs": 157,
+      "extras": 9,
+      "balls": 301,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 11,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.0,
+          "out": true
+        },
+        {
+          "player": "SM Whiteman",
+          "runs": 12,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 23,
+          "balls": 54,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 42.59,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 17,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 60.71,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 14,
+          "balls": 40,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.0,
+          "out": true
+        },
+        {
+          "player": "M Kelly",
+          "runs": 6,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "JR Philippe",
+          "runs": 47,
+          "balls": 65,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 72.31,
+          "out": true
+        },
+        {
+          "player": "DJM Short",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "JS Paris",
+          "runs": 14,
+          "balls": 50,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.0,
+          "out": true
+        },
+        {
+          "player": "L Guthrie",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DJM Moody",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Worrall",
+          "overs": "15.4",
+          "balls": 94,
+          "runs": 61,
+          "wickets": 3,
+          "economy": 3.89
+        },
+        {
+          "player": "NP Winter",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 26,
+          "wickets": 4,
+          "economy": 1.86
+        },
+        {
+          "player": "JM Mennie",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "LJ Robins",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "South Australia",
+      "runs": 240,
+      "extras": 20,
+      "balls": 413,
+      "batting": [
+        {
+          "player": "CJ McInerney",
+          "runs": 46,
+          "balls": 78,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 58.97,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 30,
+          "balls": 76,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 39.47,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 72,
+          "balls": 118,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 61.02,
+          "out": true
+        },
+        {
+          "player": "CJ Ferguson",
+          "runs": 22,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "TLW Cooper",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "HJ Nielsen",
+          "runs": 7,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.92,
+          "out": true
+        },
+        {
+          "player": "NP Winter",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JM Mennie",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DJ Worrall",
+          "runs": 23,
+          "balls": 54,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 42.59,
+          "out": false
+        },
+        {
+          "player": "LJ Robins",
+          "runs": 12,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JS Paris",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 68,
+          "wickets": 0,
+          "economy": 5.23
+        },
+        {
+          "player": "M Kelly",
+          "overs": "18.4",
+          "balls": 112,
+          "runs": 72,
+          "wickets": 6,
+          "economy": 3.86
+        },
+        {
+          "player": "DJM Moody",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 2.0
+        },
+        {
+          "player": "L Guthrie",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 2.96
+        },
+        {
+          "player": "HWR Cartwright",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 3.56
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Western Australia",
+      "runs": 243,
+      "extras": 22,
+      "balls": 409,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 52,
+          "balls": 92,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 56.52,
+          "out": true
+        },
+        {
+          "player": "SM Whiteman",
+          "runs": 44,
+          "balls": 111,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 39.64,
+          "out": true
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 29,
+          "balls": 58,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 31,
+          "balls": 37,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 83.78,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 12,
+          "balls": 49,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 24.49,
+          "out": false
+        },
+        {
+          "player": "JR Philippe",
+          "runs": 53,
+          "balls": 62,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 85.48,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Worrall",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "NP Winter",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 69,
+          "wickets": 0,
+          "economy": 2.88
+        },
+        {
+          "player": "JM Mennie",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 57,
+          "wickets": 3,
+          "economy": 2.85
+        },
+        {
+          "player": "LJ Robins",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 97,
+          "wickets": 1,
+          "economy": 4.58
+        },
+        {
+          "player": "TM Head",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 4.5
+        }
+      ]
+    }
+  ]
+}

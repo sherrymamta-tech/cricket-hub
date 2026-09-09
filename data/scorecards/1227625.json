@@ -1,0 +1,493 @@
+{
+  "id": "1227625",
+  "teams": [
+    "Leicestershire",
+    "Yorkshire"
+  ],
+  "date": "2020-09-06",
+  "format": "MDM",
+  "competition": "Bob Willis Trophy",
+  "venue": "Headingley, Leeds",
+  "result": "Yorkshire won by 10 wickets",
+  "winner": "Yorkshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Leicestershire",
+      "runs": 124,
+      "extras": 10,
+      "balls": 291,
+      "batting": [
+        {
+          "player": "Hassan Azad",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "ST Evans",
+          "runs": 7,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "HE Dearden",
+          "runs": 20,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 47.62,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "RK Patel",
+          "runs": 19,
+          "balls": 67,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 28.36,
+          "out": true
+        },
+        {
+          "player": "HJ Swindells",
+          "runs": 36,
+          "balls": 93,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 38.71,
+          "out": true
+        },
+        {
+          "player": "AM Lilley",
+          "runs": 5,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "BWM Mike",
+          "runs": 17,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 141.67,
+          "out": true
+        },
+        {
+          "player": "D Klein",
+          "runs": 5,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "GT Griffiths",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": false
+        },
+        {
+          "player": "HA Evans",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 19,
+          "wickets": 5,
+          "economy": 1.42
+        },
+        {
+          "player": "MD Fisher",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 29,
+          "wickets": 3,
+          "economy": 2.42
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 2.25
+        },
+        {
+          "player": "D Olivier",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 4.39
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Yorkshire",
+      "runs": 252,
+      "extras": 33,
+      "balls": 421,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WAR Fraine",
+          "runs": 13,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.14,
+          "out": true
+        },
+        {
+          "player": "TW Loten",
+          "runs": 11,
+          "balls": 57,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.3,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 53,
+          "balls": 61,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 86.89,
+          "out": true
+        },
+        {
+          "player": "JA Tattersall",
+          "runs": 71,
+          "balls": 134,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 52.99,
+          "out": true
+        },
+        {
+          "player": "JA Thompson",
+          "runs": 62,
+          "balls": 102,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 60.78,
+          "out": true
+        },
+        {
+          "player": "MD Fisher",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "BO Coad",
+          "runs": 4,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "D Klein",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 49,
+          "wickets": 3,
+          "economy": 3.27
+        },
+        {
+          "player": "HA Evans",
+          "overs": "18.4",
+          "balls": 112,
+          "runs": 69,
+          "wickets": 2,
+          "economy": 3.7
+        },
+        {
+          "player": "GT Griffiths",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 55,
+          "wickets": 0,
+          "economy": 3.67
+        },
+        {
+          "player": "BWM Mike",
+          "overs": "15.3",
+          "balls": 93,
+          "runs": 58,
+          "wickets": 2,
+          "economy": 3.74
+        },
+        {
+          "player": "AM Lilley",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 21,
+          "wickets": 3,
+          "economy": 3.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Leicestershire",
+      "runs": 161,
+      "extras": 9,
+      "balls": 309,
+      "batting": [
+        {
+          "player": "ST Evans",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "Hassan Azad",
+          "runs": 11,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.67,
+          "out": true
+        },
+        {
+          "player": "HE Dearden",
+          "runs": 18,
+          "balls": 44,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 40.91,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 47,
+          "balls": 83,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 56.63,
+          "out": true
+        },
+        {
+          "player": "RK Patel",
+          "runs": 5,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "HJ Swindells",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AM Lilley",
+          "runs": 13,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.14,
+          "out": true
+        },
+        {
+          "player": "BWM Mike",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "D Klein",
+          "runs": 27,
+          "balls": 52,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 51.92,
+          "out": true
+        },
+        {
+          "player": "GT Griffiths",
+          "runs": 11,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": false
+        },
+        {
+          "player": "HA Evans",
+          "runs": 15,
+          "balls": 11,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 136.36,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BO Coad",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 24,
+          "wickets": 3,
+          "economy": 1.71
+        },
+        {
+          "player": "MD Fisher",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 4.15
+        },
+        {
+          "player": "JA Thompson",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 33,
+          "wickets": 5,
+          "economy": 3.0
+        },
+        {
+          "player": "D Olivier",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 3.7
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Yorkshire",
+      "runs": 37,
+      "extras": 0,
+      "balls": 38,
+      "batting": [
+        {
+          "player": "A Lyth",
+          "runs": 14,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": false
+        },
+        {
+          "player": "T Kohler-Cadmore",
+          "runs": 23,
+          "balls": 18,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 127.78,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "D Klein",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 5.67
+        },
+        {
+          "player": "GT Griffiths",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "HA Evans",
+          "overs": "0.2",
+          "balls": 2,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 24.0
+        }
+      ]
+    }
+  ]
+}

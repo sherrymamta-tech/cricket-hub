@@ -1,0 +1,525 @@
+{
+  "id": "1145001",
+  "teams": [
+    "Australia",
+    "Sri Lanka"
+  ],
+  "date": "2019-02-01",
+  "format": "Test",
+  "competition": "Sri Lanka tour of Australia",
+  "venue": "Manuka Oval",
+  "result": "Australia won by 366 runs",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 534,
+      "extras": 17,
+      "balls": 806,
+      "batting": [
+        {
+          "player": "MS Harris",
+          "runs": 11,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true
+        },
+        {
+          "player": "JA Burns",
+          "runs": 180,
+          "balls": 260,
+          "fours": 28,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 161,
+          "balls": 207,
+          "fours": 21,
+          "sixes": 1,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "KR Patterson",
+          "runs": 114,
+          "balls": 193,
+          "fours": 14,
+          "sixes": 1,
+          "strike_rate": 59.07,
+          "out": false
+        },
+        {
+          "player": "TD Paine",
+          "runs": 45,
+          "balls": 114,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.47,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CAK Rajitha",
+          "overs": "28.4",
+          "balls": 172,
+          "runs": 103,
+          "wickets": 1,
+          "economy": 3.59
+        },
+        {
+          "player": "MVT Fernando",
+          "overs": "30.4",
+          "balls": 184,
+          "runs": 128,
+          "wickets": 3,
+          "economy": 4.17
+        },
+        {
+          "player": "C Karunaratne",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 130,
+          "wickets": 1,
+          "economy": 5.65
+        },
+        {
+          "player": "MDK Perera",
+          "overs": "32.0",
+          "balls": 192,
+          "runs": 112,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "DM de Silva",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 3.05
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sri Lanka",
+      "runs": 215,
+      "extras": 5,
+      "balls": 411,
+      "batting": [
+        {
+          "player": "FDM Karunaratne",
+          "runs": 59,
+          "balls": 95,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 62.11,
+          "out": true
+        },
+        {
+          "player": "HDRL Thirimanne",
+          "runs": 41,
+          "balls": 105,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 39.05,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 15,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.57,
+          "out": true
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "MDKJ Perera",
+          "runs": 29,
+          "balls": 57,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.88,
+          "out": true
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 25,
+          "balls": 63,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.68,
+          "out": true
+        },
+        {
+          "player": "N Dickwella",
+          "runs": 25,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 113.64,
+          "out": true
+        },
+        {
+          "player": "C Karunaratne",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MDK Perera",
+          "runs": 10,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "CAK Rajitha",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "MVT Fernando",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 56,
+          "wickets": 5,
+          "economy": 4.15
+        },
+        {
+          "player": "JA Richardson",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 3.4
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 2.29
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 71,
+          "wickets": 2,
+          "economy": 2.96
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 2.5
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Australia",
+      "runs": 196,
+      "extras": 9,
+      "balls": 291,
+      "batting": [
+        {
+          "player": "MS Harris",
+          "runs": 14,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 107.69,
+          "out": true
+        },
+        {
+          "player": "JA Burns",
+          "runs": 9,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 101,
+          "balls": 137,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 73.72,
+          "out": false
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 4,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 17.39,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 59,
+          "balls": 97,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 60.82,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MVT Fernando",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 3.85
+        },
+        {
+          "player": "CAK Rajitha",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 64,
+          "wickets": 2,
+          "economy": 4.57
+        },
+        {
+          "player": "MDK Perera",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 3.47
+        },
+        {
+          "player": "C Karunaratne",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 4.15
+        },
+        {
+          "player": "DM de Silva",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.75
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Sri Lanka",
+      "runs": 149,
+      "extras": 4,
+      "balls": 308,
+      "batting": [
+        {
+          "player": "FDM Karunaratne",
+          "runs": 8,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.1,
+          "out": true
+        },
+        {
+          "player": "HDRL Thirimanne",
+          "runs": 30,
+          "balls": 81,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.04,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "N Dickwella",
+          "runs": 27,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 62.79,
+          "out": true
+        },
+        {
+          "player": "BKG Mendis",
+          "runs": 42,
+          "balls": 69,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 60.87,
+          "out": true
+        },
+        {
+          "player": "MDKJ Perera",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DM de Silva",
+          "runs": 6,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "C Karunaratne",
+          "runs": 22,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 57.89,
+          "out": true
+        },
+        {
+          "player": "CAK Rajitha",
+          "runs": 2,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": false
+        },
+        {
+          "player": "MDK Perera",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "MVT Fernando",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 48,
+          "wickets": 5,
+          "economy": 2.64
+        },
+        {
+          "player": "JA Richardson",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 3.16
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 3.92
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 1.88
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 2.0
+        }
+      ]
+    }
+  ]
+}

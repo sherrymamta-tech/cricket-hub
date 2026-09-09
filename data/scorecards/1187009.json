@@ -1,0 +1,474 @@
+{
+  "id": "1187009",
+  "teams": [
+    "India",
+    "South Africa"
+  ],
+  "date": "2019-10-19",
+  "format": "Test",
+  "competition": "South Africa in India Test Series",
+  "venue": "JSCA International Stadium Complex",
+  "result": "India won by 202 runs",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 497,
+      "extras": 17,
+      "balls": 700,
+      "batting": [
+        {
+          "player": "MA Agarwal",
+          "runs": 10,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.63,
+          "out": true
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 212,
+          "balls": 255,
+          "fours": 28,
+          "sixes": 6,
+          "strike_rate": 83.14,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 12,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 115,
+          "balls": 192,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 59.9,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 51,
+          "balls": 119,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "WP Saha",
+          "runs": 24,
+          "balls": 42,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 14,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "UT Yadav",
+          "runs": 31,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 5,
+          "strike_rate": 310.0,
+          "out": true
+        },
+        {
+          "player": "S Nadeem",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": false
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 10,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 90.91,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 85,
+          "wickets": 3,
+          "economy": 3.67
+        },
+        {
+          "player": "L Ngidi",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 88,
+          "wickets": 0,
+          "economy": 4.4
+        },
+        {
+          "player": "A Nortje",
+          "overs": "24.3",
+          "balls": 147,
+          "runs": 83,
+          "wickets": 1,
+          "economy": 3.39
+        },
+        {
+          "player": "GF Linde",
+          "overs": "31.0",
+          "balls": 186,
+          "runs": 133,
+          "wickets": 4,
+          "economy": 4.29
+        },
+        {
+          "player": "DL Piedt",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 108,
+          "wickets": 1,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 162,
+      "extras": 12,
+      "balls": 339,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Zubayr Hamza",
+          "runs": 62,
+          "balls": 79,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 78.48,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 32,
+          "balls": 72,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "GF Linde",
+          "runs": 37,
+          "balls": 81,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 45.68,
+          "out": true
+        },
+        {
+          "player": "DL Piedt",
+          "runs": 4,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Nortje",
+          "runs": 4,
+          "balls": 55,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.27,
+          "out": true
+        },
+        {
+          "player": "L Ngidi",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Shami",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 2.7
+        },
+        {
+          "player": "UT Yadav",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 40,
+          "wickets": 3,
+          "economy": 4.44
+        },
+        {
+          "player": "S Nadeem",
+          "overs": "11.3",
+          "balls": 69,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 2.0
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 1.36
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 4.42
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "South Africa",
+      "runs": 133,
+      "extras": 6,
+      "balls": 288,
+      "batting": [
+        {
+          "player": "Q de Kock",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 16,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 55.17,
+          "out": true
+        },
+        {
+          "player": "Zubayr Hamza",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 5,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.83,
+          "out": true
+        },
+        {
+          "player": "GF Linde",
+          "runs": 27,
+          "balls": 55,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 49.09,
+          "out": true
+        },
+        {
+          "player": "DL Piedt",
+          "runs": 23,
+          "balls": 73,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 31.51,
+          "out": true
+        },
+        {
+          "player": "TB de Bruyn",
+          "runs": 30,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 61.22,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 12,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "A Nortje",
+          "runs": 5,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.25,
+          "out": false
+        },
+        {
+          "player": "L Ngidi",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Shami",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 11,
+          "wickets": 3,
+          "economy": 1.1
+        },
+        {
+          "player": "UT Yadav",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 3.08
+        },
+        {
+          "player": "S Nadeem",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 2.8
+        }
+      ]
+    }
+  ]
+}

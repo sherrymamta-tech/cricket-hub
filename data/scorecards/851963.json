@@ -1,0 +1,76 @@
+{
+  "id": "851963",
+  "teams": [
+    "Dolphins",
+    "Warriors"
+  ],
+  "date": "2015-11-20",
+  "format": "T20",
+  "competition": "Ram Slam T20 Challenge",
+  "venue": "Buffalo Park, East London",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Dolphins",
+      "runs": 35,
+      "extras": 4,
+      "balls": 32,
+      "batting": [
+        {
+          "player": "MN van Wyk",
+          "runs": 15,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        },
+        {
+          "player": "VB van Jaarsveld",
+          "runs": 16,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ACR Birch",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "BD Walters",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 5.54
+        },
+        {
+          "player": "L Mbane",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "SSB Magala",
+          "overs": "0.1",
+          "balls": 1,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 24.0
+        }
+      ]
+    }
+  ]
+}

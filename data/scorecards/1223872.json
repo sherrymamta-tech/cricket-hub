@@ -1,0 +1,612 @@
+{
+  "id": "1223872",
+  "teams": [
+    "Australia",
+    "India"
+  ],
+  "date": "2021-01-15",
+  "format": "Test",
+  "competition": "India tour of Australia",
+  "venue": "Brisbane Cricket Ground",
+  "result": "India won by 3 wickets",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 369,
+      "extras": 20,
+      "balls": 699,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "MS Harris",
+          "runs": 5,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.74,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 108,
+          "balls": 204,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 52.94,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 36,
+          "balls": 77,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 46.75,
+          "out": true
+        },
+        {
+          "player": "MS Wade",
+          "runs": 45,
+          "balls": 87,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 51.72,
+          "out": true
+        },
+        {
+          "player": "C Green",
+          "runs": 47,
+          "balls": 108,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 43.52,
+          "out": true
+        },
+        {
+          "player": "TD Paine",
+          "runs": 50,
+          "balls": 104,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 48.08,
+          "out": true
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 20,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 57.14,
+          "out": false
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 24,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 109.09,
+          "out": true
+        },
+        {
+          "player": "JR Hazlewood",
+          "runs": 11,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.74,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Siraj",
+          "overs": "28.1",
+          "balls": 169,
+          "runs": 86,
+          "wickets": 1,
+          "economy": 3.05
+        },
+        {
+          "player": "T Natarajan",
+          "overs": "25.2",
+          "balls": 152,
+          "runs": 78,
+          "wickets": 3,
+          "economy": 3.08
+        },
+        {
+          "player": "SN Thakur",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 94,
+          "wickets": 3,
+          "economy": 3.92
+        },
+        {
+          "player": "Navdeep Saini",
+          "overs": "7.5",
+          "balls": 47,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 2.68
+        },
+        {
+          "player": "Washington Sundar",
+          "overs": "31.0",
+          "balls": 186,
+          "runs": 89,
+          "wickets": 3,
+          "economy": 2.87
+        },
+        {
+          "player": "RG Sharma",
+          "overs": "0.1",
+          "balls": 1,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 336,
+      "extras": 14,
+      "balls": 672,
+      "batting": [
+        {
+          "player": "RG Sharma",
+          "runs": 44,
+          "balls": 74,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 59.46,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 7,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 25,
+          "balls": 94,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 26.6,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 37,
+          "balls": 93,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 39.78,
+          "out": true
+        },
+        {
+          "player": "MA Agarwal",
+          "runs": 38,
+          "balls": 75,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 50.67,
+          "out": true
+        },
+        {
+          "player": "RR Pant",
+          "runs": 23,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 79.31,
+          "out": true
+        },
+        {
+          "player": "Washington Sundar",
+          "runs": 62,
+          "balls": 144,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 43.06,
+          "out": true
+        },
+        {
+          "player": "SN Thakur",
+          "runs": 67,
+          "balls": 115,
+          "fours": 9,
+          "sixes": 2,
+          "strike_rate": 58.26,
+          "out": true
+        },
+        {
+          "player": "Navdeep Saini",
+          "runs": 5,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "Mohammed Siraj",
+          "runs": 13,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 130.0,
+          "out": true
+        },
+        {
+          "player": "T Natarajan",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 92,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 58,
+          "wickets": 5,
+          "economy": 2.32
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 100,
+          "wickets": 2,
+          "economy": 3.7
+        },
+        {
+          "player": "C Green",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 2.5
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 66,
+          "wickets": 1,
+          "economy": 2.36
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Australia",
+      "runs": 294,
+      "extras": 13,
+      "balls": 461,
+      "batting": [
+        {
+          "player": "MS Harris",
+          "runs": 38,
+          "balls": 82,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 46.34,
+          "out": true
+        },
+        {
+          "player": "DA Warner",
+          "runs": 48,
+          "balls": 75,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 64.0,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 25,
+          "balls": 22,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 113.64,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 55,
+          "balls": 74,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 74.32,
+          "out": true
+        },
+        {
+          "player": "MS Wade",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Green",
+          "runs": 37,
+          "balls": 90,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.11,
+          "out": true
+        },
+        {
+          "player": "TD Paine",
+          "runs": 27,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 72.97,
+          "out": true
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 28,
+          "balls": 53,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 52.83,
+          "out": false
+        },
+        {
+          "player": "MA Starc",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 13,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 130.0,
+          "out": true
+        },
+        {
+          "player": "JR Hazlewood",
+          "runs": 9,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Siraj",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 73,
+          "wickets": 5,
+          "economy": 3.65
+        },
+        {
+          "player": "T Natarajan",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 3.28
+        },
+        {
+          "player": "Washington Sundar",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 81,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "player": "SN Thakur",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 61,
+          "wickets": 4,
+          "economy": 3.16
+        },
+        {
+          "player": "Navdeep Saini",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 6.19
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "India",
+      "runs": 329,
+      "extras": 29,
+      "balls": 585,
+      "batting": [
+        {
+          "player": "RG Sharma",
+          "runs": 7,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 91,
+          "balls": 146,
+          "fours": 8,
+          "sixes": 2,
+          "strike_rate": 62.33,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 56,
+          "balls": 211,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 26.54,
+          "out": true
+        },
+        {
+          "player": "AM Rahane",
+          "runs": 24,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 109.09,
+          "out": true
+        },
+        {
+          "player": "RR Pant",
+          "runs": 89,
+          "balls": 138,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 64.49,
+          "out": false
+        },
+        {
+          "player": "MA Agarwal",
+          "runs": 9,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "Washington Sundar",
+          "runs": 22,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 75.86,
+          "out": true
+        },
+        {
+          "player": "SN Thakur",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 79,
+          "wickets": 0,
+          "economy": 4.89
+        },
+        {
+          "player": "JR Hazlewood",
+          "overs": "22.1",
+          "balls": 133,
+          "runs": 82,
+          "wickets": 1,
+          "economy": 3.7
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 61,
+          "wickets": 4,
+          "economy": 2.52
+        },
+        {
+          "player": "C Green",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 3.33
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "31.0",
+          "balls": 186,
+          "runs": 93,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "M Labuschagne",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

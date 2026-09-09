@@ -1,0 +1,86 @@
+{
+  "id": "1140379",
+  "teams": [
+    "England",
+    "Sri Lanka"
+  ],
+  "date": "2018-10-10",
+  "format": "ODI",
+  "competition": "England tour of Sri Lanka",
+  "venue": "Rangiri Dambulla International Stadium",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 92,
+      "extras": 4,
+      "balls": 92,
+      "batting": [
+        {
+          "player": "JJ Roy",
+          "runs": 24,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 25,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 104.17,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 25,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 86.21,
+          "out": false
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 14,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 127.27,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SL Malinga",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 6.94
+        },
+        {
+          "player": "N Pradeep",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 4.6
+        },
+        {
+          "player": "A Dananjaya",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 6.4
+        }
+      ]
+    }
+  ]
+}

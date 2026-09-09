@@ -1,0 +1,206 @@
+{
+  "id": "1521240",
+  "teams": [
+    "Manchester Super Giants",
+    "Sunrisers Leeds"
+  ],
+  "date": "2026-07-28",
+  "format": "T20",
+  "competition": "The Hundred Men's Competition",
+  "venue": "Headingley, Leeds",
+  "result": "Sunrisers Leeds won by 8 wickets",
+  "winner": "Sunrisers Leeds",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Manchester Super Giants",
+      "runs": 181,
+      "extras": 5,
+      "balls": 104,
+      "batting": [
+        {
+          "player": "TL Seifert",
+          "runs": 28,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 32,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 139.13,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 63,
+          "balls": 34,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 185.29,
+          "out": false
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 53,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 176.67,
+          "out": true
+        },
+        {
+          "player": "TJ Moores",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Carse",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 13.43
+        },
+        {
+          "player": "Abrar Ahmed",
+          "overs": "3.4",
+          "balls": 22,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 11.73
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 9.43
+        },
+        {
+          "player": "NT Ellis",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 9.9
+        },
+        {
+          "player": "DW Lawrence",
+          "overs": "0.5",
+          "balls": 5,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.8
+        },
+        {
+          "player": "ML Revis",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 8.4
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sunrisers Leeds",
+      "runs": 186,
+      "extras": 12,
+      "balls": 92,
+      "batting": [
+        {
+          "player": "MR Marsh",
+          "runs": 63,
+          "balls": 27,
+          "fours": 6,
+          "sixes": 5,
+          "strike_rate": 233.33,
+          "out": true
+        },
+        {
+          "player": "RD Rickelton",
+          "runs": 13,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 118.18,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 56,
+          "balls": 34,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 164.71,
+          "out": false
+        },
+        {
+          "player": "HC Brook",
+          "runs": 42,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 6,
+          "strike_rate": 210.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AAP Atkinson",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 9.6
+        },
+        {
+          "player": "S Baker",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 10.2
+        },
+        {
+          "player": "JC Tongue",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 12.95
+        },
+        {
+          "player": "LA Dawson",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 16.8
+        },
+        {
+          "player": "Noor Ahmad",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 12.33
+        }
+      ]
+    }
+  ]
+}

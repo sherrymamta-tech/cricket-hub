@@ -1,0 +1,86 @@
+{
+  "id": "1347419",
+  "teams": [
+    "Thunder",
+    "Sunrisers"
+  ],
+  "date": "2023-05-10",
+  "format": "ODM",
+  "competition": "Rachael Heyhoe Flint Trophy",
+  "venue": "Rookwood, Sale",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Thunder",
+      "runs": 60,
+      "extras": 5,
+      "balls": 94,
+      "batting": [
+        {
+          "player": "EL Lamb",
+          "runs": 38,
+          "balls": 50,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 76.0,
+          "out": false
+        },
+        {
+          "player": "S Smale",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "FMK Morris",
+          "runs": 8,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "E Threlkeld",
+          "runs": 9,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KL Coppack",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.8
+        },
+        {
+          "player": "E Gray",
+          "overs": "7.2",
+          "balls": 44,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 3.27
+        },
+        {
+          "player": "KS Castle",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 3.6
+        }
+      ]
+    }
+  ]
+}

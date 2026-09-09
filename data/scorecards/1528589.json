@@ -1,0 +1,276 @@
+{
+  "id": "1528589",
+  "teams": [
+    "Washington Freedom",
+    "San Francisco Unicorns"
+  ],
+  "date": "2026-07-16",
+  "format": "T20",
+  "competition": "Major League Cricket",
+  "venue": "Oakland Coliseum,Oakland",
+  "result": "Washington Freedom won by 7 runs",
+  "winner": "Washington Freedom",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Washington Freedom",
+      "runs": 238,
+      "extras": 8,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "MJ Owen",
+          "runs": 42,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 5,
+          "strike_rate": 221.05,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 43,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 215.0,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 28,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "AGS Gous",
+          "runs": 73,
+          "balls": 42,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 173.81,
+          "out": true
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 13,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 118.18,
+          "out": true
+        },
+        {
+          "player": "Nikhil Chaudhary",
+          "runs": 20,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 153.85,
+          "out": false
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "runs": 11,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 220.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "XC Bartlett",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 8.64
+        },
+        {
+          "player": "BL Couch",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 53,
+          "wickets": 0,
+          "economy": 13.25
+        },
+        {
+          "player": "Ghulam Mudassar",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 7.68
+        },
+        {
+          "player": "Haris Rauf",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 55,
+          "wickets": 0,
+          "economy": 13.2
+        },
+        {
+          "player": "Hassan Khan",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 15.79
+        },
+        {
+          "player": "MW Short",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "San Francisco Unicorns",
+      "runs": 231,
+      "extras": 9,
+      "balls": 128,
+      "batting": [
+        {
+          "player": "LG Pretorius",
+          "runs": 18,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 163.64,
+          "out": true
+        },
+        {
+          "player": "FH Allen",
+          "runs": 14,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "MW Short",
+          "runs": 121,
+          "balls": 60,
+          "fours": 11,
+          "sixes": 8,
+          "strike_rate": 201.67,
+          "out": false
+        },
+        {
+          "player": "SP Krishnamurthi",
+          "runs": 10,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 142.86,
+          "out": true
+        },
+        {
+          "player": "AM Hardie",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "Hassan Khan",
+          "runs": 21,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 131.25,
+          "out": true
+        },
+        {
+          "player": "Hammad Azam",
+          "runs": 7,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "XC Bartlett",
+          "runs": 28,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 215.38,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SN Netravalkar",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 7.78
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 10.8
+        },
+        {
+          "player": "Asif Mehmood",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 15.0
+        },
+        {
+          "player": "MJ Owen",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 13.15
+        },
+        {
+          "player": "IG Holland",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "R Ravindra",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 13.5
+        },
+        {
+          "player": "Nikhil Chaudhary",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 9.6
+        }
+      ]
+    }
+  ]
+}

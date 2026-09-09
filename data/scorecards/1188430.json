@@ -1,0 +1,234 @@
+{
+  "id": "1188430",
+  "teams": [
+    "Sydney Thunder",
+    "Melbourne Stars"
+  ],
+  "date": "2019-11-27",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Manuka Oval",
+  "result": "Sydney Thunder won by 18 runs",
+  "winner": "Sydney Thunder",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Thunder",
+      "runs": 162,
+      "extras": 5,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "RH Priest",
+          "runs": 12,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "NE Stalenberg",
+          "runs": 30,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 136.36,
+          "out": true
+        },
+        {
+          "player": "AJ Blackwell",
+          "runs": 65,
+          "balls": 47,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 138.3,
+          "out": true
+        },
+        {
+          "player": "RL Haynes",
+          "runs": 12,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 92.31,
+          "out": true
+        },
+        {
+          "player": "P Litchfield",
+          "runs": 17,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 121.43,
+          "out": true
+        },
+        {
+          "player": "S Horley",
+          "runs": 11,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 110.0,
+          "out": true
+        },
+        {
+          "player": "HJ Darlington",
+          "runs": 10,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "EA Osborne",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 6.96
+        },
+        {
+          "player": "A Sutherland",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 7.15
+        },
+        {
+          "player": "HL Ferling",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 6.25
+        },
+        {
+          "player": "NM Hancock",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "A King",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 9.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Stars",
+      "runs": 144,
+      "extras": 8,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "EJ Villani",
+          "runs": 43,
+          "balls": 36,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 119.44,
+          "out": true
+        },
+        {
+          "player": "L Lee",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M du Preez",
+          "runs": 55,
+          "balls": 51,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 107.84,
+          "out": true
+        },
+        {
+          "player": "A Sutherland",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "EA Osborne",
+          "runs": 27,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": false
+        },
+        {
+          "player": "N Faltum",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "S Ismail",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 7.44
+        },
+        {
+          "player": "RM Farrell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 7.0
+        },
+        {
+          "player": "SL Bates",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 5.04
+        },
+        {
+          "player": "HJ Darlington",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.48
+        },
+        {
+          "player": "L Griffith",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 8.54
+        }
+      ]
+    }
+  ]
+}

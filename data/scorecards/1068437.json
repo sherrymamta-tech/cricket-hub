@@ -1,0 +1,287 @@
+{
+  "id": "1068437",
+  "teams": [
+    "Surrey",
+    "Somerset"
+  ],
+  "date": "2017-04-28",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "County Ground, Taunton",
+  "result": "Somerset won by 4 wickets",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Surrey",
+      "runs": 290,
+      "extras": 13,
+      "balls": 304,
+      "batting": [
+        {
+          "player": "MD Stoneman",
+          "runs": 56,
+          "balls": 56,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DP Sibley",
+          "runs": 37,
+          "balls": 52,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 71.15,
+          "out": true
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 32,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 71.11,
+          "out": true
+        },
+        {
+          "player": "RJ Burns",
+          "runs": 15,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "BT Foakes",
+          "runs": 92,
+          "balls": 65,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 141.54,
+          "out": true
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 19,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 79.17,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 15,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "TK Curran",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GJ Batty",
+          "runs": 8,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 114.29,
+          "out": false
+        },
+        {
+          "player": "SC Meaker",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Overton",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 61,
+          "wickets": 3,
+          "economy": 6.1
+        },
+        {
+          "player": "JH Davey",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 4.5
+        },
+        {
+          "player": "TD Groenewald",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 5.81
+        },
+        {
+          "player": "L Gregory",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 73,
+          "wickets": 3,
+          "economy": 7.18
+        },
+        {
+          "player": "RE van der Merwe",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 51,
+          "wickets": 0,
+          "economy": 5.02
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Somerset",
+      "runs": 291,
+      "extras": 21,
+      "balls": 276,
+      "batting": [
+        {
+          "player": "J Allenby",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "SM Davies",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "PD Trego",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 68,
+          "balls": 96,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 70.83,
+          "out": true
+        },
+        {
+          "player": "JC Hildreth",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "AJ Hose",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "RE van der Merwe",
+          "runs": 165,
+          "balls": 127,
+          "fours": 24,
+          "sixes": 1,
+          "strike_rate": 129.92,
+          "out": false
+        },
+        {
+          "player": "L Gregory",
+          "runs": 19,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 82.61,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JW Dernbach",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 47,
+          "wickets": 3,
+          "economy": 5.22
+        },
+        {
+          "player": "SM Curran",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 57,
+          "wickets": 2,
+          "economy": 6.22
+        },
+        {
+          "player": "TK Curran",
+          "overs": "6.3",
+          "balls": 39,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 6.31
+        },
+        {
+          "player": "SC Meaker",
+          "overs": "8.5",
+          "balls": 53,
+          "runs": 62,
+          "wickets": 0,
+          "economy": 7.02
+        },
+        {
+          "player": "GJ Batty",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 6.32
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 7.14
+        }
+      ]
+    }
+  ]
+}

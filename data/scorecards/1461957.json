@@ -1,0 +1,312 @@
+{
+  "id": "1461957",
+  "teams": [
+    "Hampshire",
+    "Glamorgan"
+  ],
+  "date": "2025-08-05",
+  "format": "ODM",
+  "competition": "One-Day Cup",
+  "venue": "The Gnoll, Neath",
+  "result": "Hampshire won by 72 runs",
+  "winner": "Hampshire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Hampshire",
+      "runs": 324,
+      "extras": 13,
+      "balls": 306,
+      "batting": [
+        {
+          "player": "AGH Orr",
+          "runs": 45,
+          "balls": 45,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "NRT Gubbins",
+          "runs": 144,
+          "balls": 149,
+          "fours": 15,
+          "sixes": 4,
+          "strike_rate": 96.64,
+          "out": false
+        },
+        {
+          "player": "Tilak Varma",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JJ Weatherley",
+          "runs": 5,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": true
+        },
+        {
+          "player": "TJ Prest",
+          "runs": 7,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 43.75,
+          "out": true
+        },
+        {
+          "player": "BA Mayes",
+          "runs": 74,
+          "balls": 57,
+          "fours": 9,
+          "sixes": 4,
+          "strike_rate": 129.82,
+          "out": true
+        },
+        {
+          "player": "AJ Neal",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "FS Organ",
+          "runs": 32,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 228.57,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JAR Harris",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 5.41
+        },
+        {
+          "player": "Zain-ul-Hassan",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 6.78
+        },
+        {
+          "player": "EO Leonard",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 54,
+          "wickets": 3,
+          "economy": 7.2
+        },
+        {
+          "player": "AW Gorvin",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 77,
+          "wickets": 1,
+          "economy": 7.7
+        },
+        {
+          "player": "RCM Franco",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 55,
+          "wickets": 0,
+          "economy": 6.6
+        },
+        {
+          "player": "KS Carlson",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 3.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Glamorgan",
+      "runs": 252,
+      "extras": 14,
+      "balls": 250,
+      "batting": [
+        {
+          "player": "EJ Byrom",
+          "runs": 29,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 93.55,
+          "out": true
+        },
+        {
+          "player": "AM Tribe",
+          "runs": 14,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "WT Smale",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 135,
+          "balls": 95,
+          "fours": 9,
+          "sixes": 10,
+          "strike_rate": 142.11,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Zain-ul-Hassan",
+          "runs": 6,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "AJ Horton",
+          "runs": 35,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 134.62,
+          "out": true
+        },
+        {
+          "player": "AW Gorvin",
+          "runs": 11,
+          "balls": 42,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.19,
+          "out": true
+        },
+        {
+          "player": "JAR Harris",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "EO Leonard",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "RCM Franco",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "EV Jack",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 5.86
+        },
+        {
+          "player": "DC Kelly",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 46,
+          "wickets": 2,
+          "economy": 6.57
+        },
+        {
+          "player": "M Lumsden",
+          "overs": "5.5",
+          "balls": 35,
+          "runs": 64,
+          "wickets": 3,
+          "economy": 10.97
+        },
+        {
+          "player": "FS Organ",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "AJ Neal",
+          "overs": "8.5",
+          "balls": 53,
+          "runs": 45,
+          "wickets": 1,
+          "economy": 5.09
+        },
+        {
+          "player": "Tilak Varma",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 3.4
+        },
+        {
+          "player": "TJ Prest",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

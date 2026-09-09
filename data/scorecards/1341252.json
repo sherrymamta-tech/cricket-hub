@@ -1,0 +1,225 @@
+{
+  "id": "1341252",
+  "teams": [
+    "Northern Districts",
+    "Central Districts"
+  ],
+  "date": "2023-02-03",
+  "format": "T20",
+  "competition": "Women's Super Smash",
+  "venue": "Seddon Park, Hamilton",
+  "result": "Central Districts won by 7 wickets",
+  "winner": "Central Districts",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northern Districts",
+      "runs": 38,
+      "extras": 0,
+      "balls": 30,
+      "batting": [
+        {
+          "player": "SRH Curtis",
+          "runs": 18,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "LF Boucher",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Wellington",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "E Wolland",
+          "runs": 15,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": false
+        },
+        {
+          "player": "C Agafili",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "NH Patel",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "AM Ewart",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RA Mair",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 2,
+          "economy": 8.0
+        },
+        {
+          "player": "FDM Devonshire",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "CL Green",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "Ashtuti Kumar",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 7.0
+        },
+        {
+          "player": "JM Watkin",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 7.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Central Districts",
+      "runs": 39,
+      "extras": 4,
+      "balls": 32,
+      "batting": [
+        {
+          "player": "NC Dodd",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JM Watkin",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GK Atkinson",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "RA Mair",
+          "runs": 8,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "FDM Devonshire",
+          "runs": 22,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 157.14,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "NH Patel",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "A Wellington",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "player": "LF Boucher",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 7.71
+        },
+        {
+          "player": "PC Graham",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "MBA Lamplough",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 10.29
+        }
+      ]
+    }
+  ]
+}

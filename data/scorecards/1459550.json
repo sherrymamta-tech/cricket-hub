@@ -1,0 +1,233 @@
+{
+  "id": "1459550",
+  "teams": [
+    "Dhaka Capitals",
+    "Chittagong Kings"
+  ],
+  "date": "2025-01-09",
+  "format": "T20",
+  "competition": "Bangladesh Premier League",
+  "venue": "Sylhet International Cricket Stadium",
+  "result": "Chittagong Kings won by 7 wickets",
+  "winner": "Chittagong Kings",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Dhaka Capitals",
+      "runs": 177,
+      "extras": 15,
+      "balls": 130,
+      "batting": [
+        {
+          "player": "JJ Roy",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "Tanzid Hasan",
+          "runs": 54,
+          "balls": 50,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 108.0,
+          "out": true
+        },
+        {
+          "player": "SS Eskinazi",
+          "runs": 5,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "Shahadat Hossain",
+          "runs": 9,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "Sabbir Rahman",
+          "runs": 82,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 9,
+          "strike_rate": 221.62,
+          "out": false
+        },
+        {
+          "player": "NLTC Perera",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Farmanullah",
+          "runs": 10,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shoriful Islam",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 9.92
+        },
+        {
+          "player": "Al Islam",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 6.25
+        },
+        {
+          "player": "Khaled Ahmed",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 21,
+          "wickets": 3,
+          "economy": 4.5
+        },
+        {
+          "player": "Arafat Sunny",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 45,
+          "wickets": 0,
+          "economy": 10.38
+        },
+        {
+          "player": "Mohammad Wasim",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 9.92
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Chittagong Kings",
+      "runs": 180,
+      "extras": 6,
+      "balls": 119,
+      "batting": [
+        {
+          "player": "Parvez Hossain Emon",
+          "runs": 17,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Usman Khan",
+          "runs": 55,
+          "balls": 33,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 39,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 118.18,
+          "out": true
+        },
+        {
+          "player": "Mohammad Mithun",
+          "runs": 33,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 150.0,
+          "out": false
+        },
+        {
+          "player": "Shamim Hossain",
+          "runs": 30,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 214.29,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mukidul Islam",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 9.43
+        },
+        {
+          "player": "Mustafizur Rahman",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.52
+        },
+        {
+          "player": "Nazmul Islam",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 12.67
+        },
+        {
+          "player": "Farmanullah",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "NLTC Perera",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 13.85
+        },
+        {
+          "player": "Mosaddek Hossain",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 8.67
+        }
+      ]
+    }
+  ]
+}

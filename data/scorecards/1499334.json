@@ -1,0 +1,472 @@
+{
+  "id": "1499334",
+  "teams": [
+    "Auckland Aces",
+    "Canterbury"
+  ],
+  "date": "2025-12-13",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Hagley Oval, Christchurch",
+  "result": "Canterbury won by 72 runs",
+  "winner": "Canterbury",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland Aces",
+      "runs": 138,
+      "extras": 8,
+      "balls": 290,
+      "batting": [
+        {
+          "player": "DN Phillips",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 24,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "H Kannan",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BJ Jacobs",
+          "runs": 4,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "CD Fletcher",
+          "runs": 6,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "LN Stackpole",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SB Keene",
+          "runs": 52,
+          "balls": 71,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 73.24,
+          "out": true
+        },
+        {
+          "player": "J McKenzie",
+          "runs": 29,
+          "balls": 64,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 45.31,
+          "out": true
+        },
+        {
+          "player": "RD Harrison",
+          "runs": 13,
+          "balls": 42,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.95,
+          "out": true
+        },
+        {
+          "player": "A Ashok",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "RK Gulati",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "FW Sheat",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 19,
+          "wickets": 3,
+          "economy": 1.46
+        },
+        {
+          "player": "SB Davey",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 2.22
+        },
+        {
+          "player": "CB Paul",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 47,
+          "wickets": 3,
+          "economy": 3.62
+        },
+        {
+          "player": "CT Cameron",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 4.91
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Canterbury",
+      "runs": 534,
+      "extras": 29,
+      "balls": 723,
+      "batting": [
+        {
+          "player": "CJ Bowes",
+          "runs": 5,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "RA Mariu",
+          "runs": 147,
+          "balls": 178,
+          "fours": 21,
+          "sixes": 2,
+          "strike_rate": 82.58,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 226,
+          "balls": 316,
+          "fours": 23,
+          "sixes": 2,
+          "strike_rate": 71.52,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 7,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.0,
+          "out": true
+        },
+        {
+          "player": "MWT Boyle",
+          "runs": 15,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "CB Paul",
+          "runs": 25,
+          "balls": 63,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 39.68,
+          "out": true
+        },
+        {
+          "player": "JJA Frew",
+          "runs": 36,
+          "balls": 62,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 58.06,
+          "out": true
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 20,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "SB Davey",
+          "runs": 17,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 70.83,
+          "out": false
+        },
+        {
+          "player": "FW Sheat",
+          "runs": 7,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 116.67,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J McKenzie",
+          "overs": "26.4",
+          "balls": 160,
+          "runs": 119,
+          "wickets": 2,
+          "economy": 4.46
+        },
+        {
+          "player": "SB Keene",
+          "overs": "26.2",
+          "balls": 158,
+          "runs": 112,
+          "wickets": 2,
+          "economy": 4.25
+        },
+        {
+          "player": "RD Harrison",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 94,
+          "wickets": 3,
+          "economy": 4.41
+        },
+        {
+          "player": "RK Gulati",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 108,
+          "wickets": 1,
+          "economy": 5.4
+        },
+        {
+          "player": "A Ashok",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 99,
+          "wickets": 0,
+          "economy": 3.93
+        },
+        {
+          "player": "H Kannan",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Auckland Aces",
+      "runs": 324,
+      "extras": 16,
+      "balls": 652,
+      "batting": [
+        {
+          "player": "DN Phillips",
+          "runs": 34,
+          "balls": 74,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 45.95,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "H Kannan",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BJ Jacobs",
+          "runs": 5,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 29.41,
+          "out": true
+        },
+        {
+          "player": "RD Harrison",
+          "runs": 12,
+          "balls": 74,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 16.22,
+          "out": true
+        },
+        {
+          "player": "CD Fletcher",
+          "runs": 62,
+          "balls": 146,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 42.47,
+          "out": true
+        },
+        {
+          "player": "LN Stackpole",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "SB Keene",
+          "runs": 152,
+          "balls": 154,
+          "fours": 24,
+          "sixes": 0,
+          "strike_rate": 98.7,
+          "out": true
+        },
+        {
+          "player": "J McKenzie",
+          "runs": 11,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.29,
+          "out": true
+        },
+        {
+          "player": "A Ashok",
+          "runs": 19,
+          "balls": 110,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 17.27,
+          "out": true
+        },
+        {
+          "player": "RK Gulati",
+          "runs": 10,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.3,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "FW Sheat",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 74,
+          "wickets": 1,
+          "economy": 3.7
+        },
+        {
+          "player": "SB Davey",
+          "overs": "19.4",
+          "balls": 118,
+          "runs": 41,
+          "wickets": 4,
+          "economy": 2.08
+        },
+        {
+          "player": "CB Paul",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 73,
+          "wickets": 2,
+          "economy": 3.95
+        },
+        {
+          "player": "CT Cameron",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 54,
+          "wickets": 2,
+          "economy": 3.31
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 2.05
+        },
+        {
+          "player": "CE McConchie",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 2.89
+        }
+      ]
+    }
+  ]
+}

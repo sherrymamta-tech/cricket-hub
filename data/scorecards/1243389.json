@@ -1,0 +1,233 @@
+{
+  "id": "1243389",
+  "teams": [
+    "England",
+    "India"
+  ],
+  "date": "2021-03-14",
+  "format": "T20",
+  "competition": "England tour of India",
+  "venue": "Narendra Modi Stadium",
+  "result": "India won by 7 wickets",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 164,
+      "extras": 16,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "JJ Roy",
+          "runs": 46,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 121.05,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DJ Malan",
+          "runs": 24,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 20,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 28,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 24,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Kumar",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 7.68
+        },
+        {
+          "player": "Washington Sundar",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 7.25
+        },
+        {
+          "player": "SN Thakur",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 8.16
+        },
+        {
+          "player": "HH Pandya",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 8.4
+        },
+        {
+          "player": "YS Chahal",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 7.85
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 166,
+      "extras": 3,
+      "balls": 109,
+      "batting": [
+        {
+          "player": "KL Rahul",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Ishan Kishan",
+          "runs": 56,
+          "balls": 33,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 169.7,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 73,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 148.98,
+          "out": false
+        },
+        {
+          "player": "RR Pant",
+          "runs": 26,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 8,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SM Curran",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "JC Archer",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "2.5",
+          "balls": 17,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 13.41
+        },
+        {
+          "player": "TK Curran",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 13.0
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 14.57
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 9.5
+        }
+      ]
+    }
+  ]
+}

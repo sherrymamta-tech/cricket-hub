@@ -1,0 +1,101 @@
+{
+  "id": "1160512",
+  "teams": [
+    "Auckland",
+    "Otago"
+  ],
+  "date": "2019-01-13",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "University Oval",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland",
+      "runs": 117,
+      "extras": 3,
+      "balls": 68,
+      "batting": [
+        {
+          "player": "C Munro",
+          "runs": 9,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 62,
+          "balls": 38,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 163.16,
+          "out": false
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 43,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 179.17,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JL Finnie",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 9.69
+        },
+        {
+          "player": "JA Duffy",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "NG Smith",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 10.15
+        },
+        {
+          "player": "BA Raine",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 15.0
+        },
+        {
+          "player": "MJG Rippon",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "JS Hunter",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ]
+    }
+  ]
+}

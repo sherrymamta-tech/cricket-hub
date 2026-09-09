@@ -1,0 +1,268 @@
+{
+  "id": "1339615",
+  "teams": [
+    "Pakistan",
+    "New Zealand"
+  ],
+  "date": "2023-04-15",
+  "format": "T20",
+  "competition": "New Zealand tour of Pakistan",
+  "venue": "Gaddafi Stadium, Lahore",
+  "result": "Pakistan won by 38 runs",
+  "winner": "Pakistan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 192,
+      "extras": 6,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 50,
+          "balls": 34,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 147.06,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 101,
+          "balls": 60,
+          "fours": 11,
+          "sixes": 3,
+          "strike_rate": 168.33,
+          "out": false
+        },
+        {
+          "player": "Fakhar Zaman",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Saim Ayub",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Imad Wasim",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "Iftikhar Ahmed",
+          "runs": 33,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 173.68,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 6.96
+        },
+        {
+          "player": "HB Shipley",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 13.0
+        },
+        {
+          "player": "BG Lister",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 9.84
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 12.0
+        },
+        {
+          "player": "R Ravindra",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "player": "CE McConchie",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 13.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 154,
+      "extras": 7,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 19,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 82.61,
+          "out": true
+        },
+        {
+          "player": "CJ Bowes",
+          "runs": 26,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 108.33,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 9,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 65,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 162.5,
+          "out": false
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 9,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "R Ravindra",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "CE McConchie",
+          "runs": 12,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "HB Shipley",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.75
+        },
+        {
+          "player": "Imad Wasim",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "Zaman Khan",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.15
+        },
+        {
+          "player": "Haris Rauf",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 27,
+          "wickets": 4,
+          "economy": 6.48
+        },
+        {
+          "player": "Shadab Khan",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "player": "Faheem Ashraf",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 11.5
+        }
+      ]
+    }
+  ]
+}

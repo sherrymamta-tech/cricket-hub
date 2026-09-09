@@ -1,0 +1,93 @@
+{
+  "id": "951319",
+  "teams": [
+    "Bangladesh",
+    "Ireland"
+  ],
+  "date": "2016-03-11",
+  "format": "T20",
+  "competition": "World T20",
+  "venue": "Himachal Pradesh Cricket Association Stadium",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Bangladesh",
+      "runs": 94,
+      "extras": 14,
+      "balls": 51,
+      "batting": [
+        {
+          "player": "Tamim Iqbal",
+          "runs": 47,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 167.86,
+          "out": true
+        },
+        {
+          "player": "Soumya Sarkar",
+          "runs": 20,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 142.86,
+          "out": true
+        },
+        {
+          "player": "Sabbir Rahman",
+          "runs": 13,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 144.44,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TJ Murtagh",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "WB Rankin",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 16.0
+        },
+        {
+          "player": "KJ O'Brien",
+          "overs": "1.2",
+          "balls": 8,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 14.25
+        },
+        {
+          "player": "AR McBrine",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 12.0
+        },
+        {
+          "player": "GH Dockrell",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 8.31
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "id": "1410273",
+  "teams": [
+    "Glamorgan",
+    "Northamptonshire"
+  ],
+  "date": "2024-04-19",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "County Ground, Northampton",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Glamorgan",
+      "runs": 271,
+      "extras": 15,
+      "balls": 449,
+      "batting": [
+        {
+          "player": "Zain-ul-Hassan",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 5,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.78,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 13,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.52,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 7,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 82,
+          "balls": 125,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 65.6,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 28,
+          "balls": 59,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 47.46,
+          "out": true
+        },
+        {
+          "player": "DA Douthwaite",
+          "runs": 50,
+          "balls": 63,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 79.37,
+          "out": true
+        },
+        {
+          "player": "JAR Harris",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MS Crane",
+          "runs": 61,
+          "balls": 115,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 53.04,
+          "out": true
+        },
+        {
+          "player": "BTJ Wheal",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mir Hamza",
+          "runs": 9,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BW Sanderson",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 92,
+          "wickets": 5,
+          "economy": 3.54
+        },
+        {
+          "player": "CP Tremain",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 3.32
+        },
+        {
+          "player": "RA Weatherall",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 60,
+          "wickets": 2,
+          "economy": 5.45
+        },
+        {
+          "player": "LA Procter",
+          "overs": "15.4",
+          "balls": 94,
+          "runs": 50,
+          "wickets": 2,
+          "economy": 3.19
+        },
+        {
+          "player": "SA Zaib",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Northamptonshire",
+      "runs": 605,
+      "extras": 20,
+      "balls": 880,
+      "batting": [
+        {
+          "player": "R Vasconcelos",
+          "runs": 182,
+          "balls": 272,
+          "fours": 25,
+          "sixes": 0,
+          "strike_rate": 66.91,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 15,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "LA Procter",
+          "runs": 65,
+          "balls": 158,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 41.14,
+          "out": true
+        },
+        {
+          "player": "KK Nair",
+          "runs": 202,
+          "balls": 253,
+          "fours": 21,
+          "sixes": 2,
+          "strike_rate": 79.84,
+          "out": false
+        },
+        {
+          "player": "GA Bartlett",
+          "runs": 3,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.75,
+          "out": true
+        },
+        {
+          "player": "JJG Sales",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "SA Zaib",
+          "runs": 100,
+          "balls": 138,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 72.46,
+          "out": true
+        },
+        {
+          "player": "LD McManus",
+          "runs": 14,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 93.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mir Hamza",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 2.12
+        },
+        {
+          "player": "JAR Harris",
+          "overs": "26.0",
+          "balls": 156,
+          "runs": 110,
+          "wickets": 2,
+          "economy": 4.23
+        },
+        {
+          "player": "BTJ Wheal",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 87,
+          "wickets": 1,
+          "economy": 3.62
+        },
+        {
+          "player": "DA Douthwaite",
+          "overs": "11.4",
+          "balls": 70,
+          "runs": 77,
+          "wickets": 0,
+          "economy": 6.6
+        },
+        {
+          "player": "Zain-ul-Hassan",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 72,
+          "wickets": 0,
+          "economy": 4.24
+        },
+        {
+          "player": "MS Crane",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 142,
+          "wickets": 2,
+          "economy": 4.73
+        },
+        {
+          "player": "KS Carlson",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 66,
+          "wickets": 0,
+          "economy": 4.71
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Glamorgan",
+      "runs": 104,
+      "extras": 8,
+      "balls": 242,
+      "batting": [
+        {
+          "player": "Zain-ul-Hassan",
+          "runs": 16,
+          "balls": 65,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 24.62,
+          "out": true
+        },
+        {
+          "player": "WT Root",
+          "runs": 41,
+          "balls": 61,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 67.21,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 18,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 10,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.26,
+          "out": false
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 11,
+          "balls": 47,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.4,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BW Sanderson",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 1.83
+        },
+        {
+          "player": "CP Tremain",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 2.51
+        },
+        {
+          "player": "RA Weatherall",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 5.8
+        },
+        {
+          "player": "SA Zaib",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 1.97
+        },
+        {
+          "player": "KK Nair",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "1478907",
+  "teams": [
+    "India",
+    "Australia"
+  ],
+  "date": "2025-10-29",
+  "format": "T20",
+  "competition": "India tour of Australia",
+  "venue": "Manuka Oval, Canberra",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 97,
+      "extras": 2,
+      "balls": 60,
+      "batting": [
+        {
+          "player": "Abhishek Sharma",
+          "runs": 19,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 135.71,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 37,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 185.0,
+          "out": false
+        },
+        {
+          "player": "SA Yadav",
+          "runs": 39,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JR Hazlewood",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "XC Bartlett",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 7.38
+        },
+        {
+          "player": "NT Ellis",
+          "overs": "1.5",
+          "balls": 11,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 13.64
+        },
+        {
+          "player": "MP Stoinis",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "MP Kuhnemann",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ]
+    }
+  ]
+}

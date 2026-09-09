@@ -1,0 +1,606 @@
+{
+  "id": "1322356",
+  "teams": [
+    "England",
+    "New Zealand"
+  ],
+  "date": "2023-02-24",
+  "format": "Test",
+  "competition": "England tour of New Zealand",
+  "venue": "Basin Reserve, Wellington",
+  "result": "New Zealand won by 1 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 435,
+      "extras": 10,
+      "balls": 525,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 2,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 9,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 10,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 153,
+          "balls": 224,
+          "fours": 10,
+          "sixes": 3,
+          "strike_rate": 68.3,
+          "out": false
+        },
+        {
+          "player": "HC Brook",
+          "runs": 186,
+          "balls": 177,
+          "fours": 24,
+          "sixes": 5,
+          "strike_rate": 105.08,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 27,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 96.43,
+          "out": true
+        },
+        {
+          "player": "BT Foakes",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 14,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 82.35,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 18,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "MJ Leach",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 94,
+          "wickets": 1,
+          "economy": 3.92
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "22.2",
+          "balls": 134,
+          "runs": 105,
+          "wickets": 4,
+          "economy": 4.7
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 62,
+          "wickets": 0,
+          "economy": 6.89
+        },
+        {
+          "player": "N Wagner",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 120,
+          "wickets": 1,
+          "economy": 5.67
+        },
+        {
+          "player": "MG Bracewell",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 54,
+          "wickets": 2,
+          "economy": 4.91
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 209,
+      "extras": 2,
+      "balls": 322,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 35,
+          "balls": 76,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 46.05,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 30,
+          "balls": 38,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 78.95,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 13,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 38,
+          "balls": 79,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 48.1,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 73,
+          "balls": 49,
+          "fours": 5,
+          "sixes": 6,
+          "strike_rate": 148.98,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 37,
+          "wickets": 3,
+          "economy": 3.7
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 61,
+          "wickets": 4,
+          "economy": 4.26
+        },
+        {
+          "player": "OE Robinson",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 2.55
+        },
+        {
+          "player": "MJ Leach",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 80,
+          "wickets": 3,
+          "economy": 4.66
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New Zealand",
+      "runs": 483,
+      "extras": 16,
+      "balls": 985,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 83,
+          "balls": 172,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 48.26,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 61,
+          "balls": 156,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 39.1,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 132,
+          "balls": 283,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 46.64,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 8,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 34.78,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 29,
+          "balls": 94,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.85,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 54,
+          "balls": 54,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 90,
+          "balls": 166,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 54.22,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 8,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.11,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 82,
+          "wickets": 0,
+          "economy": 3.02
+        },
+        {
+          "player": "OE Robinson",
+          "overs": "28.1",
+          "balls": 169,
+          "runs": 84,
+          "wickets": 1,
+          "economy": 2.98
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 79,
+          "wickets": 1,
+          "economy": 3.29
+        },
+        {
+          "player": "MJ Leach",
+          "overs": "62.1",
+          "balls": 373,
+          "runs": 158,
+          "wickets": 5,
+          "economy": 2.54
+        },
+        {
+          "player": "JE Root",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 3.25
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "2.4",
+          "balls": 16,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "HC Brook",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 3.12
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "England",
+      "runs": 256,
+      "extras": 4,
+      "balls": 449,
+      "batting": [
+        {
+          "player": "Z Crawley",
+          "runs": 24,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "BM Duckett",
+          "runs": 33,
+          "balls": 43,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 76.74,
+          "out": true
+        },
+        {
+          "player": "OE Robinson",
+          "runs": 2,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.33,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 14,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.85,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 95,
+          "balls": 113,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 84.07,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 33,
+          "balls": 116,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 28.45,
+          "out": true
+        },
+        {
+          "player": "BT Foakes",
+          "runs": 35,
+          "balls": 59,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 59.32,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 11,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": true
+        },
+        {
+          "player": "MJ Leach",
+          "runs": 1,
+          "balls": 31,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 3.23,
+          "out": false
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "20.2",
+          "balls": 122,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 2.26
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "21.5",
+          "balls": 131,
+          "runs": 75,
+          "wickets": 2,
+          "economy": 3.44
+        },
+        {
+          "player": "MG Bracewell",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 73,
+          "wickets": 0,
+          "economy": 4.25
+        },
+        {
+          "player": "N Wagner",
+          "overs": "15.3",
+          "balls": 93,
+          "runs": 62,
+          "wickets": 4,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

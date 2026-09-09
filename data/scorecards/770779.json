@@ -1,0 +1,535 @@
+{
+  "id": "770779",
+  "teams": [
+    "Wellington Firebirds",
+    "Canterbury"
+  ],
+  "date": "2015-02-06",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "Basin Reserve, Wellington",
+  "result": "Canterbury won by 9 wickets",
+  "winner": "Canterbury",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Wellington Firebirds",
+      "runs": 263,
+      "extras": 17,
+      "balls": 635,
+      "batting": [
+        {
+          "player": "MHW Papps",
+          "runs": 26,
+          "balls": 56,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 46.43,
+          "out": true
+        },
+        {
+          "player": "D Joon",
+          "runs": 55,
+          "balls": 182,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 30.22,
+          "out": true
+        },
+        {
+          "player": "SJ Murdoch",
+          "runs": 66,
+          "balls": 166,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 39.76,
+          "out": true
+        },
+        {
+          "player": "MA Pollard",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "JEC Franklin",
+          "runs": 1,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.88,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 42,
+          "balls": 79,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 53.16,
+          "out": true
+        },
+        {
+          "player": "AD Day",
+          "runs": 32,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 76.19,
+          "out": true
+        },
+        {
+          "player": "LJ Woodcock",
+          "runs": 17,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.53,
+          "out": true
+        },
+        {
+          "player": "MB McEwan",
+          "runs": 4,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.79,
+          "out": true
+        },
+        {
+          "player": "MJ Tugaga",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "BJ Arnel",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "23.4",
+          "balls": 142,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 2.83
+        },
+        {
+          "player": "RJ McCone",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 1.96
+        },
+        {
+          "player": "AM Ellis",
+          "overs": "23.0",
+          "balls": 138,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 2.57
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 2.53
+        },
+        {
+          "player": "TD Astle",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 46,
+          "wickets": 5,
+          "economy": 2.56
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Canterbury",
+      "runs": 356,
+      "extras": 13,
+      "balls": 643,
+      "batting": [
+        {
+          "player": "RM Hira",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "PG Fulton",
+          "runs": 8,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "GJ Dawson",
+          "runs": 39,
+          "balls": 121,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 32.23,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 15,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.54,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AM Ellis",
+          "runs": 171,
+          "balls": 227,
+          "fours": 30,
+          "sixes": 1,
+          "strike_rate": 75.33,
+          "out": true
+        },
+        {
+          "player": "TD Astle",
+          "runs": 43,
+          "balls": 53,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 81.13,
+          "out": true
+        },
+        {
+          "player": "FG Anderson",
+          "runs": 54,
+          "balls": 145,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 37.24,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RJ McCone",
+          "runs": 9,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Tugaga",
+          "overs": "25.1",
+          "balls": 151,
+          "runs": 92,
+          "wickets": 1,
+          "economy": 3.66
+        },
+        {
+          "player": "MB McEwan",
+          "overs": "27.2",
+          "balls": 164,
+          "runs": 82,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "player": "BJ Arnel",
+          "overs": "34.4",
+          "balls": 208,
+          "runs": 96,
+          "wickets": 5,
+          "economy": 2.77
+        },
+        {
+          "player": "JEC Franklin",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 3.57
+        },
+        {
+          "player": "AD Day",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 61,
+          "wickets": 1,
+          "economy": 4.69
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Wellington Firebirds",
+      "runs": 264,
+      "extras": 10,
+      "balls": 605,
+      "batting": [
+        {
+          "player": "MHW Papps",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SJ Murdoch",
+          "runs": 71,
+          "balls": 163,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 43.56,
+          "out": true
+        },
+        {
+          "player": "D Joon",
+          "runs": 9,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.62,
+          "out": true
+        },
+        {
+          "player": "MA Pollard",
+          "runs": 26,
+          "balls": 59,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 44.07,
+          "out": true
+        },
+        {
+          "player": "JEC Franklin",
+          "runs": 52,
+          "balls": 113,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 46.02,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "AD Day",
+          "runs": 6,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "LJ Woodcock",
+          "runs": 27,
+          "balls": 90,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 30.0,
+          "out": true
+        },
+        {
+          "player": "MB McEwan",
+          "runs": 47,
+          "balls": 103,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 45.63,
+          "out": false
+        },
+        {
+          "player": "MJ Tugaga",
+          "runs": 11,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "BJ Arnel",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 2.29
+        },
+        {
+          "player": "RJ McCone",
+          "overs": "24.5",
+          "balls": 149,
+          "runs": 67,
+          "wickets": 3,
+          "economy": 2.7
+        },
+        {
+          "player": "AM Ellis",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 2.23
+        },
+        {
+          "player": "TD Astle",
+          "overs": "29.0",
+          "balls": 174,
+          "runs": 73,
+          "wickets": 2,
+          "economy": 2.52
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Canterbury",
+      "runs": 172,
+      "extras": 8,
+      "balls": 252,
+      "batting": [
+        {
+          "player": "RM Hira",
+          "runs": 71,
+          "balls": 98,
+          "fours": 9,
+          "sixes": 3,
+          "strike_rate": 72.45,
+          "out": true
+        },
+        {
+          "player": "GJ Dawson",
+          "runs": 50,
+          "balls": 110,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": false
+        },
+        {
+          "player": "NT Broom",
+          "runs": 43,
+          "balls": 44,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 97.73,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BJ Arnel",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 2.96
+        },
+        {
+          "player": "MJ Tugaga",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "AD Day",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 4.4
+        },
+        {
+          "player": "LJ Woodcock",
+          "overs": "10.5",
+          "balls": 65,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 5.35
+        }
+      ]
+    }
+  ]
+}

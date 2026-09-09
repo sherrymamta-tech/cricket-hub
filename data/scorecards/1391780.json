@@ -1,0 +1,485 @@
+{
+  "id": "1391780",
+  "teams": [
+    "Western Australia",
+    "New South Wales"
+  ],
+  "date": "2023-11-06",
+  "format": "MDM",
+  "competition": "Sheffield Shield",
+  "venue": "Sydney Cricket Ground",
+  "result": "New South Wales won by 10 wickets",
+  "winner": "New South Wales",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Western Australia",
+      "runs": 141,
+      "extras": 7,
+      "balls": 382,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 34,
+          "balls": 88,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.64,
+          "out": true
+        },
+        {
+          "player": "SM Whiteman",
+          "runs": 22,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.0,
+          "out": true
+        },
+        {
+          "player": "T Wyllie",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 22,
+          "balls": 50,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 44.0,
+          "out": true
+        },
+        {
+          "player": "JR Philippe",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 0,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "H McKenzie",
+          "runs": 3,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "JS Paris",
+          "runs": 24,
+          "balls": 78,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": false
+        },
+        {
+          "player": "CH Stobo",
+          "runs": 15,
+          "balls": 65,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "LR Morris",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Bird",
+          "overs": "14.2",
+          "balls": 86,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 2.72
+        },
+        {
+          "player": "CP Tremain",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 1.77
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 1.0
+        },
+        {
+          "player": "LC Hatcher",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 56,
+          "wickets": 4,
+          "economy": 3.43
+        },
+        {
+          "player": "MC Henriques",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 2.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New South Wales",
+      "runs": 276,
+      "extras": 13,
+      "balls": 450,
+      "batting": [
+        {
+          "player": "R Hackney",
+          "runs": 17,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 77.27,
+          "out": true
+        },
+        {
+          "player": "DP Hughes",
+          "runs": 20,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.04,
+          "out": true
+        },
+        {
+          "player": "BD Macdonald",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "JJS Sangha",
+          "runs": 16,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 51,
+          "balls": 113,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 45.13,
+          "out": true
+        },
+        {
+          "player": "O Davies",
+          "runs": 129,
+          "balls": 143,
+          "fours": 13,
+          "sixes": 2,
+          "strike_rate": 90.21,
+          "out": true
+        },
+        {
+          "player": "M Gilkes",
+          "runs": 17,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.42,
+          "out": true
+        },
+        {
+          "player": "JM Bird",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CP Tremain",
+          "runs": 7,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.0,
+          "out": true
+        },
+        {
+          "player": "LC Hatcher",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JS Paris",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 53,
+          "wickets": 2,
+          "economy": 3.28
+        },
+        {
+          "player": "LR Morris",
+          "overs": "18.2",
+          "balls": 110,
+          "runs": 90,
+          "wickets": 3,
+          "economy": 4.91
+        },
+        {
+          "player": "CH Stobo",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 2.53
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 58,
+          "wickets": 2,
+          "economy": 4.14
+        },
+        {
+          "player": "H McKenzie",
+          "overs": "11.3",
+          "balls": 69,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 3.22
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Western Australia",
+      "runs": 136,
+      "extras": 20,
+      "balls": 383,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 54,
+          "balls": 161,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.54,
+          "out": true
+        },
+        {
+          "player": "SM Whiteman",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "T Wyllie",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JR Philippe",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 2,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "H McKenzie",
+          "runs": 1,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.14,
+          "out": true
+        },
+        {
+          "player": "JS Paris",
+          "runs": 26,
+          "balls": 49,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 53.06,
+          "out": true
+        },
+        {
+          "player": "CH Stobo",
+          "runs": 32,
+          "balls": 108,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 29.63,
+          "out": true
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LR Morris",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Bird",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 1.98
+        },
+        {
+          "player": "CP Tremain",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 41,
+          "wickets": 5,
+          "economy": 2.05
+        },
+        {
+          "player": "LC Hatcher",
+          "overs": "14.3",
+          "balls": 87,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 3.03
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 1.48
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "New South Wales",
+      "runs": 4,
+      "extras": 4,
+      "balls": 4,
+      "batting": [
+        {
+          "player": "R Hackney",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "LR Morris",
+          "overs": "0.4",
+          "balls": 4,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

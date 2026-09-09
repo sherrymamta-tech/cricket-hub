@@ -1,0 +1,481 @@
+{
+  "id": "1187671",
+  "teams": [
+    "New Zealand",
+    "England"
+  ],
+  "date": "2019-11-21",
+  "format": "Test",
+  "competition": "England in New Zealand Test Series",
+  "venue": "Bay Oval",
+  "result": "New Zealand won by 65 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 353,
+      "extras": 17,
+      "balls": 748,
+      "batting": [
+        {
+          "player": "RJ Burns",
+          "runs": 52,
+          "balls": 138,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 37.68,
+          "out": true
+        },
+        {
+          "player": "DP Sibley",
+          "runs": 22,
+          "balls": 63,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 34.92,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 74,
+          "balls": 181,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 40.88,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 2,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 91,
+          "balls": 146,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 62.33,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 29,
+          "balls": 56,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 51.79,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 43,
+          "balls": 73,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 58.9,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JC Archer",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "MJ Leach",
+          "runs": 18,
+          "balls": 55,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.73,
+          "out": false
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "31.1",
+          "balls": 187,
+          "runs": 99,
+          "wickets": 1,
+          "economy": 3.18
+        },
+        {
+          "player": "TG Southee",
+          "overs": "32.0",
+          "balls": 192,
+          "runs": 93,
+          "wickets": 4,
+          "economy": 2.91
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 1.76
+        },
+        {
+          "player": "N Wagner",
+          "overs": "32.1",
+          "balls": 193,
+          "runs": 96,
+          "wickets": 3,
+          "economy": 2.98
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 615,
+      "extras": 54,
+      "balls": 1219,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 19,
+          "balls": 68,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 27.94,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 8,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.1,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 51,
+          "balls": 85,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 25,
+          "balls": 40,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 41,
+          "balls": 125,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 32.8,
+          "out": true
+        },
+        {
+          "player": "BJ Watling",
+          "runs": 205,
+          "balls": 480,
+          "fours": 24,
+          "sixes": 1,
+          "strike_rate": 42.71,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 65,
+          "balls": 109,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 59.63,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 126,
+          "balls": 272,
+          "fours": 11,
+          "sixes": 5,
+          "strike_rate": 46.32,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 9,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 11,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 220.0,
+          "out": false
+        },
+        {
+          "player": "TA Boult",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SCJ Broad",
+          "overs": "33.0",
+          "balls": 198,
+          "runs": 66,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "JC Archer",
+          "overs": "42.3",
+          "balls": 255,
+          "runs": 125,
+          "wickets": 1,
+          "economy": 2.94
+        },
+        {
+          "player": "SM Curran",
+          "overs": "35.1",
+          "balls": 211,
+          "runs": 124,
+          "wickets": 3,
+          "economy": 3.53
+        },
+        {
+          "player": "MJ Leach",
+          "overs": "47.0",
+          "balls": 282,
+          "runs": 158,
+          "wickets": 2,
+          "economy": 3.36
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "26.5",
+          "balls": 161,
+          "runs": 75,
+          "wickets": 2,
+          "economy": 2.8
+        },
+        {
+          "player": "JE Root",
+          "overs": "18.4",
+          "balls": 112,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 3.59
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "England",
+      "runs": 197,
+      "extras": 15,
+      "balls": 580,
+      "batting": [
+        {
+          "player": "RJ Burns",
+          "runs": 31,
+          "balls": 76,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.79,
+          "out": true
+        },
+        {
+          "player": "DP Sibley",
+          "runs": 12,
+          "balls": 62,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.35,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 35,
+          "balls": 142,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 24.65,
+          "out": true
+        },
+        {
+          "player": "MJ Leach",
+          "runs": 0,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 11,
+          "balls": 52,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 21.15,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 28,
+          "balls": 84,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 6,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 0,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 29,
+          "balls": 59,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 49.15,
+          "out": false
+        },
+        {
+          "player": "JC Archer",
+          "runs": 30,
+          "balls": 50,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 3.2
+        },
+        {
+          "player": "TA Boult",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 1.17
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 1.87
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "40.1",
+          "balls": 241,
+          "runs": 57,
+          "wickets": 3,
+          "economy": 1.42
+        },
+        {
+          "player": "N Wagner",
+          "overs": "19.2",
+          "balls": 116,
+          "runs": 44,
+          "wickets": 5,
+          "economy": 2.28
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

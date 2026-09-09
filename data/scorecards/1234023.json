@@ -1,0 +1,296 @@
+{
+  "id": "1234023",
+  "teams": [
+    "Auckland",
+    "Otago"
+  ],
+  "date": "2021-02-01",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "Eden Park Outer Oval",
+  "result": "Auckland won by 103 runs",
+  "winner": "Auckland",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland",
+      "runs": 183,
+      "extras": 6,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "SM Solia",
+          "runs": 27,
+          "balls": 16,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 168.75,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 20,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "WT O'Donnell",
+          "runs": 40,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "MS Chapman",
+          "runs": 36,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 138.46,
+          "out": true
+        },
+        {
+          "player": "RR O'Donnell",
+          "runs": 21,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 12,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 21,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 175.0,
+          "out": false
+        },
+        {
+          "player": "WER Somerville",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Duffy",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "MJ McClenaghan",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 8.64
+        },
+        {
+          "player": "NG Smith",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 9.16
+        },
+        {
+          "player": "MJG Rippon",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 12.32
+        },
+        {
+          "player": "AK Kitchen",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "MD Rae",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Otago",
+      "runs": 80,
+      "extras": 2,
+      "balls": 75,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "NT Broom",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JL Finnie",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "NF Kelly",
+          "runs": 38,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 131.03,
+          "out": true
+        },
+        {
+          "player": "AK Kitchen",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MJG Rippon",
+          "runs": 8,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "NG Smith",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "MW Chu",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "MJ McClenaghan",
+          "runs": 8,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "JA Duffy",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "MD Rae",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KA Jamieson",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 18,
+          "wickets": 3,
+          "economy": 5.14
+        },
+        {
+          "player": "RM ter Braak",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 9,
+          "wickets": 2,
+          "economy": 4.5
+        },
+        {
+          "player": "L Delport",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "DK Ferns",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "WER Somerville",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 8.33
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "1263572",
+  "teams": [
+    "England",
+    "Australia"
+  ],
+  "date": "2022-01-20",
+  "format": "T20",
+  "competition": "Women's Ashes",
+  "venue": "Adelaide Oval",
+  "result": "Australia won by 9 wickets",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 169,
+      "extras": 13,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "TT Beaumont",
+          "runs": 30,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "DN Wyatt",
+          "runs": 70,
+          "balls": 55,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 127.27,
+          "out": true
+        },
+        {
+          "player": "NR Sciver",
+          "runs": 32,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "HC Knight",
+          "runs": 10,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 111.11,
+          "out": false
+        },
+        {
+          "player": "AE Jones",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "SIR Dunkley",
+          "runs": 10,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ML Schutt",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 7.25
+        },
+        {
+          "player": "TJ Vlaeminck",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 6.67
+        },
+        {
+          "player": "TM McGrath",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 7.2
+        },
+        {
+          "player": "JL Jonassen",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "NJ Carey",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 13.5
+        },
+        {
+          "player": "A King",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 7.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 170,
+      "extras": 8,
+      "balls": 108,
+      "batting": [
+        {
+          "player": "MM Lanning",
+          "runs": 64,
+          "balls": 48,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        },
+        {
+          "player": "AJ Healy",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "TM McGrath",
+          "runs": 91,
+          "balls": 51,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 178.43,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KH Brunt",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 7.58
+        },
+        {
+          "player": "S Ecclestone",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 6.96
+        },
+        {
+          "player": "NR Sciver",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 9.6
+        },
+        {
+          "player": "FR Davies",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 8.7
+        },
+        {
+          "player": "S Glenn",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 13.0
+        },
+        {
+          "player": "HC Knight",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 17.0
+        }
+      ]
+    }
+  ]
+}

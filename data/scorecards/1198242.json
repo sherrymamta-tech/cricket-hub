@@ -1,0 +1,270 @@
+{
+  "id": "1198242",
+  "teams": [
+    "Pakistan",
+    "England"
+  ],
+  "date": "2020-08-13",
+  "format": "Test",
+  "competition": "Pakistan tour of England",
+  "venue": "The Rose Bowl",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 236,
+      "extras": 23,
+      "balls": 550,
+      "batting": [
+        {
+          "player": "Shan Masood",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "Abid Ali",
+          "runs": 60,
+          "balls": 111,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 54.05,
+          "out": true
+        },
+        {
+          "player": "Azhar Ali",
+          "runs": 20,
+          "balls": 85,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": true
+        },
+        {
+          "player": "Babar Azam",
+          "runs": 47,
+          "balls": 127,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 37.01,
+          "out": true
+        },
+        {
+          "player": "Asad Shafiq",
+          "runs": 5,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "Fawad Alam",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Rizwan",
+          "runs": 72,
+          "balls": 140,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 51.43,
+          "out": true
+        },
+        {
+          "player": "Yasir Shah",
+          "runs": 5,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.25,
+          "out": true
+        },
+        {
+          "player": "Shaheen Shah Afridi",
+          "runs": 0,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammad Abbas",
+          "runs": 2,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "Naseem Shah",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "27.1",
+          "balls": 163,
+          "runs": 64,
+          "wickets": 3,
+          "economy": 2.36
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "27.2",
+          "balls": 164,
+          "runs": 63,
+          "wickets": 4,
+          "economy": 2.3
+        },
+        {
+          "player": "SM Curran",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 2.61
+        },
+        {
+          "player": "CR Woakes",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 62,
+          "wickets": 1,
+          "economy": 3.23
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 110,
+      "extras": 7,
+      "balls": 263,
+      "batting": [
+        {
+          "player": "RJ Burns",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 53,
+          "balls": 100,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 53.0,
+          "out": true
+        },
+        {
+          "player": "DP Sibley",
+          "runs": 32,
+          "balls": 95,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.68,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 9,
+          "balls": 35,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.71,
+          "out": false
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 9,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.25,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Shaheen Shah Afridi",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 2.71
+        },
+        {
+          "player": "Mohammad Abbas",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 1.98
+        },
+        {
+          "player": "Naseem Shah",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 1.94
+        },
+        {
+          "player": "Yasir Shah",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 2.73
+        },
+        {
+          "player": "Shan Masood",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 4.67
+        },
+        {
+          "player": "Azhar Ali",
+          "overs": "0.1",
+          "balls": 1,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "1491726",
+  "teams": [
+    "West Indies",
+    "New Zealand"
+  ],
+  "date": "2025-11-10",
+  "format": "T20",
+  "competition": "West Indies tour of New Zealand",
+  "venue": "Saxton Oval, Nelson",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "runs": 38,
+      "extras": 2,
+      "balls": 41,
+      "batting": [
+        {
+          "player": "AA Jangoo",
+          "runs": 12,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "A Athanaze",
+          "runs": 21,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 105.0,
+          "out": true
+        },
+        {
+          "player": "SD Hope",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KA Jamieson",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 6.92
+        },
+        {
+          "player": "JA Duffy",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 4.62
+        },
+        {
+          "player": "MG Bracewell",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

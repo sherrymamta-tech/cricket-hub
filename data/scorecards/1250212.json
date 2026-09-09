@@ -1,0 +1,294 @@
+{
+  "id": "1250212",
+  "teams": [
+    "Essex",
+    "Durham"
+  ],
+  "date": "2021-08-08",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Durham won by 2 wickets",
+  "winner": "Durham",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Essex",
+      "runs": 227,
+      "extras": 12,
+      "balls": 277,
+      "batting": [
+        {
+          "player": "NLJ Browne",
+          "runs": 3,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.0,
+          "out": true
+        },
+        {
+          "player": "AN Cook",
+          "runs": 12,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "T Westley",
+          "runs": 18,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "FIN Khushi",
+          "runs": 109,
+          "balls": 113,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 96.46,
+          "out": true
+        },
+        {
+          "player": "JS Rymell",
+          "runs": 40,
+          "balls": 73,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.79,
+          "out": true
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 21,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 84.0,
+          "out": true
+        },
+        {
+          "player": "SR Harmer",
+          "runs": 12,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 109.09,
+          "out": false
+        },
+        {
+          "player": "ASS Nijjar",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "C Rushworth",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 2.45
+        },
+        {
+          "player": "JOI Campbell",
+          "overs": "9.4",
+          "balls": 58,
+          "runs": 60,
+          "wickets": 3,
+          "economy": 6.21
+        },
+        {
+          "player": "PA van Meekeren",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 4.89
+        },
+        {
+          "player": "L Doneathy",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.08
+        },
+        {
+          "player": "SG Borthwick",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 4.15
+        },
+        {
+          "player": "L Trevaskis",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 48,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Durham",
+      "runs": 233,
+      "extras": 6,
+      "balls": 269,
+      "batting": [
+        {
+          "player": "G Clark",
+          "runs": 24,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "AZ Lees",
+          "runs": 126,
+          "balls": 135,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 93.33,
+          "out": false
+        },
+        {
+          "player": "SG Borthwick",
+          "runs": 21,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "CT Bancroft",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 23,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 79.31,
+          "out": true
+        },
+        {
+          "player": "L Trevaskis",
+          "runs": 12,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.15,
+          "out": true
+        },
+        {
+          "player": "L Doneathy",
+          "runs": 13,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 86.67,
+          "out": true
+        },
+        {
+          "player": "PA van Meekeren",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "S Snater",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 2.8
+        },
+        {
+          "player": "BMJ Allison",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 7.2
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 3.78
+        },
+        {
+          "player": "ASS Nijjar",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 5.78
+        },
+        {
+          "player": "LM Benkenstein",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 7.2
+        },
+        {
+          "player": "RN ten Doeschate",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "player": "T Westley",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 3.75
+        }
+      ]
+    }
+  ]
+}

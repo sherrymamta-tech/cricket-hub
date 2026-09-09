@@ -1,0 +1,614 @@
+{
+  "id": "1495283",
+  "teams": [
+    "Tasmania",
+    "Western Australia"
+  ],
+  "date": "2025-10-15",
+  "format": "MDM",
+  "competition": "Sheffield Shield",
+  "venue": "Bellerive Oval, Hobart",
+  "result": "Tasmania won by 3 runs",
+  "winner": "Tasmania",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Tasmania",
+      "runs": 171,
+      "extras": 8,
+      "balls": 323,
+      "batting": [
+        {
+          "player": "N Radhakrishnan",
+          "runs": 36,
+          "balls": 109,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 33.03,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 18,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "TP Ward",
+          "runs": 9,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 31.03,
+          "out": true
+        },
+        {
+          "player": "CP Jewell",
+          "runs": 6,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 35.29,
+          "out": true
+        },
+        {
+          "player": "JC Silk",
+          "runs": 32,
+          "balls": 40,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "BM Hope",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JR Doran",
+          "runs": 41,
+          "balls": 53,
+          "fours": 4,
+          "sixes": 3,
+          "strike_rate": 77.36,
+          "out": false
+        },
+        {
+          "player": "Nikhil Chaudhary",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JM Bird",
+          "runs": 9,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "GT Bell",
+          "runs": 1,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.14,
+          "out": true
+        },
+        {
+          "player": "RP Meredith",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Kelly",
+          "overs": "16.5",
+          "balls": 101,
+          "runs": 52,
+          "wickets": 3,
+          "economy": 3.09
+        },
+        {
+          "player": "CJ Gannon",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 2.57
+        },
+        {
+          "player": "AM Hardie",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 45,
+          "wickets": 3,
+          "economy": 5.0
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "L Haskett",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Western Australia",
+      "runs": 172,
+      "extras": 6,
+      "balls": 362,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "SM Whiteman",
+          "runs": 17,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.27,
+          "out": true
+        },
+        {
+          "player": "J Goodwin",
+          "runs": 30,
+          "balls": 72,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 36,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 87.8,
+          "out": true
+        },
+        {
+          "player": "S Fanning",
+          "runs": 20,
+          "balls": 61,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 32.79,
+          "out": true
+        },
+        {
+          "player": "AM Hardie",
+          "runs": 18,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 39.13,
+          "out": true
+        },
+        {
+          "player": "JL Curtis",
+          "runs": 26,
+          "balls": 42,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 61.9,
+          "out": true
+        },
+        {
+          "player": "M Kelly",
+          "runs": 8,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 24.24,
+          "out": true
+        },
+        {
+          "player": "CJ Gannon",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "L Haskett",
+          "runs": 6,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Bird",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 39,
+          "wickets": 3,
+          "economy": 2.17
+        },
+        {
+          "player": "GT Bell",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 2.96
+        },
+        {
+          "player": "RP Meredith",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 2.57
+        },
+        {
+          "player": "BM Hope",
+          "overs": "13.1",
+          "balls": 79,
+          "runs": 52,
+          "wickets": 4,
+          "economy": 3.95
+        },
+        {
+          "player": "Nikhil Chaudhary",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Tasmania",
+      "runs": 259,
+      "extras": 8,
+      "balls": 444,
+      "batting": [
+        {
+          "player": "N Radhakrishnan",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "J Weatherald",
+          "runs": 94,
+          "balls": 99,
+          "fours": 13,
+          "sixes": 1,
+          "strike_rate": 94.95,
+          "out": true
+        },
+        {
+          "player": "TP Ward",
+          "runs": 24,
+          "balls": 67,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.82,
+          "out": true
+        },
+        {
+          "player": "CP Jewell",
+          "runs": 36,
+          "balls": 49,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 73.47,
+          "out": true
+        },
+        {
+          "player": "JC Silk",
+          "runs": 57,
+          "balls": 118,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 48.31,
+          "out": true
+        },
+        {
+          "player": "BM Hope",
+          "runs": 2,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "JR Doran",
+          "runs": 29,
+          "balls": 53,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 54.72,
+          "out": true
+        },
+        {
+          "player": "Nikhil Chaudhary",
+          "runs": 5,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "JM Bird",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "GT Bell",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Kelly",
+          "overs": "18.5",
+          "balls": 113,
+          "runs": 49,
+          "wickets": 6,
+          "economy": 2.6
+        },
+        {
+          "player": "CJ Gannon",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 68,
+          "wickets": 3,
+          "economy": 3.24
+        },
+        {
+          "player": "L Haskett",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 57,
+          "wickets": 0,
+          "economy": 4.38
+        },
+        {
+          "player": "AM Hardie",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 4.04
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Western Australia",
+      "runs": 255,
+      "extras": 16,
+      "balls": 555,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 5,
+          "balls": 37,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.51,
+          "out": true
+        },
+        {
+          "player": "SM Whiteman",
+          "runs": 6,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "J Goodwin",
+          "runs": 48,
+          "balls": 68,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 70.59,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 14,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "S Fanning",
+          "runs": 31,
+          "balls": 84,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 36.9,
+          "out": true
+        },
+        {
+          "player": "AM Hardie",
+          "runs": 61,
+          "balls": 126,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 48.41,
+          "out": true
+        },
+        {
+          "player": "JL Curtis",
+          "runs": 50,
+          "balls": 136,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 36.76,
+          "out": true
+        },
+        {
+          "player": "M Kelly",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CJ Gannon",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "runs": 23,
+          "balls": 55,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.82,
+          "out": false
+        },
+        {
+          "player": "L Haskett",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Bird",
+          "overs": "20.5",
+          "balls": 125,
+          "runs": 56,
+          "wickets": 2,
+          "economy": 2.69
+        },
+        {
+          "player": "GT Bell",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 81,
+          "wickets": 3,
+          "economy": 2.89
+        },
+        {
+          "player": "BM Hope",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 43,
+          "wickets": 2,
+          "economy": 2.84
+        },
+        {
+          "player": "RP Meredith",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 43,
+          "wickets": 3,
+          "economy": 2.02
+        },
+        {
+          "player": "Nikhil Chaudhary",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 4.32
+        },
+        {
+          "player": "N Radhakrishnan",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 4.67
+        }
+      ]
+    }
+  ]
+}

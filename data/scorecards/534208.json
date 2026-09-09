@@ -1,0 +1,223 @@
+{
+  "id": "534208",
+  "teams": [
+    "England",
+    "West Indies"
+  ],
+  "date": "2012-06-24",
+  "format": "T20",
+  "competition": "Cricket",
+  "venue": "Trent Bridge",
+  "result": "England won by 7 wickets",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "West Indies",
+      "runs": 172,
+      "extras": 13,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "DR Smith",
+          "runs": 70,
+          "balls": 55,
+          "fours": 5,
+          "sixes": 5,
+          "strike_rate": 127.27,
+          "out": true
+        },
+        {
+          "player": "CH Gayle",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "LMP Simmons",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "MN Samuels",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DJ Bravo",
+          "runs": 54,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 142.11,
+          "out": false
+        },
+        {
+          "player": "KA Pollard",
+          "runs": 23,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 164.29,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ST Finn",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.28
+        },
+        {
+          "player": "JW Dernbach",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 47,
+          "wickets": 0,
+          "economy": 10.44
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 8.4
+        },
+        {
+          "player": "GP Swann",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 8.25
+        },
+        {
+          "player": "SR Patel",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 8.75
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 173,
+      "extras": 10,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "C Kieswetter",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "AD Hales",
+          "runs": 99,
+          "balls": 68,
+          "fours": 6,
+          "sixes": 4,
+          "strike_rate": 145.59,
+          "out": true
+        },
+        {
+          "player": "RS Bopara",
+          "runs": 59,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 131.11,
+          "out": true
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 2,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "R Rampaul",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 8.54
+        },
+        {
+          "player": "FH Edwards",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 7.85
+        },
+        {
+          "player": "SP Narine",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "DJ Bravo",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 10.5
+        },
+        {
+          "player": "DJG Sammy",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.67
+        },
+        {
+          "player": "KA Pollard",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 15.0
+        },
+        {
+          "player": "MN Samuels",
+          "overs": "1.4",
+          "balls": 10,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 9.0
+        }
+      ]
+    }
+  ]
+}

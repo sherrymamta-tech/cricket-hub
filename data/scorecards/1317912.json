@@ -1,0 +1,331 @@
+{
+  "id": "1317912",
+  "teams": [
+    "New Zealand",
+    "West Indies"
+  ],
+  "date": "2022-08-19",
+  "format": "ODI",
+  "competition": "New Zealand tour of West Indies",
+  "venue": "Kensington Oval, Bridgetown, Barbados",
+  "result": "New Zealand won by 50 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 212,
+      "extras": 4,
+      "balls": 292,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "FH Allen",
+          "runs": 96,
+          "balls": 118,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 81.36,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 6,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 41,
+          "balls": 63,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 65.08,
+          "out": true
+        },
+        {
+          "player": "MG Bracewell",
+          "runs": 6,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 9,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 26,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 96.3,
+          "out": false
+        },
+        {
+          "player": "TG Southee",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 16,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 123.08,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KR Mayers",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 5.04
+        },
+        {
+          "player": "JO Holder",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 25,
+          "wickets": 3,
+          "economy": 2.73
+        },
+        {
+          "player": "AS Joseph",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 48,
+          "wickets": 1,
+          "economy": 4.8
+        },
+        {
+          "player": "AJ Hosein",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 5.1
+        },
+        {
+          "player": "Y Cariah",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 3.71
+        },
+        {
+          "player": "K Sinclair",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 41,
+          "wickets": 4,
+          "economy": 4.92
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "runs": 161,
+      "extras": 10,
+      "balls": 221,
+      "batting": [
+        {
+          "player": "SD Hope",
+          "runs": 16,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "KR Mayers",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SSJ Brooks",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BA King",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "KU Carty",
+          "runs": 16,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "N Pooran",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JO Holder",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Y Cariah",
+          "runs": 52,
+          "balls": 84,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 61.9,
+          "out": true
+        },
+        {
+          "player": "AJ Hosein",
+          "runs": 11,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "AS Joseph",
+          "runs": 49,
+          "balls": 35,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "K Sinclair",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "6.3",
+          "balls": 39,
+          "runs": 18,
+          "wickets": 3,
+          "economy": 2.77
+        },
+        {
+          "player": "TG Southee",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 22,
+          "wickets": 4,
+          "economy": 2.93
+        },
+        {
+          "player": "JDS Neesham",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 6.19
+        },
+        {
+          "player": "MG Bracewell",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 4.71
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 2.93
+        },
+        {
+          "player": "GD Phillips",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 10.74
+        }
+      ]
+    }
+  ]
+}

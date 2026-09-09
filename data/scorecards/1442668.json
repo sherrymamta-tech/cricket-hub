@@ -1,0 +1,266 @@
+{
+  "id": "1442668",
+  "teams": [
+    "Adelaide Strikers",
+    "Melbourne Renegades"
+  ],
+  "date": "2024-11-11",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Karen Rolton Oval, Adelaide",
+  "result": "Melbourne Renegades won by 9 wickets",
+  "winner": "Melbourne Renegades",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Adelaide Strikers",
+      "runs": 185,
+      "extras": 8,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "KM Mack",
+          "runs": 19,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 105.56,
+          "out": true
+        },
+        {
+          "player": "S Mandhana",
+          "runs": 40,
+          "balls": 26,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 153.85,
+          "out": true
+        },
+        {
+          "player": "L Wolvaardt",
+          "runs": 27,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 93.1,
+          "out": true
+        },
+        {
+          "player": "TM McGrath",
+          "runs": 49,
+          "balls": 26,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 188.46,
+          "out": true
+        },
+        {
+          "player": "BE Patterson",
+          "runs": 6,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "M Penna",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "O Prendergast",
+          "runs": 24,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 171.43,
+          "out": true
+        },
+        {
+          "player": "A Wellington",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "JL Barsby",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MH Illingworth",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 9.6
+        },
+        {
+          "player": "HK Matthews",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 6.72
+        },
+        {
+          "player": "C Bekker",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 13.38
+        },
+        {
+          "player": "G Wareham",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 10.67
+        },
+        {
+          "player": "A Capsey",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 7.85
+        },
+        {
+          "player": "DJS Dottin",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 8.84
+        },
+        {
+          "player": "SJ Coyte",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 6.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Renegades",
+      "runs": 186,
+      "extras": 14,
+      "balls": 110,
+      "batting": [
+        {
+          "player": "HK Matthews",
+          "runs": 85,
+          "balls": 58,
+          "fours": 12,
+          "sixes": 2,
+          "strike_rate": 146.55,
+          "out": false
+        },
+        {
+          "player": "C Webb",
+          "runs": 37,
+          "balls": 31,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 119.35,
+          "out": true
+        },
+        {
+          "player": "A Capsey",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "DJS Dottin",
+          "runs": 46,
+          "balls": 18,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 255.56,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "D Brown",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 9.92
+        },
+        {
+          "player": "ML Schutt",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 6.63
+        },
+        {
+          "player": "O Prendergast",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 9.9
+        },
+        {
+          "player": "A Wellington",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 10.67
+        },
+        {
+          "player": "JL Barsby",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 10.5
+        },
+        {
+          "player": "TM McGrath",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 13.38
+        },
+        {
+          "player": "M Penna",
+          "overs": "0.2",
+          "balls": 2,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 21.0
+        }
+      ]
+    }
+  ]
+}

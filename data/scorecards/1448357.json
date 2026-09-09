@@ -1,0 +1,227 @@
+{
+  "id": "1448357",
+  "teams": [
+    "South Africa",
+    "England"
+  ],
+  "date": "2025-09-10",
+  "format": "T20",
+  "competition": "South Africa tour of England",
+  "venue": "Sophia Gardens, Cardiff",
+  "result": "South Africa won by 14 runs",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 97,
+      "extras": 5,
+      "balls": 49,
+      "batting": [
+        {
+          "player": "AK Markram",
+          "runs": 28,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "RD Rickelton",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LG Pretorius",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "D Brevis",
+          "runs": 23,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 230.0,
+          "out": true
+        },
+        {
+          "player": "D Ferreira",
+          "runs": 25,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 227.27,
+          "out": false
+        },
+        {
+          "player": "T Stubbs",
+          "runs": 13,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 216.67,
+          "out": true
+        },
+        {
+          "player": "M Jansen",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "L Wood",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 10.15
+        },
+        {
+          "player": "J Overton",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 12.5
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 12.0
+        },
+        {
+          "player": "LA Dawson",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 15.0
+        },
+        {
+          "player": "SM Curran",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 11.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 54,
+      "extras": 6,
+      "balls": 31,
+      "batting": [
+        {
+          "player": "PD Salt",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JG Bethell",
+          "runs": 7,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 25,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 208.33,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T Banton",
+          "runs": 5,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SM Curran",
+          "runs": 10,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 333.33,
+          "out": false
+        },
+        {
+          "player": "WG Jacks",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 11.0
+        },
+        {
+          "player": "M Jansen",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 10.15
+        },
+        {
+          "player": "C Bosch",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 10.5
+        }
+      ]
+    }
+  ]
+}

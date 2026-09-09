@@ -1,0 +1,579 @@
+{
+  "id": "1276901",
+  "teams": [
+    "New Zealand",
+    "England"
+  ],
+  "date": "2022-06-02",
+  "format": "Test",
+  "competition": "New Zealand tour of England",
+  "venue": "Lord's, London",
+  "result": "England won by 5 wickets",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 132,
+      "extras": 3,
+      "balls": 240,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 1,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.88,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 2,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 13,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 37.14,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 14,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.9,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 42,
+          "balls": 50,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 84.0,
+          "out": false
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 26,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 113.04,
+          "out": true
+        },
+        {
+          "player": "AY Patel",
+          "runs": 7,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.89,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 14,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 66,
+          "wickets": 4,
+          "economy": 4.12
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 3.62
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 14,
+          "wickets": 4,
+          "economy": 1.5
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "1.4",
+          "balls": 10,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 141,
+      "extras": 22,
+      "balls": 258,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 25,
+          "balls": 77,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 32.47,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 43,
+          "balls": 56,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 76.79,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 7,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.93,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 11,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 73.33,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "BT Foakes",
+          "runs": 7,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 31.82,
+          "out": true
+        },
+        {
+          "player": "MJ Potts",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SCJ Broad",
+          "runs": 9,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": true
+        },
+        {
+          "player": "JM Anderson",
+          "runs": 7,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": false
+        },
+        {
+          "player": "MW Parkinson",
+          "runs": 8,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 55,
+          "wickets": 4,
+          "economy": 3.93
+        },
+        {
+          "player": "TA Boult",
+          "overs": "13.5",
+          "balls": 83,
+          "runs": 34,
+          "wickets": 3,
+          "economy": 2.46
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 3.43
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 3.43
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New Zealand",
+      "runs": 285,
+      "extras": 9,
+      "balls": 553,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 14,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.42,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 15,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 44.12,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 13,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.24,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 108,
+          "balls": 203,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 53.2,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 96,
+          "balls": 199,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 48.24,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 21,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 80.77,
+          "out": true
+        },
+        {
+          "player": "AY Patel",
+          "runs": 4,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JM Anderson",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 60,
+          "wickets": 2,
+          "economy": 2.86
+        },
+        {
+          "player": "SCJ Broad",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 76,
+          "wickets": 3,
+          "economy": 2.9
+        },
+        {
+          "player": "MJ Potts",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 57,
+          "wickets": 3,
+          "economy": 2.85
+        },
+        {
+          "player": "BA Stokes",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 5.06
+        },
+        {
+          "player": "MW Parkinson",
+          "overs": "15.3",
+          "balls": 93,
+          "runs": 47,
+          "wickets": 1,
+          "economy": 3.03
+        },
+        {
+          "player": "JE Root",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "England",
+      "runs": 279,
+      "extras": 23,
+      "balls": 477,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 20,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "Z Crawley",
+          "runs": 9,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.03,
+          "out": true
+        },
+        {
+          "player": "OJ Pope",
+          "runs": 10,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.04,
+          "out": true
+        },
+        {
+          "player": "JE Root",
+          "runs": 115,
+          "balls": 170,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 67.65,
+          "out": false
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 16,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 54,
+          "balls": 111,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 48.65,
+          "out": true
+        },
+        {
+          "player": "BT Foakes",
+          "runs": 32,
+          "balls": 92,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 34.78,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "23.5",
+          "balls": 143,
+          "runs": 89,
+          "wickets": 0,
+          "economy": 3.73
+        },
+        {
+          "player": "TA Boult",
+          "overs": "24.1",
+          "balls": 145,
+          "runs": 75,
+          "wickets": 1,
+          "economy": 3.1
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "25.2",
+          "balls": 152,
+          "runs": 86,
+          "wickets": 4,
+          "economy": 3.39
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 0.75
+        },
+        {
+          "player": "DJ Mitchell",
+          "overs": "0.1",
+          "balls": 1,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        },
+        {
+          "player": "AY Patel",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 13.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "id": "64027",
+  "teams": [
+    "Australia",
+    "West Indies"
+  ],
+  "date": "2003-05-09",
+  "format": "Test",
+  "competition": "Australia tour of West Indies",
+  "venue": "Antigua Recreation Ground, St John's, Antigua",
+  "result": "West Indies won by 3 wickets",
+  "winner": "West Indies",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 240,
+      "extras": 11,
+      "balls": 439,
+      "batting": [
+        {
+          "player": "JL Langer",
+          "runs": 42,
+          "balls": 75,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 56.0,
+          "out": true
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 14,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "ML Love",
+          "runs": 36,
+          "balls": 93,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.71,
+          "out": true
+        },
+        {
+          "player": "DS Lehmann",
+          "runs": 7,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "SR Waugh",
+          "runs": 41,
+          "balls": 77,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 53.25,
+          "out": true
+        },
+        {
+          "player": "AC Gilchrist",
+          "runs": 33,
+          "balls": 65,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.77,
+          "out": true
+        },
+        {
+          "player": "AJ Bichel",
+          "runs": 34,
+          "balls": 39,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 87.18,
+          "out": true
+        },
+        {
+          "player": "B Lee",
+          "runs": 9,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.12,
+          "out": true
+        },
+        {
+          "player": "JN Gillespie",
+          "runs": 6,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "SCG MacGill",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "GD McGrath",
+          "runs": 5,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "M Dillon",
+          "overs": "18.3",
+          "balls": 111,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 2.97
+        },
+        {
+          "player": "JJC Lawson",
+          "overs": "19.3",
+          "balls": 117,
+          "runs": 79,
+          "wickets": 7,
+          "economy": 4.05
+        },
+        {
+          "player": "VC Drakes",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 2.77
+        },
+        {
+          "player": "OAC Banks",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 3.2
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "runs": 240,
+      "extras": 18,
+      "balls": 403,
+      "batting": [
+        {
+          "player": "CH Gayle",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "D Ganga",
+          "runs": 6,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "DS Smith",
+          "runs": 37,
+          "balls": 74,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "VC Drakes",
+          "runs": 21,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "BC Lara",
+          "runs": 68,
+          "balls": 96,
+          "fours": 12,
+          "sixes": 1,
+          "strike_rate": 70.83,
+          "out": true
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 24,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "RD Jacobs",
+          "runs": 26,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 54.17,
+          "out": true
+        },
+        {
+          "player": "OAC Banks",
+          "runs": 13,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.24,
+          "out": false
+        },
+        {
+          "player": "M Dillon",
+          "runs": 12,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JJC Lawson",
+          "runs": 14,
+          "balls": 8,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 175.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "GD McGrath",
+          "overs": "17.5",
+          "balls": 107,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 2.75
+        },
+        {
+          "player": "JN Gillespie",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 56,
+          "wickets": 0,
+          "economy": 3.26
+        },
+        {
+          "player": "AJ Bichel",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 56,
+          "wickets": 3,
+          "economy": 3.95
+        },
+        {
+          "player": "B Lee",
+          "overs": "15.3",
+          "balls": 93,
+          "runs": 72,
+          "wickets": 3,
+          "economy": 4.65
+        },
+        {
+          "player": "SCG MacGill",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 2.8
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Australia",
+      "runs": 417,
+      "extras": 25,
+      "balls": 636,
+      "batting": [
+        {
+          "player": "JL Langer",
+          "runs": 111,
+          "balls": 161,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 68.94,
+          "out": true
+        },
+        {
+          "player": "ML Hayden",
+          "runs": 177,
+          "balls": 260,
+          "fours": 22,
+          "sixes": 3,
+          "strike_rate": 68.08,
+          "out": true
+        },
+        {
+          "player": "AC Gilchrist",
+          "runs": 6,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "ML Love",
+          "runs": 2,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.76,
+          "out": true
+        },
+        {
+          "player": "DS Lehmann",
+          "runs": 14,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "SR Waugh",
+          "runs": 45,
+          "balls": 70,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": false
+        },
+        {
+          "player": "AJ Bichel",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "B Lee",
+          "runs": 18,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 94.74,
+          "out": true
+        },
+        {
+          "player": "JN Gillespie",
+          "runs": 5,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "SCG MacGill",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GD McGrath",
+          "runs": 14,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JJC Lawson",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "M Dillon",
+          "overs": "30.5",
+          "balls": 185,
+          "runs": 114,
+          "wickets": 4,
+          "economy": 3.7
+        },
+        {
+          "player": "OAC Banks",
+          "overs": "37.0",
+          "balls": 222,
+          "runs": 153,
+          "wickets": 2,
+          "economy": 4.14
+        },
+        {
+          "player": "VC Drakes",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 93,
+          "wickets": 2,
+          "economy": 4.85
+        },
+        {
+          "player": "CH Gayle",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "West Indies",
+      "runs": 418,
+      "extras": 25,
+      "balls": 780,
+      "batting": [
+        {
+          "player": "CH Gayle",
+          "runs": 19,
+          "balls": 71,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 26.76,
+          "out": true
+        },
+        {
+          "player": "DS Smith",
+          "runs": 23,
+          "balls": 94,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 24.47,
+          "out": true
+        },
+        {
+          "player": "D Ganga",
+          "runs": 8,
+          "balls": 40,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "BC Lara",
+          "runs": 60,
+          "balls": 120,
+          "fours": 5,
+          "sixes": 3,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RR Sarwan",
+          "runs": 105,
+          "balls": 139,
+          "fours": 17,
+          "sixes": 0,
+          "strike_rate": 75.54,
+          "out": true
+        },
+        {
+          "player": "S Chanderpaul",
+          "runs": 104,
+          "balls": 154,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 67.53,
+          "out": true
+        },
+        {
+          "player": "RD Jacobs",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "OAC Banks",
+          "runs": 47,
+          "balls": 114,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 41.23,
+          "out": false
+        },
+        {
+          "player": "VC Drakes",
+          "runs": 27,
+          "balls": 47,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 57.45,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "GD McGrath",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 2.16
+        },
+        {
+          "player": "JN Gillespie",
+          "overs": "25.0",
+          "balls": 150,
+          "runs": 65,
+          "wickets": 1,
+          "economy": 2.6
+        },
+        {
+          "player": "B Lee",
+          "overs": "23.3",
+          "balls": 141,
+          "runs": 65,
+          "wickets": 4,
+          "economy": 2.77
+        },
+        {
+          "player": "SCG MacGill",
+          "overs": "35.5",
+          "balls": 215,
+          "runs": 157,
+          "wickets": 1,
+          "economy": 4.38
+        },
+        {
+          "player": "AJ Bichel",
+          "overs": "15.4",
+          "balls": 94,
+          "runs": 52,
+          "wickets": 0,
+          "economy": 3.32
+        },
+        {
+          "player": "SR Waugh",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

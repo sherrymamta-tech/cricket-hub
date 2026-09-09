@@ -1,0 +1,208 @@
+{
+  "id": "1250188",
+  "teams": [
+    "Sussex",
+    "Kent"
+  ],
+  "date": "2021-07-30",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "County Ground, Hove",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sussex",
+      "runs": 209,
+      "extras": 17,
+      "balls": 182,
+      "batting": [
+        {
+          "player": "AGH Orr",
+          "runs": 9,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.91,
+          "out": true
+        },
+        {
+          "player": "TGR Clark",
+          "runs": 44,
+          "balls": 46,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 95.65,
+          "out": true
+        },
+        {
+          "player": "TJ Haines",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 52,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 140.54,
+          "out": true
+        },
+        {
+          "player": "BC Brown",
+          "runs": 38,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 131.03,
+          "out": true
+        },
+        {
+          "player": "D Wiese",
+          "runs": 31,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 119.23,
+          "out": true
+        },
+        {
+          "player": "OJ Carter",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "JM Coles",
+          "runs": 13,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 130.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ME Milnes",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 6.75
+        },
+        {
+          "player": "DI Stevens",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 5.68
+        },
+        {
+          "player": "G Stewart",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 42,
+          "wickets": 1,
+          "economy": 6.81
+        },
+        {
+          "player": "NN Gilchrist",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 7.26
+        },
+        {
+          "player": "Hamidullah Qadri",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 7.12
+        },
+        {
+          "player": "MK O'Riordan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 7.25
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Kent",
+      "runs": 50,
+      "extras": 3,
+      "balls": 36,
+      "batting": [
+        {
+          "player": "OG Robinson",
+          "runs": 23,
+          "balls": 21,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 109.52,
+          "out": true
+        },
+        {
+          "player": "TS Muyeye",
+          "runs": 24,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 184.62,
+          "out": false
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "D Wiese",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 10.74
+        },
+        {
+          "player": "JP Sarro",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "JM Coles",
+          "overs": "0.5",
+          "balls": 5,
+          "runs": 2,
+          "wickets": 1,
+          "economy": 2.4
+        }
+      ]
+    }
+  ]
+}

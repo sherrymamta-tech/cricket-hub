@@ -1,0 +1,545 @@
+{
+  "id": "1461854",
+  "teams": [
+    "Durham",
+    "Somerset"
+  ],
+  "date": "2025-05-23",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "Somerset won by 7 wickets",
+  "winner": "Somerset",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 277,
+      "extras": 17,
+      "balls": 462,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 41,
+          "balls": 90,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 45.56,
+          "out": true
+        },
+        {
+          "player": "BS McKinney",
+          "runs": 30,
+          "balls": 51,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 58.82,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 17,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.52,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 52,
+          "balls": 55,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 94.55,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 30,
+          "balls": 78,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 15,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 25,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Codi Yusuf",
+          "runs": 16,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.21,
+          "out": false
+        },
+        {
+          "player": "MJ Killeen",
+          "runs": 0,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "J Minto",
+          "runs": 34,
+          "balls": 44,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 77.27,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 62,
+          "wickets": 4,
+          "economy": 3.1
+        },
+        {
+          "player": "JH Davey",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 4.92
+        },
+        {
+          "player": "M Pretorius",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 63,
+          "wickets": 3,
+          "economy": 3.94
+        },
+        {
+          "player": "C Overton",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 62,
+          "wickets": 1,
+          "economy": 3.1
+        },
+        {
+          "player": "MJ Leach",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 3.44
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Somerset",
+      "runs": 172,
+      "extras": 17,
+      "balls": 234,
+      "batting": [
+        {
+          "player": "L Gregory",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "JH Davey",
+          "runs": 24,
+          "balls": 41,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 58.54,
+          "out": true
+        },
+        {
+          "player": "TA Lammonby",
+          "runs": 18,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 41.86,
+          "out": true
+        },
+        {
+          "player": "MJ Leach",
+          "runs": 30,
+          "balls": 38,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 78.95,
+          "out": true
+        },
+        {
+          "player": "JEK Rew",
+          "runs": 8,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 5,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.73,
+          "out": true
+        },
+        {
+          "player": "ARI Umeed",
+          "runs": 14,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 82.35,
+          "out": true
+        },
+        {
+          "player": "AM Vaughan",
+          "runs": 8,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "C Overton",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Pretorius",
+          "runs": 20,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 23,
+          "balls": 19,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 121.05,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 54,
+          "wickets": 2,
+          "economy": 4.15
+        },
+        {
+          "player": "J Minto",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 4.43
+        },
+        {
+          "player": "MJ Killeen",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 41,
+          "wickets": 5,
+          "economy": 4.1
+        },
+        {
+          "player": "Codi Yusuf",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 46,
+          "wickets": 2,
+          "economy": 5.11
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Durham",
+      "runs": 159,
+      "extras": 2,
+      "balls": 258,
+      "batting": [
+        {
+          "player": "AZ Lees",
+          "runs": 35,
+          "balls": 50,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "BS McKinney",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DG Bedingham",
+          "runs": 8,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "OG Robinson",
+          "runs": 33,
+          "balls": 34,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 97.06,
+          "out": true
+        },
+        {
+          "player": "CN Ackermann",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "G Clark",
+          "runs": 29,
+          "balls": 42,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 69.05,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 9,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "J Minto",
+          "runs": 17,
+          "balls": 49,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.69,
+          "out": true
+        },
+        {
+          "player": "MJ Killeen",
+          "runs": 4,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "DM Hogg",
+          "runs": 18,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 94.74,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MJ Henry",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 52,
+          "wickets": 3,
+          "economy": 4.0
+        },
+        {
+          "player": "JH Davey",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 2.45
+        },
+        {
+          "player": "M Pretorius",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 4.18
+        },
+        {
+          "player": "C Overton",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 4.25
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Somerset",
+      "runs": 267,
+      "extras": 6,
+      "balls": 465,
+      "batting": [
+        {
+          "player": "L Gregory",
+          "runs": 38,
+          "balls": 79,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 48.1,
+          "out": true
+        },
+        {
+          "player": "JH Davey",
+          "runs": 15,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.54,
+          "out": true
+        },
+        {
+          "player": "TA Lammonby",
+          "runs": 104,
+          "balls": 162,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 64.2,
+          "out": false
+        },
+        {
+          "player": "JEK Rew",
+          "runs": 31,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 58.49,
+          "out": true
+        },
+        {
+          "player": "TB Abell",
+          "runs": 73,
+          "balls": 134,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 54.48,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BA Raine",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 2.55
+        },
+        {
+          "player": "MJ Killeen",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 67,
+          "wickets": 1,
+          "economy": 3.32
+        },
+        {
+          "player": "DM Hogg",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 56,
+          "wickets": 0,
+          "economy": 4.67
+        },
+        {
+          "player": "J Minto",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 50,
+          "wickets": 0,
+          "economy": 5.45
+        },
+        {
+          "player": "CN Ackermann",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 2.67
+        }
+      ]
+    }
+  ]
+}

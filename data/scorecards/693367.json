@@ -1,0 +1,95 @@
+{
+  "id": "693367",
+  "teams": [
+    "Durham",
+    "Middlesex"
+  ],
+  "date": "2014-08-10",
+  "format": "ODM",
+  "competition": "Royal London One-Day Cup",
+  "venue": "Riverside Ground, Chester-le-Street",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Durham",
+      "runs": 56,
+      "extras": 0,
+      "balls": 84,
+      "batting": [
+        {
+          "player": "MD Stoneman",
+          "runs": 46,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 95.83,
+          "out": false
+        },
+        {
+          "player": "P Mustard",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "CS MacLeod",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BA Stokes",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 7,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 31.82,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TJ Murtagh",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 1.86
+        },
+        {
+          "player": "TS Roland-Jones",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 7.4
+        },
+        {
+          "player": "HW Podmore",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

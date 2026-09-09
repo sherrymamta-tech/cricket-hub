@@ -1,0 +1,86 @@
+{
+  "id": "1226909",
+  "teams": [
+    "Sydney Thunder",
+    "Melbourne Stars"
+  ],
+  "date": "2020-10-26",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "North Sydney Oval",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Thunder",
+      "runs": 13,
+      "extras": 1,
+      "balls": 24,
+      "batting": [
+        {
+          "player": "R Trenaman",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TT Beaumont",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "HC Knight",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "RL Haynes",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KH Brunt",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "player": "NR Sciver",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "HL Ferling",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 4,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ]
+    }
+  ]
+}

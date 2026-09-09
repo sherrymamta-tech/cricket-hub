@@ -1,0 +1,457 @@
+{
+  "id": "1271411",
+  "teams": [
+    "Northamptonshire",
+    "Essex"
+  ],
+  "date": "2021-09-21",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "County Ground, Chelmsford",
+  "result": "Essex won by 44 runs",
+  "winner": "Essex",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northamptonshire",
+      "runs": 81,
+      "extras": 0,
+      "balls": 209,
+      "batting": [
+        {
+          "player": "R Vasconcelos",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 38,
+          "balls": 74,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 51.35,
+          "out": true
+        },
+        {
+          "player": "LA Procter",
+          "runs": 4,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.53,
+          "out": true
+        },
+        {
+          "player": "RI Keogh",
+          "runs": 6,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "SA Zaib",
+          "runs": 4,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "AM Rossington",
+          "runs": 14,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 32.56,
+          "out": true
+        },
+        {
+          "player": "JJ Cobb",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JJG Sales",
+          "runs": 12,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 52.17,
+          "out": true
+        },
+        {
+          "player": "SC Kerrigan",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "CJ White",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Porter",
+          "overs": "11.5",
+          "balls": 71,
+          "runs": 31,
+          "wickets": 4,
+          "economy": 2.62
+        },
+        {
+          "player": "SJ Cook",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 21,
+          "wickets": 5,
+          "economy": 1.75
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 1.8
+        },
+        {
+          "player": "S Snater",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 3.33
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Essex",
+      "runs": 170,
+      "extras": 4,
+      "balls": 261,
+      "batting": [
+        {
+          "player": "NLJ Browne",
+          "runs": 20,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "AN Cook",
+          "runs": 18,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 105.88,
+          "out": true
+        },
+        {
+          "player": "JS Rymell",
+          "runs": 9,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 39.13,
+          "out": true
+        },
+        {
+          "player": "DW Lawrence",
+          "runs": 33,
+          "balls": 29,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 113.79,
+          "out": true
+        },
+        {
+          "player": "MS Pepper",
+          "runs": 13,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 39.39,
+          "out": true
+        },
+        {
+          "player": "PI Walter",
+          "runs": 26,
+          "balls": 55,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 47.27,
+          "out": true
+        },
+        {
+          "player": "AJA Wheater",
+          "runs": 34,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 89.47,
+          "out": true
+        },
+        {
+          "player": "SR Harmer",
+          "runs": 5,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": true
+        },
+        {
+          "player": "S Snater",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "SJ Cook",
+          "runs": 4,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "JA Porter",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TAI Taylor",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 70,
+          "wickets": 4,
+          "economy": 5.25
+        },
+        {
+          "player": "CJ White",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 40,
+          "wickets": 4,
+          "economy": 2.86
+        },
+        {
+          "player": "LA Procter",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 3.67
+        },
+        {
+          "player": "SC Kerrigan",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 2.2
+        },
+        {
+          "player": "JJG Sales",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 8.77
+        },
+        {
+          "player": "RI Keogh",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 2.67
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Northamptonshire",
+      "runs": 45,
+      "extras": 5,
+      "balls": 110,
+      "batting": [
+        {
+          "player": "R Vasconcelos",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "EN Gay",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "LA Procter",
+          "runs": 24,
+          "balls": 56,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "RI Keogh",
+          "runs": 2,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.38,
+          "out": true
+        },
+        {
+          "player": "SC Kerrigan",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JJG Sales",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SA Zaib",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AM Rossington",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "JJ Cobb",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TAI Taylor",
+          "runs": 8,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": true
+        },
+        {
+          "player": "CJ White",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Porter",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "SJ Cook",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 20,
+          "wickets": 5,
+          "economy": 2.4
+        },
+        {
+          "player": "SR Harmer",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "player": "S Snater",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 7,
+          "wickets": 4,
+          "economy": 2.33
+        }
+      ]
+    }
+  ]
+}

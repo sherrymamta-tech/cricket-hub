@@ -1,0 +1,277 @@
+{
+  "id": "1269079",
+  "teams": [
+    "Sydney Thunder",
+    "Hobart Hurricanes"
+  ],
+  "date": "2021-10-31",
+  "format": "T20",
+  "competition": "Women's Big Bash League",
+  "venue": "Aurora Stadium, Launceston",
+  "result": "Sydney Thunder won by 37 runs",
+  "winner": "Sydney Thunder",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Thunder",
+      "runs": 146,
+      "extras": 14,
+      "balls": 130,
+      "batting": [
+        {
+          "player": "S Mandhana",
+          "runs": 50,
+          "balls": 53,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 94.34,
+          "out": true
+        },
+        {
+          "player": "T Wilson",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "P Litchfield",
+          "runs": 31,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 106.9,
+          "out": true
+        },
+        {
+          "player": "CL Hall",
+          "runs": 12,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "DB Sharma",
+          "runs": 20,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "SJ Johnson",
+          "runs": 13,
+          "balls": 9,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 144.44,
+          "out": true
+        },
+        {
+          "player": "A Learoyd",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TJ Vlaeminck",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 5.4
+        },
+        {
+          "player": "B Vakarewa",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "M Strano",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 6.96
+        },
+        {
+          "player": "NJ Carey",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 8.88
+        },
+        {
+          "player": "R Johnston",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "A Smith",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Hobart Hurricanes",
+      "runs": 109,
+      "extras": 4,
+      "balls": 120,
+      "batting": [
+        {
+          "player": "RH Priest",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M du Preez",
+          "runs": 41,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 105.13,
+          "out": true
+        },
+        {
+          "player": "R Johnston",
+          "runs": 7,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "NJ Carey",
+          "runs": 29,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 103.57,
+          "out": true
+        },
+        {
+          "player": "RM Ghosh",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "NE Stalenberg",
+          "runs": 11,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 91.67,
+          "out": true
+        },
+        {
+          "player": "SK Moloney",
+          "runs": 10,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 76.92,
+          "out": true
+        },
+        {
+          "player": "M Strano",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "TJ Vlaeminck",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "IECM Wong",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "player": "SL Bates",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 7.33
+        },
+        {
+          "player": "DB Sharma",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 13,
+          "wickets": 3,
+          "economy": 3.25
+        },
+        {
+          "player": "HJ Darlington",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.5
+        },
+        {
+          "player": "SJ Johnson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "LG Smith",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        }
+      ]
+    }
+  ]
+}

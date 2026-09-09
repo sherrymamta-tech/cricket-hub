@@ -1,0 +1,615 @@
+{
+  "id": "1122277",
+  "teams": [
+    "South Africa",
+    "India"
+  ],
+  "date": "2018-01-13",
+  "format": "Test",
+  "competition": "India tour of South Africa",
+  "venue": "SuperSport Park",
+  "result": "South Africa won by 135 runs",
+  "winner": "South Africa",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 335,
+      "extras": 9,
+      "balls": 684,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 31,
+          "balls": 83,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 37.35,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 94,
+          "balls": 150,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 62.67,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 82,
+          "balls": 153,
+          "fours": 14,
+          "sixes": 0,
+          "strike_rate": 53.59,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 20,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 63,
+          "balls": 142,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 44.37,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "VD Philander",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 18,
+          "balls": 54,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 11,
+          "balls": 34,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 32.35,
+          "out": true
+        },
+        {
+          "player": "M Morkel",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "L Ngidi",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JJ Bumrah",
+          "overs": "22.1",
+          "balls": 133,
+          "runs": 63,
+          "wickets": 0,
+          "economy": 2.84
+        },
+        {
+          "player": "Mohammed Shami",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 59,
+          "wickets": 1,
+          "economy": 3.93
+        },
+        {
+          "player": "I Sharma",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 46,
+          "wickets": 3,
+          "economy": 2.09
+        },
+        {
+          "player": "HH Pandya",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 54,
+          "wickets": 0,
+          "economy": 3.38
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "38.5",
+          "balls": 233,
+          "runs": 113,
+          "wickets": 4,
+          "economy": 2.91
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 307,
+      "extras": 12,
+      "balls": 556,
+      "batting": [
+        {
+          "player": "M Vijay",
+          "runs": 46,
+          "balls": 126,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 36.51,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 10,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.62,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 153,
+          "balls": 218,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 70.18,
+          "out": true
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 10,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.04,
+          "out": true
+        },
+        {
+          "player": "PA Patel",
+          "runs": 19,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 59.38,
+          "out": true
+        },
+        {
+          "player": "HH Pandya",
+          "runs": 15,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 32.61,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 38,
+          "balls": 54,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 70.37,
+          "out": true
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "I Sharma",
+          "runs": 3,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 15.0,
+          "out": true
+        },
+        {
+          "player": "JJ Bumrah",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KA Maharaj",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 68,
+          "wickets": 1,
+          "economy": 3.4
+        },
+        {
+          "player": "M Morkel",
+          "overs": "22.3",
+          "balls": 135,
+          "runs": 64,
+          "wickets": 4,
+          "economy": 2.84
+        },
+        {
+          "player": "VD Philander",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 50,
+          "wickets": 1,
+          "economy": 3.12
+        },
+        {
+          "player": "K Rabada",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 74,
+          "wickets": 1,
+          "economy": 3.7
+        },
+        {
+          "player": "L Ngidi",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 3.6
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "South Africa",
+      "runs": 258,
+      "extras": 8,
+      "balls": 550,
+      "batting": [
+        {
+          "player": "AK Markram",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 61,
+          "balls": 121,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 50.41,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 80,
+          "balls": 122,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 65.57,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 48,
+          "balls": 141,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 34.04,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 12,
+          "balls": 5,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 240.0,
+          "out": true
+        },
+        {
+          "player": "VD Philander",
+          "runs": 26,
+          "balls": 85,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 30.59,
+          "out": true
+        },
+        {
+          "player": "KA Maharaj",
+          "runs": 6,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 4,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 13.79,
+          "out": true
+        },
+        {
+          "player": "M Morkel",
+          "runs": 10,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.91,
+          "out": false
+        },
+        {
+          "player": "L Ngidi",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "R Ashwin",
+          "overs": "29.3",
+          "balls": 177,
+          "runs": 80,
+          "wickets": 1,
+          "economy": 2.71
+        },
+        {
+          "player": "JJ Bumrah",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 72,
+          "wickets": 3,
+          "economy": 3.57
+        },
+        {
+          "player": "I Sharma",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 2.47
+        },
+        {
+          "player": "Mohammed Shami",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 50,
+          "wickets": 4,
+          "economy": 3.12
+        },
+        {
+          "player": "HH Pandya",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 1.56
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "India",
+      "runs": 151,
+      "extras": 5,
+      "balls": 303,
+      "batting": [
+        {
+          "player": "M Vijay",
+          "runs": 9,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.0,
+          "out": true
+        },
+        {
+          "player": "KL Rahul",
+          "runs": 4,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 13.79,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 19,
+          "balls": 47,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 40.43,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 5,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "PA Patel",
+          "runs": 19,
+          "balls": 49,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.78,
+          "out": true
+        },
+        {
+          "player": "RG Sharma",
+          "runs": 47,
+          "balls": 74,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 63.51,
+          "out": true
+        },
+        {
+          "player": "HH Pandya",
+          "runs": 6,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 28,
+          "balls": 25,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 112.0,
+          "out": true
+        },
+        {
+          "player": "I Sharma",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": false
+        },
+        {
+          "player": "JJ Bumrah",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "VD Philander",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 2.6
+        },
+        {
+          "player": "K Rabada",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 48,
+          "wickets": 3,
+          "economy": 3.43
+        },
+        {
+          "player": "L Ngidi",
+          "overs": "12.2",
+          "balls": 74,
+          "runs": 39,
+          "wickets": 6,
+          "economy": 3.16
+        },
+        {
+          "player": "M Morkel",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 1.22
+        },
+        {
+          "player": "KA Maharaj",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 4.67
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "id": "1263472",
+  "teams": [
+    "Australia",
+    "Sri Lanka"
+  ],
+  "date": "2022-02-13",
+  "format": "T20",
+  "competition": "Sri Lanka tour of Australia",
+  "venue": "Sydney Cricket Ground",
+  "result": "tie",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 164,
+      "extras": 6,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "BR McDermott",
+          "runs": 18,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 25,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "JP Inglis",
+          "runs": 48,
+          "balls": 33,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 145.45,
+          "out": true
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 15,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 14,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 19,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 95.0,
+          "out": true
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 6,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        },
+        {
+          "player": "MS Wade",
+          "runs": 13,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 325.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "PVD Chameera",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 7.75
+        },
+        {
+          "player": "N Thushara",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 40,
+          "wickets": 1,
+          "economy": 9.6
+        },
+        {
+          "player": "M Theekshana",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "player": "PWH de Silva",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 8.25
+        },
+        {
+          "player": "C Karunaratne",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 6.22
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sri Lanka",
+      "runs": 164,
+      "extras": 10,
+      "balls": 122,
+      "batting": [
+        {
+          "player": "P Nissanka",
+          "runs": 73,
+          "balls": 54,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 135.19,
+          "out": true
+        },
+        {
+          "player": "MD Gunathilaka",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WIA Fernando",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "KIC Asalanka",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 19,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 86.36,
+          "out": true
+        },
+        {
+          "player": "MD Shanaka",
+          "runs": 34,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 170.0,
+          "out": true
+        },
+        {
+          "player": "C Karunaratne",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "PWH de Silva",
+          "runs": 13,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 144.44,
+          "out": true
+        },
+        {
+          "player": "M Theekshana",
+          "runs": 6,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 300.0,
+          "out": false
+        },
+        {
+          "player": "PVD Chameera",
+          "runs": 4,
+          "balls": 1,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 400.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JR Hazlewood",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 3,
+          "economy": 6.0
+        },
+        {
+          "player": "PJ Cummins",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 8.16
+        },
+        {
+          "player": "MP Stoinis",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 9.79
+        },
+        {
+          "player": "KW Richardson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 11.0
+        },
+        {
+          "player": "A Zampa",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "player": "GJ Maxwell",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Sri Lanka",
+      "runs": 5,
+      "extras": 1,
+      "balls": 6,
+      "batting": [
+        {
+          "player": "MD Shanaka",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": false
+        },
+        {
+          "player": "LD Chandimal",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "P Nissanka",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JR Hazlewood",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Australia",
+      "runs": 9,
+      "extras": 0,
+      "balls": 3,
+      "batting": [
+        {
+          "player": "GJ Maxwell",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 8,
+          "balls": 2,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 400.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "PWH de Silva",
+          "overs": "0.3",
+          "balls": 3,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 18.0
+        }
+      ]
+    }
+  ]
+}

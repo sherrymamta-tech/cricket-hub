@@ -1,0 +1,462 @@
+{
+  "id": "1279980",
+  "teams": [
+    "Auckland Aces",
+    "Central Stags"
+  ],
+  "date": "2022-04-05",
+  "format": "MDM",
+  "competition": "Plunket Shield",
+  "venue": "McLean Park, Napier",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Auckland Aces",
+      "runs": 221,
+      "extras": 8,
+      "balls": 468,
+      "batting": [
+        {
+          "player": "WT O'Donnell",
+          "runs": 9,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 12,
+          "balls": 48,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "CJ Briggs",
+          "runs": 22,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 55.0,
+          "out": true
+        },
+        {
+          "player": "F McGregor-Sumpter",
+          "runs": 56,
+          "balls": 165,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 33.94,
+          "out": true
+        },
+        {
+          "player": "RD Harrison",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 23,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 46.94,
+          "out": true
+        },
+        {
+          "player": "WER Somerville",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SB Keene",
+          "runs": 65,
+          "balls": 108,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 60.19,
+          "out": true
+        },
+        {
+          "player": "OMR Pringle",
+          "runs": 19,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 86.36,
+          "out": true
+        },
+        {
+          "player": "L Delport",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "J Sussex",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BM Tickner",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 70,
+          "wickets": 5,
+          "economy": 3.02
+        },
+        {
+          "player": "JFA Field",
+          "overs": "19.4",
+          "balls": 118,
+          "runs": 51,
+          "wickets": 3,
+          "economy": 2.59
+        },
+        {
+          "player": "W Clark",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 2.54
+        },
+        {
+          "player": "JA Clarkson",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 3.27
+        },
+        {
+          "player": "AY Patel",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 2.85
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Central Stags",
+      "runs": 415,
+      "extras": 15,
+      "balls": 702,
+      "batting": [
+        {
+          "player": "GR Hay",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BD Schmulian",
+          "runs": 38,
+          "balls": 86,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 44.19,
+          "out": true
+        },
+        {
+          "player": "BS Smith",
+          "runs": 3,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5,
+          "out": true
+        },
+        {
+          "player": "D Cleaver",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 204,
+          "balls": 302,
+          "fours": 23,
+          "sixes": 2,
+          "strike_rate": 67.55,
+          "out": false
+        },
+        {
+          "player": "BL Wiggins",
+          "runs": 21,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "JA Clarkson",
+          "runs": 83,
+          "balls": 145,
+          "fours": 9,
+          "sixes": 3,
+          "strike_rate": 57.24,
+          "out": true
+        },
+        {
+          "player": "JFA Field",
+          "runs": 5,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": true
+        },
+        {
+          "player": "AY Patel",
+          "runs": 5,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.45,
+          "out": true
+        },
+        {
+          "player": "W Clark",
+          "runs": 41,
+          "balls": 62,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 66.13,
+          "out": true
+        },
+        {
+          "player": "BM Tickner",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "J Sussex",
+          "overs": "16.4",
+          "balls": 100,
+          "runs": 37,
+          "wickets": 3,
+          "economy": 2.22
+        },
+        {
+          "player": "RM ter Braak",
+          "overs": "17.1",
+          "balls": 103,
+          "runs": 57,
+          "wickets": 2,
+          "economy": 3.32
+        },
+        {
+          "player": "SB Keene",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 86,
+          "wickets": 0,
+          "economy": 4.3
+        },
+        {
+          "player": "SM Solia",
+          "overs": "22.4",
+          "balls": 136,
+          "runs": 78,
+          "wickets": 3,
+          "economy": 3.44
+        },
+        {
+          "player": "OMR Pringle",
+          "overs": "17.2",
+          "balls": 104,
+          "runs": 61,
+          "wickets": 2,
+          "economy": 3.52
+        },
+        {
+          "player": "L Delport",
+          "overs": "23.1",
+          "balls": 139,
+          "runs": 96,
+          "wickets": 0,
+          "economy": 4.14
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Auckland Aces",
+      "runs": 218,
+      "extras": 22,
+      "balls": 572,
+      "batting": [
+        {
+          "player": "WT O'Donnell",
+          "runs": 46,
+          "balls": 180,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 25.56,
+          "out": true
+        },
+        {
+          "player": "SM Solia",
+          "runs": 6,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "CJ Briggs",
+          "runs": 15,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 68.18,
+          "out": true
+        },
+        {
+          "player": "F McGregor-Sumpter",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RD Harrison",
+          "runs": 23,
+          "balls": 197,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 11.68,
+          "out": true
+        },
+        {
+          "player": "BJ Horne",
+          "runs": 89,
+          "balls": 93,
+          "fours": 12,
+          "sixes": 1,
+          "strike_rate": 95.7,
+          "out": false
+        },
+        {
+          "player": "SB Keene",
+          "runs": 17,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 35.42,
+          "out": true
+        },
+        {
+          "player": "RM ter Braak",
+          "runs": 0,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BM Tickner",
+          "overs": "20.1",
+          "balls": 121,
+          "runs": 57,
+          "wickets": 1,
+          "economy": 2.83
+        },
+        {
+          "player": "JA Clarkson",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 3.91
+        },
+        {
+          "player": "JFA Field",
+          "overs": "14.4",
+          "balls": 88,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 2.66
+        },
+        {
+          "player": "AY Patel",
+          "overs": "34.1",
+          "balls": 205,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 1.2
+        },
+        {
+          "player": "W Clark",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 3.2
+        },
+        {
+          "player": "BD Schmulian",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 3.05
+        },
+        {
+          "player": "TC Bruce",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 1.8
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": "225251",
+  "teams": [
+    "England",
+    "Sri Lanka"
+  ],
+  "date": "2006-06-20",
+  "format": "ODI",
+  "competition": "NatWest Series",
+  "venue": "Kennington Oval",
+  "result": "Sri Lanka won by 46 runs",
+  "winner": "Sri Lanka",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "runs": 319,
+      "extras": 33,
+      "balls": 321,
+      "batting": [
+        {
+          "player": "WU Tharanga",
+          "runs": 17,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 56.67,
+          "out": true
+        },
+        {
+          "player": "ST Jayasuriya",
+          "runs": 122,
+          "balls": 144,
+          "fours": 15,
+          "sixes": 2,
+          "strike_rate": 84.72,
+          "out": true
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 66,
+          "balls": 68,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 97.06,
+          "out": true
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 51,
+          "balls": 43,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 118.6,
+          "out": true
+        },
+        {
+          "player": "TM Dilshan",
+          "runs": 9,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "RP Arnold",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "MF Maharoof",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        },
+        {
+          "player": "WPUJC Vaas",
+          "runs": 13,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 118.18,
+          "out": true
+        },
+        {
+          "player": "SL Malinga",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "M Muralitharan",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SJ Harmison",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 31,
+          "wickets": 3,
+          "economy": 3.0
+        },
+        {
+          "player": "LE Plunkett",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 58,
+          "wickets": 0,
+          "economy": 6.96
+        },
+        {
+          "player": "TT Bresnan",
+          "overs": "6.4",
+          "balls": 40,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 6.6
+        },
+        {
+          "player": "SI Mahmood",
+          "overs": "7.5",
+          "balls": 47,
+          "runs": 81,
+          "wickets": 2,
+          "economy": 10.34
+        },
+        {
+          "player": "PD Collingwood",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 5.81
+        },
+        {
+          "player": "JWM Dalrymple",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 4.59
+        },
+        {
+          "player": "KP Pietersen",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 5.78
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "England",
+      "runs": 273,
+      "extras": 12,
+      "balls": 287,
+      "batting": [
+        {
+          "player": "ME Trescothick",
+          "runs": 9,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "IR Bell",
+          "runs": 40,
+          "balls": 51,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 78.43,
+          "out": true
+        },
+        {
+          "player": "AJ Strauss",
+          "runs": 18,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 78.26,
+          "out": true
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 73,
+          "balls": 79,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 92.41,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 56,
+          "balls": 62,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 90.32,
+          "out": true
+        },
+        {
+          "player": "JWM Dalrymple",
+          "runs": 37,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 108.82,
+          "out": true
+        },
+        {
+          "player": "GO Jones",
+          "runs": 8,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 11,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 122.22,
+          "out": false
+        },
+        {
+          "player": "SI Mahmood",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "LE Plunkett",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SJ Harmison",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WPUJC Vaas",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 5.25
+        },
+        {
+          "player": "SL Malinga",
+          "overs": "8.2",
+          "balls": 50,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 5.4
+        },
+        {
+          "player": "MF Maharoof",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 39,
+          "wickets": 1,
+          "economy": 5.44
+        },
+        {
+          "player": "PDRL Perera",
+          "overs": "5.2",
+          "balls": 32,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 7.88
+        },
+        {
+          "player": "M Muralitharan",
+          "overs": "9.5",
+          "balls": 59,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 5.39
+        },
+        {
+          "player": "ST Jayasuriya",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 52,
+          "wickets": 3,
+          "economy": 5.67
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": "1409514",
+  "teams": [
+    "Central Districts",
+    "Canterbury"
+  ],
+  "date": "2023-12-30",
+  "format": "T20",
+  "competition": "Women's Super Smash",
+  "venue": "Pukekura Park, New Plymouth",
+  "result": "Central Districts won by 6 runs",
+  "winner": "Central Districts",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Central Districts",
+      "runs": 79,
+      "extras": 5,
+      "balls": 75,
+      "batting": [
+        {
+          "player": "NC Dodd",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "TMM Newton",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "HJ Armitage",
+          "runs": 26,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 89.66,
+          "out": true
+        },
+        {
+          "player": "HM Rowe",
+          "runs": 24,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 109.09,
+          "out": false
+        },
+        {
+          "player": "MJ Greig",
+          "runs": 16,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 160.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Fatima Sana",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 4.8
+        },
+        {
+          "player": "GES Sullivan",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "player": "LMM Tahuhu",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.67
+        },
+        {
+          "player": "SR Asmussen",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 4.67
+        },
+        {
+          "player": "FL Mackay",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 5.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Canterbury",
+      "runs": 54,
+      "extras": 4,
+      "balls": 52,
+      "batting": [
+        {
+          "player": "KG Anderson",
+          "runs": 11,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 68.75,
+          "out": true
+        },
+        {
+          "player": "Fatima Sana",
+          "runs": 34,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 130.77,
+          "out": false
+        },
+        {
+          "player": "LMM Tahuhu",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "NB Cox",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "LEV Hughes",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CL Green",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 6.86
+        },
+        {
+          "player": "RA Mair",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 6.46
+        },
+        {
+          "player": "HM Rowe",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "Ashtuti Kumar",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 13,
+          "wickets": 2,
+          "economy": 6.5
+        },
+        {
+          "player": "FDM Devonshire",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 5.14
+        }
+      ]
+    }
+  ]
+}

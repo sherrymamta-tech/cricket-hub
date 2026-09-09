@@ -1,0 +1,296 @@
+{
+  "id": "1233974",
+  "teams": [
+    "Australia",
+    "New Zealand"
+  ],
+  "date": "2021-03-05",
+  "format": "T20",
+  "competition": "Australia tour of New Zealand",
+  "venue": "Westpac Stadium",
+  "result": "Australia won by 50 runs",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Australia",
+      "runs": 156,
+      "extras": 3,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "MS Wade",
+          "runs": 14,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "AJ Finch",
+          "runs": 79,
+          "balls": 55,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 143.64,
+          "out": false
+        },
+        {
+          "player": "JR Philippe",
+          "runs": 13,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 76.47,
+          "out": true
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 18,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 163.64,
+          "out": true
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 19,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 146.15,
+          "out": true
+        },
+        {
+          "player": "AC Agar",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MR Marsh",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JA Richardson",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "TA Boult",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.48
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 11.31
+        },
+        {
+          "player": "IS Sodhi",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 32,
+          "wickets": 3,
+          "economy": 8.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 106,
+      "extras": 6,
+      "balls": 117,
+      "batting": [
+        {
+          "player": "MJ Guptill",
+          "runs": 7,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "TL Seifert",
+          "runs": 19,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 65.52,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 8,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 17,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.0,
+          "out": true
+        },
+        {
+          "player": "GD Phillips",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JDS Neesham",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 6,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 30,
+          "balls": 19,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 157.89,
+          "out": true
+        },
+        {
+          "player": "IS Sodhi",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AC Agar",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 11,
+          "wickets": 2,
+          "economy": 2.75
+        },
+        {
+          "player": "RP Meredith",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 6.63
+        },
+        {
+          "player": "JA Richardson",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "player": "A Zampa",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 5.76
+        },
+        {
+          "player": "KW Richardson",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 19,
+          "wickets": 3,
+          "economy": 6.33
+        },
+        {
+          "player": "GJ Maxwell",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 4.74
+        }
+      ]
+    }
+  ]
+}

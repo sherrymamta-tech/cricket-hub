@@ -1,0 +1,577 @@
+{
+  "id": "1322425",
+  "teams": [
+    "Western Australia",
+    "Victoria"
+  ],
+  "date": "2023-03-14",
+  "format": "MDM",
+  "competition": "Sheffield Shield",
+  "venue": "Western Australia Cricket Association Ground, Perth",
+  "result": "Victoria won by 7 wickets",
+  "winner": "Victoria",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Western Australia",
+      "runs": 122,
+      "extras": 8,
+      "balls": 370,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 24,
+          "balls": 69,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.78,
+          "out": true
+        },
+        {
+          "player": "SM Whiteman",
+          "runs": 9,
+          "balls": 63,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": true
+        },
+        {
+          "player": "T Wyllie",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 27,
+          "balls": 80,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 33.75,
+          "out": true
+        },
+        {
+          "player": "AM Hardie",
+          "runs": 7,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.93,
+          "out": true
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 27,
+          "balls": 70,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 38.57,
+          "out": true
+        },
+        {
+          "player": "JR Philippe",
+          "runs": 4,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "CH Stobo",
+          "runs": 10,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "CJ Gannon",
+          "runs": 4,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": false
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DJM Moody",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SM Boland",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 29,
+          "wickets": 4,
+          "economy": 1.91
+        },
+        {
+          "player": "F O'Neill",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 2.42
+        },
+        {
+          "player": "W Sutherland",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 37,
+          "wickets": 3,
+          "economy": 3.08
+        },
+        {
+          "player": "M Perry",
+          "overs": "12.3",
+          "balls": 75,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 0.96
+        },
+        {
+          "player": "JM Holland",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 1.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Victoria",
+      "runs": 298,
+      "extras": 8,
+      "balls": 558,
+      "batting": [
+        {
+          "player": "TJ Dean",
+          "runs": 10,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 47.62,
+          "out": true
+        },
+        {
+          "player": "MS Harris",
+          "runs": 84,
+          "balls": 140,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "AP Chandrasinghe",
+          "runs": 8,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "C Kellaway",
+          "runs": 64,
+          "balls": 169,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 37.87,
+          "out": true
+        },
+        {
+          "player": "MW Short",
+          "runs": 82,
+          "balls": 95,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 86.32,
+          "out": true
+        },
+        {
+          "player": "W Sutherland",
+          "runs": 2,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "SB Harper",
+          "runs": 11,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.83,
+          "out": true
+        },
+        {
+          "player": "M Perry",
+          "runs": 16,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "F O'Neill",
+          "runs": 11,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true
+        },
+        {
+          "player": "SM Boland",
+          "runs": 0,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        },
+        {
+          "player": "JM Holland",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CH Stobo",
+          "overs": "25.2",
+          "balls": 152,
+          "runs": 63,
+          "wickets": 2,
+          "economy": 2.49
+        },
+        {
+          "player": "CJ Gannon",
+          "overs": "23.2",
+          "balls": 140,
+          "runs": 94,
+          "wickets": 4,
+          "economy": 4.03
+        },
+        {
+          "player": "DJM Moody",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 64,
+          "wickets": 1,
+          "economy": 3.92
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "overs": "20.0",
+          "balls": 120,
+          "runs": 49,
+          "wickets": 0,
+          "economy": 2.45
+        },
+        {
+          "player": "HWR Cartwright",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 14,
+          "wickets": 3,
+          "economy": 2.33
+        },
+        {
+          "player": "AJ Turner",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Western Australia",
+      "runs": 236,
+      "extras": 13,
+      "balls": 559,
+      "batting": [
+        {
+          "player": "CT Bancroft",
+          "runs": 31,
+          "balls": 69,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 44.93,
+          "out": true
+        },
+        {
+          "player": "SM Whiteman",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "T Wyllie",
+          "runs": 16,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 94.12,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 82,
+          "balls": 195,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 42.05,
+          "out": true
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "AM Hardie",
+          "runs": 13,
+          "balls": 61,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.31,
+          "out": true
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 20,
+          "balls": 84,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 23.81,
+          "out": true
+        },
+        {
+          "player": "JR Philippe",
+          "runs": 30,
+          "balls": 43,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 69.77,
+          "out": false
+        },
+        {
+          "player": "CH Stobo",
+          "runs": 7,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.21,
+          "out": true
+        },
+        {
+          "player": "CJ Gannon",
+          "runs": 17,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 58.62,
+          "out": true
+        },
+        {
+          "player": "DJM Moody",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SM Boland",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 74,
+          "wickets": 4,
+          "economy": 2.83
+        },
+        {
+          "player": "F O'Neill",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 52,
+          "wickets": 3,
+          "economy": 2.46
+        },
+        {
+          "player": "M Perry",
+          "overs": "15.5",
+          "balls": 95,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 2.78
+        },
+        {
+          "player": "W Sutherland",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 2.75
+        },
+        {
+          "player": "JM Holland",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 44,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Victoria",
+      "runs": 64,
+      "extras": 1,
+      "balls": 159,
+      "batting": [
+        {
+          "player": "TJ Dean",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MS Harris",
+          "runs": 29,
+          "balls": 49,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 59.18,
+          "out": true
+        },
+        {
+          "player": "AP Chandrasinghe",
+          "runs": 2,
+          "balls": 50,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 4.0,
+          "out": true
+        },
+        {
+          "player": "C Kellaway",
+          "runs": 9,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.12,
+          "out": false
+        },
+        {
+          "player": "MW Short",
+          "runs": 23,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 115.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CH Stobo",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 2.0
+        },
+        {
+          "player": "AM Hardie",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 1.74
+        },
+        {
+          "player": "DJM Moody",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "CJ Gannon",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "player": "CJ Rocchiccioli",
+          "overs": "2.2",
+          "balls": 14,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 4.29
+        },
+        {
+          "player": "AJ Turner",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 1.0
+        }
+      ]
+    }
+  ]
+}

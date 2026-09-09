@@ -1,0 +1,321 @@
+{
+  "id": "65803",
+  "teams": [
+    "Pakistan",
+    "Zimbabwe"
+  ],
+  "date": "2003-04-03",
+  "format": "ODI",
+  "competition": "Cherry Blossom Sharjah Cup",
+  "venue": "Sharjah Cricket Association Stadium",
+  "result": "Pakistan won by 68 runs",
+  "winner": "Pakistan",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Pakistan",
+      "runs": 278,
+      "extras": 29,
+      "balls": 322,
+      "batting": [
+        {
+          "player": "Taufeeq Umar",
+          "runs": 16,
+          "balls": 59,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.12,
+          "out": true
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "runs": 12,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "Naved Latif",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "Yousuf Youhana",
+          "runs": 17,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 58.62,
+          "out": true
+        },
+        {
+          "player": "Younis Khan",
+          "runs": 67,
+          "balls": 86,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 77.91,
+          "out": true
+        },
+        {
+          "player": "Shoaib Malik",
+          "runs": 13,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.25,
+          "out": true
+        },
+        {
+          "player": "Rashid Latif",
+          "runs": 34,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 89.47,
+          "out": true
+        },
+        {
+          "player": "Abdul Razzaq",
+          "runs": 76,
+          "balls": 54,
+          "fours": 2,
+          "sixes": 7,
+          "strike_rate": 140.74,
+          "out": false
+        },
+        {
+          "player": "Mohammad Sami",
+          "runs": 11,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HH Streak",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 2.91
+        },
+        {
+          "player": "AM Blignaut",
+          "overs": "11.5",
+          "balls": 71,
+          "runs": 54,
+          "wickets": 2,
+          "economy": 4.56
+        },
+        {
+          "player": "DT Hondo",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 60,
+          "wickets": 0,
+          "economy": 5.81
+        },
+        {
+          "player": "SM Ervine",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 8.64
+        },
+        {
+          "player": "DA Marillier",
+          "overs": "7.1",
+          "balls": 43,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "GW Flower",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.75
+        },
+        {
+          "player": "GJ Rennie",
+          "overs": "5.3",
+          "balls": 33,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 4.91
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Zimbabwe",
+      "runs": 210,
+      "extras": 17,
+      "balls": 276,
+      "batting": [
+        {
+          "player": "CB Wishart",
+          "runs": 8,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "DA Marillier",
+          "runs": 59,
+          "balls": 73,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 80.82,
+          "out": true
+        },
+        {
+          "player": "TJ Friend",
+          "runs": 9,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "GW Flower",
+          "runs": 13,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 59.09,
+          "out": true
+        },
+        {
+          "player": "DD Ebrahim",
+          "runs": 31,
+          "balls": 64,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 48.44,
+          "out": true
+        },
+        {
+          "player": "GJ Rennie",
+          "runs": 11,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.11,
+          "out": true
+        },
+        {
+          "player": "AM Blignaut",
+          "runs": 24,
+          "balls": 15,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 160.0,
+          "out": true
+        },
+        {
+          "player": "SM Ervine",
+          "runs": 30,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "T Taibu",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "HH Streak",
+          "runs": 7,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DT Hondo",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammad Sami",
+          "overs": "7.5",
+          "balls": 47,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 4.34
+        },
+        {
+          "player": "Umar Gul",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 26,
+          "wickets": 2,
+          "economy": 3.71
+        },
+        {
+          "player": "Abdul Razzaq",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 4.93
+        },
+        {
+          "player": "Danish Kaneria",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 4.15
+        },
+        {
+          "player": "Mohammad Hafeez",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 45,
+          "wickets": 2,
+          "economy": 4.43
+        },
+        {
+          "player": "Shoaib Malik",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 6.92
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "id": "1513374",
+  "teams": [
+    "Hampshire",
+    "Glamorgan"
+  ],
+  "date": "2026-08-27",
+  "format": "MDM",
+  "competition": "County Championship",
+  "venue": "Sophia Gardens, Cardiff",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Hampshire",
+      "runs": 162,
+      "extras": 19,
+      "balls": 249,
+      "batting": [
+        {
+          "player": "AGH Orr",
+          "runs": 36,
+          "balls": 76,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 47.37,
+          "out": true
+        },
+        {
+          "player": "NRT Gubbins",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "TE Albert",
+          "runs": 10,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 51,
+          "balls": 59,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 86.44,
+          "out": false
+        },
+        {
+          "player": "TJ Prest",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BC Brown",
+          "runs": 9,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "AJ Neal",
+          "runs": 9,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "SW Currie",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JK Fuller",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "KJ Abbott",
+          "runs": 16,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "EV Jack",
+          "runs": 7,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.85,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "T van der Gugten",
+          "overs": "13.3",
+          "balls": 81,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 2.96
+        },
+        {
+          "player": "Mir Hamza",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 40,
+          "wickets": 3,
+          "economy": 3.75
+        },
+        {
+          "player": "Zain-ul-Hassan",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 33,
+          "wickets": 3,
+          "economy": 3.0
+        },
+        {
+          "player": "DA Douthwaite",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 49,
+          "wickets": 2,
+          "economy": 7.74
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Glamorgan",
+      "runs": 161,
+      "extras": 6,
+      "balls": 362,
+      "batting": [
+        {
+          "player": "Zain-ul-Hassan",
+          "runs": 0,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AM Tribe",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BI Kellaway",
+          "runs": 57,
+          "balls": 92,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 61.96,
+          "out": true
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 32,
+          "balls": 46,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 69.57,
+          "out": true
+        },
+        {
+          "player": "SR Dickson",
+          "runs": 1,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 6.67,
+          "out": true
+        },
+        {
+          "player": "CB Cooke",
+          "runs": 8,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.78,
+          "out": true
+        },
+        {
+          "player": "DA Douthwaite",
+          "runs": 21,
+          "balls": 87,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 24.14,
+          "out": true
+        },
+        {
+          "player": "MS Crane",
+          "runs": 8,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.59,
+          "out": true
+        },
+        {
+          "player": "T van der Gugten",
+          "runs": 27,
+          "balls": 43,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 62.79,
+          "out": true
+        },
+        {
+          "player": "Mir Hamza",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KJ Abbott",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 34,
+          "wickets": 3,
+          "economy": 2.0
+        },
+        {
+          "player": "EV Jack",
+          "overs": "12.1",
+          "balls": 73,
+          "runs": 31,
+          "wickets": 3,
+          "economy": 2.55
+        },
+        {
+          "player": "JK Fuller",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 40,
+          "wickets": 0,
+          "economy": 3.33
+        },
+        {
+          "player": "SW Currie",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 2.57
+        },
+        {
+          "player": "S Baker",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 35,
+          "wickets": 4,
+          "economy": 3.18
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Hampshire",
+      "runs": 300,
+      "extras": 13,
+      "balls": 419,
+      "batting": [
+        {
+          "player": "AGH Orr",
+          "runs": 39,
+          "balls": 84,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 46.43,
+          "out": true
+        },
+        {
+          "player": "NRT Gubbins",
+          "runs": 40,
+          "balls": 64,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "TE Albert",
+          "runs": 64,
+          "balls": 130,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 49.23,
+          "out": true
+        },
+        {
+          "player": "JS Lehmann",
+          "runs": 36,
+          "balls": 61,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 59.02,
+          "out": true
+        },
+        {
+          "player": "TJ Prest",
+          "runs": 15,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.18,
+          "out": true
+        },
+        {
+          "player": "BC Brown",
+          "runs": 30,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 103.45,
+          "out": true
+        },
+        {
+          "player": "AJ Neal",
+          "runs": 47,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 235.0,
+          "out": true
+        },
+        {
+          "player": "JK Fuller",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "EV Jack",
+          "runs": 16,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "T van der Gugten",
+          "overs": "16.1",
+          "balls": 97,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 1.92
+        },
+        {
+          "player": "Mir Hamza",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 3.07
+        },
+        {
+          "player": "BI Kellaway",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 82,
+          "wickets": 4,
+          "economy": 5.47
+        },
+        {
+          "player": "Zain-ul-Hassan",
+          "overs": "11.5",
+          "balls": 71,
+          "runs": 59,
+          "wickets": 1,
+          "economy": 4.99
+        },
+        {
+          "player": "DA Douthwaite",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 5.81
+        },
+        {
+          "player": "MS Crane",
+          "overs": "6.4",
+          "balls": 40,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 7.8
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Glamorgan",
+      "runs": 21,
+      "extras": 1,
+      "balls": 83,
+      "batting": [
+        {
+          "player": "AM Tribe",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KS Carlson",
+          "runs": 2,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.53,
+          "out": true
+        },
+        {
+          "player": "MS Crane",
+          "runs": 7,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "BI Kellaway",
+          "runs": 8,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": false
+        },
+        {
+          "player": "CA Ingram",
+          "runs": 3,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KJ Abbott",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 7,
+          "wickets": 2,
+          "economy": 1.0
+        },
+        {
+          "player": "EV Jack",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 2.75
+        },
+        {
+          "player": "S Baker",
+          "overs": "2.5",
+          "balls": 17,
+          "runs": 3,
+          "wickets": 0,
+          "economy": 1.06
+        }
+      ]
+    }
+  ]
+}

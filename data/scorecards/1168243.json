@@ -1,0 +1,331 @@
+{
+  "id": "1168243",
+  "teams": [
+    "India",
+    "Australia"
+  ],
+  "date": "2019-03-05",
+  "format": "ODI",
+  "competition": "Australia tour of India",
+  "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+  "result": "India won by 8 runs",
+  "winner": "India",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 250,
+      "extras": 12,
+      "balls": 294,
+      "batting": [
+        {
+          "player": "RG Sharma",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 21,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 70.0,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 116,
+          "balls": 122,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 95.08,
+          "out": true
+        },
+        {
+          "player": "AT Rayudu",
+          "runs": 18,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "V Shankar",
+          "runs": 46,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 112.2,
+          "out": true
+        },
+        {
+          "player": "KM Jadhav",
+          "runs": 11,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 91.67,
+          "out": true
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 21,
+          "balls": 40,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 52.5,
+          "out": true
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "Mohammed Shami",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "JJ Bumrah",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "PJ Cummins",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 29,
+          "wickets": 4,
+          "economy": 3.16
+        },
+        {
+          "player": "NM Coulter-Nile",
+          "overs": "8.3",
+          "balls": 51,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 6.24
+        },
+        {
+          "player": "GJ Maxwell",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 46,
+          "wickets": 1,
+          "economy": 4.45
+        },
+        {
+          "player": "A Zampa",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 64,
+          "wickets": 2,
+          "economy": 6.4
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "10.0",
+          "balls": 60,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 4.4
+        },
+        {
+          "player": "MP Stoinis",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 14.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 242,
+      "extras": 13,
+      "balls": 307,
+      "batting": [
+        {
+          "player": "AJ Finch",
+          "runs": 37,
+          "balls": 59,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 62.71,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 38,
+          "balls": 38,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SE Marsh",
+          "runs": 16,
+          "balls": 27,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 59.26,
+          "out": true
+        },
+        {
+          "player": "PSP Handscomb",
+          "runs": 48,
+          "balls": 60,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 4,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 52,
+          "balls": 66,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 78.79,
+          "out": true
+        },
+        {
+          "player": "AT Carey",
+          "runs": 22,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.0,
+          "out": true
+        },
+        {
+          "player": "NM Coulter-Nile",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "PJ Cummins",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        },
+        {
+          "player": "A Zampa",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Mohammed Shami",
+          "overs": "10.5",
+          "balls": 65,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 5.63
+        },
+        {
+          "player": "JJ Bumrah",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 2.9
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 49,
+          "wickets": 1,
+          "economy": 4.82
+        },
+        {
+          "player": "V Shankar",
+          "overs": "1.3",
+          "balls": 9,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 10.0
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 54,
+          "wickets": 3,
+          "economy": 5.31
+        },
+        {
+          "player": "KM Jadhav",
+          "overs": "8.1",
+          "balls": 49,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 4.04
+        }
+      ]
+    }
+  ]
+}

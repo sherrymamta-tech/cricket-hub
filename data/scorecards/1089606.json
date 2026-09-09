@@ -1,0 +1,94 @@
+{
+  "id": "1089606",
+  "teams": [
+    "Northern Knights",
+    "North-West Warriors"
+  ],
+  "date": "2017-05-29",
+  "format": "ODM",
+  "competition": "Cricket Ireland Inter-Provincial Limited Over Cup",
+  "venue": "New Strabane Park",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Northern Knights",
+      "runs": 84,
+      "extras": 14,
+      "balls": 95,
+      "batting": [
+        {
+          "player": "A Dennison",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "C Dougherty",
+          "runs": 19,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 67.86,
+          "out": true
+        },
+        {
+          "player": "NL Smith",
+          "runs": 25,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 65.79,
+          "out": false
+        },
+        {
+          "player": "JNK Shannon",
+          "runs": 26,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 123.81,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CA Young",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 4.32
+        },
+        {
+          "player": "D Scanlon",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 6.57
+        },
+        {
+          "player": "AR McBrine",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "player": "SR Thompson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 5.04
+        }
+      ]
+    }
+  ]
+}

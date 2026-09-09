@@ -1,0 +1,216 @@
+{
+  "id": "1259528",
+  "teams": [
+    "Munster Reds",
+    "Leinster Lightning"
+  ],
+  "date": "2021-05-20",
+  "format": "ODM",
+  "competition": "Cricket Ireland Inter-Provincial Limited Over Cup",
+  "venue": "Pembroke Cricket Club, Sandymount, Dublin",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Munster Reds",
+      "runs": 147,
+      "extras": 18,
+      "balls": 143,
+      "batting": [
+        {
+          "player": "PJ Moor",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "GJ Delany",
+          "runs": 6,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.55,
+          "out": true
+        },
+        {
+          "player": "TE Kane",
+          "runs": 31,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 91.18,
+          "out": true
+        },
+        {
+          "player": "M Commins",
+          "runs": 9,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "G Ford",
+          "runs": 21,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 91.3,
+          "out": true
+        },
+        {
+          "player": "M Ford",
+          "runs": 45,
+          "balls": 34,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 132.35,
+          "out": false
+        },
+        {
+          "player": "S Lynch",
+          "runs": 13,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 76.47,
+          "out": true
+        },
+        {
+          "player": "F Hand",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BJ McCarthy",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 3.68
+        },
+        {
+          "player": "J Little",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "player": "DJ O'Halloran",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 9.2
+        },
+        {
+          "player": "PKD Chase",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 7.25
+        },
+        {
+          "player": "Simi Singh",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 5.8
+        },
+        {
+          "player": "GH Dockrell",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 7.85
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Leinster Lightning",
+      "runs": 69,
+      "extras": 5,
+      "balls": 63,
+      "batting": [
+        {
+          "player": "KJ O'Brien",
+          "runs": 38,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 115.15,
+          "out": false
+        },
+        {
+          "player": "JB Tector",
+          "runs": 24,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "A Balbirnie",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TE Kane",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "A Cawley",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 6.92
+        },
+        {
+          "player": "J Manley",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 6.32
+        },
+        {
+          "player": "A Sidhu",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    }
+  ]
+}

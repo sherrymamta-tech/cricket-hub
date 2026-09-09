@@ -1,0 +1,93 @@
+{
+  "id": "1482095",
+  "teams": [
+    "Singapore",
+    "Malaysia"
+  ],
+  "date": "2025-04-28",
+  "format": "T20",
+  "competition": "Quadrangular Twenty20 Series (Malaysia)",
+  "venue": "Bayuemas Oval, Kuala Lumpur",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Singapore",
+      "runs": 39,
+      "extras": 4,
+      "balls": 46,
+      "batting": [
+        {
+          "player": "HK Kukreja",
+          "runs": 21,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "JS Iggo",
+          "runs": 13,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 65.0,
+          "out": true
+        },
+        {
+          "player": "Aritra Dutta",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Pavandeep Singh",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 6.46
+        },
+        {
+          "player": "Syed Aziz",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "Muhammad Wafiq",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "S Vijay Unni",
+          "overs": "1.3",
+          "balls": 9,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "Ahmed Aqeel",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 3,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ]
+    }
+  ]
+}

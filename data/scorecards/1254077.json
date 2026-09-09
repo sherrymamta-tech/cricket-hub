@@ -1,0 +1,342 @@
+{
+  "id": "1254077",
+  "teams": [
+    "Delhi Capitals",
+    "Sunrisers Hyderabad"
+  ],
+  "date": "2021-04-25",
+  "format": "T20",
+  "competition": "Indian Premier League",
+  "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+  "result": "tie",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Delhi Capitals",
+      "runs": 159,
+      "extras": 4,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "PP Shaw",
+          "runs": 53,
+          "balls": 40,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 132.5,
+          "out": true
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 28,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 103.7,
+          "out": true
+        },
+        {
+          "player": "RR Pant",
+          "runs": 37,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 137.04,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 34,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 136.0,
+          "out": false
+        },
+        {
+          "player": "SO Hetmyer",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MP Stoinis",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KK Ahmed",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 10.75
+        },
+        {
+          "player": "Abhishek Sharma",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "S Kaul",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 7.75
+        },
+        {
+          "player": "J Suchith",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 5.25
+        },
+        {
+          "player": "V Shankar",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 5.7
+        },
+        {
+          "player": "Rashid Khan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.75
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sunrisers Hyderabad",
+      "runs": 159,
+      "extras": 9,
+      "balls": 125,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 6,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 38,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 211.11,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 66,
+          "balls": 54,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 122.22,
+          "out": false
+        },
+        {
+          "player": "Virat Singh",
+          "runs": 4,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "KM Jadhav",
+          "runs": 9,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.0,
+          "out": true
+        },
+        {
+          "player": "Abhishek Sharma",
+          "runs": 5,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "Rashid Khan",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "V Shankar",
+          "runs": 8,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "J Suchith",
+          "runs": 14,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 233.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 8.84
+        },
+        {
+          "player": "R Ashwin",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.48
+        },
+        {
+          "player": "MP Stoinis",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "AR Patel",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.75
+        },
+        {
+          "player": "Avesh Khan",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 34,
+          "wickets": 3,
+          "economy": 7.56
+        },
+        {
+          "player": "A Mishra",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.75
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Sunrisers Hyderabad",
+      "runs": 7,
+      "extras": 1,
+      "balls": 6,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": false
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "AR Patel",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Delhi Capitals",
+      "runs": 8,
+      "extras": 3,
+      "balls": 6,
+      "batting": [
+        {
+          "player": "RR Pant",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": false
+        },
+        {
+          "player": "S Dhawan",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Rashid Khan",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

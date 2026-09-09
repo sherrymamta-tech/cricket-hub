@@ -1,0 +1,87 @@
+{
+  "id": "291346",
+  "teams": [
+    "Australia",
+    "New Zealand"
+  ],
+  "date": "2007-12-16",
+  "format": "ODI",
+  "competition": "Chappell-Hadlee Trophy",
+  "venue": "Sydney Cricket Ground",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 30,
+      "extras": 4,
+      "balls": 40,
+      "batting": [
+        {
+          "player": "L Vincent",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JM How",
+          "runs": 4,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 5,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "SB Styris",
+          "runs": 12,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 92.31,
+          "out": false
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "B Lee",
+          "overs": "3.3",
+          "balls": 21,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 3.43
+        },
+        {
+          "player": "NW Bracken",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 5.68
+        }
+      ]
+    }
+  ]
+}

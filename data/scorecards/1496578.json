@@ -1,0 +1,268 @@
+{
+  "id": "1496578",
+  "teams": [
+    "England",
+    "India"
+  ],
+  "date": "2026-07-11",
+  "format": "T20",
+  "competition": "India tour of England",
+  "venue": "The Rose Bowl, Southampton",
+  "result": "England won by 56 runs",
+  "winner": "England",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 257,
+      "extras": 18,
+      "balls": 132,
+      "batting": [
+        {
+          "player": "PD Salt",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "JC Buttler",
+          "runs": 131,
+          "balls": 69,
+          "fours": 12,
+          "sixes": 8,
+          "strike_rate": 189.86,
+          "out": true
+        },
+        {
+          "player": "HC Brook",
+          "runs": 95,
+          "balls": 51,
+          "fours": 4,
+          "sixes": 8,
+          "strike_rate": 186.27,
+          "out": false
+        },
+        {
+          "player": "JG Bethell",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WG Jacks",
+          "runs": 7,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 350.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Arshdeep Singh",
+          "overs": "4.5",
+          "balls": 29,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 7.03
+        },
+        {
+          "player": "M Prasidh Krishna",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 8.44
+        },
+        {
+          "player": "Prince Yadav",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 14.64
+        },
+        {
+          "player": "AR Patel",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 63,
+          "wickets": 0,
+          "economy": 15.12
+        },
+        {
+          "player": "Suryansh Shedge",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 11.7
+        },
+        {
+          "player": "S Dube",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 22.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 201,
+      "extras": 5,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "SV Samson",
+          "runs": 27,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 192.86,
+          "out": true
+        },
+        {
+          "player": "Abhishek Sharma",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "Ishan Kishan",
+          "runs": 56,
+          "balls": 37,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 151.35,
+          "out": true
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 28,
+          "balls": 16,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 175.0,
+          "out": true
+        },
+        {
+          "player": "Tilak Varma",
+          "runs": 53,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 203.85,
+          "out": true
+        },
+        {
+          "player": "S Dube",
+          "runs": 14,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "Suryansh Shedge",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "Arshdeep Singh",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": false
+        },
+        {
+          "player": "AR Patel",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "M Prasidh Krishna",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JC Archer",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 10.25
+        },
+        {
+          "player": "JC Tongue",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 53,
+          "wickets": 1,
+          "economy": 12.23
+        },
+        {
+          "player": "WG Jacks",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 10.67
+        },
+        {
+          "player": "SM Curran",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 36,
+          "wickets": 3,
+          "economy": 8.31
+        },
+        {
+          "player": "LA Dawson",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "player": "AU Rashid",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

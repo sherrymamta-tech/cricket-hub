@@ -1,0 +1,604 @@
+{
+  "id": "730091",
+  "teams": [
+    "Sri Lanka",
+    "South Africa"
+  ],
+  "date": "2014-07-24",
+  "format": "Test",
+  "competition": "South Africa in Sri Lanka Test Series",
+  "venue": "Sinhalese Sports Club Ground",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sri Lanka",
+      "runs": 421,
+      "extras": 28,
+      "balls": 733,
+      "batting": [
+        {
+          "player": "WU Tharanga",
+          "runs": 11,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 68.75,
+          "out": true
+        },
+        {
+          "player": "JK Silva",
+          "runs": 44,
+          "balls": 73,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 60.27,
+          "out": true
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 165,
+          "balls": 284,
+          "fours": 17,
+          "sixes": 1,
+          "strike_rate": 58.1,
+          "out": true
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 63,
+          "balls": 135,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "KDK Vithanage",
+          "runs": 13,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 34.21,
+          "out": true
+        },
+        {
+          "player": "N Dickwella",
+          "runs": 72,
+          "balls": 116,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 62.07,
+          "out": true
+        },
+        {
+          "player": "MDK Perera",
+          "runs": 12,
+          "balls": 41,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 29.27,
+          "out": true
+        },
+        {
+          "player": "HMRKB Herath",
+          "runs": 7,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        },
+        {
+          "player": "BAW Mendis",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "RAS Lakmal",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DW Steyn",
+          "overs": "22.0",
+          "balls": 132,
+          "runs": 70,
+          "wickets": 2,
+          "economy": 3.18
+        },
+        {
+          "player": "VD Philander",
+          "overs": "21.5",
+          "balls": 131,
+          "runs": 52,
+          "wickets": 2,
+          "economy": 2.38
+        },
+        {
+          "player": "M Morkel",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 77,
+          "wickets": 1,
+          "economy": 2.94
+        },
+        {
+          "player": "Imran Tahir",
+          "overs": "33.0",
+          "balls": 198,
+          "runs": 132,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "player": "JP Duminy",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 85,
+          "wickets": 2,
+          "economy": 4.68
+        },
+        {
+          "player": "D Elgar",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "South Africa",
+      "runs": 282,
+      "extras": 10,
+      "balls": 816,
+      "batting": [
+        {
+          "player": "AN Petersen",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 1,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 4.55,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 36,
+          "balls": 109,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 33.03,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 139,
+          "balls": 382,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 36.39,
+          "out": false
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 37,
+          "balls": 100,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 37.0,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 3,
+          "balls": 58,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 5.17,
+          "out": true
+        },
+        {
+          "player": "VD Philander",
+          "runs": 9,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 31.03,
+          "out": true
+        },
+        {
+          "player": "DW Steyn",
+          "runs": 30,
+          "balls": 71,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 42.25,
+          "out": true
+        },
+        {
+          "player": "Imran Tahir",
+          "runs": 15,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 46.88,
+          "out": true
+        },
+        {
+          "player": "M Morkel",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "RAS Lakmal",
+          "overs": "23.5",
+          "balls": 143,
+          "runs": 55,
+          "wickets": 1,
+          "economy": 2.31
+        },
+        {
+          "player": "HMRKB Herath",
+          "overs": "45.0",
+          "balls": 270,
+          "runs": 73,
+          "wickets": 4,
+          "economy": 1.62
+        },
+        {
+          "player": "MDK Perera",
+          "overs": "41.5",
+          "balls": 251,
+          "runs": 69,
+          "wickets": 5,
+          "economy": 1.65
+        },
+        {
+          "player": "BAW Mendis",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 68,
+          "wickets": 0,
+          "economy": 3.19
+        },
+        {
+          "player": "KDK Vithanage",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.25
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Sri Lanka",
+      "runs": 229,
+      "extras": 4,
+      "balls": 323,
+      "batting": [
+        {
+          "player": "WU Tharanga",
+          "runs": 30,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "JK Silva",
+          "runs": 26,
+          "balls": 57,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 45.61,
+          "out": true
+        },
+        {
+          "player": "KC Sangakkara",
+          "runs": 72,
+          "balls": 90,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "DPMD Jayawardene",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AD Mathews",
+          "runs": 63,
+          "balls": 83,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 75.9,
+          "out": false
+        },
+        {
+          "player": "KDK Vithanage",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "N Dickwella",
+          "runs": 16,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.19,
+          "out": true
+        },
+        {
+          "player": "MDK Perera",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "HMRKB Herath",
+          "runs": 4,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DW Steyn",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 59,
+          "wickets": 2,
+          "economy": 4.54
+        },
+        {
+          "player": "VD Philander",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 3.18
+        },
+        {
+          "player": "Imran Tahir",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 79,
+          "wickets": 2,
+          "economy": 4.35
+        },
+        {
+          "player": "M Morkel",
+          "overs": "9.4",
+          "balls": 58,
+          "runs": 45,
+          "wickets": 4,
+          "economy": 4.66
+        },
+        {
+          "player": "D Elgar",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "JP Duminy",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "South Africa",
+      "runs": 159,
+      "extras": 22,
+      "balls": 669,
+      "batting": [
+        {
+          "player": "AN Petersen",
+          "runs": 0,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 13,
+          "balls": 65,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 37,
+          "balls": 92,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 40.22,
+          "out": true
+        },
+        {
+          "player": "HM Amla",
+          "runs": 25,
+          "balls": 159,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 15.72,
+          "out": true
+        },
+        {
+          "player": "AB de Villiers",
+          "runs": 12,
+          "balls": 67,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.91,
+          "out": true
+        },
+        {
+          "player": "F du Plessis",
+          "runs": 10,
+          "balls": 49,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 20.41,
+          "out": true
+        },
+        {
+          "player": "JP Duminy",
+          "runs": 3,
+          "balls": 65,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 4.62,
+          "out": true
+        },
+        {
+          "player": "VD Philander",
+          "runs": 27,
+          "balls": 98,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 27.55,
+          "out": false
+        },
+        {
+          "player": "DW Steyn",
+          "runs": 6,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        },
+        {
+          "player": "Imran Tahir",
+          "runs": 4,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.05,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "HMRKB Herath",
+          "overs": "45.0",
+          "balls": 270,
+          "runs": 40,
+          "wickets": 5,
+          "economy": 0.89
+        },
+        {
+          "player": "MDK Perera",
+          "overs": "44.0",
+          "balls": 264,
+          "runs": 75,
+          "wickets": 3,
+          "economy": 1.7
+        },
+        {
+          "player": "BAW Mendis",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 1.62
+        },
+        {
+          "player": "RAS Lakmal",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 2.44
+        },
+        {
+          "player": "KDK Vithanage",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 2.4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "id": "464532",
+  "teams": [
+    "India",
+    "New Zealand"
+  ],
+  "date": "2010-11-12",
+  "format": "Test",
+  "competition": "New Zealand in India Test Series",
+  "venue": "Rajiv Gandhi International Stadium, Uppal",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 350,
+      "extras": 27,
+      "balls": 710,
+      "batting": [
+        {
+          "player": "TG McIntosh",
+          "runs": 102,
+          "balls": 254,
+          "fours": 10,
+          "sixes": 1,
+          "strike_rate": 40.16,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 4,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 85,
+          "balls": 160,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 53.12,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 24,
+          "balls": 53,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 45.28,
+          "out": true
+        },
+        {
+          "player": "JD Ryder",
+          "runs": 70,
+          "balls": 121,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 57.85,
+          "out": true
+        },
+        {
+          "player": "GJ Hopkins",
+          "runs": 4,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "DL Vettori",
+          "runs": 11,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 10,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46,
+          "out": true
+        },
+        {
+          "player": "BJ Arnel",
+          "runs": 6,
+          "balls": 29,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.69,
+          "out": false
+        },
+        {
+          "player": "CS Martin",
+          "runs": 3,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 21.43,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Z Khan",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 82,
+          "wickets": 4,
+          "economy": 3.04
+        },
+        {
+          "player": "S Sreesanth",
+          "overs": "21.5",
+          "balls": 131,
+          "runs": 91,
+          "wickets": 1,
+          "economy": 4.17
+        },
+        {
+          "player": "Harbhajan Singh",
+          "overs": "35.3",
+          "balls": 213,
+          "runs": 76,
+          "wickets": 4,
+          "economy": 2.14
+        },
+        {
+          "player": "PP Ojha",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 86,
+          "wickets": 1,
+          "economy": 3.19
+        },
+        {
+          "player": "SK Raina",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 2.14
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "India",
+      "runs": 472,
+      "extras": 14,
+      "balls": 864,
+      "batting": [
+        {
+          "player": "G Gambhir",
+          "runs": 54,
+          "balls": 129,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 41.86,
+          "out": true
+        },
+        {
+          "player": "V Sehwag",
+          "runs": 96,
+          "balls": 120,
+          "fours": 15,
+          "sixes": 1,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "R Dravid",
+          "runs": 45,
+          "balls": 144,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 31.25,
+          "out": true
+        },
+        {
+          "player": "SR Tendulkar",
+          "runs": 13,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.43,
+          "out": true
+        },
+        {
+          "player": "VVS Laxman",
+          "runs": 74,
+          "balls": 160,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 46.25,
+          "out": true
+        },
+        {
+          "player": "SK Raina",
+          "runs": 20,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "MS Dhoni",
+          "runs": 14,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "Harbhajan Singh",
+          "runs": 111,
+          "balls": 117,
+          "fours": 7,
+          "sixes": 7,
+          "strike_rate": 94.87,
+          "out": false
+        },
+        {
+          "player": "Z Khan",
+          "runs": 7,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 18.92,
+          "out": true
+        },
+        {
+          "player": "PP Ojha",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "S Sreesanth",
+          "runs": 24,
+          "balls": 71,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.8,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CS Martin",
+          "overs": "29.1",
+          "balls": 175,
+          "runs": 92,
+          "wickets": 1,
+          "economy": 3.15
+        },
+        {
+          "player": "TG Southee",
+          "overs": "33.1",
+          "balls": 199,
+          "runs": 119,
+          "wickets": 3,
+          "economy": 3.59
+        },
+        {
+          "player": "BJ Arnel",
+          "overs": "24.0",
+          "balls": 144,
+          "runs": 84,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "DL Vettori",
+          "overs": "49.4",
+          "balls": 298,
+          "runs": 137,
+          "wickets": 5,
+          "economy": 2.76
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 4.43
+        },
+        {
+          "player": "LRPL Taylor",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New Zealand",
+      "runs": 448,
+      "extras": 14,
+      "balls": 817,
+      "batting": [
+        {
+          "player": "TG McIntosh",
+          "runs": 49,
+          "balls": 127,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 38.58,
+          "out": true
+        },
+        {
+          "player": "BB McCullum",
+          "runs": 225,
+          "balls": 308,
+          "fours": 22,
+          "sixes": 4,
+          "strike_rate": 73.05,
+          "out": true
+        },
+        {
+          "player": "MJ Guptill",
+          "runs": 18,
+          "balls": 68,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.47,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 7,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "JD Ryder",
+          "runs": 20,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 64.52,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 69,
+          "balls": 146,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 47.26,
+          "out": true
+        },
+        {
+          "player": "DL Vettori",
+          "runs": 23,
+          "balls": 52,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 44.23,
+          "out": true
+        },
+        {
+          "player": "GJ Hopkins",
+          "runs": 11,
+          "balls": 43,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.58,
+          "out": false
+        },
+        {
+          "player": "TG Southee",
+          "runs": 11,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 84.62,
+          "out": true
+        },
+        {
+          "player": "BJ Arnel",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Z Khan",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 2.8
+        },
+        {
+          "player": "S Sreesanth",
+          "overs": "28.0",
+          "balls": 168,
+          "runs": 122,
+          "wickets": 3,
+          "economy": 4.36
+        },
+        {
+          "player": "PP Ojha",
+          "overs": "47.3",
+          "balls": 285,
+          "runs": 137,
+          "wickets": 2,
+          "economy": 2.88
+        },
+        {
+          "player": "Harbhajan Singh",
+          "overs": "38.1",
+          "balls": 229,
+          "runs": 119,
+          "wickets": 1,
+          "economy": 3.12
+        },
+        {
+          "player": "SR Tendulkar",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "player": "SK Raina",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 42,
+          "wickets": 2,
+          "economy": 3.23
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "India",
+      "runs": 68,
+      "extras": 0,
+      "balls": 102,
+      "batting": [
+        {
+          "player": "G Gambhir",
+          "runs": 14,
+          "balls": 48,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 29.17,
+          "out": false
+        },
+        {
+          "player": "V Sehwag",
+          "runs": 54,
+          "balls": 54,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 2.75
+        },
+        {
+          "player": "BJ Arnel",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 2.2
+        },
+        {
+          "player": "MJ Guptill",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 6.6
+        },
+        {
+          "player": "LRPL Taylor",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 4.33
+        }
+      ]
+    }
+  ]
+}

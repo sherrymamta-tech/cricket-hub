@@ -1,0 +1,165 @@
+{
+  "id": "756783",
+  "teams": [
+    "Adelaide Strikers",
+    "Sydney Thunder"
+  ],
+  "date": "2015-01-12",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Adelaide Oval",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Adelaide Strikers",
+      "runs": 119,
+      "extras": 4,
+      "balls": 62,
+      "batting": [
+        {
+          "player": "CJ Simmons",
+          "runs": 21,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 140.0,
+          "out": true
+        },
+        {
+          "player": "TP Ludeman",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JR Dean",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "RN ten Doeschate",
+          "runs": 23,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 176.92,
+          "out": true
+        },
+        {
+          "player": "TM Head",
+          "runs": 18,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 300.0,
+          "out": true
+        },
+        {
+          "player": "AI Ross",
+          "runs": 30,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 4,
+          "strike_rate": 250.0,
+          "out": false
+        },
+        {
+          "player": "J Botha",
+          "runs": 12,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JH Kallis",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "JK Lalor",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 14.77
+        },
+        {
+          "player": "GS Sandhu",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "player": "NM Hauritz",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "player": "CP Tremain",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 16.0
+        },
+        {
+          "player": "IA Moran",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 16.29
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sydney Thunder",
+      "runs": 18,
+      "extras": 4,
+      "balls": 6,
+      "batting": [
+        {
+          "player": "JJ Roy",
+          "runs": 14,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 233.33,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KW Richardson",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 18.0
+        }
+      ]
+    }
+  ]
+}

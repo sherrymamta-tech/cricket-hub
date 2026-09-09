@@ -1,0 +1,269 @@
+{
+  "id": "1269638",
+  "teams": [
+    "Sydney Sixers",
+    "Melbourne Stars"
+  ],
+  "date": "2021-12-05",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Sydney Cricket Ground",
+  "result": "Sydney Sixers won by 152 runs",
+  "winner": "Sydney Sixers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Sixers",
+      "runs": 213,
+      "extras": 5,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "JR Philippe",
+          "runs": 83,
+          "balls": 48,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 172.92,
+          "out": true
+        },
+        {
+          "player": "JM Vince",
+          "runs": 44,
+          "balls": 29,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 151.72,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 76,
+          "balls": 39,
+          "fours": 8,
+          "sixes": 3,
+          "strike_rate": 194.87,
+          "out": false
+        },
+        {
+          "player": "DT Christian",
+          "runs": 5,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "TK Curran",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SM Elliott",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "player": "SL Rainbird",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 59,
+          "wickets": 1,
+          "economy": 13.62
+        },
+        {
+          "player": "Syed Faridoun",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 8.88
+        },
+        {
+          "player": "A Zampa",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "player": "BL Couch",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 11.37
+        },
+        {
+          "player": "GJ Maxwell",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 8.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Melbourne Stars",
+      "runs": 61,
+      "extras": 9,
+      "balls": 69,
+      "batting": [
+        {
+          "player": "JM Clarke",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "PM Nevill",
+          "runs": 18,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 128.57,
+          "out": true
+        },
+        {
+          "player": "NCR Larkin",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GJ Maxwell",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 10,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 111.11,
+          "out": true
+        },
+        {
+          "player": "BJ Webster",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "SM Elliott",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "SL Rainbird",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "A Zampa",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "Syed Faridoun",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0,
+          "out": false
+        },
+        {
+          "player": "BL Couch",
+          "runs": 8,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SNJ O'Keefe",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 16,
+          "wickets": 4,
+          "economy": 3.84
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 14,
+          "wickets": 3,
+          "economy": 4.67
+        },
+        {
+          "player": "CJ Jordan",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 7.38
+        },
+        {
+          "player": "TK Curran",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 7.71
+        },
+        {
+          "player": "H Kerr",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 6,
+          "wickets": 2,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

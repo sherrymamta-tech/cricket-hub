@@ -1,0 +1,269 @@
+{
+  "id": "1444780",
+  "teams": [
+    "Titans",
+    "Boland"
+  ],
+  "date": "2024-10-09",
+  "format": "T20",
+  "competition": "CSA T20 Challenge",
+  "venue": "SuperSport Park, Centurion",
+  "result": "Titans won by 94 runs",
+  "winner": "Titans",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Titans",
+      "runs": 169,
+      "extras": 6,
+      "balls": 95,
+      "batting": [
+        {
+          "player": "LG Pretorius",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "R Moonsamy",
+          "runs": 38,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 172.73,
+          "out": true
+        },
+        {
+          "player": "KD Petersen",
+          "runs": 8,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "H Klaasen",
+          "runs": 71,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 5,
+          "strike_rate": 197.22,
+          "out": false
+        },
+        {
+          "player": "BS Makhanya",
+          "runs": 20,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 181.82,
+          "out": true
+        },
+        {
+          "player": "D Ferreira",
+          "runs": 23,
+          "balls": 13,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 176.92,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "GA Stuurman",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 9.33
+        },
+        {
+          "player": "KJ Dudgeon",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 38,
+          "wickets": 1,
+          "economy": 11.4
+        },
+        {
+          "player": "I Manack",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 10.42
+        },
+        {
+          "player": "FD Adams",
+          "overs": "1.1",
+          "balls": 7,
+          "runs": 2,
+          "wickets": 2,
+          "economy": 1.71
+        },
+        {
+          "player": "A Mnyaka",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 9.67
+        },
+        {
+          "player": "A Gqamane",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 39,
+          "wickets": 0,
+          "economy": 18.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Boland",
+      "runs": 75,
+      "extras": 5,
+      "balls": 83,
+      "batting": [
+        {
+          "player": "PJ Malan",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "G Kaplan",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "G Roelofsen",
+          "runs": 26,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 123.81,
+          "out": true
+        },
+        {
+          "player": "C Fortuin",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Copeland",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "KJ Dudgeon",
+          "runs": 4,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "A Gqamane",
+          "runs": 26,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 144.44,
+          "out": true
+        },
+        {
+          "player": "I Manack",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57,
+          "out": true
+        },
+        {
+          "player": "GA Stuurman",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "A Mnyaka",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Dayyaan Galiem",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 7,
+          "wickets": 3,
+          "economy": 2.33
+        },
+        {
+          "player": "M Boast",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 6.9
+        },
+        {
+          "player": "C Bosch",
+          "overs": "2.3",
+          "balls": 15,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 6.8
+        },
+        {
+          "player": "Tsepo Ndwandwa",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 10.5
+        },
+        {
+          "player": "AL Phehlukwayo",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 7,
+          "wickets": 2,
+          "economy": 2.33
+        }
+      ]
+    }
+  ]
+}

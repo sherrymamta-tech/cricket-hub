@@ -1,0 +1,209 @@
+{
+  "id": "1347495",
+  "teams": [
+    "Lancashire",
+    "Essex"
+  ],
+  "date": "2023-08-01",
+  "format": "ODM",
+  "competition": "One-Day Cup",
+  "venue": "Sedbergh School",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Lancashire",
+      "runs": 270,
+      "extras": 25,
+      "balls": 230,
+      "batting": [
+        {
+          "player": "GJ Bell",
+          "runs": 29,
+          "balls": 44,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 65.91,
+          "out": true
+        },
+        {
+          "player": "KK Jennings",
+          "runs": 19,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 82.61,
+          "out": true
+        },
+        {
+          "player": "JJ Bohannon",
+          "runs": 35,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 77.78,
+          "out": true
+        },
+        {
+          "player": "DJ Vilas",
+          "runs": 65,
+          "balls": 45,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 144.44,
+          "out": true
+        },
+        {
+          "player": "GP Balderson",
+          "runs": 32,
+          "balls": 32,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "GID Lavelle",
+          "runs": 22,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 129.41,
+          "out": true
+        },
+        {
+          "player": "MF Hurst",
+          "runs": 21,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 161.54,
+          "out": false
+        },
+        {
+          "player": "TH Aspinwall",
+          "runs": 22,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 200.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "JA Porter",
+          "overs": "8.5",
+          "balls": 53,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 3.06
+        },
+        {
+          "player": "Aaron Beard",
+          "overs": "7.3",
+          "balls": 45,
+          "runs": 65,
+          "wickets": 1,
+          "economy": 8.67
+        },
+        {
+          "player": "BMJ Allison",
+          "overs": "6.3",
+          "balls": 39,
+          "runs": 56,
+          "wickets": 0,
+          "economy": 8.62
+        },
+        {
+          "player": "BJ Webster",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 60,
+          "wickets": 3,
+          "economy": 8.57
+        },
+        {
+          "player": "ASS Nijjar",
+          "overs": "5.1",
+          "balls": 31,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 6.77
+        },
+        {
+          "player": "NRM Thain",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 8.1
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Essex",
+      "runs": 23,
+      "extras": 1,
+      "balls": 36,
+      "batting": [
+        {
+          "player": "JS Rymell",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "RJ Das",
+          "runs": 8,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 88.89,
+          "out": true
+        },
+        {
+          "player": "T Westley",
+          "runs": 8,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": false
+        },
+        {
+          "player": "NRM Thain",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WSA Williams",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 4.33
+        },
+        {
+          "player": "JM Blatherwick",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 3.33
+        }
+      ]
+    }
+  ]
+}

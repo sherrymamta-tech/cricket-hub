@@ -1,0 +1,277 @@
+{
+  "id": "1216538",
+  "teams": [
+    "Mumbai Indians",
+    "Sunrisers Hyderabad"
+  ],
+  "date": "2020-10-04",
+  "format": "T20",
+  "competition": "Indian Premier League",
+  "venue": "Sharjah Cricket Stadium",
+  "result": "Mumbai Indians won by 34 runs",
+  "winner": "Mumbai Indians",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Mumbai Indians",
+      "runs": 208,
+      "extras": 4,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "RG Sharma",
+          "runs": 6,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 120.0,
+          "out": true
+        },
+        {
+          "player": "SA Yadav",
+          "runs": 27,
+          "balls": 18,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "Q de Kock",
+          "runs": 67,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 167.5,
+          "out": true
+        },
+        {
+          "player": "Ishan Kishan",
+          "runs": 31,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 134.78,
+          "out": true
+        },
+        {
+          "player": "HH Pandya",
+          "runs": 28,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 147.37,
+          "out": true
+        },
+        {
+          "player": "KA Pollard",
+          "runs": 25,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 178.57,
+          "out": false
+        },
+        {
+          "player": "KH Pandya",
+          "runs": 20,
+          "balls": 4,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 500.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "Sandeep Sharma",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 41,
+          "wickets": 2,
+          "economy": 10.25
+        },
+        {
+          "player": "T Natarajan",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "S Kaul",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 64,
+          "wickets": 2,
+          "economy": 14.77
+        },
+        {
+          "player": "Abdul Samad",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 13.5
+        },
+        {
+          "player": "Rashid Khan",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.28
+        },
+        {
+          "player": "KS Williamson",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 12.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Sunrisers Hyderabad",
+      "runs": 174,
+      "extras": 15,
+      "balls": 129,
+      "batting": [
+        {
+          "player": "DA Warner",
+          "runs": 60,
+          "balls": 48,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "JM Bairstow",
+          "runs": 25,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 166.67,
+          "out": true
+        },
+        {
+          "player": "MK Pandey",
+          "runs": 30,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 136.36,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "PK Garg",
+          "runs": 8,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "Abhishek Sharma",
+          "runs": 10,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 71.43,
+          "out": true
+        },
+        {
+          "player": "Abdul Samad",
+          "runs": 20,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 200.0,
+          "out": true
+        },
+        {
+          "player": "Rashid Khan",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": false
+        },
+        {
+          "player": "Sandeep Sharma",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TA Boult",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 7.0
+        },
+        {
+          "player": "JL Pattinson",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 6.96
+        },
+        {
+          "player": "KH Pandya",
+          "overs": "4.4",
+          "balls": 28,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 7.93
+        },
+        {
+          "player": "JJ Bumrah",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 10.15
+        },
+        {
+          "player": "KA Pollard",
+          "overs": "3.2",
+          "balls": 20,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "RD Chahar",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 16.0
+        }
+      ]
+    }
+  ]
+}

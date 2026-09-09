@@ -1,0 +1,605 @@
+{
+  "id": "1115794",
+  "teams": [
+    "New Zealand",
+    "West Indies"
+  ],
+  "date": "2017-12-09",
+  "format": "Test",
+  "competition": "West Indies tour of New Zealand",
+  "venue": "Seddon Park",
+  "result": "New Zealand won by 240 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "New Zealand",
+      "runs": 373,
+      "extras": 16,
+      "balls": 629,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 84,
+          "balls": 159,
+          "fours": 15,
+          "sixes": 0,
+          "strike_rate": 52.83,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 22,
+          "balls": 56,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 39.29,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 43,
+          "balls": 96,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 44.79,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 16,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 51.61,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 13,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 24,
+          "balls": 73,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 32.88,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 58,
+          "balls": 63,
+          "fours": 5,
+          "sixes": 4,
+          "strike_rate": 92.06,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 28,
+          "balls": 48,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 31,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 79.49,
+          "out": true
+        },
+        {
+          "player": "TA Boult",
+          "runs": 37,
+          "balls": 27,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 137.04,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ST Gabriel",
+          "overs": "26.2",
+          "balls": 158,
+          "runs": 120,
+          "wickets": 4,
+          "economy": 4.56
+        },
+        {
+          "player": "KAJ Roach",
+          "overs": "23.3",
+          "balls": 141,
+          "runs": 58,
+          "wickets": 3,
+          "economy": 2.47
+        },
+        {
+          "player": "ML Cummins",
+          "overs": "21.0",
+          "balls": 126,
+          "runs": 57,
+          "wickets": 2,
+          "economy": 2.71
+        },
+        {
+          "player": "RL Chase",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 90,
+          "wickets": 0,
+          "economy": 6.92
+        },
+        {
+          "player": "RA Reifer",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 2.12
+        },
+        {
+          "player": "KC Brathwaite",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 3.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "West Indies",
+      "runs": 221,
+      "extras": 8,
+      "balls": 404,
+      "batting": [
+        {
+          "player": "KC Brathwaite",
+          "runs": 66,
+          "balls": 117,
+          "fours": 9,
+          "sixes": 1,
+          "strike_rate": 56.41,
+          "out": true
+        },
+        {
+          "player": "KOA Powell",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SO Hetmyer",
+          "runs": 28,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "SD Hope",
+          "runs": 15,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 53.57,
+          "out": true
+        },
+        {
+          "player": "RL Chase",
+          "runs": 12,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "SW Ambris",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0,
+          "out": true
+        },
+        {
+          "player": "SO Dowrich",
+          "runs": 35,
+          "balls": 46,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 76.09,
+          "out": true
+        },
+        {
+          "player": "RA Reifer",
+          "runs": 23,
+          "balls": 90,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 25.56,
+          "out": false
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 17,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 62.96,
+          "out": true
+        },
+        {
+          "player": "ML Cummins",
+          "runs": 15,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 78.95,
+          "out": true
+        },
+        {
+          "player": "ST Gabriel",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "19.1",
+          "balls": 115,
+          "runs": 34,
+          "wickets": 2,
+          "economy": 1.77
+        },
+        {
+          "player": "TA Boult",
+          "overs": "21.1",
+          "balls": 127,
+          "runs": 73,
+          "wickets": 4,
+          "economy": 3.45
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 40,
+          "wickets": 2,
+          "economy": 3.33
+        },
+        {
+          "player": "N Wagner",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 74,
+          "wickets": 2,
+          "economy": 4.93
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "New Zealand",
+      "runs": 291,
+      "extras": 20,
+      "balls": 480,
+      "batting": [
+        {
+          "player": "JA Raval",
+          "runs": 4,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "TWM Latham",
+          "runs": 22,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 47.83,
+          "out": true
+        },
+        {
+          "player": "KS Williamson",
+          "runs": 54,
+          "balls": 64,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 84.38,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 107,
+          "balls": 199,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 53.77,
+          "out": false
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 5,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 55.56,
+          "out": true
+        },
+        {
+          "player": "MJ Santner",
+          "runs": 26,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 65.0,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 22,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 70.97,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 1,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 9.09,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 8,
+          "balls": 36,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 22.22,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 22,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 110.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ST Gabriel",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 58,
+          "wickets": 2,
+          "economy": 3.55
+        },
+        {
+          "player": "KAJ Roach",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 4.54
+        },
+        {
+          "player": "ML Cummins",
+          "overs": "17.3",
+          "balls": 105,
+          "runs": 69,
+          "wickets": 3,
+          "economy": 3.94
+        },
+        {
+          "player": "RA Reifer",
+          "overs": "13.2",
+          "balls": 80,
+          "runs": 52,
+          "wickets": 1,
+          "economy": 3.9
+        },
+        {
+          "player": "KC Brathwaite",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 3.67
+        },
+        {
+          "player": "RL Chase",
+          "overs": "17.4",
+          "balls": 106,
+          "runs": 51,
+          "wickets": 2,
+          "economy": 2.89
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "West Indies",
+      "runs": 203,
+      "extras": 6,
+      "balls": 384,
+      "batting": [
+        {
+          "player": "KC Brathwaite",
+          "runs": 20,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 54.05,
+          "out": true
+        },
+        {
+          "player": "KOA Powell",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "SO Hetmyer",
+          "runs": 15,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "SD Hope",
+          "runs": 23,
+          "balls": 50,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 46.0,
+          "out": true
+        },
+        {
+          "player": "RL Chase",
+          "runs": 64,
+          "balls": 98,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 65.31,
+          "out": true
+        },
+        {
+          "player": "SW Ambris",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "SO Dowrich",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RA Reifer",
+          "runs": 29,
+          "balls": 110,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 26.36,
+          "out": true
+        },
+        {
+          "player": "KAJ Roach",
+          "runs": 32,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 72.73,
+          "out": true
+        },
+        {
+          "player": "ML Cummins",
+          "runs": 9,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 47.37,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "19.0",
+          "balls": 114,
+          "runs": 72,
+          "wickets": 2,
+          "economy": 3.79
+        },
+        {
+          "player": "TA Boult",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 53,
+          "wickets": 2,
+          "economy": 3.31
+        },
+        {
+          "player": "N Wagner",
+          "overs": "15.1",
+          "balls": 91,
+          "runs": 44,
+          "wickets": 3,
+          "economy": 2.9
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 2.22
+        },
+        {
+          "player": "MJ Santner",
+          "overs": "4.5",
+          "balls": 29,
+          "runs": 14,
+          "wickets": 2,
+          "economy": 2.9
+        }
+      ]
+    }
+  ]
+}

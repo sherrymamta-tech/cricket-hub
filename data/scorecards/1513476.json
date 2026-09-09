@@ -1,0 +1,278 @@
+{
+  "id": "1513476",
+  "teams": [
+    "Kent",
+    "Lancashire"
+  ],
+  "date": "2026-07-28",
+  "format": "ODM",
+  "competition": "One-Day Cup",
+  "venue": "Farington Cricket Ground, Farington",
+  "result": "Lancashire won by 6 wickets",
+  "winner": "Lancashire",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Kent",
+      "runs": 223,
+      "extras": 26,
+      "balls": 301,
+      "batting": [
+        {
+          "player": "BJ Dawkins",
+          "runs": 4,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "DJ Bell-Drummond",
+          "runs": 56,
+          "balls": 86,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 65.12,
+          "out": true
+        },
+        {
+          "player": "SA Northeast",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        },
+        {
+          "player": "HZ Finch",
+          "runs": 21,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 51.22,
+          "out": true
+        },
+        {
+          "player": "CG Benjamin",
+          "runs": 14,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 82.35,
+          "out": true
+        },
+        {
+          "player": "G Stewart",
+          "runs": 22,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 75.86,
+          "out": true
+        },
+        {
+          "player": "Ekansh Singh",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "JK Denly",
+          "runs": 25,
+          "balls": 30,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "JDM Evison",
+          "runs": 19,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.58,
+          "out": true
+        },
+        {
+          "player": "KJ Dudgeon",
+          "runs": 31,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 119.23,
+          "out": false
+        },
+        {
+          "player": "MW Parkinson",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TE Bailey",
+          "overs": "10.4",
+          "balls": 64,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 3.09
+        },
+        {
+          "player": "MT Stanley",
+          "overs": "11.1",
+          "balls": 67,
+          "runs": 47,
+          "wickets": 3,
+          "economy": 4.21
+        },
+        {
+          "player": "JM Blatherwick",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 44,
+          "wickets": 2,
+          "economy": 4.89
+        },
+        {
+          "player": "GP Balderson",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 48,
+          "wickets": 2,
+          "economy": 5.24
+        },
+        {
+          "player": "AR Shetty",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 51,
+          "wickets": 1,
+          "economy": 5.02
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Lancashire",
+      "runs": 227,
+      "extras": 5,
+      "balls": 292,
+      "batting": [
+        {
+          "player": "KK Jennings",
+          "runs": 31,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 68.89,
+          "out": true
+        },
+        {
+          "player": "MF Hurst",
+          "runs": 55,
+          "balls": 89,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 61.8,
+          "out": true
+        },
+        {
+          "player": "JJ Bohannon",
+          "runs": 47,
+          "balls": 69,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 68.12,
+          "out": true
+        },
+        {
+          "player": "MS Harris",
+          "runs": 47,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 117.5,
+          "out": true
+        },
+        {
+          "player": "R Flintoff",
+          "runs": 41,
+          "balls": 47,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 87.23,
+          "out": false
+        },
+        {
+          "player": "J Moores",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KJ Dudgeon",
+          "overs": "10.1",
+          "balls": 61,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 4.33
+        },
+        {
+          "player": "G Stewart",
+          "overs": "10.2",
+          "balls": 62,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 3.97
+        },
+        {
+          "player": "JDM Evison",
+          "overs": "9.1",
+          "balls": 55,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 4.58
+        },
+        {
+          "player": "Ekansh Singh",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 5.14
+        },
+        {
+          "player": "MW Parkinson",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "player": "JK Denly",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 7.0
+        }
+      ]
+    }
+  ]
+}

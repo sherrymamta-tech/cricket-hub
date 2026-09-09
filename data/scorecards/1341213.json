@@ -1,0 +1,322 @@
+{
+  "id": "1341213",
+  "teams": [
+    "Otago",
+    "Central Districts"
+  ],
+  "date": "2023-01-21",
+  "format": "T20",
+  "competition": "Super Smash",
+  "venue": "Saxton Oval, Nelson",
+  "result": "Otago won by 4 runs",
+  "winner": "Otago",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Otago",
+      "runs": 166,
+      "extras": 7,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "HD Rutherford",
+          "runs": 10,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "DN Phillips",
+          "runs": 8,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 114.29,
+          "out": true
+        },
+        {
+          "player": "D Foxcroft",
+          "runs": 66,
+          "balls": 50,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 132.0,
+          "out": true
+        },
+        {
+          "player": "JL Finnie",
+          "runs": 13,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "LC Johnson",
+          "runs": 6,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": true
+        },
+        {
+          "player": "NM Kwant",
+          "runs": 22,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 146.67,
+          "out": true
+        },
+        {
+          "player": "JM Gibson",
+          "runs": 12,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 109.09,
+          "out": true
+        },
+        {
+          "player": "BNJ Lockrose",
+          "runs": 12,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 200.0,
+          "out": false
+        },
+        {
+          "player": "ATE Hazeldine",
+          "runs": 9,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 180.0,
+          "out": true
+        },
+        {
+          "player": "MD Rae",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "BG Randell",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 6.92
+        },
+        {
+          "player": "AY Patel",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "RL Toole",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 8.64
+        },
+        {
+          "player": "JR Lennox",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "JA Clarkson",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 38,
+          "wickets": 2,
+          "economy": 8.44
+        },
+        {
+          "player": "TC Bruce",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Central Districts",
+      "runs": 162,
+      "extras": 13,
+      "balls": 127,
+      "batting": [
+        {
+          "player": "BL Wiggins",
+          "runs": 41,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 141.38,
+          "out": true
+        },
+        {
+          "player": "BS Smith",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 25,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 108.7,
+          "out": true
+        },
+        {
+          "player": "LRPL Taylor",
+          "runs": 21,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "TC Bruce",
+          "runs": 32,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 152.38,
+          "out": true
+        },
+        {
+          "player": "JA Clarkson",
+          "runs": 5,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "W Clark",
+          "runs": 20,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 153.85,
+          "out": false
+        },
+        {
+          "player": "BG Randell",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "AY Patel",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "JR Lennox",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "RL Toole",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "ATE Hazeldine",
+          "overs": "3.4",
+          "balls": 22,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "player": "MB Bacon",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 29,
+          "wickets": 5,
+          "economy": 6.69
+        },
+        {
+          "player": "MD Rae",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 35,
+          "wickets": 2,
+          "economy": 8.4
+        },
+        {
+          "player": "BNJ Lockrose",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 5.25
+        },
+        {
+          "player": "JL Finnie",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "player": "D Foxcroft",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 10.67
+        }
+      ]
+    }
+  ]
+}

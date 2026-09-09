@@ -1,0 +1,277 @@
+{
+  "id": "1152514",
+  "teams": [
+    "Sydney Sixers",
+    "Perth Scorchers"
+  ],
+  "date": "2018-12-22",
+  "format": "T20",
+  "competition": "Big Bash League",
+  "venue": "Sydney Cricket Ground",
+  "result": "Sydney Sixers won by 17 runs",
+  "winner": "Sydney Sixers",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sydney Sixers",
+      "runs": 164,
+      "extras": 4,
+      "balls": 120,
+      "batting": [
+        {
+          "player": "J Edwards",
+          "runs": 13,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 162.5,
+          "out": true
+        },
+        {
+          "player": "JL Denly",
+          "runs": 13,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "MC Henriques",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "DP Hughes",
+          "runs": 62,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 140.91,
+          "out": true
+        },
+        {
+          "player": "JC Silk",
+          "runs": 67,
+          "balls": 49,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 136.73,
+          "out": false
+        },
+        {
+          "player": "JR Philippe",
+          "runs": 3,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 300.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "NM Coulter-Nile",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 8.75
+        },
+        {
+          "player": "JP Behrendorff",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 7.25
+        },
+        {
+          "player": "JA Richardson",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.75
+        },
+        {
+          "player": "AJ Turner",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "AC Agar",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 7.75
+        },
+        {
+          "player": "AJ Tye",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 35,
+          "wickets": 1,
+          "economy": 11.67
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Perth Scorchers",
+      "runs": 147,
+      "extras": 10,
+      "balls": 126,
+      "batting": [
+        {
+          "player": "SM Whiteman",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "DJ Willey",
+          "runs": 4,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "M Klinger",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "AJ Turner",
+          "runs": 49,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 122.5,
+          "out": true
+        },
+        {
+          "player": "HWR Cartwright",
+          "runs": 53,
+          "balls": 42,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 126.19,
+          "out": true
+        },
+        {
+          "player": "AC Agar",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "WG Bosisto",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "NM Coulter-Nile",
+          "runs": 9,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": true
+        },
+        {
+          "player": "JA Richardson",
+          "runs": 15,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": false
+        },
+        {
+          "player": "AJ Tye",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "SNJ O'Keefe",
+          "overs": "4.3",
+          "balls": 27,
+          "runs": 19,
+          "wickets": 3,
+          "economy": 4.22
+        },
+        {
+          "player": "BJ Dwarshuis",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "player": "SA Abbott",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 30,
+          "wickets": 3,
+          "economy": 7.2
+        },
+        {
+          "player": "TK Curran",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 7.92
+        },
+        {
+          "player": "L Pope",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 10.67
+        },
+        {
+          "player": "JL Denly",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ]
+    }
+  ]
+}

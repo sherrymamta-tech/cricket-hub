@@ -1,0 +1,519 @@
+{
+  "id": "1348654",
+  "teams": [
+    "India",
+    "Australia"
+  ],
+  "date": "2023-03-01",
+  "format": "Test",
+  "competition": "Australia tour of India",
+  "venue": "Holkar Cricket Stadium, Indore",
+  "result": "Australia won by 9 wickets",
+  "winner": "Australia",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "India",
+      "runs": 109,
+      "extras": 0,
+      "balls": 200,
+      "batting": [
+        {
+          "player": "RG Sharma",
+          "runs": 12,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 52.17,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 21,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 22,
+          "balls": 52,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 42.31,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "KS Bharat",
+          "runs": 17,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 56.67,
+          "out": true
+        },
+        {
+          "player": "AR Patel",
+          "runs": 12,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": false
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 3,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "UT Yadav",
+          "runs": 17,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 130.77,
+          "out": true
+        },
+        {
+          "player": "Mohammed Siraj",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 4.2
+        },
+        {
+          "player": "C Green",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "player": "MP Kuhnemann",
+          "overs": "9.0",
+          "balls": 54,
+          "runs": 16,
+          "wickets": 5,
+          "economy": 1.78
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "11.2",
+          "balls": 68,
+          "runs": 35,
+          "wickets": 3,
+          "economy": 3.09
+        },
+        {
+          "player": "T Murphy",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 3.83
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Australia",
+      "runs": 197,
+      "extras": 22,
+      "balls": 464,
+      "batting": [
+        {
+          "player": "TM Head",
+          "runs": 9,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0,
+          "out": true
+        },
+        {
+          "player": "UT Khawaja",
+          "runs": 60,
+          "balls": 147,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 40.82,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 31,
+          "balls": 91,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 34.07,
+          "out": true
+        },
+        {
+          "player": "SPD Smith",
+          "runs": 26,
+          "balls": 38,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 68.42,
+          "out": true
+        },
+        {
+          "player": "PSP Handscomb",
+          "runs": 19,
+          "balls": 98,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 19.39,
+          "out": true
+        },
+        {
+          "player": "C Green",
+          "runs": 21,
+          "balls": 57,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.84,
+          "out": true
+        },
+        {
+          "player": "AT Carey",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86,
+          "out": true
+        },
+        {
+          "player": "MA Starc",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "NM Lyon",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5,
+          "out": true
+        },
+        {
+          "player": "T Murphy",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MP Kuhnemann",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "R Ashwin",
+          "overs": "20.3",
+          "balls": 123,
+          "runs": 50,
+          "wickets": 3,
+          "economy": 2.44
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "32.3",
+          "balls": 195,
+          "runs": 89,
+          "wickets": 4,
+          "economy": 2.74
+        },
+        {
+          "player": "AR Patel",
+          "overs": "13.0",
+          "balls": 78,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 2.54
+        },
+        {
+          "player": "UT Yadav",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 12,
+          "wickets": 3,
+          "economy": 2.4
+        },
+        {
+          "player": "Mohammed Siraj",
+          "overs": "6.2",
+          "balls": 38,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 2.05
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "India",
+      "runs": 163,
+      "extras": 7,
+      "balls": 363,
+      "batting": [
+        {
+          "player": "RG Sharma",
+          "runs": 12,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": true
+        },
+        {
+          "player": "Shubman Gill",
+          "runs": 5,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "CA Pujara",
+          "runs": 59,
+          "balls": 142,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 41.55,
+          "out": true
+        },
+        {
+          "player": "V Kohli",
+          "runs": 13,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RA Jadeja",
+          "runs": 7,
+          "balls": 36,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 19.44,
+          "out": true
+        },
+        {
+          "player": "SS Iyer",
+          "runs": 26,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 96.3,
+          "out": true
+        },
+        {
+          "player": "KS Bharat",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5,
+          "out": true
+        },
+        {
+          "player": "R Ashwin",
+          "runs": 16,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": true
+        },
+        {
+          "player": "AR Patel",
+          "runs": 15,
+          "balls": 39,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 38.46,
+          "out": false
+        },
+        {
+          "player": "UT Yadav",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "Mohammed Siraj",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "MA Starc",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 2.71
+        },
+        {
+          "player": "MP Kuhnemann",
+          "overs": "16.0",
+          "balls": 96,
+          "runs": 60,
+          "wickets": 1,
+          "economy": 3.75
+        },
+        {
+          "player": "NM Lyon",
+          "overs": "23.3",
+          "balls": 141,
+          "runs": 64,
+          "wickets": 8,
+          "economy": 2.72
+        },
+        {
+          "player": "T Murphy",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 1.43
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Australia",
+      "runs": 78,
+      "extras": 1,
+      "balls": 113,
+      "batting": [
+        {
+          "player": "UT Khawaja",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "M Labuschagne",
+          "runs": 28,
+          "balls": 58,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 48.28,
+          "out": false
+        },
+        {
+          "player": "TM Head",
+          "runs": 49,
+          "balls": 53,
+          "fours": 6,
+          "sixes": 1,
+          "strike_rate": 92.45,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "R Ashwin",
+          "overs": "9.5",
+          "balls": 59,
+          "runs": 44,
+          "wickets": 1,
+          "economy": 4.47
+        },
+        {
+          "player": "RA Jadeja",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 3.43
+        },
+        {
+          "player": "UT Yadav",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ]
+    }
+  ]
+}

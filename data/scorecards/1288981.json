@@ -1,0 +1,457 @@
+{
+  "id": "1288981",
+  "teams": [
+    "South Africa",
+    "New Zealand"
+  ],
+  "date": "2022-02-17",
+  "format": "Test",
+  "competition": "South Africa tour of New Zealand",
+  "venue": "Hagley Oval, Christchurch",
+  "result": "New Zealand won by 276 runs",
+  "winner": "New Zealand",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "South Africa",
+      "runs": 95,
+      "extras": 8,
+      "balls": 296,
+      "batting": [
+        {
+          "player": "D Elgar",
+          "runs": 1,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.11,
+          "out": true
+        },
+        {
+          "player": "SJ Erwee",
+          "runs": 10,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 33.33,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 15,
+          "balls": 43,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 34.88,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 8,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.59,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 7,
+          "balls": 31,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.58,
+          "out": true
+        },
+        {
+          "player": "Zubayr Hamza",
+          "runs": 25,
+          "balls": 74,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 33.78,
+          "out": true
+        },
+        {
+          "player": "K Verreynne",
+          "runs": 18,
+          "balls": 52,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 34.62,
+          "out": true
+        },
+        {
+          "player": "M Jansen",
+          "runs": 2,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 11.76,
+          "out": false
+        },
+        {
+          "player": "K Rabada",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GA Stuurman",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "12.0",
+          "balls": 72,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 2.83
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "15.0",
+          "balls": 90,
+          "runs": 28,
+          "wickets": 7,
+          "economy": 1.87
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 1.91
+        },
+        {
+          "player": "N Wagner",
+          "overs": "9.2",
+          "balls": 56,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 1.18
+        },
+        {
+          "player": "C de Grandhomme",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 0.5
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "New Zealand",
+      "runs": 482,
+      "extras": 35,
+      "balls": 716,
+      "batting": [
+        {
+          "player": "TWM Latham",
+          "runs": 15,
+          "balls": 61,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 24.59,
+          "out": true
+        },
+        {
+          "player": "WA Young",
+          "runs": 8,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 25.0,
+          "out": true
+        },
+        {
+          "player": "DP Conway",
+          "runs": 36,
+          "balls": 76,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 47.37,
+          "out": true
+        },
+        {
+          "player": "HM Nicholls",
+          "runs": 105,
+          "balls": 165,
+          "fours": 11,
+          "sixes": 0,
+          "strike_rate": 63.64,
+          "out": true
+        },
+        {
+          "player": "N Wagner",
+          "runs": 49,
+          "balls": 56,
+          "fours": 7,
+          "sixes": 2,
+          "strike_rate": 87.5,
+          "out": true
+        },
+        {
+          "player": "DJ Mitchell",
+          "runs": 16,
+          "balls": 46,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 34.78,
+          "out": true
+        },
+        {
+          "player": "TA Blundell",
+          "runs": 96,
+          "balls": 138,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 69.57,
+          "out": true
+        },
+        {
+          "player": "C de Grandhomme",
+          "runs": 45,
+          "balls": 42,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 107.14,
+          "out": true
+        },
+        {
+          "player": "KA Jamieson",
+          "runs": 15,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 78.95,
+          "out": true
+        },
+        {
+          "player": "TG Southee",
+          "runs": 4,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 30.77,
+          "out": true
+        },
+        {
+          "player": "MJ Henry",
+          "runs": 58,
+          "balls": 68,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 85.29,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "K Rabada",
+          "overs": "30.5",
+          "balls": 185,
+          "runs": 113,
+          "wickets": 2,
+          "economy": 3.66
+        },
+        {
+          "player": "GA Stuurman",
+          "overs": "29.1",
+          "balls": 175,
+          "runs": 136,
+          "wickets": 1,
+          "economy": 4.66
+        },
+        {
+          "player": "M Jansen",
+          "overs": "30.0",
+          "balls": 180,
+          "runs": 98,
+          "wickets": 2,
+          "economy": 3.27
+        },
+        {
+          "player": "D Olivier",
+          "overs": "21.2",
+          "balls": 128,
+          "runs": 108,
+          "wickets": 3,
+          "economy": 5.06
+        },
+        {
+          "player": "AK Markram",
+          "overs": "8.0",
+          "balls": 48,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 3.38
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "South Africa",
+      "runs": 111,
+      "extras": 2,
+      "balls": 251,
+      "batting": [
+        {
+          "player": "SJ Erwee",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18,
+          "out": true
+        },
+        {
+          "player": "D Elgar",
+          "runs": 0,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "HE van der Dussen",
+          "runs": 9,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 64.29,
+          "out": true
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 41,
+          "balls": 73,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 56.16,
+          "out": true
+        },
+        {
+          "player": "Zubayr Hamza",
+          "runs": 6,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 18.75,
+          "out": true
+        },
+        {
+          "player": "K Verreynne",
+          "runs": 30,
+          "balls": 38,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 78.95,
+          "out": true
+        },
+        {
+          "player": "M Jansen",
+          "runs": 10,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 41.67,
+          "out": true
+        },
+        {
+          "player": "K Rabada",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "GA Stuurman",
+          "runs": 11,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 36.67,
+          "out": true
+        },
+        {
+          "player": "D Olivier",
+          "runs": 0,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TG Southee",
+          "overs": "17.4",
+          "balls": 106,
+          "runs": 36,
+          "wickets": 5,
+          "economy": 2.04
+        },
+        {
+          "player": "MJ Henry",
+          "overs": "11.0",
+          "balls": 66,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 2.91
+        },
+        {
+          "player": "KA Jamieson",
+          "overs": "6.1",
+          "balls": 37,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 3.89
+        },
+        {
+          "player": "N Wagner",
+          "overs": "7.0",
+          "balls": 42,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 2.71
+        }
+      ]
+    }
+  ]
+}

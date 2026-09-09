@@ -1,0 +1,579 @@
+{
+  "id": "692887",
+  "teams": [
+    "Leicestershire",
+    "Glamorgan"
+  ],
+  "date": "2014-04-27",
+  "format": "MDM",
+  "competition": "LV= County Championship",
+  "venue": "Grace Road, Leicester",
+  "result": "draw",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Leicestershire",
+      "runs": 500,
+      "extras": 15,
+      "balls": 735,
+      "batting": [
+        {
+          "player": "GP Smith",
+          "runs": 28,
+          "balls": 63,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 44.44,
+          "out": true
+        },
+        {
+          "player": "MAG Boyce",
+          "runs": 49,
+          "balls": 123,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 39.84,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 42,
+          "balls": 72,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 58.33,
+          "out": true
+        },
+        {
+          "player": "AJ Robson",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "JJ Cobb",
+          "runs": 63,
+          "balls": 97,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 64.95,
+          "out": true
+        },
+        {
+          "player": "NJ O'Brien",
+          "runs": 133,
+          "balls": 141,
+          "fours": 14,
+          "sixes": 2,
+          "strike_rate": 94.33,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 14,
+          "balls": 53,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.42,
+          "out": true
+        },
+        {
+          "player": "RML Taylor",
+          "runs": 63,
+          "balls": 77,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "JKH Naik",
+          "runs": 59,
+          "balls": 71,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 83.1,
+          "out": false
+        },
+        {
+          "player": "AJ Ireland",
+          "runs": 3,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 23.08,
+          "out": true
+        },
+        {
+          "player": "CE Shreck",
+          "runs": 31,
+          "balls": 24,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 129.17,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "GG Wagg",
+          "overs": "27.4",
+          "balls": 166,
+          "runs": 107,
+          "wickets": 4,
+          "economy": 3.87
+        },
+        {
+          "player": "WT Owen",
+          "overs": "26.1",
+          "balls": 157,
+          "runs": 151,
+          "wickets": 1,
+          "economy": 5.77
+        },
+        {
+          "player": "J Allenby",
+          "overs": "33.4",
+          "balls": 202,
+          "runs": 104,
+          "wickets": 2,
+          "economy": 3.09
+        },
+        {
+          "player": "JC Glover",
+          "overs": "17.0",
+          "balls": 102,
+          "runs": 82,
+          "wickets": 1,
+          "economy": 4.82
+        },
+        {
+          "player": "DA Cosker",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 56,
+          "wickets": 1,
+          "economy": 3.11
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Glamorgan",
+      "runs": 359,
+      "extras": 29,
+      "balls": 629,
+      "batting": [
+        {
+          "player": "GP Rees",
+          "runs": 72,
+          "balls": 161,
+          "fours": 10,
+          "sixes": 0,
+          "strike_rate": 44.72,
+          "out": true
+        },
+        {
+          "player": "JA Rudolph",
+          "runs": 65,
+          "balls": 131,
+          "fours": 11,
+          "sixes": 1,
+          "strike_rate": 49.62,
+          "out": true
+        },
+        {
+          "player": "MW Goodwin",
+          "runs": 23,
+          "balls": 51,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 45.1,
+          "out": true
+        },
+        {
+          "player": "SJ Walters",
+          "runs": 35,
+          "balls": 67,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 52.24,
+          "out": true
+        },
+        {
+          "player": "J Allenby",
+          "runs": 41,
+          "balls": 57,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 71.93,
+          "out": true
+        },
+        {
+          "player": "MA Wallace",
+          "runs": 7,
+          "balls": 39,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 17.95,
+          "out": true
+        },
+        {
+          "player": "WD Bragg",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0,
+          "out": true
+        },
+        {
+          "player": "GG Wagg",
+          "runs": 57,
+          "balls": 55,
+          "fours": 7,
+          "sixes": 3,
+          "strike_rate": 103.64,
+          "out": true
+        },
+        {
+          "player": "JC Glover",
+          "runs": 6,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 27.27,
+          "out": true
+        },
+        {
+          "player": "DA Cosker",
+          "runs": 6,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0,
+          "out": true
+        },
+        {
+          "player": "WT Owen",
+          "runs": 12,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 57.14,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CE Shreck",
+          "overs": "29.2",
+          "balls": 176,
+          "runs": 86,
+          "wickets": 3,
+          "economy": 2.93
+        },
+        {
+          "player": "AJ Ireland",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 93,
+          "wickets": 3,
+          "economy": 3.44
+        },
+        {
+          "player": "RML Taylor",
+          "overs": "18.1",
+          "balls": 109,
+          "runs": 54,
+          "wickets": 1,
+          "economy": 2.97
+        },
+        {
+          "player": "JKH Naik",
+          "overs": "14.0",
+          "balls": 84,
+          "runs": 61,
+          "wickets": 0,
+          "economy": 4.36
+        },
+        {
+          "player": "BA Raine",
+          "overs": "16.2",
+          "balls": 98,
+          "runs": 65,
+          "wickets": 2,
+          "economy": 3.98
+        }
+      ]
+    },
+    {
+      "innings": 3,
+      "team": "Leicestershire",
+      "runs": 179,
+      "extras": 1,
+      "balls": 256,
+      "batting": [
+        {
+          "player": "GP Smith",
+          "runs": 97,
+          "balls": 131,
+          "fours": 13,
+          "sixes": 0,
+          "strike_rate": 74.05,
+          "out": true
+        },
+        {
+          "player": "MAG Boyce",
+          "runs": 24,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 53.33,
+          "out": true
+        },
+        {
+          "player": "EJH Eckersley",
+          "runs": 22,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 146.67,
+          "out": true
+        },
+        {
+          "player": "NJ O'Brien",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "RML Taylor",
+          "runs": 15,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "JJ Cobb",
+          "runs": 13,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 86.67,
+          "out": true
+        },
+        {
+          "player": "AJ Robson",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "BA Raine",
+          "runs": 1,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 7.69,
+          "out": true
+        },
+        {
+          "player": "JKH Naik",
+          "runs": 5,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 26.32,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WT Owen",
+          "overs": "5.3",
+          "balls": 33,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 4.73
+        },
+        {
+          "player": "GG Wagg",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 65,
+          "wickets": 4,
+          "economy": 4.59
+        },
+        {
+          "player": "DA Cosker",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 64,
+          "wickets": 3,
+          "economy": 3.56
+        },
+        {
+          "player": "J Allenby",
+          "overs": "5.0",
+          "balls": 30,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 4.8
+        }
+      ]
+    },
+    {
+      "innings": 4,
+      "team": "Glamorgan",
+      "runs": 250,
+      "extras": 13,
+      "balls": 425,
+      "batting": [
+        {
+          "player": "JA Rudolph",
+          "runs": 63,
+          "balls": 89,
+          "fours": 9,
+          "sixes": 0,
+          "strike_rate": 70.79,
+          "out": true
+        },
+        {
+          "player": "GP Rees",
+          "runs": 25,
+          "balls": 39,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 64.1,
+          "out": true
+        },
+        {
+          "player": "WD Bragg",
+          "runs": 7,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.92,
+          "out": true
+        },
+        {
+          "player": "MW Goodwin",
+          "runs": 50,
+          "balls": 77,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 64.94,
+          "out": true
+        },
+        {
+          "player": "SJ Walters",
+          "runs": 57,
+          "balls": 115,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 49.57,
+          "out": false
+        },
+        {
+          "player": "J Allenby",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "MA Wallace",
+          "runs": 7,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 46.67,
+          "out": true
+        },
+        {
+          "player": "GG Wagg",
+          "runs": 9,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 69.23,
+          "out": true
+        },
+        {
+          "player": "JC Glover",
+          "runs": 19,
+          "balls": 49,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.78,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "CE Shreck",
+          "overs": "18.0",
+          "balls": 108,
+          "runs": 58,
+          "wickets": 1,
+          "economy": 3.22
+        },
+        {
+          "player": "AJ Ireland",
+          "overs": "14.1",
+          "balls": 85,
+          "runs": 55,
+          "wickets": 2,
+          "economy": 3.88
+        },
+        {
+          "player": "RML Taylor",
+          "overs": "6.0",
+          "balls": 36,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "player": "JKH Naik",
+          "overs": "27.0",
+          "balls": 162,
+          "runs": 84,
+          "wickets": 3,
+          "economy": 3.11
+        },
+        {
+          "player": "BA Raine",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "player": "AJ Robson",
+          "overs": "1.4",
+          "balls": 10,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "id": "412681",
+  "teams": [
+    "England",
+    "Ireland"
+  ],
+  "date": "2010-05-04",
+  "format": "T20",
+  "competition": "ICC World Twenty20",
+  "venue": "Providence Stadium",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "England",
+      "runs": 120,
+      "extras": 7,
+      "balls": 123,
+      "batting": [
+        {
+          "player": "MJ Lumb",
+          "runs": 14,
+          "balls": 11,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 127.27,
+          "out": true
+        },
+        {
+          "player": "C Kieswetter",
+          "runs": 13,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 76.47,
+          "out": true
+        },
+        {
+          "player": "KP Pietersen",
+          "runs": 9,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0,
+          "out": true
+        },
+        {
+          "player": "PD Collingwood",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "EJG Morgan",
+          "runs": 45,
+          "balls": 37,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 121.62,
+          "out": true
+        },
+        {
+          "player": "LJ Wright",
+          "runs": 20,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 80.0,
+          "out": true
+        },
+        {
+          "player": "TT Bresnan",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33,
+          "out": true
+        },
+        {
+          "player": "GP Swann",
+          "runs": 7,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 116.67,
+          "out": false
+        },
+        {
+          "player": "MH Yardy",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0,
+          "out": true
+        }
+      ],
+      "bowling": [
+        {
+          "player": "WB Rankin",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 28,
+          "wickets": 2,
+          "economy": 6.72
+        },
+        {
+          "player": "DT Johnston",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 3.75
+        },
+        {
+          "player": "KJ O'Brien",
+          "overs": "3.1",
+          "balls": 19,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 6.95
+        },
+        {
+          "player": "GH Dockrell",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.75
+        },
+        {
+          "player": "AC Botha",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 6.96
+        },
+        {
+          "player": "AR Cusack",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Ireland",
+      "runs": 14,
+      "extras": 1,
+      "balls": 22,
+      "batting": [
+        {
+          "player": "WTS Porterfield",
+          "runs": 4,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36,
+          "out": false
+        },
+        {
+          "player": "PR Stirling",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "NJ O'Brien",
+          "runs": 9,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 180.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "TT Bresnan",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 2.31
+        },
+        {
+          "player": "RJ Sidebottom",
+          "overs": "1.3",
+          "balls": 9,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 6.0
+        }
+      ]
+    }
+  ]
+}

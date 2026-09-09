@@ -1,0 +1,224 @@
+{
+  "id": "1235385",
+  "teams": [
+    "Warriors",
+    "Dolphins"
+  ],
+  "date": "2021-02-21",
+  "format": "T20",
+  "competition": "CSA T20 Challenge",
+  "venue": "Kingsmead, Durban",
+  "result": "Dolphins won by 3 runs",
+  "winner": "Dolphins",
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Warriors",
+      "runs": 143,
+      "extras": 10,
+      "balls": 124,
+      "batting": [
+        {
+          "player": "GL Cloete",
+          "runs": 5,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.71,
+          "out": true
+        },
+        {
+          "player": "M Marais",
+          "runs": 18,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 81.82,
+          "out": true
+        },
+        {
+          "player": "LC Ngoepe",
+          "runs": 19,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 146.15,
+          "out": true
+        },
+        {
+          "player": "JT Smuts",
+          "runs": 29,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 111.54,
+          "out": true
+        },
+        {
+          "player": "S Qeshile",
+          "runs": 47,
+          "balls": 38,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 123.68,
+          "out": false
+        },
+        {
+          "player": "A Gqamane",
+          "runs": 5,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 125.0,
+          "out": true
+        },
+        {
+          "player": "T Stubbs",
+          "runs": 10,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 142.86,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "KA Maharaj",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "P Subrayen",
+          "overs": "4.2",
+          "balls": 26,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 7.15
+        },
+        {
+          "player": "R Frylinck",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 33,
+          "wickets": 1,
+          "economy": 8.25
+        },
+        {
+          "player": "K Mungroo",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.44
+        },
+        {
+          "player": "OEG Baartman",
+          "overs": "4.1",
+          "balls": 25,
+          "runs": 32,
+          "wickets": 2,
+          "economy": 7.68
+        }
+      ]
+    },
+    {
+      "innings": 2,
+      "team": "Dolphins",
+      "runs": 128,
+      "extras": 6,
+      "balls": 109,
+      "batting": [
+        {
+          "player": "KD Petersen",
+          "runs": 58,
+          "balls": 57,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 101.75,
+          "out": false
+        },
+        {
+          "player": "SJ Erwee",
+          "runs": 52,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 4,
+          "strike_rate": 140.54,
+          "out": true
+        },
+        {
+          "player": "S Muthusamy",
+          "runs": 6,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 85.71,
+          "out": true
+        },
+        {
+          "player": "DA Miller",
+          "runs": 6,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "T Ntuli",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 6.25
+        },
+        {
+          "player": "M Jansen",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 9.33
+        },
+        {
+          "player": "A Nortje",
+          "overs": "4.0",
+          "balls": 24,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "player": "A Gqamane",
+          "overs": "3.0",
+          "balls": 18,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 5.67
+        },
+        {
+          "player": "L Makhosi",
+          "overs": "2.1",
+          "balls": 13,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 9.69
+        },
+        {
+          "player": "JT Smuts",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 10.5
+        }
+      ]
+    }
+  ]
+}

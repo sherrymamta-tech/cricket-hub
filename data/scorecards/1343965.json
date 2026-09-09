@@ -1,0 +1,103 @@
+{
+  "id": "1343965",
+  "teams": [
+    "Sunrisers Eastern Cape",
+    "Durban's Super Giants"
+  ],
+  "date": "2023-02-03",
+  "format": "T20",
+  "competition": "SA20",
+  "venue": "Kingsmead, Durban",
+  "result": "no result",
+  "winner": null,
+  "innings": [
+    {
+      "innings": 1,
+      "team": "Sunrisers Eastern Cape",
+      "runs": 53,
+      "extras": 3,
+      "balls": 34,
+      "batting": [
+        {
+          "player": "AM Rossington",
+          "runs": 35,
+          "balls": 18,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 194.44,
+          "out": false
+        },
+        {
+          "player": "T Bavuma",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "J Hermann",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0,
+          "out": true
+        },
+        {
+          "player": "AK Markram",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67,
+          "out": true
+        },
+        {
+          "player": "JT Smuts",
+          "runs": 9,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 180.0,
+          "out": false
+        }
+      ],
+      "bowling": [
+        {
+          "player": "DJ Willey",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "player": "RJW Topley",
+          "overs": "2.0",
+          "balls": 12,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 10.0
+        },
+        {
+          "player": "PWA Mulder",
+          "overs": "1.0",
+          "balls": 6,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 7.0
+        },
+        {
+          "player": "KMA Paul",
+          "overs": "0.4",
+          "balls": 4,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 16.5
+        }
+      ]
+    }
+  ]
+}
