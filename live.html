@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -567,6 +566,10 @@ const API =
 let liveMatches = [];
 
 
+/* =========================================
+   LOAD LIVE SCORES
+========================================= */
+
 async function loadLiveScores() {
 
     const status =
@@ -575,13 +578,17 @@ async function loadLiveScores() {
     const container =
         document.getElementById("matches");
 
+
     status.textContent =
         "⚡ Loading live scores...";
 
+
     container.innerHTML = "";
+
 
     const controller =
         new AbortController();
+
 
     const timeout =
         setTimeout(() => {
@@ -637,6 +644,7 @@ async function loadLiveScores() {
     catch(error) {
 
         clearTimeout(timeout);
+
 
         console.error(
             "Live score error:",
@@ -706,10 +714,27 @@ function renderLiveMatches(list) {
     container.innerHTML = "";
 
 
-    if (!list.length) {
+    /*
+     * ONLY SHOW MATCHES WHERE
+     * SPORTScore STATUS IS "live"
+     */
+
+    const liveOnly =
+        list.filter(match => {
+
+            return String(
+                match.status || ""
+            )
+            .toLowerCase()
+            .trim() === "live";
+
+        });
+
+
+    if (!liveOnly.length) {
 
         status.textContent =
-            "No matches found.";
+            "No live matches right now.";
 
         return;
 
@@ -717,11 +742,11 @@ function renderLiveMatches(list) {
 
 
     status.textContent =
-        list.length +
-        " cricket matches found";
+        liveOnly.length +
+        " live cricket matches";
 
 
-    list.forEach(match => {
+    liveOnly.forEach(match => {
 
         const card =
             document.createElement("div");
@@ -741,17 +766,17 @@ function renderLiveMatches(list) {
             "Unknown Team";
 
 
+        /*
+         * SportScore is currently returning
+         * "-" for some live scores.
+         */
+
         const homeScore =
             match.home_score ?? "-";
 
 
         const awayScore =
             match.away_score ?? "-";
-
-
-        const matchStatus =
-            match.status ||
-            "Match information";
 
 
         const date =
@@ -763,41 +788,64 @@ function renderLiveMatches(list) {
         card.innerHTML = `
 
         <div class="match-title">
-            🏏 Cricket Match
+
+            🔴 LIVE • 🏏 Cricket Match
+
         </div>
 
+
         <div class="team">
+
             ${escapeHTML(home)}
+
         </div>
 
+
         <div class="score">
+
             ${escapeHTML(homeScore)}
+
         </div>
+
 
         <div class="team">
+
             ${escapeHTML(away)}
+
         </div>
 
+
         <div class="score">
+
             ${escapeHTML(awayScore)}
+
         </div>
+
 
         ${
             date
             ?
             `
             <div class="date">
+
                 📅 ${escapeHTML(date)}
+
             </div>
             `
             :
             ""
         }
 
+
         <div class="match-status">
-            ${escapeHTML(
-                String(matchStatus).toUpperCase()
+
+            🔴 ${escapeHTML(
+                String(
+                    match.status ||
+                    "LIVE"
+                ).toUpperCase()
             )}
+
         </div>
 
         `;
@@ -1027,12 +1075,7 @@ function renderHistory(list) {
 
 
         /*
-         * =====================================
          * SCORECARD BUTTON
-         *
-         * IMPORTANT:
-         * NO INLINE ONCLICK
-         * =====================================
          */
 
         if (matchId) {
@@ -1052,10 +1095,6 @@ function renderHistory(list) {
             scorecardButton.textContent =
                 "📊 View Full Scorecard";
 
-
-            /*
-             * DIRECT EVENT LISTENER
-             */
 
             scorecardButton.addEventListener(
                 "click",
@@ -1250,6 +1289,26 @@ function searchEverything() {
 
     const filteredLive =
         liveMatches.filter(match => {
+
+            /*
+             * First make sure the match
+             * is actually LIVE.
+             */
+
+            const isLive =
+                String(
+                    match.status || ""
+                )
+                .toLowerCase()
+                .trim() === "live";
+
+
+            if (!isLive) {
+
+                return false;
+
+            }
+
 
             const home =
                 String(
@@ -1608,9 +1667,7 @@ async function showScorecard(id) {
 
 
     /*
-     * =====================================
      * VALIDATE ID
-     * =====================================
      */
 
     if (!matchId) {
@@ -1642,9 +1699,7 @@ async function showScorecard(id) {
 
 
     /*
-     * =====================================
      * SHOW SCORECARD SECTION
-     * =====================================
      */
 
     section.classList.remove(
@@ -1677,12 +1732,6 @@ async function showScorecard(id) {
 
 
     try {
-
-        /*
-         * =================================
-         * SCORECARD FILE
-         * =================================
-         */
 
         const scorecardURL =
             "data/scorecards/" +
@@ -2400,10 +2449,25 @@ function escapeHTML(value) {
 
 
 /* =========================================
+   CLOSE SCORECARD
+========================================= */
+
+function closeScorecard() {
+
+    document
+        .getElementById(
+            "scorecardSection"
+        )
+        .classList.add(
+            "hidden"
+        );
+
+}
+
+
+/* =========================================
    EVENT LISTENERS
-   =========================================
-   ALL BUTTONS ARE CONNECTED HERE
-   ========================================= */
+========================================= */
 
 document
     .getElementById("searchButton")
@@ -2466,23 +2530,6 @@ document
 
 
 /* =========================================
-   CLOSE SCORECARD
-========================================= */
-
-function closeScorecard() {
-
-    document
-        .getElementById(
-            "scorecardSection"
-        )
-        .classList.add(
-            "hidden"
-        );
-
-}
-
-
-/* =========================================
    START
 ========================================= */
 
@@ -2504,4 +2551,3 @@ setInterval(
 
 </body>
 </html>
-```
