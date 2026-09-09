@@ -128,6 +128,14 @@ button:hover {
     margin-top: 8px;
 }
 
+.live-scorecard-button {
+    background: #e60000;
+}
+
+.live-scorecard-button:hover {
+    background: #b80000;
+}
+
 .scorecard {
     background: white;
     margin-top: 20px;
@@ -158,6 +166,23 @@ button:hover {
     display: none;
 }
 
+#liveScoreboardSection {
+    margin-top: 25px;
+}
+
+#liveScoreboardFrame {
+    width: 100%;
+    height: 700px;
+    border: none;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.close-live-button {
+    background: #777;
+}
+
 footer {
     text-align: center;
     padding: 20px;
@@ -167,6 +192,7 @@ footer {
 }
 
 @media (max-width: 700px) {
+
     .search-box input {
         width: 95%;
     }
@@ -182,6 +208,10 @@ footer {
     .scorecard table {
         font-size: 13px;
     }
+
+    #liveScoreboardFrame {
+        height: 650px;
+    }
 }
 </style>
 </head>
@@ -189,6 +219,7 @@ footer {
 <body>
 
 <header>
+
     <h1>🏏 Cricket Hub</h1>
 
     <nav>
@@ -202,19 +233,68 @@ footer {
         <a href="achievements.html">Achievements</a>
         <a href="live.html">Live Scores</a>
     </nav>
+
 </header>
+
 
 <div class="container">
 
+    <!-- =========================
+         LIVE MATCHES
+    ========================== -->
+
     <h2>🔴 Live Cricket Matches</h2>
 
-    <div id="liveStatus">⚡ Loading live scores...</div>
+    <div id="liveStatus">
+        ⚡ Loading live scores...
+    </div>
 
     <div id="matches"></div>
 
-    <button id="refreshButton">🔄 Refresh Live Scores</button>
+    <button id="refreshButton">
+        🔄 Refresh Live Scores
+    </button>
+
+
+    <!-- =========================
+         LIVE SCOREBOARD
+    ========================== -->
+
+    <div
+        id="liveScoreboardSection"
+        class="hidden"
+    >
+
+        <h2>
+            📊 Live Scoreboard
+        </h2>
+
+        <div id="liveScoreboardTitle"></div>
+
+        <iframe
+            id="liveScoreboardFrame"
+            title="Live Cricket Scoreboard"
+            loading="lazy"
+            allowfullscreen>
+        </iframe>
+
+        <br>
+
+        <button
+            id="closeLiveScoreboardButton"
+            class="close-live-button">
+            ❌ Close Live Scoreboard
+        </button>
+
+    </div>
+
 
     <hr>
+
+
+    <!-- =========================
+         HISTORY
+    ========================== -->
 
     <h2>📚 Cricket Match History</h2>
 
@@ -234,8 +314,15 @@ footer {
 
         <br>
 
-        <button id="searchButton">🔎 Search</button>
-        <button id="clearButton" class="clear-btn">❌ Clear</button>
+        <button id="searchButton">
+            🔎 Search
+        </button>
+
+        <button
+            id="clearButton"
+            class="clear-btn">
+            ❌ Clear
+        </button>
 
         <p>
             Examples:
@@ -251,13 +338,25 @@ footer {
 
     </div>
 
+
     <div id="history"></div>
 
-    <button id="loadMoreButton">⬇️ Load More</button>
+    <button id="loadMoreButton">
+        ⬇️ Load More
+    </button>
 
-    <div id="scorecardSection" class="scorecard hidden">
 
-        <h2>📊 Full Scorecard</h2>
+    <!-- =========================
+         HISTORICAL SCORECARD
+    ========================== -->
+
+    <div
+        id="scorecardSection"
+        class="scorecard hidden">
+
+        <h2>
+            📊 Full Scorecard
+        </h2>
 
         <div id="scorecard"></div>
 
@@ -269,97 +368,146 @@ footer {
 
 </div>
 
+
 <footer>
+
     Cricket Hub © 2026
+
     <br>
+
     Powered by SportScore
+
 </footer>
 
+
 <script>
+
+/* =========================
+   SPORT SCORE API
+========================= */
 
 const API =
     "https://sportscore.com/api/widget/matches/?sport=cricket&limit=50";
 
+
 let liveMatches = [];
+
 let matchHistory = [];
 
 let historyDisplayCount = 20;
 
 
 /* =========================
-   LIVE SCORES
+   LOAD LIVE MATCHES
 ========================= */
 
 async function loadLiveScores() {
 
     const status =
-        document.getElementById("liveStatus");
+        document.getElementById(
+            "liveStatus"
+        );
 
     const container =
-        document.getElementById("matches");
+        document.getElementById(
+            "matches"
+        );
+
 
     status.textContent =
         "⚡ Loading live scores...";
 
+
     container.innerHTML = "";
+
 
     const controller =
         new AbortController();
 
+
     const timeout =
-        setTimeout(() => {
-            controller.abort();
-        }, 8000);
+        setTimeout(
+            () => {
+                controller.abort();
+            },
+            8000
+        );
+
 
     try {
 
         const response =
-            await fetch(API, {
-                signal: controller.signal,
-                cache: "no-store"
-            });
+            await fetch(
+                API,
+                {
+                    signal:
+                        controller.signal,
+
+                    cache:
+                        "no-store"
+                }
+            );
+
 
         clearTimeout(timeout);
 
+
         if (!response.ok) {
+
             throw new Error(
                 "API request failed: " +
                 response.status
             );
+
         }
+
 
         const data =
             await response.json();
+
 
         console.log(
             "SportScore data:",
             data
         );
 
-        liveMatches =
-            Array.isArray(data.matches)
-                ? data.matches
-                : [];
 
-        renderLiveMatches(liveMatches);
+        liveMatches =
+            Array.isArray(
+                data.matches
+            )
+            ? data.matches
+            : [];
+
+
+        renderLiveMatches(
+            liveMatches
+        );
+
 
     } catch (error) {
 
         clearTimeout(timeout);
+
 
         console.error(
             "Live score error:",
             error
         );
 
+
         status.innerHTML =
             "❌ Unable to load live matches.<br>" +
-            "<button id='retryLiveButton'>🔄 Retry</button>";
+            "<button id='retryLiveButton'>" +
+            "🔄 Retry" +
+            "</button>";
+
 
         const retryButton =
             document.getElementById(
                 "retryLiveButton"
             );
+
 
         if (retryButton) {
 
@@ -376,29 +524,62 @@ async function loadLiveScores() {
 
 
 /* =========================
-   RENDER LIVE MATCHES
+   DISPLAY SCORE
+========================= */
+
+function displayScore(score) {
+
+    if (
+        score === null ||
+        score === undefined ||
+        score === "" ||
+        String(score).trim() === "-"
+    ) {
+
+        return "No";
+
+    }
+
+
+    return String(score);
+
+}
+
+
+/* =========================
+   LIVE MATCH CARDS
 ========================= */
 
 function renderLiveMatches(list) {
 
     const container =
-        document.getElementById("matches");
+        document.getElementById(
+            "matches"
+        );
+
 
     const status =
-        document.getElementById("liveStatus");
+        document.getElementById(
+            "liveStatus"
+        );
+
 
     container.innerHTML = "";
 
+
     const liveOnly =
-        list.filter(match => {
+        list.filter(
+            match => {
 
-            return String(
-                match.status || ""
-            )
-            .toLowerCase()
-            .trim() === "live";
+                return String(
+                    match.status || ""
+                )
+                .toLowerCase()
+                .trim() === "live";
 
-        });
+            }
+        );
+
 
     if (!liveOnly.length) {
 
@@ -409,111 +590,286 @@ function renderLiveMatches(list) {
 
     }
 
+
     status.textContent =
         liveOnly.length +
         " live cricket matches";
 
-    liveOnly.forEach(match => {
 
-        const card =
-            document.createElement("div");
+    liveOnly.forEach(
+        match => {
 
-        card.className = "match";
-
-        const home =
-            match.home || "Unknown Team";
-
-        const away =
-            match.away || "Unknown Team";
+            const card =
+                document.createElement(
+                    "div"
+                );
 
 
-        /*
-          IMPORTANT:
-          SportScore sometimes sends "-"
-          or null when no score is available.
-          We convert both into "No".
-        */
-
-        const homeScore =
-            match.home_score &&
-            match.home_score !== "-"
-                ? match.home_score
-                : "No";
-
-        const awayScore =
-            match.away_score &&
-            match.away_score !== "-"
-                ? match.away_score
-                : "No";
+            card.className =
+                "match";
 
 
-        const matchStatus =
-            match.status || "Live";
+            const home =
+                match.home ||
+                "Unknown Team";
 
 
-        const date =
-            match.date ||
-            match.start_time ||
-            "";
+            const away =
+                match.away ||
+                "Unknown Team";
 
 
-        card.innerHTML = `
+            const homeScore =
+                displayScore(
+                    match.home_score
+                );
 
-            <div class="live-label">
-                🔴 LIVE
-            </div>
 
-            <h3>
-                ${escapeHTML(home)}
+            const awayScore =
+                displayScore(
+                    match.away_score
+                );
+
+
+            const matchStatus =
+                match.status ||
+                "Live";
+
+
+            const date =
+                match.time ||
+                match.date ||
+                match.start_time ||
+                "";
+
+
+            card.innerHTML = `
+
+                <div class="live-label">
+                    🔴 LIVE
+                </div>
+
+                <h3>
+                    ${escapeHTML(home)}
+                    vs
+                    ${escapeHTML(away)}
+                </h3>
+
+                <div class="score">
+                    ${escapeHTML(home)}
+                    : ${escapeHTML(homeScore)}
+                </div>
+
+                <div class="score">
+                    ${escapeHTML(away)}
+                    : ${escapeHTML(awayScore)}
+                </div>
+
+                <div class="status">
+                    Status:
+                    ${escapeHTML(matchStatus)}
+                </div>
+
+                ${
+                    match.status_text
+                    ? `
+                        <div class="status">
+                            📢
+                            ${escapeHTML(
+                                match.status_text
+                            )}
+                        </div>
+                    `
+                    : ""
+                }
+
+                ${
+                    date
+                    ? `
+                        <div class="status">
+                            🕐
+                            ${escapeHTML(date)}
+                        </div>
+                    `
+                    : ""
+                }
+
+                <button
+                    class="live-scorecard-button">
+                    📊 Live Scorecard
+                </button>
+
+            `;
+
+
+            const scorecardButton =
+                card.querySelector(
+                    ".live-scorecard-button"
+                );
+
+
+            scorecardButton.addEventListener(
+                "click",
+                () => {
+
+                    openLiveScoreboard(
+                        match
+                    );
+
+                }
+            );
+
+
+            container.appendChild(
+                card
+            );
+
+        }
+    );
+
+}
+
+
+/* =========================
+   OPEN LIVE SCOREBOARD
+========================= */
+
+function openLiveScoreboard(match) {
+
+    const section =
+        document.getElementById(
+            "liveScoreboardSection"
+        );
+
+
+    const frame =
+        document.getElementById(
+            "liveScoreboardFrame"
+        );
+
+
+    const title =
+        document.getElementById(
+            "liveScoreboardTitle"
+        );
+
+
+    if (
+        !match ||
+        !match.url
+    ) {
+
+        alert(
+            "Live scoreboard is not available for this match."
+        );
+
+        return;
+
+    }
+
+
+    /*
+      SportScore gives us:
+      /cricket/match/team-a-vs-team-b/
+
+      We turn that into:
+      https://sportscore.com/cricket/match/...
+    */
+
+    const scoreboardURL =
+        "https://sportscore.com" +
+        match.url;
+
+
+    console.log(
+        "Opening live scoreboard:",
+        scoreboardURL
+    );
+
+
+    title.innerHTML = `
+
+        <p>
+            🔴
+            <b>
+                ${escapeHTML(
+                    match.home
+                )}
                 vs
-                ${escapeHTML(away)}
-            </h3>
+                ${escapeHTML(
+                    match.away
+                )}
+            </b>
+        </p>
 
-            <div class="score">
-                ${escapeHTML(home)}
-                : ${escapeHTML(homeScore)}
-            </div>
+        <p class="status">
+            Live scoreboard powered by SportScore
+        </p>
 
-            <div class="score">
-                ${escapeHTML(away)}
-                : ${escapeHTML(awayScore)}
-            </div>
+    `;
 
-            <div class="status">
-                Status:
-                ${escapeHTML(matchStatus)}
-            </div>
 
-            ${
-                date
-                ? `
-                    <div class="status">
-                        🕐 ${escapeHTML(date)}
-                    </div>
-                `
-                : ""
-            }
+    frame.src =
+        scoreboardURL;
 
-        `;
 
-        container.appendChild(card);
+    section.classList.remove(
+        "hidden"
+    );
 
+
+    section.scrollIntoView({
+        behavior: "smooth",
+        block: "start"
     });
 
 }
 
 
 /* =========================
-   LOAD MATCH HISTORY
+   CLOSE LIVE SCOREBOARD
+========================= */
+
+function closeLiveScoreboard() {
+
+    const section =
+        document.getElementById(
+            "liveScoreboardSection"
+        );
+
+
+    const frame =
+        document.getElementById(
+            "liveScoreboardFrame"
+        );
+
+
+    frame.src =
+        "about:blank";
+
+
+    section.classList.add(
+        "hidden"
+    );
+
+}
+
+
+/* =========================
+   LOAD HISTORY
 ========================= */
 
 async function loadMatchHistory() {
 
     const container =
-        document.getElementById("history");
+        document.getElementById(
+            "history"
+        );
+
 
     container.innerHTML =
         "⏳ Loading match history...";
+
 
     try {
 
@@ -521,9 +877,11 @@ async function loadMatchHistory() {
             await fetch(
                 "data/matches.json",
                 {
-                    cache: "no-store"
+                    cache:
+                        "no-store"
                 }
             );
+
 
         if (!response.ok) {
 
@@ -534,13 +892,16 @@ async function loadMatchHistory() {
 
         }
 
+
         matchHistory =
             await response.json();
+
 
         console.log(
             "Historical matches:",
             matchHistory.length
         );
+
 
         renderHistory(
             matchHistory.slice(
@@ -549,12 +910,14 @@ async function loadMatchHistory() {
             )
         );
 
+
     } catch (error) {
 
         console.error(
             "History error:",
             error
         );
+
 
         container.innerHTML =
             "❌ Unable to load match history.";
@@ -571,9 +934,13 @@ async function loadMatchHistory() {
 function renderHistory(list) {
 
     const container =
-        document.getElementById("history");
+        document.getElementById(
+            "history"
+        );
+
 
     container.innerHTML = "";
+
 
     if (!list.length) {
 
@@ -585,90 +952,100 @@ function renderHistory(list) {
     }
 
 
-    list.forEach(match => {
+    list.forEach(
+        match => {
 
-        const card =
-            document.createElement("div");
-
-        card.className = "match";
-
-
-        const home =
-            match.home ||
-            match.team1 ||
-            "Unknown Team";
+            const card =
+                document.createElement(
+                    "div"
+                );
 
 
-        const away =
-            match.away ||
-            match.team2 ||
-            "Unknown Team";
+            card.className =
+                "match";
 
 
-        const date =
-            match.date ||
-            match.match_date ||
-            "";
+            const home =
+                match.home ||
+                match.team1 ||
+                "Unknown Team";
 
 
-        const result =
-            match.result ||
-            match.status ||
-            "";
+            const away =
+                match.away ||
+                match.team2 ||
+                "Unknown Team";
 
 
-        card.innerHTML = `
-
-            <h3>
-                ${escapeHTML(home)}
-                vs
-                ${escapeHTML(away)}
-            </h3>
-
-            <div>
-                📅 ${escapeHTML(date)}
-            </div>
-
-            ${
-                result
-                ? `
-                    <div class="status">
-                        🏆 ${escapeHTML(result)}
-                    </div>
-                `
-                : ""
-            }
-
-            <button class="scorecardButton">
-                📊 View Scorecard
-            </button>
-
-        `;
+            const date =
+                match.date ||
+                match.match_date ||
+                "";
 
 
-        const scorecardButton =
-            card.querySelector(
-                ".scorecardButton"
+            const result =
+                match.result ||
+                match.status ||
+                "";
+
+
+            card.innerHTML = `
+
+                <h3>
+                    ${escapeHTML(home)}
+                    vs
+                    ${escapeHTML(away)}
+                </h3>
+
+                <div>
+                    📅
+                    ${escapeHTML(date)}
+                </div>
+
+                ${
+                    result
+                    ? `
+                        <div class="status">
+                            🏆
+                            ${escapeHTML(result)}
+                        </div>
+                    `
+                    : ""
+                }
+
+                <button class="scorecardButton">
+                    📊 View Scorecard
+                </button>
+
+            `;
+
+
+            const scorecardButton =
+                card.querySelector(
+                    ".scorecardButton"
+                );
+
+
+            scorecardButton.addEventListener(
+                "click",
+                () => {
+
+                    showScorecard(
+                        match.id ||
+                        match.match_id ||
+                        match.key
+                    );
+
+                }
             );
 
 
-        scorecardButton.addEventListener(
-            "click",
-            () => {
+            container.appendChild(
+                card
+            );
 
-                showScorecard(
-                    match.id ||
-                    match.match_id ||
-                    match.key
-                );
-
-            }
-        );
-
-
-        container.appendChild(card);
-
-    });
+        }
+    );
 
 
     const loadMoreButton =
@@ -702,6 +1079,7 @@ function renderHistory(list) {
 function loadMoreHistory() {
 
     historyDisplayCount += 20;
+
 
     renderHistory(
         matchHistory.slice(
@@ -737,56 +1115,62 @@ function searchEverything() {
         .trim();
 
 
-    let filtered =
-        matchHistory.filter(match => {
+    const filtered =
+        matchHistory.filter(
+            match => {
 
-            const home =
-                String(
-                    match.home ||
-                    match.team1 ||
-                    ""
-                )
-                .toLowerCase();
-
-
-            const away =
-                String(
-                    match.away ||
-                    match.team2 ||
-                    ""
-                )
-                .toLowerCase();
+                const home =
+                    String(
+                        match.home ||
+                        match.team1 ||
+                        ""
+                    )
+                    .toLowerCase();
 
 
-            const matchDate =
-                String(
-                    match.date ||
-                    match.match_date ||
-                    ""
-                )
-                .toLowerCase();
+                const away =
+                    String(
+                        match.away ||
+                        match.team2 ||
+                        ""
+                    )
+                    .toLowerCase();
 
 
-            const teamMatch =
-                !team ||
-                home.includes(team) ||
-                away.includes(team);
+                const matchDate =
+                    String(
+                        match.date ||
+                        match.match_date ||
+                        ""
+                    )
+                    .toLowerCase();
 
 
-            const dateMatch =
-                matchDateSearch(
-                    matchDate,
-                    date
+                const teamMatch =
+                    !team ||
+                    home.includes(team) ||
+                    away.includes(team);
+
+
+                const dateMatch =
+                    matchDateSearch(
+                        matchDate,
+                        date
+                    );
+
+
+                return (
+                    teamMatch &&
+                    dateMatch
                 );
 
-
-            return teamMatch &&
-                   dateMatch;
-
-        });
+            }
+        );
 
 
-    renderHistory(filtered);
+    renderHistory(
+        filtered
+    );
 
 }
 
@@ -801,27 +1185,20 @@ function matchDateSearch(
 ) {
 
     if (!search) {
+
         return true;
+
     }
 
 
-    /*
-      Direct matching:
-      2019
-      2019-07
-      2019-07-09
-    */
+    if (
+        matchDate.includes(search)
+    ) {
 
-    if (matchDate.includes(search)) {
         return true;
+
     }
 
-
-    /*
-      Month name matching:
-      July 2019
-      Jul 2019
-    */
 
     const months = {
 
@@ -868,12 +1245,15 @@ function matchDateSearch(
         search.split(/\s+/);
 
 
-    if (parts.length === 2) {
+    if (
+        parts.length === 2
+    ) {
 
-        let month =
+        const month =
             parts[0];
 
-        let year =
+
+        const year =
             parts[1];
 
 
@@ -903,7 +1283,7 @@ function matchDateSearch(
 
 
 /* =========================
-   SCORECARD
+   HISTORICAL SCORECARD
 ========================= */
 
 async function showScorecard(id) {
@@ -913,6 +1293,7 @@ async function showScorecard(id) {
             "scorecardSection"
         );
 
+
     const container =
         document.getElementById(
             "scorecard"
@@ -920,15 +1301,17 @@ async function showScorecard(id) {
 
 
     const matchId =
-        String(id ?? "")
-        .trim();
+        String(
+            id ?? ""
+        ).trim();
+
+
+    section.classList.remove(
+        "hidden"
+    );
 
 
     if (!matchId) {
-
-        section.classList.remove(
-            "hidden"
-        );
 
         container.innerHTML =
             "<p>❌ Match ID not found.</p>";
@@ -936,11 +1319,6 @@ async function showScorecard(id) {
         return;
 
     }
-
-
-    section.classList.remove(
-        "hidden"
-    );
 
 
     container.innerHTML =
@@ -971,7 +1349,8 @@ async function showScorecard(id) {
             await fetch(
                 url,
                 {
-                    cache: "no-store"
+                    cache:
+                        "no-store"
                 }
             );
 
@@ -990,7 +1369,9 @@ async function showScorecard(id) {
             await response.json();
 
 
-        renderFullScorecard(data);
+        renderFullScorecard(
+            data
+        );
 
 
     } catch (error) {
@@ -1034,7 +1415,7 @@ async function showScorecard(id) {
 
 
 /* =========================
-   RENDER FULL SCORECARD
+   RENDER HISTORICAL SCORECARD
 ========================= */
 
 function renderFullScorecard(data) {
@@ -1066,24 +1447,34 @@ function renderFullScorecard(data) {
 
 
     html += `
+
         <h3>
+
             ${escapeHTML(
                 info.teams
-                    ? JSON.stringify(info.teams)
-                    : "Match Scorecard"
+                ? JSON.stringify(
+                    info.teams
+                )
+                : "Match Scorecard"
             )}
+
         </h3>
+
     `;
 
 
     if (data.meta) {
 
         html += `
+
             <p>
                 ${escapeHTML(
-                    JSON.stringify(data.meta)
+                    JSON.stringify(
+                        data.meta
+                    )
                 )}
             </p>
+
         `;
 
     }
@@ -1094,7 +1485,6 @@ function renderFullScorecard(data) {
             data.innings
         )
     ) {
-
 
         data.innings.forEach(
             (innings, index) => {
@@ -1118,10 +1508,12 @@ function renderFullScorecard(data) {
                 html += `
 
                     <h3>
-                        🏏 ${escapeHTML(team)}
+                        🏏
+                        ${escapeHTML(team)}
                     </h3>
 
                     <p>
+
                         Runs:
                         <b>
                             ${escapeHTML(
@@ -1140,6 +1532,7 @@ function renderFullScorecard(data) {
                             `
                             : ""
                         }
+
                     </p>
 
                 `;
@@ -1308,7 +1701,7 @@ function renderFullScorecard(data) {
 
 
 /* =========================
-   CLOSE SCORECARD
+   CLOSE HISTORICAL SCORECARD
 ========================= */
 
 function closeScorecard() {
@@ -1331,22 +1724,27 @@ function closeScorecard() {
 function escapeHTML(value) {
 
     return String(value)
+
         .replace(
             /&/g,
             "&amp;"
         )
+
         .replace(
             /</g,
             "&lt;"
         )
+
         .replace(
             />/g,
             "&gt;"
         )
+
         .replace(
             /"/g,
             "&quot;"
         )
+
         .replace(
             /'/g,
             "&#039;"
@@ -1391,9 +1789,11 @@ document
                 "teamSearch"
             ).value = "";
 
+
             document.getElementById(
                 "dateSearch"
             ).value = "";
+
 
             renderHistory(
                 matchHistory.slice(
@@ -1423,6 +1823,16 @@ document
     .addEventListener(
         "click",
         closeScorecard
+    );
+
+
+document
+    .getElementById(
+        "closeLiveScoreboardButton"
+    )
+    .addEventListener(
+        "click",
+        closeLiveScoreboard
     );
 
 
@@ -1475,7 +1885,7 @@ loadLiveScores();
 loadMatchHistory();
 
 
-/* Refresh every 60 seconds */
+/* Refresh live matches */
 
 setInterval(
     loadLiveScores,
