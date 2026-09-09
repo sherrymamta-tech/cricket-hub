@@ -396,6 +396,8 @@ SportScore
 
 <script>
 
+<script>
+
 /* =========================================
    LIVE SCORES
 ========================================= */
@@ -446,13 +448,9 @@ async function loadLiveScores() {
 
         status.innerHTML = `
         <div class="error">
-
         ❌ Couldn't load live scores.
-
         <br><br>
-
         Try the Refresh button.
-
         </div>
         `;
 
@@ -523,23 +521,23 @@ function renderLiveMatches(list) {
         </div>
 
         <div class="team">
-        ${home}
+        ${escapeHTML(home)}
         </div>
 
         <div class="score">
-        ${homeScore}
+        ${escapeHTML(homeScore)}
         </div>
 
         <div class="team">
-        ${away}
+        ${escapeHTML(away)}
         </div>
 
         <div class="score">
-        ${awayScore}
+        ${escapeHTML(awayScore)}
         </div>
 
         <div class="match-status">
-        ${String(matchStatus).toUpperCase()}
+        ${escapeHTML(String(matchStatus).toUpperCase())}
         </div>
 
         `;
@@ -561,7 +559,7 @@ let historyShown = 6;
 
 
 /* =========================================
-   LOAD MATCH HISTORY FROM JSON
+   LOAD MATCH HISTORY
 ========================================= */
 
 async function loadMatchHistory() {
@@ -572,9 +570,11 @@ async function loadMatchHistory() {
         await fetch("data/matches.json");
 
         if (!response.ok) {
+
             throw new Error(
                 "History database could not be loaded"
             );
+
         }
 
         const data =
@@ -583,12 +583,12 @@ async function loadMatchHistory() {
         matchHistory =
         data.matches || [];
 
-        renderHistory(matchHistory);
-
         console.log(
             "Match history loaded:",
-            matchHistory
+            matchHistory.length
         );
+
+        renderHistory(matchHistory);
 
     }
 
@@ -638,42 +638,53 @@ function renderHistory(list) {
         "match history-card";
 
 
+        const teams =
+        Array.isArray(match.teams)
+        ? match.teams.join(" vs ")
+        : (match.teams || "Unknown Teams");
+
+
+        const score =
+        match.score ||
+        getHistoryScore(match);
+
+
         card.innerHTML = `
 
         <div class="match-title">
-        🏏 ${match.teams || "Unknown Teams"}
+        🏏 ${escapeHTML(teams)}
         </div>
 
         <div class="date">
-        📅 ${match.date || "Unknown Date"}
+        📅 ${escapeHTML(match.date || "Unknown Date")}
         </div>
 
         <div class="score">
-        ${match.score || "-"}
+        ${escapeHTML(score)}
         </div>
 
         <div class="result">
-        🏆 ${match.result || "Result unavailable"}
+        🏆 ${escapeHTML(match.result || "Result unavailable")}
         </div>
 
         <div class="competition">
-        ${match.competition || "Cricket Match"}
+        🏆 ${escapeHTML(match.competition || "Cricket Match")}
         </div>
 
-        ${
-        match.hasScorecard
-        ?
-        `
+        <div class="competition">
+        📍 ${escapeHTML(match.venue || "Venue unavailable")}
+        </div>
+
+        <div class="competition">
+        🏏 ${escapeHTML(match.format || "Format unavailable")}
+        </div>
+
         <button
         class="scorecard-btn"
-        onclick="showScorecard('${match.id}')"
+        onclick="showScorecard('${escapeHTML(match.id)}')"
         >
         📊 View Full Scorecard
         </button>
-        `
-        :
-        ""
-        }
 
         `;
 
@@ -712,6 +723,21 @@ function renderHistory(list) {
 
 
 /* =========================================
+   HISTORY SCORE DISPLAY
+========================================= */
+
+function getHistoryScore(match) {
+
+    if (!match.innings) {
+        return "-";
+    }
+
+    return "-";
+
+}
+
+
+/* =========================================
    LOAD MORE
 ========================================= */
 
@@ -726,35 +752,7 @@ function loadMoreHistory() {
     .trim();
 
     const filteredHistory =
-    matchHistory.filter(match => {
-
-        return (
-
-            (match.teams || "")
-            .toLowerCase()
-            .includes(search)
-
-            ||
-
-            (match.competition || "")
-            .toLowerCase()
-            .includes(search)
-
-            ||
-
-            (match.result || "")
-            .toLowerCase()
-            .includes(search)
-
-            ||
-
-            (match.date || "")
-            .toLowerCase()
-            .includes(search)
-
-        );
-
-    });
+    filterHistory(search);
 
     renderHistory(filteredHistory);
 
@@ -797,11 +795,38 @@ function searchEverything() {
 
 
     const filteredHistory =
-    matchHistory.filter(match => {
+    filterHistory(search);
+
+
+    historyShown = 6;
+
+    renderHistory(filteredHistory);
+
+}
+
+
+/* =========================================
+   HISTORY SEARCH FILTER
+========================================= */
+
+function filterHistory(search) {
+
+    if (!search) {
+        return matchHistory;
+    }
+
+
+    return matchHistory.filter(match => {
+
+        const teams =
+        Array.isArray(match.teams)
+        ? match.teams.join(" ")
+        : (match.teams || "");
+
 
         return (
 
-            (match.teams || "")
+            teams
             .toLowerCase()
             .includes(search)
 
@@ -823,90 +848,30 @@ function searchEverything() {
             .toLowerCase()
             .includes(search)
 
+            ||
+
+            (match.venue || "")
+            .toLowerCase()
+            .includes(search)
+
+            ||
+
+            (match.format || "")
+            .toLowerCase()
+            .includes(search)
+
         );
 
     });
-
-
-    historyShown = 6;
-
-    renderHistory(filteredHistory);
 
 }
 
 
 /* =========================================
-   SCORECARD DATABASE
+   FULL SCORECARD
 ========================================= */
 
-const scorecards = {
-
-    "sl-ind-2nd-test-2026": {
-
-        title:
-        "Sri Lanka vs India — 2nd Test",
-
-        info:
-        "Colombo (SSC) • August 23–27, 2026",
-
-        result:
-        "Match drawn",
-
-        note:
-        "Verified match summary. The full player-by-player scorecard will be loaded from the scorecard database next.",
-
-        innings: [
-
-            {
-                title:
-                "🇮🇳 India — 1st Innings",
-
-                total:
-                "503/9 declared"
-            },
-
-            {
-                title:
-                "🇱🇰 Sri Lanka — 1st Innings",
-
-                total:
-                "290 all out"
-            },
-
-            {
-                title:
-                "🇱🇰 Sri Lanka — 2nd Innings",
-
-                total:
-                "429/9 declared"
-            }
-
-        ]
-
-    }
-
-};
-
-
-/* =========================================
-   SHOW SCORECARD
-========================================= */
-
-function showScorecard(id) {
-
-    const match =
-    scorecards[id];
-
-    if (!match) {
-
-        alert(
-            "Full scorecard data is not available yet."
-        );
-
-        return;
-
-    }
-
+async function showScorecard(id) {
 
     const section =
     document.getElementById("scorecardSection");
@@ -915,47 +880,373 @@ function showScorecard(id) {
     document.getElementById("scorecard");
 
 
+    section.classList.remove("hidden");
+
+    container.innerHTML = `
+    <div class="message">
+    ⏳ Loading full scorecard...
+    </div>
+    `;
+
+
+    section.scrollIntoView({
+        behavior: "smooth"
+    });
+
+
+    try {
+
+        const response =
+        await fetch(
+            "data/scorecards/" +
+            encodeURIComponent(id) +
+            ".json"
+        );
+
+
+        if (!response.ok) {
+
+            throw new Error(
+                "Scorecard not found"
+            );
+
+        }
+
+
+        const match =
+        await response.json();
+
+
+        renderFullScorecard(match);
+
+    }
+
+    catch(error) {
+
+        console.error(error);
+
+        container.innerHTML = `
+        <div class="error">
+        ❌ Couldn't load this scorecard.
+        <br><br>
+        Match ID: ${escapeHTML(id)}
+        </div>
+        `;
+
+    }
+
+}
+
+
+/* =========================================
+   RENDER FULL SCORECARD
+========================================= */
+
+function renderFullScorecard(match) {
+
+    const container =
+    document.getElementById("scorecard");
+
+
+    const teams =
+    Array.isArray(match.teams)
+    ? match.teams.join(" vs ")
+    : match.teams;
+
+
     let html = `
 
     <div class="scorecard-box">
 
-    <h2>
-    🏏 ${match.title}
-    </h2>
+        <h2>
+        🏏 ${escapeHTML(teams || "Cricket Match")}
+        </h2>
 
-    <p>
-    📅 ${match.info}
-    </p>
+        <p>
+        📅 ${escapeHTML(match.date || "Unknown date")}
+        </p>
 
-    <p class="result">
-    🏆 ${match.result}
-    </p>
+        <p>
+        🏏 ${escapeHTML(match.format || "Unknown format")}
+        </p>
 
-    <p>
-    ${match.note}
-    </p>
+        <p>
+        🏆 ${escapeHTML(match.competition || "Cricket")}
+        </p>
+
+        <p>
+        📍 ${escapeHTML(match.venue || "Unknown venue")}
+        </p>
+
+        <p class="result">
+        🏆 ${escapeHTML(match.result || "Result unavailable")}
+        </p>
+
+        ${
+        match.winner
+        ?
+        `
+        <p>
+        🥇 Winner:
+        <strong>
+        ${escapeHTML(match.winner)}
+        </strong>
+        </p>
+        `
+        :
+        ""
+        }
 
     </div>
 
     `;
 
 
-    match.innings.forEach(innings => {
+    if (!match.innings || !match.innings.length) {
+
+        html += `
+        <div class="scorecard-box">
+        <p>No innings data available.</p>
+        </div>
+        `;
+
+        container.innerHTML =
+        html;
+
+        return;
+
+    }
+
+
+    match.innings.forEach((innings, index) => {
+
+        const inningsNumber =
+        index + 1;
+
+        const team =
+        innings.team ||
+        "Team";
+
 
         html += `
 
         <div class="scorecard-box">
 
         <h3>
-        ${innings.title}
+        ${inningsNumber}. ${escapeHTML(team)}
         </h3>
 
         <div class="scorecard-total">
-        ${innings.total}
-        </div>
+        ${innings.runs || 0}
+        ${
+        innings.all_out
+        ? "/all out"
+        : ""
+        }
+
+        ${
+        innings.balls
+        ? `
+        <span style="font-size:14px;font-weight:normal;">
+        (${formatOvers(innings.balls)} overs)
+        </span>
+        `
+        : ""
+        }
 
         </div>
 
+        `;
+
+
+        /* ===============================
+           BATTING
+        =============================== */
+
+        if (
+            innings.batting &&
+            innings.batting.length
+        ) {
+
+            html += `
+
+            <h3>
+            🏏 Batting
+            </h3>
+
+            <table class="scorecard-table">
+
+            <thead>
+
+            <tr>
+            <th>Player</th>
+            <th>R</th>
+            <th>B</th>
+            <th>4s</th>
+            <th>6s</th>
+            <th>SR</th>
+            <th>Status</th>
+            </tr>
+
+            </thead>
+
+            <tbody>
+            `;
+
+
+            innings.batting.forEach(player => {
+
+                html += `
+
+                <tr>
+
+                <td>
+                <strong>
+                ${escapeHTML(player.player || "")}
+                </strong>
+                </td>
+
+                <td>
+                ${player.runs ?? 0}
+                </td>
+
+                <td>
+                ${player.balls ?? 0}
+                </td>
+
+                <td>
+                ${player.fours ?? 0}
+                </td>
+
+                <td>
+                ${player.sixes ?? 0}
+                </td>
+
+                <td>
+                ${player.strike_rate ?? "-"}
+                </td>
+
+                <td>
+                ${
+                player.out
+                ? "Out"
+                : "Not out"
+                }
+                </td>
+
+                </tr>
+
+                `;
+
+            });
+
+
+            html += `
+
+            </tbody>
+
+            </table>
+
+            `;
+
+        }
+
+
+        /* ===============================
+           INNINGS EXTRAS
+        =============================== */
+
+        html += `
+
+        <div class="competition">
+        Extras: ${innings.extras ?? 0}
+        </div>
+
+        `;
+
+
+        /* ===============================
+           BOWLING
+        =============================== */
+
+        if (
+            innings.bowling &&
+            innings.bowling.length
+        ) {
+
+            html += `
+
+            <h3>
+            🎯 Bowling
+            </h3>
+
+            <table class="scorecard-table">
+
+            <thead>
+
+            <tr>
+            <th>Bowler</th>
+            <th>Overs</th>
+            <th>Runs</th>
+            <th>Wickets</th>
+            <th>Economy</th>
+            </tr>
+
+            </thead>
+
+            <tbody>
+
+            `;
+
+
+            innings.bowling.forEach(bowler => {
+
+                html += `
+
+                <tr>
+
+                <td>
+                <strong>
+                ${escapeHTML(bowler.player || "")}
+                </strong>
+                </td>
+
+                <td>
+                ${escapeHTML(bowler.overs ?? "-")}
+                </td>
+
+                <td>
+                ${bowler.runs ?? 0}
+                </td>
+
+                <td>
+                ${bowler.wickets ?? 0}
+                </td>
+
+                <td>
+                ${bowler.economy ?? "-"}
+                </td>
+
+                </tr>
+
+                `;
+
+            });
+
+
+            html += `
+
+            </tbody>
+
+            </table>
+
+            `;
+
+        }
+
+
+        html += `
+        </div>
         `;
 
     });
@@ -964,11 +1255,49 @@ function showScorecard(id) {
     container.innerHTML =
     html;
 
-    section.classList.remove("hidden");
+}
 
-    section.scrollIntoView({
-        behavior: "smooth"
-    });
+
+/* =========================================
+   OVERS CALCULATOR
+========================================= */
+
+function formatOvers(balls) {
+
+    const number =
+    Number(balls);
+
+    if (!Number.isFinite(number)) {
+        return "-";
+    }
+
+    const overs =
+    Math.floor(number / 6);
+
+    const remainingBalls =
+    number % 6;
+
+    return (
+        overs +
+        "." +
+        remainingBalls
+    );
+
+}
+
+
+/* =========================================
+   HTML SAFETY
+========================================= */
+
+function escapeHTML(value) {
+
+    return String(value ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
 
 }
 
@@ -1003,6 +1332,8 @@ setInterval(
     loadLiveScores,
     60000
 );
+
+</script>
 
 </script>
 
