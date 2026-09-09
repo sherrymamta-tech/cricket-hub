@@ -403,9 +403,6 @@ const API =
 "https://sportscore.com/api/widget/matches/?sport=cricket&limit=50";
 
 let liveMatches = [];
-
-
-async function loadLiveScores() {
 async function loadLiveScores() {
 
     const status = document.getElementById("liveStatus");
@@ -1347,8 +1344,6 @@ setInterval(
     loadLiveScores,
     60000
 );
-
-</script>
 
 </script>
 
