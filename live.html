@@ -393,9 +393,6 @@ SportScore
 
 </footer>
 
-
-<script>
-
 <script>
 
 /* =========================================
@@ -409,34 +406,41 @@ let liveMatches = [];
 
 
 async function loadLiveScores() {
+async function loadLiveScores() {
 
-    const status =
-    document.getElementById("liveStatus");
+    const status = document.getElementById("liveStatus");
+    const container = document.getElementById("matches");
 
-    const container =
-    document.getElementById("matches");
+    status.textContent = "⚡ Loading live scores...";
+    
+    // Don't erase existing scores while refreshing
+    // container.innerHTML = "";
 
-    status.textContent =
-    "Loading live scores...";
+    const controller = new AbortController();
 
-    container.innerHTML = "";
+    // Stop waiting after 8 seconds
+    const timeout = setTimeout(() => {
+        controller.abort();
+    }, 8000);
 
     try {
 
-        const response =
-        await fetch(API);
+        const response = await fetch(API, {
+            signal: controller.signal,
+            cache: "no-store"
+        });
+
+        clearTimeout(timeout);
 
         if (!response.ok) {
             throw new Error("API request failed");
         }
 
-        const data =
-        await response.json();
+        const data = await response.json();
 
         console.log("SportScore data:", data);
 
-        liveMatches =
-        data.matches || [];
+        liveMatches = data.matches || [];
 
         renderLiveMatches(liveMatches);
 
@@ -444,19 +448,30 @@ async function loadLiveScores() {
 
     catch(error) {
 
-        console.error(error);
+        clearTimeout(timeout);
+
+        console.error("Live score error:", error);
 
         status.innerHTML = `
         <div class="error">
-        ❌ Couldn't load live scores.
-        <br><br>
-        Try the Refresh button.
+            ❌ Live scores are taking too long to respond.
+            <br><br>
+            Your Match History is still available.
+            <br><br>
+            <button
+                class="refresh-btn"
+                onclick="loadLiveScores()"
+                style="margin:10px auto 0;"
+            >
+                🔄 Try Again
+            </button>
         </div>
         `;
 
     }
 
 }
+    
 
 
 /* =========================================
