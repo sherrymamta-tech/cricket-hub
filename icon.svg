@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#087f23"/>
+
+  <!-- Cricket ball -->
+  <circle cx="256" cy="220" r="105" fill="#ffffff"/>
+
+  <!-- Ball seam -->
+  <path d="M190 145 Q256 220 190 295"
+        fill="none"
+        stroke="#d50000"
+        stroke-width="12"
+        stroke-linecap="round"/>
+
+  <path d="M322 145 Q256 220 322 295"
+        fill="none"
+        stroke="#d50000"
+        stroke-width="12"
+        stroke-linecap="round"/>
+
+  <!-- Cricket bat -->
+  <rect x="235" y="285" width="42" height="145"
+        rx="12"
+        transform="rotate(-25 256 355)"
+        fill="#d99a45"/>
+
+  <rect x="244" y="390" width="24" height="75"
+        rx="8"
+        transform="rotate(-25 256 420)"
+        fill="#8b5a2b"/>
+
+  <!-- Text -->
+  <text x="256" y="475"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="38"
+        font-weight="bold"
+        fill="#ffffff">
+    CRICKET HUB
+  </text>
+</svg>
