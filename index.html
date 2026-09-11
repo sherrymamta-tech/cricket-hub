@@ -367,7 +367,15 @@
 
 
     </section>
-
+<script>
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("sw.js")
+      .then(() => console.log("Cricket Hub service worker registered"))
+      .catch(error => console.error("Service worker failed:", error));
+  });
+}
+</script>
 
 </body>
 
