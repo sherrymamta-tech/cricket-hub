@@ -1,0 +1,21 @@
+{
+  "name": "Cricket Hub",
+  "short_name": "Cricket Hub",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f4fff4",
+  "theme_color": "#087f23",
+  "description": "Cricket Hub - scores, history, scorecards and cricket games",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
