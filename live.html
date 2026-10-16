@@ -863,62 +863,107 @@ let currentFilteredHistory = [];
    LOAD MATCH HISTORY
 ===================================================== */
 
+function normalizeMatchHistory(data){
+    // Always return an array so .filter(), .slice(), and .length work.
+    if(Array.isArray(data)) return data;
+
+    if(!data || typeof data !== "object") return [];
+
+    // Common wrappers used by APIs and generated JSON files.
+    const wrapperKeys = [
+        "matches", "results", "data", "items", "fixtures",
+        "history", "matchHistory", "games"
+    ];
+
+    for(const key of wrapperKeys){
+        if(data[key] !== undefined){
+            const normalized = normalizeMatchHistory(data[key]);
+            if(normalized.length || Array.isArray(data[key])) return normalized;
+        }
+    }
+
+    // Some datasets store matches as an object keyed by match ID.
+    const values = Object.entries(data)
+        .filter(([key, value]) =>
+            value && typeof value === "object" && !Array.isArray(value)
+        )
+        .map(([key, value]) => {
+            const match = { ...value };
+            if(match.id === undefined) match.id = key;
+            return match;
+        });
+
+    // Do not accidentally treat a single raw match as a map of matches.
+    if(data.info || data.innings || data.teams || data.home || data.team1){
+        return [{ ...data, id: data.id ?? data.match_id ?? data.meta?.data_version ?? "match-1" }];
+    }
+
+    return values;
+}
+
+function getMatchTeams(match){
+    const info = match.info || {};
+    const teams = Array.isArray(info.teams) ? info.teams :
+        (Array.isArray(match.teams) ? match.teams : []);
+    return {
+        home: match.home || match.team1 || teams[0] || "Unknown Team",
+        away: match.away || match.team2 || teams[1] || "Unknown Team"
+    };
+}
+
+function getMatchDate(match){
+    const info = match.info || {};
+    const dates = Array.isArray(info.dates) ? info.dates : [];
+    return match.date || match.match_date || match.start_date ||
+        dates[0] || "";
+}
+
+function getMatchCompetition(match){
+    const info = match.info || {};
+    const event = info.event || {};
+    return match.competition || match.tournament || event.name || "";
+}
+
+/* =====================================================
+   LOAD MATCH HISTORY
+===================================================== */
+
 async function loadMatchHistory(){
-
-    const history =
-        document.getElementById(
-            "history"
-        );
-
-    history.innerHTML =
-        "<div class='loading'>Loading match history...</div>";
+    const history = document.getElementById("history");
+    history.innerHTML = "<div class='loading'>Loading match history...</div>";
 
     try{
-
-        const response =
-            await fetch(
-                "data/matches.json",
-                {
-                    cache:"no-store"
-                }
-            );
-
+        const response = await fetch("data/matches.json", { cache:"no-store" });
         if(!response.ok){
-
-            throw new Error(
-                "Could not load matches.json"
-            );
-
+            throw new Error("Could not load matches.json (HTTP " + response.status + ")");
         }
 
-        matchHistory =
-            await response.json();
-        console.log("History data:", matchHistory);
-console.log("History data type:", Array.isArray(matchHistory));
+        const historyData = await response.json();
+        console.log("History raw data:", historyData);
+        console.log("History top-level keys:",
+            historyData && typeof historyData === "object" ? Object.keys(historyData) : []);
 
-        currentFilteredHistory =
-            matchHistory;
-
+        matchHistory = normalizeMatchHistory(historyData);
+        currentFilteredHistory = matchHistory.slice();
         visibleMatches = 50;
 
+        console.log("Normalized history count:", matchHistory.length);
         renderHistory();
-
     }
     catch(error){
-
-        console.error(
-            "History error:",
-            error
-        );
-
+        console.error("History error:", error);
+        matchHistory = [];
+        currentFilteredHistory = [];
         history.innerHTML = `
             <div class="empty">
                 ❌ Could not load match history.
-            </div>
-        `;
-
+                <br><br>
+                Check that <code>data/matches.json</code> exists and contains valid JSON.
+                <br><br>
+                ${escapeHTML(error.message || String(error))}
+            </div>`;
+        document.getElementById("loadMoreButton").style.display = "none";
     }
-
 }
 
 
@@ -1061,69 +1106,21 @@ function matchDateSearch(
 ===================================================== */
 
 function searchEverything(){
+    const team = document.getElementById("teamSearch").value.trim().toLowerCase();
+    const date = document.getElementById("dateSearch").value.trim().toLowerCase();
 
-    const team =
-        document.getElementById(
-            "teamSearch"
-        ).value
-        .trim()
-        .toLowerCase();
-
-    const date =
-        document.getElementById(
-            "dateSearch"
-        ).value
-        .trim()
-        .toLowerCase();
-
-
-    currentFilteredHistory =
-        matchHistory.filter(
-            match => {
-
-                const home =
-                    String(
-                        match.home ||
-                        match.team1 ||
-                        ""
-                    )
-                    .toLowerCase();
-
-                const away =
-                    String(
-                        match.away ||
-                        match.team2 ||
-                        ""
-                    )
-                    .toLowerCase();
-
-
-                const teamMatch =
-                    !team ||
-                    home.includes(team) ||
-                    away.includes(team);
-
-
-                const dateMatch =
-                    matchDateSearch(
-                        match,
-                        date
-                    );
-
-
-                return (
-                    teamMatch &&
-                    dateMatch
-                );
-
-            }
-        );
-
+    const source = Array.isArray(matchHistory) ? matchHistory : [];
+    currentFilteredHistory = source.filter(match => {
+        const teams = getMatchTeams(match);
+        const home = String(teams.home).toLowerCase();
+        const away = String(teams.away).toLowerCase();
+        const teamMatch = !team || home.includes(team) || away.includes(team);
+        const dateMatch = matchDateSearch({ ...match, date: getMatchDate(match) }, date);
+        return teamMatch && dateMatch;
+    });
 
     visibleMatches = 50;
-
     renderHistory();
-
 }
 
 
@@ -1132,158 +1129,55 @@ function searchEverything(){
 ===================================================== */
 
 function renderHistory(){
-
-    const container =
-        document.getElementById(
-            "history"
-        );
-
+    const container = document.getElementById("history");
     container.innerHTML = "";
 
-    const list =
-        currentFilteredHistory
-        .slice(
-            0,
-            visibleMatches
-        );
+    // Defensive conversion prevents the original .slice is not a function error.
+    if(!Array.isArray(currentFilteredHistory)){
+        console.warn("History list was not an array; resetting it.", currentFilteredHistory);
+        currentFilteredHistory = normalizeMatchHistory(currentFilteredHistory);
+    }
 
+    const list = currentFilteredHistory.slice(0, visibleMatches);
 
     if(!list.length){
-
-        container.innerHTML = `
-            <div class="empty">
-                ❌ No matches found.
-            </div>
-        `;
-
+        container.innerHTML = `<div class="empty">❌ No matches found.</div>`;
+        document.getElementById("loadMoreButton").style.display = "none";
         return;
-
     }
 
+    list.forEach((match, index) => {
+        const card = document.createElement("div");
+        card.className = "history-card";
 
-    list.forEach(match => {
-
-        const card =
-            document.createElement(
-                "div"
-            );
-
-        card.className =
-            "history-card";
-
-
-        const home =
-            match.home ||
-            match.team1 ||
-            "Unknown Team";
-
-        const away =
-            match.away ||
-            match.team2 ||
-            "Unknown Team";
-
-        const date =
-            match.date ||
-            match.match_date ||
-            "";
-
-        const competition =
-            match.competition ||
-            match.tournament ||
-            "";
-
+        const teams = getMatchTeams(match);
+        const home = teams.home;
+        const away = teams.away;
+        const date = getMatchDate(match);
+        const competition = getMatchCompetition(match);
 
         card.innerHTML = `
-
-            <h3>
-                ${escapeHTML(home)}
-                vs
-                ${escapeHTML(away)}
-            </h3>
-
-            ${
-                date
-                ?
-                `<p>
-                    📅 ${escapeHTML(
-                        String(date)
-                    )}
-                </p>`
-                :
-                ""
-            }
-
-            ${
-                competition
-                ?
-                `<p>
-                    🏆 ${escapeHTML(
-                        String(competition)
-                    )}
-                </p>`
-                :
-                ""
-            }
-
+            <h3>${escapeHTML(String(home))} vs ${escapeHTML(String(away))}</h3>
+            ${date ? `<p>📅 ${escapeHTML(String(date))}</p>` : ""}
+            ${competition ? `<p>🏆 ${escapeHTML(String(competition))}</p>` : ""}
         `;
 
+        const button = document.createElement("button");
+        button.className = "scorecard-btn";
+        button.textContent = "📊 View Full Scorecard";
 
-        const button =
-            document.createElement(
-                "button"
-            );
+        button.addEventListener("click", () => {
+            const id = match.id ?? match.match_id ?? match.key ?? "";
+            showScorecard(id);
+        });
 
-        button.className =
-            "scorecard-btn";
-
-        button.textContent =
-            "📊 View Full Scorecard";
-
-
-        button.addEventListener(
-            "click",
-            () => {
-
-                showScorecard(
-                    match.id
-                );
-
-            }
-        );
-
-
-        card.appendChild(
-            button
-        );
-
-        container.appendChild(
-            card
-        );
-
+        card.appendChild(button);
+        container.appendChild(card);
     });
 
-
-    const loadMore =
-        document.getElementById(
-            "loadMoreButton"
-        );
-
-    if(
-        visibleMatches >=
-        currentFilteredHistory.length
-    ){
-
-        loadMore.style.display =
-            "none";
-
-    }
-    else{
-
-        loadMore.style.display =
-            "inline-block";
-
-    }
-
+    const loadMore = document.getElementById("loadMoreButton");
+    loadMore.style.display =
+        visibleMatches >= currentFilteredHistory.length ? "none" : "inline-block";
 }
 
 
@@ -1446,308 +1340,107 @@ async function showScorecard(id){
 ===================================================== */
 
 function renderFullScorecard(data){
-
-    const container =
-        document.getElementById(
-            "scorecard"
-        );
-
+    const container = document.getElementById("scorecard");
     container.innerHTML = "";
 
-
-    const info =
-        data.info ||
-        {};
-
-
-    const teams =
-        info.teams ||
-        data.teams ||
-        [];
-
-
-    const dates =
-        info.dates ||
-        data.dates ||
-        [];
-
-
-    const venue =
-        info.venue ||
-        data.venue ||
-        "";
-
-
-    let html = "";
-
-
-    html += `
-        <h3>
-            ${teams.length
-                ? teams
-                    .map(t =>
-                        escapeHTML(
-                            String(t)
-                        )
-                    )
-                    .join(" vs ")
-                : "Cricket Match"
-            }
-        </h3>
-    `;
-
-
-    if(dates.length){
-
-        html += `
-            <p>
-                📅 ${escapeHTML(
-                    String(
-                        dates[0]
-                    )
-                )}
-            </p>
-        `;
-
+    if(!data || typeof data !== "object"){
+        container.innerHTML = `<div class="empty">❌ Scorecard data is not valid.</div>`;
+        return;
     }
 
+    const info = data.info || {};
+    const teams = Array.isArray(info.teams) ? info.teams :
+        (Array.isArray(data.teams) ? data.teams : []);
+    const dates = Array.isArray(info.dates) ? info.dates :
+        (Array.isArray(data.dates) ? data.dates : []);
+    const venue = info.venue || data.venue || "";
+    let html = `<h3>${teams.length ? teams.map(t => escapeHTML(String(t))).join(" vs ") : "Cricket Match"}</h3>`;
 
-    if(venue){
+    if(dates.length) html += `<p>📅 ${escapeHTML(String(dates[0]))}</p>`;
+    if(venue) html += `<p>🏟️ ${escapeHTML(String(venue))}</p>`;
 
-        html += `
-            <p>
-                🏟️ ${escapeHTML(
-                    String(venue)
-                )}
-            </p>
-        `;
+    // Supports the project's simplified scorecard format.
+    if(Array.isArray(data.innings)){
+        data.innings.forEach((inning, index) => {
+            const team = inning.team || (teams[index] || "Innings " + (index + 1));
+            const total = inning.total ?? inning.runs ?? "";
+            const overs = inning.overs ?? "";
+            html += `<div class="innings-title">${escapeHTML(String(team))}${total !== "" ? " — " + escapeHTML(String(total)) : ""}${overs !== "" ? " (" + escapeHTML(String(overs)) + " ov)" : ""}</div>`;
 
+            if(Array.isArray(inning.batting)){
+                html += `<h4>🏏 Batting</h4><table><tr><th>Player</th><th>Runs</th><th>Balls</th></tr>`;
+                inning.batting.forEach(player => {
+                    html += `<tr><td>${escapeHTML(String(player.name || player.player || ""))}</td><td>${escapeHTML(String(player.runs ?? ""))}</td><td>${escapeHTML(String(player.balls ?? ""))}</td></tr>`;
+                });
+                html += `</table>`;
+            }
+
+            if(Array.isArray(inning.bowling)){
+                html += `<h4>🎯 Bowling</h4><table><tr><th>Bowler</th><th>Overs</th><th>Runs</th><th>Wickets</th></tr>`;
+                inning.bowling.forEach(player => {
+                    html += `<tr><td>${escapeHTML(String(player.name || player.player || ""))}</td><td>${escapeHTML(String(player.overs ?? ""))}</td><td>${escapeHTML(String(player.runs ?? ""))}</td><td>${escapeHTML(String(player.wickets ?? ""))}</td></tr>`;
+                });
+                html += `</table>`;
+            }
+
+            // Cricsheet JSON format stores deliveries inside overs[].deliveries[].
+            if(Array.isArray(inning.overs)){
+                const battingStats = {};
+                const bowlingStats = {};
+                let totalRuns = 0, totalWickets = 0, legalBalls = 0;
+
+                inning.overs.forEach(over => {
+                    (over.deliveries || []).forEach(delivery => {
+                        const batter = delivery.batter || "Unknown batter";
+                        const bowler = delivery.bowler || "Unknown bowler";
+                        const batterRuns = Number(delivery.runs?.batter || 0);
+                        const totalDeliveryRuns = Number(delivery.runs?.total || 0);
+                        const extras = delivery.extras || {};
+                        const isWideOrNoBall = Object.prototype.hasOwnProperty.call(extras, "wides") ||
+                            Object.prototype.hasOwnProperty.call(extras, "noballs");
+
+                        totalRuns += totalDeliveryRuns;
+                        if(!isWideOrNoBall) legalBalls++;
+
+                        if(!battingStats[batter]) battingStats[batter] = { runs:0, balls:0, fours:0, sixes:0, out:false };
+                        battingStats[batter].runs += batterRuns;
+                        if(!Object.prototype.hasOwnProperty.call(extras, "wides")) battingStats[batter].balls++;
+                        if(batterRuns === 4) battingStats[batter].fours++;
+                        if(batterRuns === 6) battingStats[batter].sixes++;
+
+                        if(!bowlingStats[bowler]) bowlingStats[bowler] = { balls:0, runs:0, wickets:0 };
+                        bowlingStats[bowler].runs += totalDeliveryRuns - Number(extras.byes || 0) - Number(extras.legbyes || 0) - Number(extras.penalty || 0);
+                        if(!isWideOrNoBall) bowlingStats[bowler].balls++;
+                        (delivery.wickets || []).forEach(wicket => {
+                            if(!["retired hurt", "obstructing the field"].includes(String(wicket.kind || "").toLowerCase())){
+                                totalWickets++;
+                                bowlingStats[bowler].wickets++;
+                            }
+                            if(battingStats[wicket.player_out]) battingStats[wicket.player_out].out = true;
+                        });
+                    });
+                });
+
+                const oversText = Math.floor(legalBalls / 6) + "." + (legalBalls % 6);
+                html += `<p><strong>Total:</strong> ${totalRuns}/${totalWickets} (${oversText} overs)</p>`;
+                html += `<h4>🏏 Batting</h4><table><tr><th>Player</th><th>Runs</th><th>Balls</th><th>4s</th><th>6s</th><th>Status</th></tr>`;
+                Object.entries(battingStats).forEach(([name, stats]) => {
+                    html += `<tr><td>${escapeHTML(name)}</td><td>${stats.runs}</td><td>${stats.balls}</td><td>${stats.fours}</td><td>${stats.sixes}</td><td>${stats.out ? "Out" : "Not out / not dismissed"}</td></tr>`;
+                });
+                html += `</table><h4>🎯 Bowling</h4><table><tr><th>Bowler</th><th>Overs</th><th>Runs</th><th>Wickets</th></tr>`;
+                Object.entries(bowlingStats).forEach(([name, stats]) => {
+                    html += `<tr><td>${escapeHTML(name)}</td><td>${Math.floor(stats.balls / 6) + "." + (stats.balls % 6)}</td><td>${stats.runs}</td><td>${stats.wickets}</td></tr>`;
+                });
+                html += `</table>`;
+            }
+        });
     }
 
+    if(!data.innings || !data.innings.length){
+        html += `<p>This scorecard file does not contain innings data.</p>`;
+    }
 
-    const innings =
-        data.innings ||
-        [];
-
-
-    innings.forEach(
-        (inning, index) => {
-
-            const team =
-                inning.team ||
-                "Innings " +
-                (index + 1);
-
-
-            const total =
-                inning.total ??
-                inning.runs ??
-                "";
-
-
-            const overs =
-                inning.overs ??
-                "";
-
-
-            html += `
-
-                <div class="innings-title">
-
-                    ${escapeHTML(
-                        String(team)
-                    )}
-
-                    ${
-                        total !== ""
-                        ?
-                        " — " +
-                        escapeHTML(
-                            String(total)
-                        )
-                        :
-                        ""
-                    }
-
-                    ${
-                        overs !== ""
-                        ?
-                        " (" +
-                        escapeHTML(
-                            String(overs)
-                        ) +
-                        " ov)"
-                        :
-                        ""
-                    }
-
-                </div>
-
-            `;
-
-
-            if(
-                Array.isArray(
-                    inning.batting
-                )
-            ){
-
-                html += `
-
-                    <h4>
-                        🏏 Batting
-                    </h4>
-
-                    <table>
-
-                        <tr>
-                            <th>Player</th>
-                            <th>Runs</th>
-                            <th>Balls</th>
-                        </tr>
-
-                `;
-
-
-                inning.batting.forEach(
-                    player => {
-
-                        html += `
-
-                            <tr>
-
-                                <td>
-                                    ${escapeHTML(
-                                        String(
-                                            player.name ||
-                                            player.player ||
-                                            ""
-                                        )
-                                    )}
-                                </td>
-
-                                <td>
-                                    ${escapeHTML(
-                                        String(
-                                            player.runs ??
-                                            ""
-                                        )
-                                    )}
-                                </td>
-
-                                <td>
-                                    ${escapeHTML(
-                                        String(
-                                            player.balls ??
-                                            ""
-                                        )
-                                    )}
-                                </td>
-
-                            </tr>
-
-                        `;
-
-                    }
-                );
-
-
-                html += `
-                    </table>
-                `;
-
-            }
-
-
-            if(
-                Array.isArray(
-                    inning.bowling
-                )
-            ){
-
-                html += `
-
-                    <h4>
-                        🎯 Bowling
-                    </h4>
-
-                    <table>
-
-                        <tr>
-                            <th>Bowler</th>
-                            <th>Overs</th>
-                            <th>Runs</th>
-                            <th>Wickets</th>
-                        </tr>
-
-                `;
-
-
-                inning.bowling.forEach(
-                    player => {
-
-                        html += `
-
-                            <tr>
-
-                                <td>
-                                    ${escapeHTML(
-                                        String(
-                                            player.name ||
-                                            player.player ||
-                                            ""
-                                        )
-                                    )}
-                                </td>
-
-                                <td>
-                                    ${escapeHTML(
-                                        String(
-                                            player.overs ??
-                                            ""
-                                        )
-                                    )}
-                                </td>
-
-                                <td>
-                                    ${escapeHTML(
-                                        String(
-                                            player.runs ??
-                                            ""
-                                        )
-                                    )}
-                                </td>
-
-                                <td>
-                                    ${escapeHTML(
-                                        String(
-                                            player.wickets ??
-                                            ""
-                                        )
-                                    )}
-                                </td>
-
-                            </tr>
-
-                        `;
-
-                    }
-                );
-
-
-                html += `
-                    </table>
-                `;
-
-            }
-
-        }
-    );
-
-
-    container.innerHTML =
-        html;
-
+    container.innerHTML = html;
 }
 
 
@@ -1822,7 +1515,7 @@ document
         ).value = "";
 
         currentFilteredHistory =
-            matchHistory;
+            Array.isArray(matchHistory) ? matchHistory.slice() : normalizeMatchHistory(matchHistory);
 
         visibleMatches =
             50;
