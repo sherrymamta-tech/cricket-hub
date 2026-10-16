@@ -1119,7 +1119,8 @@ function searchEverything(){
         return teamMatch && dateMatch;
     });
 
-    visibleMatches = 50;
+    // Show EVERY matching result after a search, not just the first 50.
+    visibleMatches = currentFilteredHistory.length;
     renderHistory();
 }
 
